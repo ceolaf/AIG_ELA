@@ -1,0 +1,32 @@
+Standard:  RL 8.1
+Passage: The Night Circus (MA grade 8 2023 MCAS)
+
+============================================================
+
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 3a (GPT) #1 (temp=0.7). (7.82 secs). (2882 + 498 = 3380 total tokens)
+
+1. Which sentence from the passage best supports the idea that Bailey’s desire to return to the circus influences his decision to accept Caroline’s dare?
+
+A. “He had hoped it would stay long enough for him to age properly into old enough, but it vanished without notice after two weeks, leaving too-young Bailey heartbroken.”  
+
+B. “He wonders if he accepted the dare, in part, to return to the circus sooner.” *  
+
+C. “He did not know what tents to choose out of dozens of options, each with tantalizing signs hinting at the contents.”  
+
+D. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.”  
+
+
+Rationales:
+
+- **A. “He had hoped it would stay long enough for him to age properly into old enough, but it vanished without notice after two weeks, leaving too-young Bailey heartbroken.”**  
+  This shows Bailey was very upset when the circus left and wanted it to stay, but it does not directly connect his *accepting the dare* to his desire to return. It supports that he loved the circus, not that this love influenced his decision about the dare.
+
+- **B. “He wonders if he accepted the dare, in part, to return to the circus sooner.”*  
+  This is the best evidence because it explicitly links Bailey’s decision to accept the dare (“he accepted the dare”) with his motivation to get back to the circus (“to return to the circus sooner”). It directly supports the idea that his desire to return influenced his choice.
+
+- **C. “He did not know what tents to choose out of dozens of options, each with tantalizing signs hinting at the contents.”**  
+  This shows Bailey’s confusion and the variety of choices inside the circus, but it does not address why he accepted the dare or how his desire to return affected that decision.
+
+- **D. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.”**  
+  This supports the idea that Bailey is motivated by curiosity as well as the dare, but it focuses on his feelings once he is already at the fence, not on why he accepted the dare in the first place. It is related but weaker evidence than option B for the specific idea in the question.

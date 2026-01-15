@@ -1,0 +1,39 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 6b (Claude) #2 (temp=0.8)
+
+Here's a different multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In the passage, the narrator states that Dr. Blackwell's approval "recedes in the distance" the more she seeks it. How does this figurative language contribute to the meaning and tone of the passage?
+
+A. It suggests that the narrator needs to work harder and move faster to catch up with Dr. Blackwell's expectations.
+
+*B. It creates a tone of frustration and hopelessness by portraying the narrator's goal as something that becomes more unreachable the harder she tries to achieve it.
+
+C. It shows that Dr. Blackwell is physically moving away from the narrator because she disapproves of her work.
+
+D. It indicates that the narrator is making steady progress toward earning Dr. Blackwell's respect, even though it takes time.
+
+**Rationales:**
+
+**A.** This response interprets the figurative language too literally, focusing on physical movement ("work harder and move faster") rather than recognizing how the metaphor conveys the psychological and emotional reality of the narrator's situation. It misses how the image suggests futility rather than simply needing more effort.
+
+**B. (Key)** This response correctly identifies how the metaphor of something "receding in the distance" creates a vivid image of an unreachable goal that becomes more elusive with pursuit. The figurative language establishes a tone of frustration and growing despair, as it suggests the narrator's efforts are paradoxically counterproductive—the harder she tries, the further away her goal becomes.
+
+**C.** This response completely misses the figurative nature of the language, interpreting "recedes in the distance" as literal physical movement rather than as a metaphor for the narrator's emotional experience of trying unsuccessfully to gain approval.
+
+**D.** This response misreads the figurative language entirely, suggesting progress when the metaphor actually conveys the opposite—that the goal is becoming more distant and difficult to achieve. It fails to recognize the tone of increasing difficulty and frustration that the metaphor creates.
+
+**LBIDAT Evaluation:**
+- Stem & Task: ✓ (Clearly aligned to RL.8.4, focuses on figurative language's contribution to meaning and tone)
+- Key: ✓ (Definitively correct, directly responsive to the question)
+- Distractors: ✓ (All plausible, represent different types of misunderstanding of metaphorical language)
+- Stimulus: ✓ (Requires analysis of specific figurative language in context)
+- Fairness: ✓ (No inappropriate sensitivity topics)
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 15:16:58 ===============

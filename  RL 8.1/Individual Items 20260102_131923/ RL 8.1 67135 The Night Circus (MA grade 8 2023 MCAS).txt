@@ -1,0 +1,28 @@
+Standard:  RL 8.1
+Passage: The Night Circus (MA grade 8 2023 MCAS)
+
+============================================================
+
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 5b (GPT) #1 (temp=0.7). (9.55 secs). (5209 + 374 = 5583 total tokens)
+
+1. Which sentence from the passage best supports the idea that Bailey’s desire to return to the circus is stronger than his fear about sneaking in during the daytime?
+
+A. “It takes Bailey the better part of ten minutes to walk all the way across the field, and the closer he gets, the larger and more intimidating the tents look, and the more his conviction fades.”  
+
+B. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”  
+
+C. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.” *  
+
+D. “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+
+
+**Rationales**
+
+- **Option A:** This shows Bailey’s fear and fading conviction, not that his desire to return is stronger than that fear. It does not most strongly support the idea that his desire outweighs his fear.
+
+- **Option B:** This shows Bailey looking for a way to avoid going in, which emphasizes his hesitation more than his strong desire to return. It does not best support the stated idea.
+
+- **Option C (Key):** This sentence explicitly states that Bailey “does, actually, want to go inside” and clarifies that his motivation is “not just because of the dare but because he is curious.” This most strongly supports the idea that his own strong desire (curiosity and wish to return) is driving him more than fear about trespassing.
+
+- **Option D:** This shows Bailey is thinking about directions and what will count as proof for the dare. It focuses on his concern about fulfilling the dare, not on his inner desire to return being stronger than his fear.

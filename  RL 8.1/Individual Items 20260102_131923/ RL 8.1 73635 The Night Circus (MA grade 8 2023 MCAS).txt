@@ -1,0 +1,30 @@
+Standard:  RL 8.1
+Passage: The Night Circus (MA grade 8 2023 MCAS)
+
+============================================================
+
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 6a (GPT) #2 (temp=0.8). (4.07 secs). (3653 + 397 = 4050 total tokens)
+
+1. Which sentence from the passage best supports the idea that Bailey’s earlier heartbreak over the circus disappearing makes him nervous it might leave again?
+
+A. “He had hoped it would stay long enough for him to age properly into old enough, but it vanished without notice after two weeks, leaving too-young Bailey heartbroken.”*  
+B. “It arrived only a few days ago and is still a novelty.”  
+C. “He wonders if he accepted the dare, in part, to return to the circus sooner.”  
+D. “He ached to go back almost the moment he walked away.”
+
+**Correct Answer: A***
+
+**Rationales:**
+
+- **A. “He had hoped it would stay long enough for him to age properly into old enough, but it vanished without notice after two weeks, leaving too-young Bailey heartbroken.”*  
+  This sentence directly states that the circus vanished suddenly and that Bailey was “heartbroken,” clearly showing how its earlier disappearance affected him. This explicit description best supports the idea that this past heartbreak would make him nervous it might disappear again.**
+
+- **B. “It arrived only a few days ago and is still a novelty.”  
+  This explains that the circus is new and interesting to the town but does not mention Bailey’s earlier heartbreak or any nervousness about it leaving again.**
+
+- **C. “He wonders if he accepted the dare, in part, to return to the circus sooner.”  
+  This shows Bailey’s desire to go back quickly, but it does not connect that desire to his earlier heartbreak or to a fear that the circus might vanish again.**
+
+- **D. “He ached to go back almost the moment he walked away.”  
+  This sentence shows how strongly Bailey wants to return, but it focuses on his longing, not on his earlier heartbreak or his worry that the circus might disappear as it did before.**

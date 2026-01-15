@@ -1,0 +1,173 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 14:40:59 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 3a (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+   “Every day has brought at least one similar scolding. It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+   As it is used in this sentence, what is the most accurate meaning of the word **“recedes”**?
+
+   A. It disappears completely and can never be found again.  
+   B. It moves farther away and becomes harder to reach.*  
+   C. It changes shape into something unfamiliar.  
+   D. It returns to where it started.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option A: It disappears completely and can never be found again.**
+
+- This goes too far. The narrator says the approval “recedes in the distance,” which suggests it is moving away, not vanishing forever.
+- The tone of the passage shows she still hopes to gain Dr. Blackwell’s respect; it has not “disappeared completely.”
+
+**Option B: It moves farther away and becomes harder to reach.***  
+
+- “Recedes” literally means to move back or farther away.
+- The figurative use here compares Dr. Blackwell’s approval to something that keeps slipping farther out of reach the harder the narrator tries.
+- This meaning supports the discouraged, frustrated tone in the paragraph, showing how her goal feels increasingly distant.
+
+**Option C: It changes shape into something unfamiliar.**
+
+- Nothing in the sentence suggests that the approval is changing its form or nature.
+- The phrase “in the distance” signals movement away, not transformation.
+
+**Option D: It returns to where it started.**
+
+- “Recedes” does not mean “returns”; it means to move back from a point, not to go back to an original starting place.
+- The metaphor focuses on distance growing, not on going back to a beginning.
+
+---
+
+**Final Item Version**
+
+1. Read this sentence from the passage:
+
+   “Every day has brought at least one similar scolding. It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+   As it is used in this sentence, what is the most accurate meaning of the word **“recedes”**?
+
+   A. It disappears completely and can never be found again.  
+   B. It moves farther away and becomes harder to reach.*  
+   C. It changes shape into something unfamiliar.  
+   D. It returns to where it started.
+
+
+================= NEW ITEM =================
+Tier 3a (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+   “If I was hoping to find a **motherly figure** in Dr. Blackwell, I was quickly disabused of that notion.”
+
+   What does the phrase **“motherly figure”** suggest about what the narrator expected from Dr. Blackwell?
+
+   A. She expected Dr. Blackwell to act as a gentle guide who would comfort and protect her.*  
+   B. She expected Dr. Blackwell to treat her as an equal colleague and close friend.  
+   C. She expected Dr. Blackwell to ignore her mistakes and let her work independently.  
+   D. She expected Dr. Blackwell to behave in a strict, distant, and unemotional way.
+
+**Correct Answer: A***
+
+---
+
+### Rationales
+
+**Option A: She expected Dr. Blackwell to act as a gentle guide who would comfort and protect her.*  
+- “Motherly” has connotations of warmth, care, patience, and protection.  
+- A “motherly figure” suggests someone who guides, nurtures, and supports.  
+- This fits the narrator’s disappointment: she hoped for gentle support but instead receives public scoldings.
+
+**Option B: She expected Dr. Blackwell to treat her as an equal colleague and close friend.**  
+- “Motherly” does not usually imply equality or friendship; it implies a more experienced person caring for someone younger or less experienced.  
+- The passage emphasizes guidance and approval, not equality.
+
+**Option C: She expected Dr. Blackwell to ignore her mistakes and let her work independently.**  
+- A “motherly” figure would likely correct mistakes, though gently, rather than ignore them.  
+- The narrator’s problem is not that Dr. Blackwell corrects her, but that she does so harshly and publicly.
+
+**Option D: She expected Dr. Blackwell to behave in a strict, distant, and unemotional way.**  
+- These traits are the opposite of the usual connotations of “motherly.”  
+- The sentence shows she is “disabused” of her hope when Dr. Blackwell behaves more strictly than she expected, which means the original expectation was something warmer and more supportive.
+
+---
+
+**Final Item Version**
+
+2. Read this sentence from the passage:
+
+   “If I was hoping to find a **motherly figure** in Dr. Blackwell, I was quickly disabused of that notion.”
+
+   What does the phrase **“motherly figure”** suggest about what the narrator expected from Dr. Blackwell?
+
+   A. She expected Dr. Blackwell to act as a gentle guide who would comfort and protect her.*  
+   B. She expected Dr. Blackwell to treat her as an equal colleague and close friend.  
+   C. She expected Dr. Blackwell to ignore her mistakes and let her work independently.  
+   D. She expected Dr. Blackwell to behave in a strict, distant, and unemotional way.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:44:23 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 3a (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item - RL.8.4**
+
+In the passage, when Diana describes Dr. Blackwell's approval as something that "recedes in the distance," what does this phrase reveal about Diana's emotional state and her relationship with her mentor?
+
+A. It shows that Diana is physically moving farther away from Dr. Blackwell each day.
+
+B. It demonstrates that Diana feels confused about whether she actually wants Dr. Blackwell's approval.
+
+C. *It reveals Diana's growing frustration and sense of hopelessness as her goal seems increasingly unattainable.
+
+D. It indicates that Diana believes Dr. Blackwell is deliberately avoiding her to test her independence.
+
+**Rationales:**
+
+**Option A Rationale:** This response demonstrates a literal interpretation of "recedes in the distance," missing the figurative meaning entirely. A test taker might choose this if they fail to recognize that the phrase is metaphorical rather than describing actual physical distance. The context clearly indicates this is about an emotional/professional relationship, not physical proximity.
+
+**Option B Rationale:** This response misinterprets the connotative meaning of the phrase. While Diana does experience some conflicted feelings about Dr. Blackwell, the phrase "recedes in the distance" suggests something moving away that one is trying to reach, not confusion about wanting it. A test taker might select this if they focus on Diana's mixed emotions about her mentor but miss the specific implication of the chosen metaphor.
+
+**Option C Rationale (KEY):** This response correctly identifies the figurative meaning and emotional impact of the phrase. "Recedes in the distance" creates an image of something desired moving farther away despite one's efforts to reach it, which perfectly captures Diana's mounting frustration and despair. The word choice emphasizes the seemingly impossible nature of gaining Dr. Blackwell's approval, contributing to a tone of discouragement and determination. The phrase suggests both movement away from a goal and the emotional toll of that experience.
+
+**Option D Rationale:** This response incorrectly assumes intentional action on Dr. Blackwell's part and misses the emotional connotations of the phrase. While Dr. Blackwell may indeed be testing Diana, the phrase "recedes in the distance" focuses on Diana's perspective and feelings of the goal becoming more elusive, not on Dr. Blackwell's motivations. A test taker might choose this if they understand the figurative nature but misinterpret who or what is the focus of the metaphor.
+
+
+================= NEW ITEM =================
+Tier 3a (Claude) #2 (temp=0.8)
+
+**Multiple Choice Item - RL.8.4**
+
+When Diana describes feeling "like a child caught sneaking sweets from a jar" after Dr. Blackwell's reprimand, what does this analogy reveal about the tone and Diana's perception of the situation?
+
+A. It suggests that Diana believes she deserves the punishment because she was actually doing something wrong.
+
+B. *It emphasizes Diana's sense of unfair treatment and creates a tone of indignation about being diminished.
+
+C. It shows that Diana has a sweet tooth and often thinks about food when she's nervous.
+
+D. It indicates that Diana wishes she could return to the carefree days of childhood.
+
+**Rationales:**
+
+**Option A Rationale:** This response misses the key word "unjustly" that immediately precedes the analogy. While the comparison does evoke guilt, Diana explicitly states she felt "unjustly reprimanded," which contradicts the idea that she believes she deserves punishment. A test taker might choose this if they focus only on the surface meaning of being "caught" doing something wrong without considering the broader context and Diana's explicit feelings about the fairness of the reprimand.
+
+**Option B Rationale (KEY):** This response correctly identifies how the analogy impacts both tone and meaning. The comparison to a child being caught doing something minor and harmless (sneaking sweets) when Diana was actually performing compassionate patient care creates a tone of indignation and unfairness. The word choice emphasizes how Diana feels diminished and treated like a child rather than a professional, which adds to the emotional weight of her frustration. The analogy highlights the disconnect between her good intentions and how she's being perceived.
+
+**Option C Rationale:** This response takes the analogy completely literally, missing its figurative purpose entirely. The reference to "sweets from a jar" is not meant to indicate Diana's actual thoughts about food, but rather serves as a comparison to illustrate her emotional state. A test taker might choose this if they fail to recognize analogies and focus on literal details rather than the comparative relationship being established.
+
+**Option D Rationale:** This response misinterprets the analogy's purpose and emotional impact. While the comparison does reference childhood, it's not about nostalgia or wanting to return to childhood, but rather about feeling inappropriately treated like a child in a professional setting. The analogy creates frustration, not wistfulness. A test taker might select this if they recognize the childhood connection but miss the negative connotations and the feeling of being unfairly diminished that the analogy conveys.

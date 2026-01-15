@@ -1,0 +1,249 @@
+
+
+========== NEW RUN GPT ==========
+
+
+
+========== NEW ITEM ==========
+
+
+Tier 5b #1 (Temp = 0.7)
+1. In paragraph 4, the narrator says, “It seems that the more I seek her approval, the farther it recedes in the distance.” What is the effect of the phrase “the farther it recedes in the distance” on the meaning and tone of this sentence?
+
+A. It suggests that Dr. Blackwell is literally walking away from the narrator whenever she tries to speak to her.  
+B. It shows that the narrator feels that winning Dr. Blackwell’s approval is becoming less and less achievable for her.*  
+C. It implies that Dr. Blackwell is not actually watching the narrator’s work very closely.  
+D. It indicates that Dr. Blackwell has decided to send the narrator away from the clinic soon.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option B (Key):**  
+The phrase “the farther it recedes in the distance” is figurative language. Approval cannot literally move away; instead, the narrator compares Dr. Blackwell’s approval to something she is chasing but that keeps moving out of reach. This shows that, in her mind, earning approval is becoming harder and harder, which creates a discouraged, doubtful tone. This directly analyzes the figurative meaning and its impact on meaning and tone, as required by RL.8.4.
+
+**Option A (Distractor):**  
+This takes the phrase literally, as if Dr. Blackwell physically moves away. The passage never describes Dr. Blackwell walking away when the narrator seeks approval. This misreads the figurative language and ignores the emotional meaning.
+
+**Option C (Distractor):**  
+If approval were “receding,” it might seem Dr. Blackwell is distant, but the passage clearly states that the narrator feels “self-conscious under her watchful eye,” showing that Dr. Blackwell is very attentive. This option contradicts that detail and does not fit the figurative comparison.
+
+**Option D (Distractor):**  
+The narrator does fear being sent away, but the phrase “the farther it recedes in the distance” does not mean Dr. Blackwell has decided to dismiss her. It describes how approval feels less attainable, not an actual decision that has already been made. This confuses the narrator’s feelings with definite events.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 07:37:48 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 5b (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item**
+
+In the passage, when Diana describes how Dr. Blackwell's approval "recedes in the distance," the author uses this phrase to convey that Diana feels:
+
+A. Dr. Blackwell is physically moving away from her during their interactions.
+
+B. her goal of earning respect is becoming increasingly difficult to achieve.*
+
+C. she needs to improve her eyesight to see Dr. Blackwell more clearly.
+
+D. the medical school is located too far from her living quarters.
+
+---
+
+**Rationales:**
+
+**A. Dr. Blackwell is physically moving away from her during their interactions.**
+This response demonstrates a literal, surface-level reading that misses the figurative meaning entirely. A student selecting this option likely focused only on the denotative meaning of "recedes in the distance" without recognizing that the author is using spatial language metaphorically to describe an emotional and professional dynamic between the characters.
+
+**B. her goal of earning respect is becoming increasingly difficult to achieve.*** 
+This is the correct answer. The phrase "recedes in the distance" uses figurative language to convey Diana's frustration that the harder she tries to gain Dr. Blackwell's approval, the more elusive it becomes. The author deliberately chooses this metaphorical expression to create a tone of discouragement and to emphasize how Diana's efforts seem counterproductive. The connotative meaning suggests something that moves further away as one pursues it, perfectly capturing Diana's emotional state.
+
+**C. she needs to improve her eyesight to see Dr. Blackwell more clearly.**
+This response shows another literal interpretation that completely misses the figurative use of the phrase. Students choosing this option are likely focusing on the denotative meanings of "recedes" and "distance" without understanding how these words function metaphorically in this context to describe an abstract concept rather than a physical situation.
+
+**D. the medical school is located too far from her living quarters.**
+This response also reflects literal thinking about distance and location, missing the figurative meaning entirely. Students selecting this option are not recognizing how the author uses spatial language to describe the emotional and professional relationship between Diana and Dr. Blackwell, instead interpreting the phrase as referring to actual physical distance.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 07:42:46 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 5b (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item**
+
+In the passage, when Diana describes Dr. Blackwell's approval as something that "recedes in the distance," the author uses this phrase to suggest that Diana's goal of earning respect:
+
+A. is physically moving away from her like a distant object
+B. requires her to travel to a location far from the clinic  
+C. becomes harder to achieve the more desperately she pursues it
+D. is something she can see clearly but cannot reach
+
+*Key: C
+
+**Rationales:**
+
+**Option A Rationale:** This response demonstrates a literal, surface-level reading of the metaphor. A student selecting this option likely recognizes that "recedes in the distance" involves movement and distance but fails to understand the figurative meaning. They interpret the phrase as if Dr. Blackwell's approval were literally a physical object moving away, missing the connotative meaning about the psychological and emotional difficulty Diana faces in her pursuit of respect.
+
+**Option B Rationale:** This response shows confusion about the context and metaphor. A student might select this if they misunderstand both the literal situation (Diana is already at the clinic) and the figurative meaning. They may be attempting to create a literal interpretation of "distance" but apply it incorrectly to physical location rather than recognizing the metaphorical use of spatial language to describe an emotional/professional challenge.
+
+***Option C Rationale (CORRECT):** This response demonstrates sophisticated understanding of the figurative language and its impact on meaning and tone. The phrase "recedes in the distance" uses spatial metaphor to convey the psychological reality that Diana's desperate attempts to gain approval are actually counterproductive. The word "recedes" suggests something moving away from her, while "in the distance" implies increasing separation. Together, they create a tone of frustration and futility, showing how Diana's anxiety and over-eagerness make her perform worse, thus making her goal more elusive. This interpretation goes beyond literal meaning to understand how the author's word choice reveals the ironic relationship between Diana's efforts and results.
+
+**Option D Rationale:** This response shows partial understanding of the metaphor by recognizing it's not literal movement, but misses the crucial dynamic aspect of the phrase. A student selecting this option understands that approval is like something visible but unreachable, but fails to grasp the active nature of "recedes"—that the approval is moving further away specifically because of Diana's actions. They miss how the author's word choice emphasizes the worsening situation rather than a static state of unattainability.
+
+
+================= NEW ITEM =================
+Tier 5b (Claude) #2 (temp=0.8)
+
+**Multiple Choice Item**
+
+In the passage, when Diana describes feeling "like a child caught sneaking sweets from a jar" after Dr. Blackwell's reprimand, this comparison reveals that Diana feels:
+
+A. guilty about taking something that doesn't belong to her
+B. embarrassed by being treated as immature and mischievous 
+C. hungry and distracted during her medical duties
+D. nostalgic for the innocence of her childhood
+
+*Key: B
+
+**Rationales:**
+
+**Option A Rationale:** This response shows a literal interpretation of the simile, focusing on the surface action of "sneaking sweets" rather than the emotional experience being conveyed. A student selecting this option likely understands that the comparison involves wrongdoing but misses the figurative meaning about Diana's emotional state. They focus on the literal act of taking sweets rather than recognizing how the author uses this childhood scenario to illuminate Diana's feelings of shame and diminished status in the professional setting.
+
+***Option B Rationale (CORRECT):** This response demonstrates sophisticated understanding of how the author's analogy creates meaning and tone. The comparison to "a child caught sneaking sweets" goes beyond literal meaning to convey Diana's complex emotional experience. The word "child" emphasizes her feeling of being treated as immature and lacking agency, while "caught sneaking" suggests both shame and the sense of being viewed as mischievous rather than competent. The author's choice of this particular childhood scenario—with its connotations of minor wrongdoing and parental disapproval—effectively captures Diana's frustration at being diminished professionally when she believes her actions (comforting a patient) were appropriate. This creates a tone of injustice and wounded dignity.
+
+**Option C Rationale:** This response completely misses the figurative nature of the comparison, treating the simile as if it were literal. A student selecting this option likely focuses on the word "sweets" and misapplies it to Diana's physical state rather than recognizing it as part of a comparison about her emotional experience. They fail to understand that the author is using a childhood scenario metaphorically to convey feelings, not describing Diana's actual hunger or distraction.
+
+**Option D Rationale:** This response shows some recognition that the comparison involves childhood but misinterprets the emotional impact and context. A student might select this if they understand the reference is about childhood experiences but miss the negative connotations of being "caught" doing something wrong. They fail to grasp how the author uses this analogy to show Diana's frustration with her current treatment rather than any positive feelings about the past. The tone created by "caught sneaking" is one of shame and diminishment, not pleasant nostalgia.
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 07:48:29 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 2, model: gemini-2.5-pro
+Please retry in 29.983487011s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 2
+}
+, retry_delay {
+  seconds: 29
+}
+]
+
+
+=============== NEW RUN (Copilot) - 2025-11-19 11:45:42 ===============
+
+
+
+=============== NEW RUN (Copilot) - 2025-11-19 12:27:45 Conversation 97982d71-0bce-4a0f-8e86-e2a4ee498b5e ===============
+
+
+
+
+=============== NEW RUN GPT - 2025-11-19 12:33:29 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 5b (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+> “It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+As it is used in this sentence, what is the best meaning of the word “recedes”?
+
+A. moves farther away and becomes harder to reach*  
+B. becomes less important to the narrator  
+C. disappears completely and forever  
+D. changes into something different
+
+---
+
+**Rationales**
+
+**A. moves farther away and becomes harder to reach* (Correct)**  
+- Literally, “recedes” means to move back or away.  
+- In the sentence, the narrator is talking about Dr. Blackwell’s “approval” as if it were a physical thing she is trying to reach.  
+- Saying it “recedes in the distance” suggests that the more she tries to earn approval, the more unreachable it feels. This figurative use shows her growing frustration and a tone of discouragement.
+
+**B. becomes less important to the narrator**  
+- “Recedes” here does not mean the approval matters less to her; in fact, the passage shows she cares about it very much (“the more I seek her approval”).  
+- This choice misunderstands the metaphor: the approval is not shrinking in importance, it is moving farther out of her reach.
+
+**C. disappears completely and forever**  
+- “Recedes” suggests gradual movement away, not total disappearance.  
+- The narrator’s hopes are threatened, but not destroyed; she still believes she might “somehow manage to do better” and gain respect.  
+- This overstates the meaning and ignores the idea of distance in the phrase “in the distance.”
+
+**D. changes into something different**  
+- Nothing in the sentence suggests that the doctor’s approval is changing form or nature.  
+- The focus is on how close or far it feels from the narrator, not on it becoming something else.  
+- This confuses the figurative sense of movement (“recedes”) with an unrelated idea of transformation.
+
+
+================= NEW ITEM =================
+Tier 5b (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+> “If I was hoping to find a **motherly figure** in Dr. Blackwell, I was quickly **disabused** of that notion.”
+
+What does the phrase “disabused of that notion” most nearly mean as it is used here?
+
+A. warned that her hope might be dangerous  
+B. forced to give up her mistaken belief*  
+C. gently encouraged to be more patient  
+D. reminded of something she had forgotten  
+
+---
+
+**Rationales**
+
+**A. warned that her hope might be dangerous**  
+- “Disabused” does not mean “warned”; it has to do with correcting a wrong idea, not about danger.  
+- The sentence focuses on the narrator’s expectations about Dr. Blackwell, not on being in any kind of physical or emotional danger.
+
+**B. forced to give up her mistaken belief* (Correct)**  
+- “Disabused” means to free someone from a false or misleading idea.  
+- The narrator hoped Dr. Blackwell would be “a motherly figure,” but Dr. Blackwell instead reprimands her “in front of all the other students, nurses, and patients.”  
+- This experience shows the narrator that her hope was inaccurate, so she is “disabused” — made to abandon that wrong notion.  
+- The phrase adds to the disappointed tone by showing how sharply her expectations are corrected.
+
+**C. gently encouraged to be more patient**  
+- There is nothing gentle in Dr. Blackwell’s behavior; she “thought nothing of reprimanding” the narrator publicly.  
+- This choice ignores the corrective meaning of “disabused” and softens the tone in a way that does not match the passage.
+
+**D. reminded of something she had forgotten**  
+- Being “disabused” is not about remembering something; it is about realizing a belief was wrong.  
+- The narrator is not recalling an old idea; she is learning that her current expectation—a “motherly figure”—does not match reality.
+
+=============== NEW RUN (Copilot) - 2025-11-19 12:51:17 Conversation 59897716-88e8-4d71-82e6-ee00ae24a7e0 ===============
+

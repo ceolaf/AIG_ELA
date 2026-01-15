@@ -1,0 +1,51 @@
+I need a python program to go into a folder full of results in text files and break them apart into separate files. 
+
+1) It needs ask the user for a folder in the current directory in which to find the results.
+* This folder has in the folder whose contents needs to be broken up. 
+* The folder name must match the pattern: pattern = re.compile(r"^ ?R[LI][ .]?(?:\d|9-10|11-12)\.\d+$", re.IGNORECASE)
+
+2) The results text files are in a "Results" folder in the selected folder.
+* they could be in any folder whose name starts "result" or "Result" or "RESULT."
+* if there is only one, it should just display the name and say it is using it
+* if there is more than one match, it should list them for the user to choose from
+
+3) It should create a new folder called "Individual Items [date and time stamp]". That is where all the file output goes.
+
+4) The source files (i.e., results files) have everything in them. They list automatically generated items, with various metadata as well.
+* Each item's individual text file will end up with a filename made up of various pieces of meta-data
+* Each item's metadata will be stored in a single csv file. This spreadsheet logs all the items.
+
+5) Items in the results files 
+* are separated with lines like "================= NEW ITEM ================="
+- The number of "=" might differ
+* there is usually a line like "Tier 7b (Gemini) #2 (temp=0.8)"
+- this data goes in the csv for the item
+--- Tier: from 2a all the way up to 7b
+--- The LLM that generated, in parentheses.
+--- the iteration number
+--- the temperature, in parentheses. 
+* For some items, it lists even more. "Tier 7b (GPT) #1 (temp=0.7). (6.44 secs). (5352 + 448 = 5800 total tokens)" That adds:
+- the elapsed time to generated the item
+- the input tokens 
+- the output tokens
+- the total tokens
+* all of that data gets stored in the CSV.
+
+6) Each item file output in the new "individual items" folder needs a unique name
+* "[Standard] [Random number] [passage].txt"
+* "[standard]" is the name of the original folder selected by the user, that matched that RE pattern.
+* [random number] is a 5 digit random number generated for the items, which was not already being used when the output file for that item was generated
+* "[passage]", if it exists, should be found in the input from which the item was taken. There might be a line after the "==== new item === line" like, "Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt"
+-- that lists the work "passage:", the standard, and then the rest of that line (up to .txt) is the name of the passage. 
+
+7) The individual item text files should first list the standard and the passage, before listing the item.
+
+8) The individual item text files should include whatever is in the input files for the item. That includes rationales, formatting, revisions, whatever. That is, most of the contents of each file are simply whatever was already there, and all of of what was already there. 
+
+10) While running, the script should display to screen the line from the csv log file it has just figured out.
+
+11) When done, the script should list how many items it processed. 
+7) here are a set of files that will need to be processed by the script. 
+
+Do you understand what I am asking you to do? Call you say it back to me as you understand it? 
+

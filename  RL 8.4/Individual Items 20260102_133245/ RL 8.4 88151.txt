@@ -1,0 +1,34 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 5b (Claude) #2 (temp=0.8)
+
+**Multiple Choice Item**
+
+In the passage, when Diana describes feeling "like a child caught sneaking sweets from a jar" after Dr. Blackwell's reprimand, this comparison reveals that Diana feels:
+
+A. hungry and distracted by thoughts of food during work
+B. tempted to take medical supplies that don't belong to her
+*C. guilty and ashamed despite believing her actions were justified
+D. nostalgic for the simpler times of her childhood
+
+**Rationales:**
+
+**Option A Rationale:** This response demonstrates a literal interpretation of the simile, focusing on the denotative meanings of "child" and "sweets" rather than the figurative comparison. Students selecting this option miss the metaphorical nature of the comparison and instead interpret it as Diana literally thinking about food. They fail to recognize that the simile is used to convey an emotional state rather than describe actual hunger or distraction.
+
+**Option B Rationale:** This response shows partial understanding that the comparison involves wrongdoing, but misapplies it literally to the medical setting. Students choosing this option recognize that "sneaking" and "caught" suggest inappropriate behavior, but they interpret this concretely rather than figuratively. They miss that Diana believes her actions (comforting the patient) were appropriate, and the simile describes her emotional response to being treated as if she did something wrong.
+
+***Option C Rationale (CORRECT):** This response demonstrates full understanding of the simile's figurative meaning and connotative impact. The comparison to a child caught sneaking sweets captures the specific emotional experience of feeling guilty and ashamed when reprimanded, even though Diana believes her comforting words to the patient were justified and appropriate. Students selecting this option recognize that the simile conveys Diana's sense of being unfairly treated like a misbehaving child, which creates tension between her professional judgment and her subordinate position.
+
+**Option D Rationale:** This response recognizes the reference to childhood but misinterprets the emotional tone and purpose of the simile. Students choosing this option may understand that childhood is being referenced figuratively, but they miss the negative connotations of being "caught" doing something wrong. They focus on childhood as a time period rather than understanding how the specific scenario (being caught misbehaving) creates feelings of shame and injustice in the adult Diana.
+
+**LBIDAT Analysis:**
+- **Stem & Task: ✓** - Directly targets RL.8.4 by asking students to analyze a simile's figurative meaning and emotional impact
+- **Key: ✓** - Definitively correct and requires understanding of connotative meaning beyond literal interpretation
+- **Distractors: ✓** - Each represents different levels of misunderstanding of the figurative language
+- **Stimulus: ✓** - Item requires analysis of the specific simile in context to understand Diana's emotional state
+- **Fairness: ✓** - No inappropriate sensitivity issues
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 15:14:54 ===============

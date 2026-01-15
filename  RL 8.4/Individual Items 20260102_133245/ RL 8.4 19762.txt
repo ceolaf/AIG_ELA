@@ -1,0 +1,35 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 2b (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+> “If I was hoping to find a **motherly figure** in Dr. Blackwell, I was quickly disabused of that notion.”
+
+What is the effect of the phrase “motherly figure” on the tone of this sentence?
+
+A. It makes the tone humorous by suggesting Diana expected Dr. Blackwell to joke with her.  
+B. It makes the tone bitter by showing that Diana now dislikes Dr. Blackwell.  
+C. It makes the tone wistful by revealing Diana’s desire for warmth and gentle support.*  
+D. It makes the tone fearful by suggesting that Diana is afraid of older women.  
+
+**Correct Answer: C. It makes the tone wistful by revealing Diana’s desire for warmth and gentle support.*  
+
+**Rationales**
+
+- **A. It makes the tone humorous by suggesting Diana expected Dr. Blackwell to joke with her.**  
+  Incorrect. “Motherly” suggests kindness, guidance, and protection, not joking. Nothing in the sentence indicates humor; instead, it shows disappointment.
+
+- **B. It makes the tone bitter by showing that Diana now dislikes Dr. Blackwell.**  
+  Incorrect. The narrator does not say she dislikes Dr. Blackwell; she is disappointed that Dr. Blackwell is not as gentle as she hoped. The tone is more sad and reflective than angry or bitter.
+
+- **C. It makes the tone wistful by revealing Diana’s desire for warmth and gentle support.*  
+  Correct. Calling Dr. Blackwell a hoped-for “motherly figure” shows that Diana longed for nurturing guidance, and the phrase “I was quickly disabused of that notion” shows that this hope was not fulfilled. This combination creates a wistful, regretful tone.
+
+- **D. It makes the tone fearful by suggesting that Diana is afraid of older women.**  
+  Incorrect. The sentence does not express fear of older women; instead, it focuses on what Diana hoped Dr. Blackwell would be like emotionally (caring and supportive) and the disappointment when she is not.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:43:51 ===============

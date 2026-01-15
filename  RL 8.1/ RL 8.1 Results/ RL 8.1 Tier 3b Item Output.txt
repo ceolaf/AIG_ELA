@@ -1,0 +1,96 @@
+
+
+
+=============== NEW RUN GPT - 2025-12-30 13:03:37 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 3b (GPT) #1 (temp=0.7). (6.10 secs). (5034 + 529 = 5563 total tokens)
+
+1. Which quotation from the passage best supports the idea that Bailey feels a powerful pull to return to the circus, beyond just wanting to complete the dare?
+
+A. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”  
+
+B. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious. Dreadfully, hopelessly curious. And beyond proving himself to Caroline and her gang, beneath the curiosity, there is that need to return tugging at him.” *  
+
+C. “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+
+D. “He is halfway home when he realizes he never told the girl his name.”  
+
+
+Rationales:
+
+A. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”  
+- This shows Bailey thinking about how to complete the dare without entering the circus. It emphasizes his hesitation and desire to avoid going in, not a strong inner pull to return. It does not best support the idea that he feels a powerful need to go back to the circus.
+
+B. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious. Dreadfully, hopelessly curious. And beyond proving himself to Caroline and her gang, beneath the curiosity, there is that need to return tugging at him.” *  
+- This directly and explicitly states that Bailey wants to go inside for reasons beyond the dare. It names his “dreadfully, hopelessly” strong curiosity and clearly describes “that need to return tugging at him.” This quotation most strongly supports the idea that Bailey feels a powerful pull to return to the circus.
+
+C. “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+- This focuses on Bailey’s concern about how to complete the dare, not on his emotional need to return to the circus. It shows him planning, not feeling a powerful inner pull to go back.
+
+D. “He is halfway home when he realizes he never told the girl his name.”  
+- This detail suggests Bailey is still thinking about the girl and the encounter, but it does not clearly connect to a strong desire to return to the circus itself. It is too indirect to be the best evidence for the idea that he feels a powerful pull to go back.
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 3b (GPT) #2 (temp=0.8). (5.61 secs). (5574 + 464 = 6038 total tokens)
+
+2. Which quotation from the passage best supports the inference that the circus has a mysterious, almost impossible way of traveling from place to place?
+
+A. “None of the pathways ended, they curved into others or circled back to the courtyard.”  
+
+B. “The tents look surprisingly old and worn in the light, and he wonders how long the circus has been traveling, and where it goes when it leaves.”  
+
+C. “He thinks there must be a circus train, though there is not one at the nearest station, and as far as he can tell, no one ever sees such a train come or go.” *  
+
+D. “The afternoon sun casts long shadows across the tents, stretching over the dry ground.”  
+
+
+Rationales:
+
+A. “None of the pathways ended, they curved into others or circled back to the courtyard.”  
+- This suggests the circus grounds are maze-like and confusing, but it says nothing about how the circus itself travels from place to place. It does not support the inference that its movement is mysterious or impossible.
+
+B. “The tents look surprisingly old and worn in the light, and he wonders how long the circus has been traveling, and where it goes when it leaves.”  
+- This shows Bailey wondering about the circus’s history and destinations, but it does not clearly suggest anything impossible or magical about how it travels. It raises questions without giving evidence that its movement is mysterious in a supernatural way.
+
+C. “He thinks there must be a circus train, though there is not one at the nearest station, and as far as he can tell, no one ever sees such a train come or go.” *  
+- This directly supports the inference that the circus’s travel is mysterious and seemingly impossible. Bailey assumes a normal explanation (a train) but observes that no one ever sees it arrive or leave, implying that the circus moves in a way that defies ordinary explanation. This is the strongest support for the inference.
+
+D. “The afternoon sun casts long shadows across the tents, stretching over the dry ground.”  
+- This is descriptive imagery about light and shadow. It does not relate to how the circus travels or suggest anything about its mysterious arrival or departure, so it does not support the given inference.
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 3b (GPT) #3 (temp=0.8). (3.91 secs). (6049 + 385 = 6434 total tokens)
+
+3. Which quotation from the passage best supports the inference that Bailey finds it difficult to describe the circus experience to other people?
+
+A. “He did not know what tents to choose out of dozens of options, each with tantalizing signs hinting at the contents.”  
+
+B. “He could not properly describe it afterward. He could only nod when his mother asked if he had enjoyed himself.” *  
+
+C. “He wonders which way he should go, and what might count as proof for his dare.”  
+
+D. “Bailey stands there for a long while before he walks back across the field.”  
+
+
+Rationales:
+
+A. “He did not know what tents to choose out of dozens of options, each with tantalizing signs hinting at the contents.”  
+- This shows Bailey’s uncertainty about which tents to visit, not his difficulty in talking about the circus later. It does not address describing the experience to others.
+
+B. “He could not properly describe it afterward. He could only nod when his mother asked if he had enjoyed himself.” *  
+- This directly states that Bailey “could not properly describe” the circus and shows that he only nods instead of explaining. It is explicit evidence that he finds it hard to describe the experience, making it the strongest support for the inference.
+
+C. “He wonders which way he should go, and what might count as proof for his dare.”  
+- This focuses on Bailey planning what to do inside the circus and what he can bring back as proof. It does not show any struggle to explain his experience to someone else.
+
+D. “Bailey stands there for a long while before he walks back across the field.”  
+- This suggests Bailey is thinking or reflecting, but it does not specifically concern describing the circus to other people. It is too vague to be strong evidence for the given inference.

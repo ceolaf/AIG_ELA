@@ -1,0 +1,202 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 14:41:42 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 5a (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+> “Every day has brought at least one similar scolding. **It seems that the more I seek her approval, the farther it recedes in the distance.**”
+
+What is the most accurate meaning of the phrase “the farther it recedes in the distance” as it is used in this sentence?
+
+A. Her chances of earning Dr. Blackwell’s approval are slowly improving.  
+B. Her desire for Dr. Blackwell’s approval is becoming less important to her.  
+*C. Gaining Dr. Blackwell’s approval feels less and less possible the harder she tries.*  
+D. Dr. Blackwell is becoming physically more distant from her each day.
+
+---
+
+### Rationales
+
+**Option C (Correct):**  
+- The “it” refers to “her approval.”  
+- “Recedes in the distance” is figurative language that suggests something moving farther away and becoming harder to reach.  
+- In context, the narrator explains that she keeps getting scolded and feels she “can do nothing right,” so Dr. Blackwell’s approval seems less attainable the more she tries to earn it.
+
+**Option A (Distractor):**  
+- Says her chances are “improving,” which is the opposite of something “reced[ing] in the distance.”  
+- Ignores the negative context of repeated scoldings and self-doubt.
+
+**Option B (Distractor):**  
+- Misreads the phrase as describing her feelings about approval rather than how attainable it is.  
+- The passage shows she still strongly wants approval; she worries she will be sent away and that this would “extinguish my hopes,” so her desire is not fading.
+
+**Option D (Distractor):**  
+- Takes the phrase literally, as if Dr. Blackwell is physically moving away.  
+- The sentence is about approval, not physical distance, so this misinterprets the figurative language.
+
+
+================= NEW ITEM =================
+Tier 5a (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+> “It seems that the more I seek her approval, the farther it recedes in the distance.”
+
+How does the author’s use of the word **“recedes”** most affect the tone of this sentence?
+
+A. It creates a hopeful tone by suggesting that approval is slowly approaching.  
+B. It creates a frustrated tone by suggesting that approval keeps slipping away from her. *  
+C. It creates a calm tone by suggesting that approval is resting in one place.  
+D. It creates a playful tone by suggesting that approval is teasing her like a game.
+
+---
+
+### Rationales
+
+**Option B (Correct):**  
+- “Recedes” means to move back or away.  
+- In context, the narrator is repeatedly scolded and feels she “can do nothing right,” so using “recedes” makes Dr. Blackwell’s approval feel like something that keeps moving farther out of reach.  
+- This contributes to a frustrated, discouraged tone.
+
+**Option A (Distractor):**  
+- “Recedes” suggests moving away, not “approaching.”  
+- This directly contradicts the image in the sentence and ignores the negative context of her failures.
+
+**Option C (Distractor):**  
+- A “calm” tone would fit a neutral or stable image, but “recedes” implies ongoing loss or retreat.  
+- The narrator is anxious about being sent away, not calm.
+
+**Option D (Distractor):**  
+- Nothing in the passage suggests a playful or joking situation.  
+- The comparison to approval moving away is serious and discouraging, not lighthearted “teasing.”
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:46:16 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 5a (Claude) #1 (temp=0.7)
+
+**Item:**
+
+In the passage, the narrator describes feeling "like a child caught sneaking sweets from a jar" after being reprimanded by Dr. Blackwell. What does this comparison reveal about the narrator's emotional state?
+
+A. She feels guilty about taking something that doesn't belong to her.
+
+B. She feels embarrassed about being caught doing something she knew was wrong.
+
+*C. She feels unfairly shamed and treated as immature despite her good intentions.
+
+D. She feels hungry and distracted by thoughts of food during work.
+
+**Rationales:**
+
+**Option A:** This response focuses only on the literal elements of the comparison (taking something that doesn't belong) without recognizing how the simile functions in context. The narrator isn't actually taking anything; she was speaking kindly to a patient. A student selecting this option likely missed the figurative nature of the comparison and how it relates to the narrator's actual situation.
+
+**Option C (Key):** This response correctly identifies the connotative meaning of the comparison. The simile reveals the narrator's feeling of being unjustly treated—she was doing something she believed was right (comforting a frightened patient) but was made to feel ashamed, much like a child who might be scolded even when their intentions were innocent. The comparison emphasizes her sense of being treated as immature and her frustration with the unfairness of the reprimand, which aligns with her earlier statement that she felt "unjustly reprimanded."
+
+**Option B:** This response partially understands the comparison but misses the crucial element of injustice that the narrator feels. While the comparison does involve embarrassment, the narrator explicitly states she felt "unjustly reprimanded," indicating she doesn't believe she was doing something wrong. A student choosing this option recognizes some figurative meaning but doesn't fully grasp how the author uses this simile to convey the narrator's sense of unfair treatment.
+
+**Option D:** This response completely misses the figurative nature of the comparison and focuses on an irrelevant literal interpretation. The "sweets" in the simile are not meant to suggest actual hunger or food, but rather represent the universal childhood experience of being caught and scolded. A student selecting this option likely struggles with recognizing figurative language and its purpose in conveying emotional states.
+
+
+================= NEW ITEM =================
+Tier 5a (Claude) #2 (temp=0.8)
+
+**Item:**
+
+In the passage, the narrator states that Dr. Blackwell's approval "recedes in the distance" the more she seeks it. What does this phrase suggest about the narrator's struggle?
+
+A. Dr. Blackwell is physically moving farther away from the narrator during their interactions.
+
+B. The narrator needs to get eyeglasses because she cannot see Dr. Blackwell clearly.
+
+*C. The narrator's efforts to impress Dr. Blackwell seem to make success feel increasingly unattainable.
+
+D. Dr. Blackwell is planning to move her office to a location farther from the narrator's workspace.
+
+**Rationales:**
+
+**Option A:** This response interprets the phrase literally, focusing on physical distance rather than recognizing the metaphorical meaning. A student selecting this option likely misses how the author uses spatial imagery to represent an emotional and professional relationship. They fail to understand that "distance" here refers to the gap between the narrator's current performance and her goal of earning approval.
+
+**Option B:** This response also takes a literal approach to the visual imagery in the phrase but misattributes the problem to the narrator's eyesight rather than understanding the figurative meaning. A student choosing this option likely recognizes that "recedes in the distance" involves vision and distance but doesn't grasp how these elements work metaphorically to describe the narrator's frustration with her elusive goal.
+
+**Option C (Key):** This response correctly identifies the figurative meaning of the phrase. The metaphor of something "receding in the distance" suggests that despite the narrator's efforts—or perhaps because of them—her goal of earning Dr. Blackwell's approval seems to become more difficult to achieve. The spatial imagery effectively conveys the narrator's sense of futility and growing desperation as her attempts to succeed appear to backfire, making her objective feel increasingly out of reach.
+
+**Option D:** This response focuses on a literal interpretation involving physical relocation of an office space. A student selecting this option completely misses the metaphorical nature of the language and doesn't recognize how the author uses the concept of distance to represent the emotional and professional gap between the narrator's current standing and her desired relationship with Dr. Blackwell.
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 15:13:47 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 5a (Gemini) #1 (temp=0.7)
+
+Here is a multiple-choice item written to the specifications provided, aligned to CCSS RL.8.4.
+
+***
+
+Read the sentence from paragraph 9.
+
+"Once again, I felt unjustly reprimanded, like a child caught sneaking sweets from a jar."
+
+What does the simile "like a child caught sneaking sweets from a jar" reveal about Diana's feelings in this moment?
+
+A. It suggests she feels belittled and that the reprimand is too severe for her minor action. *
+B. It implies that she is remembering a specific event from her own childhood.
+C. It shows that she feels guilty because she knows her conversation was a serious distraction.
+D. It emphasizes her constant fear that she will never earn Dr. Blackwell's approval.
+
+***
+
+### **Rationales**
+
+**A. (Correct Answer)** This option correctly interprets the connotative meaning of the simile. A child "sneaking sweets" is committing a very minor offense. By comparing her situation to this, Diana implies that her action—speaking soothingly to a patient—was also minor and did not warrant a sharp scolding. The comparison to a "child" also highlights her feeling of being treated in a condescending or belittling manner, which is reinforced by the text stating she felt "unjustly reprimanded." This analysis requires the student to understand how the figurative language impacts the tone and meaning of the sentence.
+
+**B. (Distractor)** This option represents a literal misinterpretation of the simile. Figurative language creates a comparison to explain a current feeling or situation; it does not necessarily mean the narrator is literally recalling a past event. The text provides no evidence that Diana is thinking about her actual childhood. This distractor targets students who may not understand the function of a simile.
+
+**C. (Distractor)** This option misinterprets the central idea conveyed by the simile and directly contradicts the text. The text explicitly states Diana felt "unjustly reprimanded," indicating she does not believe the punishment fits the crime. The simile reinforces this by comparing her action to something trivial ("sneaking sweets"), not a "serious distraction." Students who choose this option may recognize the feeling of being caught but fail to analyze the nuance of injustice conveyed by the specific words chosen.
+
+**D. (Distractor)** This option presents a feeling that is true for the character in the broader context of the passage but is not the specific meaning of this particular simile. Diana does worry about gaining Dr. Blackwell's approval and being sent away (as seen in paragraph 5). However, the simile in paragraph 9 is specifically about the feeling of injustice and embarrassment in that single moment. This is a challenging distractor that requires students to focus precisely on the impact of the specific word choice cited in the question rather than on the character's general emotional state.
+
+
+================= NEW ITEM =================
+Tier 5a (Gemini) #2 (temp=0.8)
+
+Here is another unique multiple-choice item written to the specifications provided, aligned to CCSS RL.8.4.
+
+***
+
+Read this sentence from paragraph 5.
+
+"That would extinguish my hopes, for the Women’s Medical College that Dr. Blackwell has founded here at the New York Infirmary for Indigent Women and Children is the only institution of its kind."
+
+How does the author's use of the word "extinguish" impact the tone of the paragraph?
+
+A. It creates a despairing tone by suggesting Diana's hopes could be completely and permanently destroyed. *
+B. It establishes a cautious tone by implying Diana’s hopes could be temporarily set aside.
+C. It builds a frustrated tone by showing that Diana feels her hopes have been unfairly taken from her.
+D. It develops a reflective tone by indicating Diana is reconsidering whether her hopes are realistic.
+
+***
+
+### **Rationales**
+
+**A. (Correct Answer)** This option accurately analyzes the connotative meaning of "extinguish." The word literally means to put out a fire, which implies a complete and final end. By using this metaphor, the author creates a despairing and dramatic tone, emphasizing the finality of the failure Diana fears. It conveys that her hopes would not just be diminished but completely eliminated, which is a powerful and impactful choice. This requires a student to understand how figurative language affects tone.
+
+**B. (Distractor)** This option offers an interpretation that is too weak for the word "extinguish." Words like "delay" or "postpone" would create a cautious tone, but "extinguish" implies a permanent end, not a temporary pause. This distractor targets students who may recognize the negative connotation of the word but fail to grasp its intensity and finality.
+
+**C. (Distractor)** This option focuses on a plausible emotion (frustration) but misinterprets the specific meaning of "extinguish." While Diana might feel frustrated, the word "extinguish" itself does not primarily convey a sense of unfairness. Its main impact is on the totality and permanence of the loss, which leads to a feeling of despair or hopelessness, not just frustration over injustice.
+
+**D. (Distractor)** This option incorrectly interprets the character's state of mind. The word "extinguish" describes a potential future event—the destruction of her hopes if she is sent away. It does not suggest that she is currently reconsidering or reflecting on her goals; rather, it highlights her fear of losing them entirely, which reinforces her determination to succeed. A reflective tone would be created by more contemplative language, not a word as intense as "extinguish."

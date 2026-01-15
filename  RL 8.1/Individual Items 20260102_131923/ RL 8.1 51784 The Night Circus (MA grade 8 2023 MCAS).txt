@@ -1,0 +1,30 @@
+Standard:  RL 8.1
+Passage: The Night Circus (MA grade 8 2023 MCAS)
+
+============================================================
+
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 7a (GPT) #1 (temp=0.7). (4.90 secs). (3200 + 446 = 3646 total tokens)
+
+1. Which sentence from the passage best supports the idea that Bailey still wants to visit the circus for his own reasons, not just because of the dare?
+
+A. “He ached to go back almost the moment he walked away.”  
+B. “He wonders if he accepted the dare, in part, to return to the circus sooner.”*  
+C. “Bailey finds that he does, actually, want to go inside.”  
+D. “And beyond proving himself to Caroline and her gang, beneath the curiosity, there is that need to return tugging at him.”
+
+**Correct Answer: B***
+
+**Rationales:**
+
+- **A. “He ached to go back almost the moment he walked away.”**  
+  This shows that Bailey wanted to return to the circus, but it does not mention the dare or contrast his personal desire with the dare. It supports his longing, not specifically the idea that he wants to visit for his own reasons rather than just the dare.
+
+- **B. “He wonders if he accepted the dare, in part, to return to the circus sooner.”***  
+  This directly connects the dare with Bailey’s personal desire, stating that he may have accepted the dare partly so he could go back. It most clearly supports the idea that his own reasons (wanting to return) are involved, not just the dare itself.
+
+- **C. “Bailey finds that he does, actually, want to go inside.”**  
+  This shows that Bailey wants to enter the circus, but it does not mention the dare or distinguish his own desire from the dare. It supports only that he wants to go in, not that his desire is separate from the dare.
+
+- **D. “And beyond proving himself to Caroline and her gang, beneath the curiosity, there is that need to return tugging at him.”**  
+  This sentence does show that Bailey has a strong personal need to return, beyond the dare. However, option B more explicitly ties his acceptance of the dare to his own desire “to return to the circus sooner,” making B the strongest and most direct support for the idea in the question.

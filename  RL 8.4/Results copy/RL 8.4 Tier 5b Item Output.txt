@@ -1,0 +1,152 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 14:41:50 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 5b (GPT) #1 (temp=0.7)
+
+1. Read the sentence from the passage.
+
+> “It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+As it is used in this sentence, what is the most accurate meaning of the word “recedes”?
+
+A. It becomes less important to her over time.  
+B. It moves farther away from her reach.*  
+C. It completely disappears from her life.  
+D. It changes into something different.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**A. It becomes less important to her over time.**  
+- This choice focuses on importance, not distance.  
+- In the sentence, “farther it recedes in the distance” creates an image of approval moving away, not becoming less important.  
+- A student choosing this may focus on the emotional idea that approval “matters less,” but that is not what the figurative language conveys.
+
+**B. It moves farther away from her reach.*  
+- “Recedes in the distance” is figurative language suggesting that the approval she wants feels like it is moving away from her as she tries to get it.  
+- “Recedes” literally means “moves back” or “withdraws,” and here it describes her approval feeling less attainable.  
+- This option captures both the literal sense (moving back) and the connotative, emotional meaning (harder to achieve).
+
+**C. It completely disappears from her life.**  
+- “Recedes” suggests something is going away or becoming more distant, not instantly vanishing.  
+- Nothing in the passage says Dr. Blackwell’s approval is gone forever; it just feels harder to get.  
+- Students might pick this if they overstate the word’s meaning.
+
+**D. It changes into something different.**  
+- This confuses “recedes” with “transforms” or “evolves.”  
+- In the sentence, approval is still approval; it doesn’t change into something else. It only feels farther away.  
+- This option does not match the image of something “in the distance.”
+
+
+================= NEW ITEM =================
+Tier 5b (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage.
+
+> “If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly **disabused of that notion**.”
+
+What does the phrase “disabused of that notion” most nearly mean as it is used in this sentence?
+
+A. I was gently encouraged to keep believing that idea.  
+B. I was forced to admit that my idea was wrong.*  
+C. I was persuaded to change my idea to a different one.  
+D. I was reminded that my idea was not very important.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**A. I was gently encouraged to keep believing that idea.**  
+- “Disabused” means to correct a false belief, not to support it.  
+- The context shows Dr. Blackwell is strict and publicly reprimands the narrator, which would not encourage the “motherly” idea.  
+- This is the opposite of the sentence’s meaning.
+
+**B. I was forced to admit that my idea was wrong.*  
+- “Disabused of that notion” is an idiomatic phrase meaning someone’s mistaken belief has been taken away.  
+- The narrator expected a “motherly figure,” but Dr. Blackwell’s sharp public scoldings prove that belief false.  
+- This option best matches both the literal meaning of “disabused” and the context of the narrator’s disappointment.
+
+**C. I was persuaded to change my idea to a different one.**  
+- This suggests a neutral change, but “disabused” carries the connotation of being corrected or set straight about a mistaken belief.  
+- Nothing in the sentence suggests a gentle “persuasion” or a simple swap of ideas; it emphasizes that the hope was wrong.
+
+**D. I was reminded that my idea was not very important.**  
+- The phrase does not refer to importance; it refers to accuracy.  
+- The narrator’s hope is clearly important to her; what changes is whether it is realistic.  
+- This misreads the emotional and figurative impact of the phrase.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:46:43 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 5b (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item**
+
+In the passage, when Diana describes Dr. Blackwell's approval as something that "recedes in the distance," the author uses this phrase to suggest that Diana's goal of earning respect:
+
+A. is geographically far away since she lives in a different state
+B. requires her to travel to distant medical schools for training  
+*C. becomes harder to achieve the more desperately she pursues it
+D. will take a long time to accomplish due to her inexperience
+
+**Rationales:**
+
+**Option A Rationale:** This response demonstrates a literal, surface-level interpretation of "recedes in the distance." A student selecting this option likely focuses on the denotative meaning of "distance" as a physical space or location, missing the figurative use of the phrase. They may connect this to the earlier mention of Diana moving to New York, but fail to recognize that the phrase is used metaphorically to describe an emotional/professional relationship rather than geographic proximity.
+
+**Option B Rationale:** Similar to Option A, this response shows literal interpretation of "distance" but attempts to connect it to the medical training context. Students choosing this option recognize the passage is about medical education but misunderstand the figurative language, interpreting "distance" as physical travel requirements rather than the metaphorical description of an increasingly elusive goal.
+
+***Option C Rationale (CORRECT):** This response demonstrates understanding of the figurative meaning of "recedes in the distance." The phrase creates a visual metaphor comparing Dr. Blackwell's approval to something that moves farther away as one tries to approach it. Students selecting this option recognize that Diana's increasingly desperate attempts to gain approval actually make her more nervous and prone to mistakes, thus making her goal paradoxically harder to achieve. This interpretation aligns with the context of Diana's growing anxiety and self-consciousness under Dr. Blackwell's scrutiny.
+
+**Option D Rationale:** This response shows partial understanding that "distance" relates to time/difficulty rather than physical space, but misses the specific connotative meaning in context. Students choosing this option may recognize the figurative use but fail to grasp the ironic relationship the author establishes—that Diana's very efforts to gain approval are what make it more elusive. Instead, they interpret it as a straightforward statement about the time required for skill development.
+
+**LBIDAT Analysis:**
+- **Stem & Task: ✓** - Directly targets RL.8.4 by asking students to analyze figurative language and its impact on meaning
+- **Key: ✓** - Definitively correct and requires understanding of connotative/figurative meaning
+- **Distractors: ✓** - Each represents plausible misinterpretations of the figurative language at different levels
+- **Stimulus: ✓** - Item requires close reading of the specific phrase in context
+- **Fairness: ✓** - No inappropriate sensitivity issues
+
+
+================= NEW ITEM =================
+Tier 5b (Claude) #2 (temp=0.8)
+
+**Multiple Choice Item**
+
+In the passage, when Diana describes feeling "like a child caught sneaking sweets from a jar" after Dr. Blackwell's reprimand, this comparison reveals that Diana feels:
+
+A. hungry and distracted by thoughts of food during work
+B. tempted to take medical supplies that don't belong to her
+*C. guilty and ashamed despite believing her actions were justified
+D. nostalgic for the simpler times of her childhood
+
+**Rationales:**
+
+**Option A Rationale:** This response demonstrates a literal interpretation of the simile, focusing on the denotative meanings of "child" and "sweets" rather than the figurative comparison. Students selecting this option miss the metaphorical nature of the comparison and instead interpret it as Diana literally thinking about food. They fail to recognize that the simile is used to convey an emotional state rather than describe actual hunger or distraction.
+
+**Option B Rationale:** This response shows partial understanding that the comparison involves wrongdoing, but misapplies it literally to the medical setting. Students choosing this option recognize that "sneaking" and "caught" suggest inappropriate behavior, but they interpret this concretely rather than figuratively. They miss that Diana believes her actions (comforting the patient) were appropriate, and the simile describes her emotional response to being treated as if she did something wrong.
+
+***Option C Rationale (CORRECT):** This response demonstrates full understanding of the simile's figurative meaning and connotative impact. The comparison to a child caught sneaking sweets captures the specific emotional experience of feeling guilty and ashamed when reprimanded, even though Diana believes her comforting words to the patient were justified and appropriate. Students selecting this option recognize that the simile conveys Diana's sense of being unfairly treated like a misbehaving child, which creates tension between her professional judgment and her subordinate position.
+
+**Option D Rationale:** This response recognizes the reference to childhood but misinterprets the emotional tone and purpose of the simile. Students choosing this option may understand that childhood is being referenced figuratively, but they miss the negative connotations of being "caught" doing something wrong. They focus on childhood as a time period rather than understanding how the specific scenario (being caught misbehaving) creates feelings of shame and injustice in the adult Diana.
+
+**LBIDAT Analysis:**
+- **Stem & Task: ✓** - Directly targets RL.8.4 by asking students to analyze a simile's figurative meaning and emotional impact
+- **Key: ✓** - Definitively correct and requires understanding of connotative meaning beyond literal interpretation
+- **Distractors: ✓** - Each represents different levels of misunderstanding of the figurative language
+- **Stimulus: ✓** - Item requires analysis of the specific simile in context to understand Diana's emotional state
+- **Fairness: ✓** - No inappropriate sensitivity issues

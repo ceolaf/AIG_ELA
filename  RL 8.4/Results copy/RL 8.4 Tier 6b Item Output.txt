@@ -1,0 +1,157 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 14:42:10 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 6b (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+> “It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+What is the most accurate interpretation of the word “recedes” as it is used in this sentence?
+
+A. It becomes less important to the narrator over time.  
+B. It moves farther away from the narrator, as if she can never quite reach it.*  
+C. It disappears completely from the narrator’s thoughts.  
+D. It is taken away from the narrator by other students.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**A. It becomes less important to the narrator over time.**  
+- Misinterpretation of connotation.  
+- In context, the narrator is obsessed with Dr. Blackwell’s approval; it is not becoming less important. The phrase “the more I seek her approval” shows it is very important to her.
+
+**B. It moves farther away from the narrator, as if she can never quite reach it.*  
+- Correct: interprets the figurative meaning.  
+- “Recedes in the distance” uses spatial language to describe an emotional/psychological experience: the approval feels like a goal that keeps moving away the harder she tries.  
+- This captures both the literal sense of “recede” (to move back or farther away) and the figurative impact on tone (frustration, discouragement).
+
+**C. It disappears completely from the narrator’s thoughts.**  
+- Incorrect because the sentence does not say approval disappears; it says it “recedes,” suggesting it is still there but harder to reach.  
+- The narrator’s continued worry about being sent away shows she is still thinking about it.
+
+**D. It is taken away from the narrator by other students.**  
+- Adds an idea not supported by the text.  
+- Nothing in the passage suggests that other students are “taking” approval from her; the sentence focuses on her own efforts and feelings, not on competition.
+
+
+================= NEW ITEM =================
+Tier 6b (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+> “I long to save lives, find cures for diseases, **make the broken whole again**.”
+
+What is the best interpretation of the phrase “make the broken whole again” as it is used in this sentence?
+
+A. To repair injured bodies and restore people to health.*  
+B. To fix damaged medical tools so they can be reused.  
+C. To reunite families that were separated by the war.  
+D. To rebuild hospitals that were destroyed in battles.
+
+**Correct Answer: A***
+
+---
+
+### Rationales
+
+**A. To repair injured bodies and restore people to health.*  
+- Correct: captures the figurative meaning in context.  
+- “Broken” does not literally mean shattered objects; it refers to people harmed by illness or injury.  
+- “Whole again” suggests restoring them to full health, matching the narrator’s earlier wish to “save lives” and “find cures for diseases.”  
+
+**B. To fix damaged medical tools so they can be reused.**  
+- Plausible if “broken” is read literally, but the surrounding phrases (“save lives,” “find cures for diseases”) focus on patients, not equipment.  
+- Does not fit the figurative, patient-centered tone of the sentence.
+
+**C. To reunite families that were separated by the war.**  
+- Reflects a possible emotional sense of “broken,” but the passage here is specifically about medical work.  
+- The narrator speaks as a nurse/aspiring doctor, so her goal is about health, not family relationships.
+
+**D. To rebuild hospitals that were destroyed in battles.**  
+- Misreads “broken” as buildings.  
+- The sentence lists actions doctors perform on people, not construction projects on places.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:47:44 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 6b (Claude) #1 (temp=0.7)
+
+Here's a multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In the passage, the narrator describes feeling "like a child caught sneaking sweets from a jar" after being reprimanded by Dr. Blackwell. What is the impact of this figurative language on the meaning and tone of the passage?
+
+A. It emphasizes the narrator's guilt and shame, revealing how the reprimand makes her feel diminished and wrongfully accused.
+
+*B. It highlights the narrator's sense of being treated unfairly and feeling small, while also suggesting she views Dr. Blackwell as an authority figure who makes her feel childish and powerless.
+
+C. It shows that the narrator actually was doing something wrong by talking to the patient, similar to how a child breaks rules by taking sweets.
+
+D. It demonstrates that the narrator is immature and unprofessional in her behavior, justifying Dr. Blackwell's harsh treatment.
+
+**Rationales:**
+
+**A.** This response captures part of the meaning (guilt and shame, feeling wrongfully accused) but misses the key element of how the simile reveals the power dynamic and the narrator's sense of being diminished to a childlike state. It focuses too narrowly on the emotional response without recognizing the broader implications for characterization and tone.
+
+**B. (Key)** This response fully captures how the simile works on multiple levels. The comparison to "a child caught sneaking sweets" reveals not only the narrator's feelings of unfair treatment and diminishment, but also establishes the power dynamic where Dr. Blackwell is positioned as the stern adult authority figure. The figurative language emphasizes how the professional relationship makes the narrator feel reduced to a powerless, childlike state, which adds to the tone of frustration and vulnerability throughout the passage.
+
+**C.** This response misinterprets the figurative language by taking it too literally, suggesting the narrator actually was doing something as clearly wrong as stealing sweets. This misses how the simile is used to convey the narrator's sense of being unjustly reprimanded, as she was actually trying to comfort a frightened patient.
+
+**D.** This response misreads the impact of the figurative language entirely, using it to justify Dr. Blackwell's behavior rather than recognizing how it reveals the narrator's perspective and emotional state. The simile is meant to show how the narrator feels treated, not to suggest she deserves such treatment.
+
+**LBIDAT Evaluation:**
+- Stem & Task: ✓ (Clearly aligned to RL.8.4, focuses on figurative language impact)
+- Key: ✓ (Definitively correct, directly responsive)
+- Distractors: ✓ (All plausible, represent different misunderstandings of figurative language analysis)
+- Stimulus: ✓ (Requires close reading of the specific figurative language in context)
+- Fairness: ✓ (No inappropriate sensitivity topics)
+
+
+================= NEW ITEM =================
+Tier 6b (Claude) #2 (temp=0.8)
+
+Here's a different multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In the passage, the narrator states that Dr. Blackwell's approval "recedes in the distance" the more she seeks it. How does this figurative language contribute to the meaning and tone of the passage?
+
+A. It suggests that the narrator needs to work harder and move faster to catch up with Dr. Blackwell's expectations.
+
+*B. It creates a tone of frustration and hopelessness by portraying the narrator's goal as something that becomes more unreachable the harder she tries to achieve it.
+
+C. It shows that Dr. Blackwell is physically moving away from the narrator because she disapproves of her work.
+
+D. It indicates that the narrator is making steady progress toward earning Dr. Blackwell's respect, even though it takes time.
+
+**Rationales:**
+
+**A.** This response interprets the figurative language too literally, focusing on physical movement ("work harder and move faster") rather than recognizing how the metaphor conveys the psychological and emotional reality of the narrator's situation. It misses how the image suggests futility rather than simply needing more effort.
+
+**B. (Key)** This response correctly identifies how the metaphor of something "receding in the distance" creates a vivid image of an unreachable goal that becomes more elusive with pursuit. The figurative language establishes a tone of frustration and growing despair, as it suggests the narrator's efforts are paradoxically counterproductive—the harder she tries, the further away her goal becomes.
+
+**C.** This response completely misses the figurative nature of the language, interpreting "recedes in the distance" as literal physical movement rather than as a metaphor for the narrator's emotional experience of trying unsuccessfully to gain approval.
+
+**D.** This response misreads the figurative language entirely, suggesting progress when the metaphor actually conveys the opposite—that the goal is becoming more distant and difficult to achieve. It fails to recognize the tone of increasing difficulty and frustration that the metaphor creates.
+
+**LBIDAT Evaluation:**
+- Stem & Task: ✓ (Clearly aligned to RL.8.4, focuses on figurative language's contribution to meaning and tone)
+- Key: ✓ (Definitively correct, directly responsive to the question)
+- Distractors: ✓ (All plausible, represent different types of misunderstanding of metaphorical language)
+- Stimulus: ✓ (Requires analysis of specific figurative language in context)
+- Fairness: ✓ (No inappropriate sensitivity topics)

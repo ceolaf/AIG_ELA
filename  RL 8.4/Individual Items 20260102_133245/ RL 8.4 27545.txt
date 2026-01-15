@@ -1,0 +1,29 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 2a (Gemini) #2 (temp=0.8)
+
+Of course. Here is another unique multiple-choice item, with rationales, based on the provided passage and aligned to the specified standard.
+
+***
+
+**Item**
+
+Read this sentence from paragraph 9.
+
+> Once again, I felt unjustly reprimanded, like a child caught sneaking sweets from a jar.
+
+What is the primary effect of the simile in this sentence?
+
+A. It shows that the narrator recognizes she has done something wrong and feels guilty.
+B. It reveals that the narrator views Dr. Blackwell as a caring but strict parental figure.
+C. It suggests that the narrator is becoming openly defiant toward Dr. Blackwell’s authority.
+D. It emphasizes that the narrator feels the scolding is for a minor mistake and makes her feel small.*
+
+**Rationales**
+
+*   **A. Rationale:** This option is incorrect. The narrator explicitly states that she feels "unjustly reprimanded," which indicates she does not believe her actions were wrong or warranted such a harsh scolding. The simile highlights her feeling of embarrassment, not guilt.
+*   **B. Rationale:** This option is incorrect. Although the simile involves a child, the narrator has already stated in paragraph 4 that she was "quickly disabused" of the notion that Dr. Blackwell was a "motherly figure." The comparison serves to illustrate the power imbalance and her feelings of being belittled, not to define their relationship as parental.
+*   **C. Rationale:** This option is incorrect. The simile conveys a feeling of being caught and shamed, not of defiance. A child caught sneaking sweets is typically embarrassed or chagrined, not actively rebellious. The narrator’s internal reaction is frustration, but her outward response is to "bite my tongue and say nothing."
+*   **D. Rationale:** This is the correct option. The act of a child "sneaking sweets from a jar" is a minor, almost trivial, offense. By comparing Dr. Blackwell’s scolding to this scenario, the narrator emphasizes her perspective that her action (soothing a patient) was harmless and the reprimand was disproportionately harsh. The comparison to a "child" effectively conveys her feeling of being belittled and made to feel powerless in that moment.

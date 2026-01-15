@@ -1,0 +1,39 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 6b (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+> “It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+What is the most accurate interpretation of the word “recedes” as it is used in this sentence?
+
+A. It becomes less important to the narrator over time.  
+B. It moves farther away from the narrator, as if she can never quite reach it.*  
+C. It disappears completely from the narrator’s thoughts.  
+D. It is taken away from the narrator by other students.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**A. It becomes less important to the narrator over time.**  
+- Misinterpretation of connotation.  
+- In context, the narrator is obsessed with Dr. Blackwell’s approval; it is not becoming less important. The phrase “the more I seek her approval” shows it is very important to her.
+
+**B. It moves farther away from the narrator, as if she can never quite reach it.*  
+- Correct: interprets the figurative meaning.  
+- “Recedes in the distance” uses spatial language to describe an emotional/psychological experience: the approval feels like a goal that keeps moving away the harder she tries.  
+- This captures both the literal sense of “recede” (to move back or farther away) and the figurative impact on tone (frustration, discouragement).
+
+**C. It disappears completely from the narrator’s thoughts.**  
+- Incorrect because the sentence does not say approval disappears; it says it “recedes,” suggesting it is still there but harder to reach.  
+- The narrator’s continued worry about being sent away shows she is still thinking about it.
+
+**D. It is taken away from the narrator by other students.**  
+- Adds an idea not supported by the text.  
+- Nothing in the passage suggests that other students are “taking” approval from her; the sentence focuses on her own efforts and feelings, not on competition.

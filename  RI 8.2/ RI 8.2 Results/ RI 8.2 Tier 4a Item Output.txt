@@ -1,0 +1,163 @@
+
+
+
+=============== NEW RUN GPT - 2026-01-15 11:02:50 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 4a (GPT) #1 (temp=0.7). (17.19 secs). (1035 + 908 = 1943 total tokens)
+
+Item (RI.8.2 – Central Idea and Its Development)
+
+Which statement best explains a central idea of the article and how it is developed over the course of the text?
+
+A. The study proves that elephants are the most intelligent animals, and this idea is developed by comparing them to other species and showing that elephants outperform them in every task.  
+
+*B. The study shows that elephants have advanced cooperative abilities, and this idea is developed by describing the rope-pulling experiments, explaining how the elephants adjusted their behavior, and connecting the results to other examples of elephant cooperation.*  
+
+C. The article argues that traditional mahout training is the main reason elephants can cooperate, and this idea is developed by focusing on the trainers’ methods and how they teach elephants to follow complex commands.  
+
+D. The article claims that experiments on animals are unreliable, and this idea is developed by emphasizing the flaws in the rope experiment and questioning whether the results can be trusted.  
+
+
+Rationales
+
+A. The study proves that elephants are the most intelligent animals, and this idea is developed by comparing them to other species and showing that elephants outperform them in every task.  
+- Why a reader might choose it: The passage does say elephants have “impressive cognitive abilities” and compares them to chimpanzees and rooks.  
+- Why it is incorrect: The text never claims elephants are “the most intelligent animals” or that they “outperform them in every task.” The comparisons show elephants are part of an “elite club” of cooperators and that they learn some cooperative behaviors faster, but the article does not present a ranking of overall intelligence or claim consistent superiority. The development of the passage centers on cooperation, not a global claim about being the “most intelligent.”
+
+*B. The study shows that elephants have advanced cooperative abilities, and this idea is developed by describing the rope-pulling experiments, explaining how the elephants adjusted their behavior, and connecting the results to other examples of elephant cooperation.*  
+- Why it is correct: This matches the main focus and structure of the text.  
+  - Central idea: Elephants possess sophisticated cooperative and social-cognitive abilities (they “know when they need a helping hand—or rather, trunk” and understand they need a partner).  
+  - Development:  
+    • The article first introduces the idea by stating that elephants can recognize when they need help and placing them in an “elite club of social cooperators.”  
+    • It then describes the basic rope-pulling experiment and how elephants learned to pull together.  
+    • It raises the difficulty (delayed release and out-of-reach rope) to show elephants can wait for a partner and give up when a partner cannot help, indicating understanding of the need for cooperation.  
+    • Finally, it connects the lab findings to field observations (elephants lifting a fallen companion) and to other research on rooks and chimpanzees, reinforcing that elephants show “impressive cognitive abilities.”  
+  - This option accurately captures both the central idea and how supporting details and examples build it across the passage.
+
+C. The article argues that traditional mahout training is the main reason elephants can cooperate, and this idea is developed by focusing on the trainers’ methods and how they teach elephants to follow complex commands.  
+- Why a reader might choose it: Mahouts and training are mentioned, and students might overemphasize that detail.  
+- Why it is incorrect: Mahouts appear briefly as context for where the elephants came from and how they were first taught to pull the rope. The article does not argue that training is the “main reason” for cooperation, nor does it describe mahout methods in detail. Instead, the focus is on what the elephants’ behavior in the experiments reveals about their natural social cognition.
+
+D. The article claims that experiments on animals are unreliable, and this idea is developed by emphasizing the flaws in the rope experiment and questioning whether the results can be trusted.  
+- Why a reader might choose it: A student might misread the discussion of different species’ performances as criticism of methods.  
+- Why it is incorrect: The tone toward the experiments is consistently positive: they are called “clever experiments,” and the study is said to “add to the growing body of evidence” about elephant cognition. The article does not highlight flaws or unreliability; instead, it uses the experimental results as strong support for the central idea that elephants have advanced cooperative abilities.
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 4a (GPT) #2 (temp=0.8). (21.02 secs). (1954 + 943 = 2897 total tokens)
+
+Item (RI.8.2 – Central Idea, Supporting Ideas, and Summary)
+
+Which statement best provides an objective summary of the article by identifying a central idea and how it is supported?
+
+A. The article describes how elephants are trained by mahouts in Thailand, explaining in detail how trainers teach them to pull ropes and follow commands, and concludes that human instruction is the main reason elephants can complete complex tasks.  
+
+B. The article explains that elephants are part of an elite group of highly social animals, then shows through a series of rope-pulling experiments that they can recognize when they need a partner’s help, and supports this central idea with comparisons to other species and real-life examples of elephants cooperating in the wild.*  
+
+C. The article argues that chimpanzees are not as smart as once believed, using the results of the rope experiments to show that elephants learn faster than chimpanzees and suggesting that most earlier research on primates should be reconsidered.  
+
+D. The article warns that keeping elephants in conservation centers can change their natural behavior, using the rope experiment to argue that captive elephants act differently from wild elephants and that researchers should stop testing them.  
+
+
+Rationales
+
+A. The article describes how elephants are trained by mahouts in Thailand, explaining in detail how trainers teach them to pull ropes and follow commands, and concludes that human instruction is the main reason elephants can complete complex tasks.  
+- Why a reader might choose it: Mahouts and training are mentioned, and the elephants are indeed taught to pull the rope.  
+- Why it is incorrect: This option turns a minor detail into the central idea. The article does not focus on mahout training “in detail” or conclude that human instruction is the main reason for elephants’ abilities. Training is just a setup step; the central idea is about elephants’ own cooperative and cognitive skills revealed by the experiments.
+
+*B. The article explains that elephants are part of an elite group of highly social animals, then shows through a series of rope-pulling experiments that they can recognize when they need a partner’s help, and supports this central idea with comparisons to other species and real-life examples of elephants cooperating in the wild.*  
+- Why it is correct:  
+  - Central idea: Elephants have advanced social and cooperative abilities, including understanding when they need a partner.  
+  - Development/support:  
+    • The introduction states that elephants know when they need “a helping hand—or rather, trunk” and places them in an “elite club of social cooperators.”  
+    • The article describes the rope-pulling experiments and how elephants learn to pull together.  
+    • It then increases the challenge (delayed release, unreachable rope) to show elephants can wait for a partner and give up when cooperation is impossible, suggesting real understanding.  
+    • Finally, it supports this idea with expert comments and observations from the wild (elephants lifting a fallen companion) and compares elephants’ performance to chimpanzees and rooks.  
+  - This option accurately captures both the central idea and the main supporting ideas in an objective way, without adding opinions or claims not in the text.
+
+C. The article argues that chimpanzees are not as smart as once believed, using the results of the rope experiments to show that elephants learn faster than chimpanzees and suggesting that most earlier research on primates should be reconsidered.  
+- Why a reader might choose it: The passage notes that elephants learned to wait “faster than the chimpanzees,” which might mislead some readers into thinking chimp intelligence is being challenged.  
+- Why it is incorrect: The article never claims that chimpanzees are “not as smart as once believed” or that earlier primate research is flawed. The chimpanzee comparison is brief and serves to highlight elephants’ cooperative skill, not to overturn primate research. This option invents a central argument that is not in the text.
+
+D. The article warns that keeping elephants in conservation centers can change their natural behavior, using the rope experiment to argue that captive elephants act differently from wild elephants and that researchers should stop testing them.  
+- Why a reader might choose it: The Thai Elephant Conservation Center is mentioned, and some students may assume the article is about captivity issues.  
+- Why it is incorrect: The conservation center is only the setting for the experiments; the article does not argue that captivity changes behavior or that researchers should stop testing elephants. Instead, it connects captive experiments to wild observations in a positive way, saying the findings are “consistent with observations in nature” and that the study adds to evidence of elephants’ impressive cognition.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:08:19 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get
+
+
+
+=============== NEW RUN (Claude) - 2026-01-15 11:15:48 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 4a (Claude) #1 (temp=0.7). (19.25 secs). (1130 + 543 = 1673 total tokens)
+
+Based on the passage and the requirements for RI.8.2, here's a multiple choice item:
+
+**Which statement best describes how the central idea about elephants' cooperative intelligence develops throughout the text?**
+
+A. The text begins by establishing elephants' ability to cooperate, then progressively reveals through increasingly complex experiments that elephants not only work together but understand *why* cooperation is necessary, culminating in comparisons that place them among the most socially intelligent species.
+
+B. The text initially focuses on the mechanical aspects of how elephants pull ropes together, then shifts entirely to comparing elephants with other animals, ultimately arguing that elephants are more intelligent than chimpanzees and rooks.
+
+C. The text starts with a broad claim about elephant intelligence, narrows to describe a single experiment about rope-pulling, then expands again to discuss various unrelated examples of elephant behavior in the wild.
+
+D. The text opens with the researchers' methods for training elephants, develops into a discussion of failed experiments, and concludes by questioning whether elephants truly understand cooperation or are simply following learned behaviors.
+
+**Answer: A***
+
+**Rationales:**
+
+**Option A (Correct):** This accurately traces how the central idea develops. The text begins with the conclusion that elephants understand when they need help (paragraph 1), then shows through progressively challenging experiments how elephants demonstrate this understanding—first by learning to pull together, then by waiting for partners, and finally by giving up when partners can't help (paragraphs 2-3). The text concludes by contextualizing these findings among other intelligent species (paragraph 4), showing that the central idea builds from simple cooperation to complex social cognition.
+
+**Option B:** While the text does compare elephants to other animals, this is not the primary development. The text doesn't shift "entirely" to comparisons, nor does it argue elephants are definitively more intelligent than all other species mentioned. This misrepresents the progression of ideas.
+
+**Option C:** This distractor mischaracterizes the development. The text doesn't narrow to a "single experiment"—it describes multiple experimental variations. The wild examples aren't "unrelated" but rather support the findings. The development is more cohesive than this option suggests.
+
+**Option D:** This contradicts the text's actual development. The text doesn't focus on "failed experiments" or end by questioning the elephants' understanding. Instead, it progressively builds evidence that elephants do understand cooperation, with expert validation in the final paragraph.
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 4a (Claude) #2 (temp=0.8). (22.06 secs). (1687 + 547 = 2234 total tokens)
+
+Based on the passage and the requirements for RI.8.2, here's another multiple choice item:
+
+**How does the text develop its central idea about elephants' social cognition through the relationship between experimental evidence and supporting details?**
+
+A. The text presents a series of experiments that become progressively more complex, with each new test revealing a deeper level of elephant understanding, while expert commentary throughout validates and contextualizes these findings within the broader field of animal cognition research.
+
+B. The text establishes the experimental methodology in detail, then uses anecdotal observations from wild elephants as the primary evidence for cooperation, with scientific experiments serving only as preliminary support for these natural behaviors.
+
+C. The text introduces multiple unrelated experiments about elephant behavior, then attempts to connect them through expert opinions, though the supporting ideas ultimately contradict the initial claim about elephant intelligence.
+
+D. The text focuses primarily on comparing elephants to chimpanzees throughout, using the rope-pulling experiment as a single data point that proves elephants are superior, while dismissing evidence from other species as less relevant.
+
+**Answer: A***
+
+**Rationales:**
+
+**Option A (Correct):** This accurately captures how the central idea develops through interconnected supporting ideas. The text moves from the basic rope-pulling test (teaching cooperation), to the delayed-release test (showing elephants understand waiting for help), to the unreachable-rope test (demonstrating they recognize when cooperation is impossible). Expert voices (Plotnik, McComb, Clayton) appear strategically throughout to interpret results and connect findings to both wild observations and comparative cognition research, strengthening the central claim about elephants' higher social cognition.
+
+**Option B:** This reverses the actual relationship between experimental and observational evidence. The text primarily relies on controlled experiments as its main evidence, with wild observations serving as supplementary support (mentioned only briefly in paragraph 4), not the other way around.
+
+**Option C:** This misrepresents the text's coherence. The experiments aren't "unrelated"—they build upon each other systematically. The supporting ideas and expert opinions reinforce rather than contradict the central claim. The text maintains consistent support for elephant intelligence throughout.
+
+**Option D:** While comparisons to chimpanzees appear in the text, they aren't the primary focus. The text uses multiple experimental variations (not a "single data point") and includes meaningful comparisons to other species (hyenas, rooks, humans) without dismissing them. This option oversimplifies the text's nuanced presentation of comparative intelligence.

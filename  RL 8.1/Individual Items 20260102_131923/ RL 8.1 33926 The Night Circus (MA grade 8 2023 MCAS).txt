@@ -1,0 +1,37 @@
+Standard:  RL 8.1
+Passage: The Night Circus (MA grade 8 2023 MCAS)
+
+============================================================
+
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 4b (GPT) #2 (temp=0.8). (5.23 secs). (5756 + 490 = 6246 total tokens)
+
+**Item 2**
+
+Which sentence from the passage best supports the inference that the circus has a powerful, lasting effect on Bailey even after he leaves it?
+
+A. “He could not properly describe it afterward. He could only nod when his mother asked if he had enjoyed himself.”  
+
+B. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.”  
+
+C. “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+
+*D. “He ached to go back almost the moment he walked away.”*  
+
+
+**Rationales**
+
+- **Option A:** “He could not properly describe it afterward. He could only nod when his mother asked if he had enjoyed himself.”  
+  - *Why a student might pick it:* It shows that Bailey is deeply affected—so much that he can’t put the experience into words.  
+  - *Why it’s wrong:* This sentence emphasizes his inability to describe the circus, not that the feeling lasts or continues to influence him after he leaves.
+
+- **Option B:** “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.”  
+  - *Why a student might pick it:* It clearly shows strong curiosity and interest in the circus.  
+  - *Why it’s wrong:* This sentence describes his feelings before and during entry, not the lasting effect after he leaves the circus.
+
+- **Option C:** “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+  - *Why a student might pick it:* It shows that Bailey is thinking carefully about the circus and his actions.  
+  - *Why it’s wrong:* This line focuses on his concern about the dare and finding proof, not on a powerful emotional impact that continues after his visit.
+
+- **Option D (Key):** “He ached to go back almost the moment he walked away.”  
+  - *Why it’s correct:* This sentence directly states that as soon as Bailey leaves, he feels an “ache” to return, showing a strong, immediate, and ongoing emotional pull. It most strongly supports the inference that the circus has a powerful, lasting effect on him even after he is no longer there.

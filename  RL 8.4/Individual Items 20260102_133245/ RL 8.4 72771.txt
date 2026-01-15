@@ -1,0 +1,38 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 2b (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item**
+
+In the passage, when Diana says "the more I seek her approval, the farther it recedes in the distance," what does this figurative language reveal about Diana's emotional state?
+
+A. She is becoming increasingly confident in her medical abilities under Dr. Blackwell's guidance.
+
+B. She is physically exhausted from the long hours of medical training and patient care.
+
+*C. She feels frustrated and discouraged because her efforts to impress Dr. Blackwell seem to backfire.
+
+D. She is growing more determined to prove that women can be as capable as male doctors.
+
+**Rationales:**
+
+**A. She is becoming increasingly confident in her medical abilities under Dr. Blackwell's guidance.**
+This option contradicts the figurative language and context. The metaphor of approval "receding in the distance" suggests movement away from confidence, not toward it. The surrounding text describes Diana feeling self-conscious, making "clumsy blunders," and being repeatedly scolded, which indicates decreasing rather than increasing confidence.
+
+**B. She is physically exhausted from the long hours of medical training and patient care.**
+While Diana does work long hours, the figurative language specifically relates to seeking approval, not physical fatigue. The metaphor of something "receding in the distance" describes an emotional or psychological distance, not physical tiredness. The context focuses on her relationship with Dr. Blackwell and her desire for recognition, not her energy levels.
+
+**C. She feels frustrated and discouraged because her efforts to impress Dr. Blackwell seem to backfire. [CORRECT]**
+This option correctly interprets the figurative language. The metaphor of approval "receding in the distance" creates an image of something moving farther away despite Diana's efforts to reach it. The context supports this interpretation: Diana describes freezing "like a statue," making "clumsy blunders," and being repeatedly scolded. The phrase "the more I seek" indicates active effort, while "the farther it recedes" suggests that these very efforts are counterproductive, creating frustration and discouragement.
+
+**D. She is growing more determined to prove that women can be as capable as male doctors.**
+This option misinterprets the figurative language's emotional tone. While Diana does want to prove women's capabilities, the metaphor of approval "receding in the distance" suggests defeat and discouragement, not growing determination. The context shows her fear of being "sent away" and feeling that her "abilities" are "called into question," which indicates diminishing rather than increasing determination.
+
+**LBIDAT Evaluation:**
+- **Stem & Task:** ✓ (Directly targets RL.8.4 by asking students to analyze figurative language and its impact on revealing character's emotional state)
+- **Key:** ✓ (Definitively correct interpretation of the metaphor in context)
+- **Distractors:** ✓ (Each represents plausible misinterpretations of either the figurative language or context)
+- **Stimulus:** ✓ (Passage is necessary for successful response and contains clear figurative language)
+- **Fairness:** ✓ (No inappropriate sensitivity topics)

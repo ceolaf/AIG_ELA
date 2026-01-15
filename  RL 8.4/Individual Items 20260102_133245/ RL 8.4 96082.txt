@@ -1,0 +1,27 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 2a (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item Aligned to RL.8.4**
+
+In the passage, Diana describes feeling "like a child caught sneaking sweets from a jar" when Dr. Blackwell reprimands her. What does this simile reveal about Diana's emotional state and the tone of the scene?
+
+A. It shows Diana's defiance and creates a tone of rebellion against authority.
+
+B. It demonstrates Diana's confusion and establishes a tone of mystery about Dr. Blackwell's expectations.
+
+C. It reveals Diana's professional confidence and creates a tone of competence in the medical setting.
+
+*D. It conveys Diana's feelings of shame and embarrassment, creating a tone of tension and discomfort in their relationship.
+
+**Rationales:**
+
+**Option A:** This response misinterprets the simile's meaning. A child "caught sneaking sweets" typically feels guilty or ashamed rather than defiant. Diana's behavior throughout the passage shows respect for Dr. Blackwell's authority, not rebellion. She "bit my tongue and said nothing," which indicates submission rather than defiance. The tone is not one of rebellion but rather discomfort and tension.
+
+**Option B:** While Diana may experience some confusion about Dr. Blackwell's expectations, the simile specifically captures feelings of being caught doing something wrong, which relates more to shame than confusion. The tone is not mysterious—Dr. Blackwell's disapproval is quite clear and direct. The simile emphasizes emotional discomfort rather than intellectual puzzlement about expectations.
+
+**Option C:** This option completely contradicts the simile's meaning. A child caught sneaking sweets feels guilty and embarrassed, not confident. Diana explicitly states she feels she "could do nothing right" and describes making "clumsy blunders." The medical setting tone at this moment is uncomfortable and tense, not one of professional competence.
+
+***Option D:** This is correct because the simile of a child caught sneaking sweets directly conveys feelings of guilt, shame, and embarrassment—exactly what Diana experiences when reprimanded. The comparison emphasizes how small and wrong she feels in that moment. This creates a tone of tension and discomfort in her relationship with Dr. Blackwell, as evidenced by Diana's statement that the sympathetic look from her patient "only made me feel worse."

@@ -1,0 +1,90 @@
+
+
+
+=============== NEW RUN GPT - 2025-12-30 13:04:27 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 5a (GPT) #1 (temp=0.7). (7.26 secs). (3057 + 483 = 3540 total tokens)
+
+1. Which sentence from the passage best supports the idea that Bailey wants to go back into the circus for his own reasons, not just because of the dare?
+
+A. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”  
+B. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.” *  
+C. “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+D. “It was a dare,” he adds, hoping she will understand.  
+
+**Correct Answer: B***
+
+**Rationales**
+
+- **A. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”**  
+  This shows Bailey is nervous and is looking for a way to avoid going in while still proving he completed the dare. It does not clearly show that he has his own personal reasons for wanting to return to the circus; instead, it emphasizes his hesitation and desire to avoid entering.
+
+- **B. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.” *  
+  This sentence directly and explicitly supports the idea in the question. It clearly states that Bailey’s desire to enter the circus is “not just because of the dare,” and gives his own reason—his curiosity. It is the strongest textual evidence for the idea that he wants to return for his own reasons.
+
+- **C. “Bailey wonders which way he should go, and what might count as proof for his dare.”**  
+  This focuses on Bailey thinking about how to complete the dare and what will serve as proof. It supports the idea that he is concerned about the dare itself, not that he has his own separate reasons for wanting to be in the circus.
+
+- **D. “It was a dare,” he adds, hoping she will understand.**  
+  This sentence shows Bailey explaining his actions to the girl by mentioning the dare. It supports the idea that the dare is his stated reason for being there, but it does not indicate that he also wants to be there for his own personal reasons beyond the dare.
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 5a (GPT) #2 (temp=0.8). (4.47 secs). (3551 + 400 = 3951 total tokens)
+
+2. Which sentence from the passage best supports the idea that Bailey is still deeply affected by the circus’s earlier disappearance from his town?
+
+A. “He had hoped it would stay long enough for him to age properly into old enough, but it vanished without notice after two weeks, leaving too-young Bailey heartbroken.” *  
+B. “It arrived only a few days ago and is still a novelty.”  
+C. “He ached to go back almost the moment he walked away.”  
+D. “He wonders if he accepted the dare, in part, to return to the circus sooner.”  
+
+**Correct Answer: A*  
+
+**Rationales**
+
+- **A. “He had hoped it would stay long enough for him to age properly into old enough, but it vanished without notice after two weeks, leaving too-young Bailey heartbroken.” *  
+  This sentence explicitly states that the circus’s earlier disappearance left Bailey “heartbroken,” directly showing how strongly it affected him. It is the strongest textual evidence that the earlier vanishing of the circus had a deep emotional impact on him.
+
+- **B. “It arrived only a few days ago and is still a novelty.”  
+  This describes how recently the circus has returned and that it is new and exciting to the town. It does not show Bailey’s lingering emotional reaction to its earlier disappearance.
+
+- **C. “He ached to go back almost the moment he walked away.”  
+  This shows Bailey’s strong desire to return after his most recent visit, but it relates to the present visit, not to the earlier time when the circus vanished from town years before.
+
+- **D. “He wonders if he accepted the dare, in part, to return to the circus sooner.”  
+  This suggests Bailey’s current motivation to go back to the circus. While it implies he wants to return, it does not directly show how the earlier disappearance affected him emotionally.
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 5a (GPT) #3 (temp=0.8). (4.70 secs). (3962 + 468 = 4430 total tokens)
+
+3. Which sentence from the passage best supports the idea that Bailey feels nervous and unsure about continuing with the dare as he approaches the circus?
+
+A. “It takes Bailey the better part of ten minutes to walk all the way across the field, and the closer he gets, the larger and more intimidating the tents look, and the more his conviction fades.” *  
+B. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”  
+C. “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+D. “Bailey finds that he does, actually, want to go inside.”  
+
+**Correct Answer: A***
+
+**Rationales**
+
+- **A. “It takes Bailey the better part of ten minutes to walk all the way across the field, and the closer he gets, the larger and more intimidating the tents look, and the more his conviction fades.” *  
+  This sentence directly supports the idea in the question. The tents look “intimidating,” and “the more his conviction fades” clearly shows his nervousness and growing uncertainty about going through with the dare. It is the strongest textual evidence for that idea.
+
+- **B. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”  
+  This shows Bailey looking for a way to avoid entering, which suggests reluctance, but it focuses more on his plan to get proof than on his feelings as he approaches. It is related, but not as strong or direct as option A in showing nervousness and fading confidence.
+
+- **C. “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+  This shows Bailey’s uncertainty about directions and what will count as proof, but it does not clearly show that he feels nervous about the dare itself. It is more about confusion than fear or fading conviction.
+
+- **D. “Bailey finds that he does, actually, want to go inside.”  
+  This sentence indicates desire and curiosity, the opposite of nervous hesitation. It does not support the idea that he is unsure about continuing with the dare.

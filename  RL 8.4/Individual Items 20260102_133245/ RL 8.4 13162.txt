@@ -1,0 +1,31 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 5b (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item**
+
+In the passage, when Diana describes Dr. Blackwell's approval as something that "recedes in the distance," the author uses this phrase to suggest that Diana's goal of earning respect:
+
+A. is geographically far away since she lives in a different state
+B. requires her to travel to distant medical schools for training  
+*C. becomes harder to achieve the more desperately she pursues it
+D. will take a long time to accomplish due to her inexperience
+
+**Rationales:**
+
+**Option A Rationale:** This response demonstrates a literal, surface-level interpretation of "recedes in the distance." A student selecting this option likely focuses on the denotative meaning of "distance" as a physical space or location, missing the figurative use of the phrase. They may connect this to the earlier mention of Diana moving to New York, but fail to recognize that the phrase is used metaphorically to describe an emotional/professional relationship rather than geographic proximity.
+
+**Option B Rationale:** Similar to Option A, this response shows literal interpretation of "distance" but attempts to connect it to the medical training context. Students choosing this option recognize the passage is about medical education but misunderstand the figurative language, interpreting "distance" as physical travel requirements rather than the metaphorical description of an increasingly elusive goal.
+
+***Option C Rationale (CORRECT):** This response demonstrates understanding of the figurative meaning of "recedes in the distance." The phrase creates a visual metaphor comparing Dr. Blackwell's approval to something that moves farther away as one tries to approach it. Students selecting this option recognize that Diana's increasingly desperate attempts to gain approval actually make her more nervous and prone to mistakes, thus making her goal paradoxically harder to achieve. This interpretation aligns with the context of Diana's growing anxiety and self-consciousness under Dr. Blackwell's scrutiny.
+
+**Option D Rationale:** This response shows partial understanding that "distance" relates to time/difficulty rather than physical space, but misses the specific connotative meaning in context. Students choosing this option may recognize the figurative use but fail to grasp the ironic relationship the author establishes—that Diana's very efforts to gain approval are what make it more elusive. Instead, they interpret it as a straightforward statement about the time required for skill development.
+
+**LBIDAT Analysis:**
+- **Stem & Task: ✓** - Directly targets RL.8.4 by asking students to analyze figurative language and its impact on meaning
+- **Key: ✓** - Definitively correct and requires understanding of connotative/figurative meaning
+- **Distractors: ✓** - Each represents plausible misinterpretations of the figurative language at different levels
+- **Stimulus: ✓** - Item requires close reading of the specific phrase in context
+- **Fairness: ✓** - No inappropriate sensitivity issues

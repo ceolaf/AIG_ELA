@@ -1,0 +1,28 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 4b (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item**
+
+In the passage, when Diana describes her hopes as being "extinguished," she means that her hopes would be
+
+A. temporarily delayed until she could find another opportunity
+B. *completely destroyed with no possibility of recovery
+C. dimmed but still capable of being rekindled later
+D. transferred to a different but related goal
+
+**Rationales:**
+
+**A. temporarily delayed until she could find another opportunity**
+This option focuses only on the literal meaning of delay without recognizing the figurative weight of "extinguished." A student selecting this might understand that losing this opportunity would set Diana back, but they miss how the author uses "extinguished" to convey the finality and completeness of the loss. The passage explicitly states this is "the only institution of its kind," which contradicts the idea that other opportunities exist.
+
+**B. *completely destroyed with no possibility of recovery** (KEY)
+This option correctly identifies the figurative meaning of "extinguished" as used in this context. The author deliberately chose this word (rather than "delayed" or "postponed") to convey the total and permanent destruction of Diana's dreams. The metaphor compares her hopes to a flame or light that, once extinguished, cannot easily be relit. This interpretation is supported by the context that Dr. Blackwell's institution is described as "the only institution of its kind," emphasizing the finality of losing this singular opportunity.
+
+**C. dimmed but still capable of being rekindled later**
+This option shows partial understanding of the fire/light metaphor but misses the specific connotative meaning of "extinguished" versus other possible words like "dimmed." A student might choose this if they recognize the figurative language but don't grasp how "extinguished" specifically suggests complete elimination rather than temporary reduction. The author's word choice emphasizes finality, not temporary setback.
+
+**D. transferred to a different but related goal**
+This option misses the figurative meaning entirely and suggests hopes would simply change direction rather than be destroyed. A student selecting this likely focuses on problem-solving rather than understanding how "extinguished" functions metaphorically in the text. This interpretation ignores both the figurative language and the contextual emphasis on this being Diana's only chance to achieve her specific dream of becoming a doctor.

@@ -1,0 +1,32 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 2b (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+> “It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+As it is used in this sentence, what does the word “recedes” most nearly mean?
+
+A. becomes less important to Diana over time  
+B. moves farther away from Diana’s reach *  
+C. changes into something different than Diana expected  
+D. disappears completely from Diana’s mind  
+
+**Correct Answer: B. moves farther away from Diana’s reach***
+
+**Rationales**
+
+- **A. becomes less important to Diana over time**  
+  This is incorrect because approval is very important to Diana throughout the passage. She worries constantly about gaining Dr. Blackwell’s respect and fears being sent away, so the approval does not “become less important” to her.
+
+- **B. moves farther away from Diana’s reach***  
+  This is correct. The sentence compares approval to something in the distance that keeps moving away the more she tries to reach it. In context, “recedes” has a figurative meaning: the approval feels harder and harder to get, as if it is moving farther away.
+
+- **C. changes into something different than Diana expected**  
+  This is incorrect because nothing in the sentence suggests that Dr. Blackwell’s approval is changing in nature. Instead, the focus is on how difficult it is for Diana to obtain it, not on the approval itself becoming something different.
+
+- **D. disappears completely from Diana’s mind**  
+  This is incorrect because Diana continues to think about Dr. Blackwell’s approval and fears losing her position. The phrase “farther it recedes in the distance” suggests it is still there but out of reach, not gone from her thoughts.

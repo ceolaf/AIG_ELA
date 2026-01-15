@@ -1,0 +1,98 @@
+
+
+
+=============== NEW RUN GPT - 2025-12-30 13:05:48 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 7b (GPT) #1 (temp=0.7). (6.44 secs). (5352 + 448 = 5800 total tokens)
+
+1. Which sentence from the passage best supports the idea that Bailey wants to return to the circus for his own reasons, not just because of Caroline’s dare?
+
+A. “He wonders if he accepted the dare, in part, to return to the circus sooner.”*  
+B. “Bailey finds that he does, actually, want to go inside.”  
+C. “And beyond proving himself to Caroline and her gang, beneath the curiosity, there is that need to return tugging at him.”  
+D. “Bailey wonders which way he should go, and what might count as proof for his dare.”
+
+**Correct Answer: A***
+
+**Rationales**
+
+- **A. “He wonders if he accepted the dare, in part, to return to the circus sooner.”***  
+  - This sentence most directly supports the idea that Bailey’s desire to return to the circus is personal and not only about the dare. The phrase “in part” shows that his motivation includes his own wish to go back, not just fulfilling Caroline’s challenge.
+
+- **B. “Bailey finds that he does, actually, want to go inside.”**  
+  - This shows that Bailey wants to enter the circus, but it does not clearly separate his own reasons from the dare. It could still be mainly about completing the dare, so it is weaker support than option A.
+
+- **C. “And beyond proving himself to Caroline and her gang, beneath the curiosity, there is that need to return tugging at him.”**  
+  - This sentence does show that Bailey has his own need to return, but it adds multiple layers (proving himself, curiosity, and need to return). Because it blends several motives, it is not as precise or direct as A in supporting the specific idea that he wants to return for his own reasons rather than just the dare.
+
+- **D. “Bailey wonders which way he should go, and what might count as proof for his dare.”**  
+  - This focuses on Bailey thinking about how to prove the dare. It emphasizes the dare itself, not his personal desire to return, so it does not support the given idea.
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 7b (GPT) #2 (temp=0.8). (4.13 secs). (5811 + 430 = 6241 total tokens)
+
+**Item 2**
+
+Which sentence from the passage best supports the idea that Bailey still feels the circus is magical even after he leaves it?
+
+A. “He could not properly describe it afterward. He could only nod when his mother asked if he had enjoyed himself.”  
+B. “He ached to go back almost the moment he walked away.”*  
+C. “He wonders if he accepted the dare, in part, to return to the circus sooner.”  
+D. “The circus feels strange in the daytime, too quiet.”
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+- **A. “He could not properly describe it afterward. He could only nod when his mother asked if he had enjoyed himself.”**  
+  - This shows that Bailey is overwhelmed and unable to put the experience into words, but it does not clearly state that he still feels the circus is magical after leaving. It focuses on his difficulty describing it, not on his ongoing sense of magic.
+
+- **B. “He ached to go back almost the moment he walked away.”***  
+  - This best supports the idea that the magic of the circus lingers for Bailey even after he leaves. The phrase “ached to go back” shows a strong emotional pull that continues beyond his time at the circus, implying that its magical effect remains with him.
+
+- **C. “He wonders if he accepted the dare, in part, to return to the circus sooner.”**  
+  - This indicates that Bailey wants to return, but it ties that desire to the dare and to his decision-making. It does not directly show that he still experiences the circus as magical after leaving; it focuses on his motives for accepting the dare.
+
+- **D. “The circus feels strange in the daytime, too quiet.”**  
+  - This describes how the circus seems during the day, emphasizing that it feels “strange” and “too quiet.” It does not show that Bailey still feels it is magical after he has left an earlier visit; instead, it contrasts the nighttime magic with the daytime atmosphere.
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 7b (GPT) #3 (temp=0.8). (3.85 secs). (6252 + 444 = 6696 total tokens)
+
+**Item 3**
+
+Which sentence from the passage best supports the idea that Bailey feels nervous about entering the circus during the day?
+
+A. “It takes Bailey the better part of ten minutes to walk all the way across the field, and the closer he gets, the larger and more intimidating the tents look, and the more his conviction fades.”*  
+B. “Bailey finds that he does, actually, want to go inside.”  
+C. “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+D. “Bailey turns right at the end of the passage, and finds himself in a row of tents, each with a door and a sign advertising its contents.”
+
+**Correct Answer: A***
+
+---
+
+### Rationales
+
+- **A. “It takes Bailey the better part of ten minutes to walk all the way across the field, and the closer he gets, the larger and more intimidating the tents look, and the more his conviction fades.”***  
+  - This is the strongest evidence that Bailey is nervous. The tents seem “intimidating,” and the phrase “the more his conviction fades” shows that his confidence is shrinking as he approaches, indicating growing nervousness.
+
+- **B. “Bailey finds that he does, actually, want to go inside.”**  
+  - This supports the idea that Bailey is curious and wants to enter, but it does not show that he feels nervous. It focuses on his desire, not his anxiety.
+
+- **C. “Bailey wonders which way he should go, and what might count as proof for his dare.”**  
+  - This shows that Bailey is thinking about directions and evidence for the dare. It may suggest uncertainty, but not clearly nervousness about entering the circus itself.
+
+- **D. “Bailey turns right at the end of the passage, and finds himself in a row of tents, each with a door and a sign advertising its contents.”**  
+  - This only describes Bailey’s movement and what he sees. It gives no information about his feelings, so it does not support the idea that he is nervous.

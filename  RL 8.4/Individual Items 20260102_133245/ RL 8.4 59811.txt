@@ -1,0 +1,33 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 3b (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+   “Once again, I felt unjustly reprimanded, **like a child caught sneaking sweets from a jar**.”
+
+   How does this simile affect the tone of the narrator’s description of Dr. Blackwell’s criticism?
+
+   A. It makes the tone more lighthearted, as if the situation is only a harmless joke.  
+   B. It makes the tone more resentful, suggesting Diana believes Dr. Blackwell is deliberately cruel.  
+   C. It makes the tone more vulnerable, showing that Diana feels small and embarrassed by the way she is scolded.*  
+   D. It makes the tone more admiring, showing that Diana respects Dr. Blackwell’s strictness.
+
+**Rationales**
+
+- **A. It makes the tone more lighthearted, as if the situation is only a harmless joke.**  
+  - Being “caught sneaking sweets” is a mild, childish wrongdoing, but the narrator says she feels “unjustly reprimanded,” which shows hurt and discomfort, not amusement. The comparison emphasizes embarrassment, not humor, so this misreads the tone.
+
+- **B. It makes the tone more resentful, suggesting Diana believes Dr. Blackwell is deliberately cruel.**  
+  - The simile focuses on how Diana feels—like a scolded child—not on Dr. Blackwell’s intentions. While she feels the reprimand is unfair, the passage does not show strong resentment or accuse Dr. Blackwell of cruelty. This goes beyond the text.
+
+- **C. It makes the tone more vulnerable, showing that Diana feels small and embarrassed by the way she is scolded.*  
+  - The simile compares Diana to a child caught doing something wrong, which suggests she feels powerless, ashamed, and treated as immature. Combined with “unjustly reprimanded,” this creates a tone of vulnerability and emotional discomfort. This best matches the connotative effect of the figurative language.
+
+- **D. It makes the tone more admiring, showing that Diana respects Dr. Blackwell’s strictness.**  
+  - Nothing in the comparison to a child sneaking sweets suggests admiration. Instead, it highlights how belittled Diana feels. Admiration would require positive or respectful language, which is absent here, so this misinterprets the impact of the word choice on tone.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:44:51 ===============

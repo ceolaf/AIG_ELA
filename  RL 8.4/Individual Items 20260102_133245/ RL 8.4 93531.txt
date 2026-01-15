@@ -1,0 +1,21 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 3b (Gemini) #1 (temp=0.7)
+
+**Item**
+
+In paragraph 9, what is the main effect of the narrator’s comparison of her feeling to that of “a child caught sneaking sweets from a jar”?
+
+A. It suggests the narrator believes she has broken a serious rule and feels guilty.
+B. It reveals the narrator thinks Dr. Blackwell is trying to teach her an important lesson.
+*C. It emphasizes that the narrator feels she has been unfairly scolded for a minor action.
+D. It shows the narrator is secretly happy that the patient offered her sympathy.
+
+**Rationales**
+
+*   **Key Rationale:** This is the correct answer. The simile compares a professional reprimand to being caught doing something minor and childish. This contrast highlights the narrator's feeling that the scolding was overly harsh for the situation (comforting a patient) and that she was treated like a child, not a professional apprentice. This supports her statement that she felt "unjustly reprimanded."
+*   **Distractor A Rationale:** This option is incorrect. While being "caught" can imply guilt, the specific comparison to "sneaking sweets" suggests a minor infraction. Furthermore, the narrator explicitly states she feels "unjustly reprimanded," which contradicts the idea that she feels guilty for breaking a serious rule.
+*   **Distractor B Rationale:** This option is incorrect. The simile emphasizes the narrator feeling childish and belittled, not that she is learning an important lesson. The trivial nature of "sneaking sweets" works against the idea of a significant teaching moment.
+*   **Distractor D Rationale:** This option is incorrect. The text directly contradicts this idea in the following sentence: "My patient forgot her fear for a moment and gave me a sympathetic look. That response only made me feel worse."

@@ -1,0 +1,60 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 17:29:17 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 6a (GPT) #1 (temp=0.7)
+
+1. In the sentence, “The dwelling-houses were set about haphazard on the tough prairie sod; some of them looked as if they had been moved in overnight, and others as if they were straying off by themselves, headed straight for the open plain,” what is the effect of describing the houses as “straying off by themselves”?
+
+A. It shows that the houses are poorly built and likely to collapse soon.  
+B. It suggests that the houses seem restless and temporary, as if they do not truly belong there.*  
+C. It proves that the people living in the houses are careless and lazy.  
+D. It means that the houses are actually being pushed across the prairie by the strong wind.
+
+**Correct Answer: B***
+
+**Rationales:**
+
+- **A. It shows that the houses are poorly built and likely to collapse soon.**  
+  This focuses on physical weakness and construction quality, which the text does not mention. The phrase “straying off by themselves” is figurative, not a comment on building strength, so this misreads the author’s purpose.
+
+- **B. It suggests that the houses seem restless and temporary, as if they do not truly belong there.*  
+  The verb “straying” is usually applied to animals or people wandering away, so using it for houses is figurative language. It gives the impression that the houses are unsettled and not firmly rooted in the land, reinforcing the town’s lack of “permanence” and creating a tone of instability and impermanence. This captures the connotative meaning and impact on tone.
+
+- **C. It proves that the people living in the houses are careless and lazy.**  
+  This adds a judgment about the people that the passage never makes. The description is about how the houses appear in the wind-swept, temporary town, not about the character of the residents, so this is an unsupported inference.
+
+- **D. It means that the houses are actually being pushed across the prairie by the strong wind.**  
+  This takes the language literally. The houses are not literally walking or sliding away; “straying off” is figurative, used to create an image of movement and instability. Treating it as a factual description of motion misses the figurative use of the word and the author’s intended tone.
+
+
+================= NEW ITEM =================
+Tier 6a (GPT) #2 (temp=0.8)
+
+2. In the sentence, “He was a little country boy, and this village was to him a very strange and perplexing place, where people wore fine clothes and had hard hearts,” what is the effect of the phrase “hard hearts” on the meaning and tone of the passage?
+
+A. It literally means that the people in the village have serious heart diseases.  
+B. It suggests that the people in the village seem cold and uncaring to the boy.*  
+C. It shows that the boy is impressed by how strong and brave the townspeople are.  
+D. It means that the people in the village are physically strong from doing hard work.
+
+**Correct Answer: B***
+
+**Rationales:**
+
+- **A. It literally means that the people in the village have serious heart diseases.**  
+  This takes “hard hearts” as a literal physical description. In context, the author is describing how the boy feels about the people, not their medical condition, so this ignores the figurative, connotative use of the phrase.
+
+- **B. It suggests that the people in the village seem cold and uncaring to the boy.*  
+  “Hard hearts” is figurative language that usually describes people who lack kindness or sympathy. Here, it reflects the boy’s emotional perspective: he feels that no one notices or helps him and his kitten, so the villagers seem unfeeling. This captures both the meaning and the slightly bitter, lonely tone.
+
+- **C. It shows that the boy is impressed by how strong and brave the townspeople are.**  
+  While “hard” can sometimes suggest toughness, the context (“strange and perplexing place” and the boy’s fear and shyness) points toward emotional coldness, not admiration. This misinterprets the connotation.
+
+- **D. It means that the people in the village are physically strong from doing hard work.**  
+  This treats “hard hearts” as a sign of physical toughness. However, the passage is focused on emotional reactions and how unwelcoming the place feels to the boy, so the phrase is about emotional hardness, not physical strength.

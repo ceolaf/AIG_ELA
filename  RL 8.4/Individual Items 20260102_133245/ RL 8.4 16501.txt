@@ -1,0 +1,30 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 3b (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+   “It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+   Based on how the word is used in this sentence, what does **“recedes”** most nearly suggest about Dr. Blackwell’s approval?
+
+   A. It moves away from Diana no matter how hard she tries to reach it.*  
+   B. It disappears completely and can never be gained.  
+   C. It stays in the same place, waiting for Diana to find it.  
+   D. It changes shape so that Diana cannot recognize it.
+
+**Rationales**
+
+- **A. It moves away from Diana no matter how hard she tries to reach it.*  
+  - “Recedes in the distance” is figurative language. Literally, something that recedes moves farther away. Here, Dr. Blackwell’s approval is compared to something that keeps moving away as Diana tries to reach it, emphasizing her frustration and the discouraging tone. This captures both the meaning of “recedes” and its impact on tone.
+
+- **B. It disappears completely and can never be gained.**  
+  - “Recedes” does not mean “vanishes”; it means to move back or away. The sentence suggests the approval is getting farther away, not that it is entirely gone forever. This overstates the meaning and changes the tone from discouraged to hopeless, which the passage does not support.
+
+- **C. It stays in the same place, waiting for Diana to find it.**  
+  - This is the opposite of “recedes.” If something stays in the same place, it does not move farther into the distance. This choice ignores the figurative image of approval becoming harder to reach and would create a more neutral or patient tone, which contradicts Diana’s sense of growing failure.
+
+- **D. It changes shape so that Diana cannot recognize it.**  
+  - “Recedes” does not suggest changing shape or becoming unrecognizable; it refers to movement away. This answer misinterprets the word and does not fit the image of distance in the sentence. It would imply confusion rather than the increasing emotional distance and discouragement that the author conveys.

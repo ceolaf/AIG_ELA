@@ -1,0 +1,285 @@
+
+
+
+=============== NEW RUN (Claude) - 2025-11-19 17:50:53 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 3a (Claude) #1 (temp=0.7)
+
+Here is a multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In the first paragraph, the author describes the town's buildings as "huddled on the gray prairie." What does the word "huddled" suggest about the town and its relationship to the environment?
+
+A. The buildings are organized in an orderly pattern to maximize protection from storms.
+
+B. *The buildings are crowded together defensively against the harsh, threatening landscape.
+
+C. The buildings are randomly scattered across the prairie without any planning.
+
+D. The buildings are spread out to give each family adequate farming space.
+
+**Rationales:**
+
+**Option A (Incorrect):** While students might associate "huddled" with protection, this option misinterprets the connotation by suggesting organization and planning. The passage explicitly states the houses were "set about haphazard," contradicting the idea of an orderly pattern.
+
+**Option B (Correct):** This captures the connotative meaning of "huddled," which suggests clustering together for protection or warmth, like people huddling against cold. Combined with other word choices in the paragraph ("trying not to be blown away," "howling wind"), this conveys the town's vulnerable, defensive posture against the hostile environment.
+
+**Option C (Incorrect):** Although the passage does mention buildings were placed "haphazard," this option misses the connotative meaning of "huddled." Students selecting this might focus on the literal placement rather than understanding how "huddled" creates a tone of vulnerability and suggests the buildings are seeking protection through proximity.
+
+**Option D (Incorrect):** This contradicts both the denotative meaning of "huddled" (which implies closeness) and the passage's description of a "cluster" of buildings. Students choosing this might be drawing on background knowledge about prairie farming rather than analyzing the specific word choice.
+
+**Final Version:**
+
+In the first paragraph, the author describes the town's buildings as "huddled on the gray prairie." What does the word "huddled" suggest about the town and its relationship to the environment?
+
+A. The buildings are organized in an orderly pattern to maximize protection from storms.
+B. *The buildings are crowded together defensively against the harsh, threatening landscape.
+C. The buildings are randomly scattered across the prairie without any planning.
+D. The buildings are spread out to give each family adequate farming space.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 3a (Claude) #2 (temp=0.8)
+
+Here is another multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In the second paragraph, the author describes the little boy as looking "like a little old man" in his oversized coat. What is the impact of this comparison on the tone of the passage?
+
+A. It creates a humorous tone by highlighting the comical appearance of a child in adult clothing.
+
+B. It establishes a formal tone by comparing the child to someone more mature and respectable.
+
+C. *It creates a pitiful tone by emphasizing how the harsh circumstances have robbed the child of his youth.
+
+D. It develops an optimistic tone by suggesting the boy will quickly grow into his responsibilities.
+
+**Rationales:**
+
+**Option A (Incorrect):** Students might initially think an oversized coat on a small child could be humorous, but this misreads the tone. The surrounding details ("crying bitterly," "chapped and red with cold," "afraid to stop any one") establish a sympathetic rather than comedic atmosphere.
+
+**Option B (Incorrect):** While "old man" might suggest maturity, this interpretation ignores the context. The comparison isn't meant to elevate the child's status but rather to show how poverty and hardship have aged him prematurely. The phrase "little old man" is diminutive, not respectful.
+
+**Option C (Correct):** This captures how the comparison contributes to the passage's sympathetic tone. The image of a five-year-old resembling an "old man" suggests premature aging due to hardship. Combined with other details about his poverty (the much-washed dress, clumsy shoes) and vulnerability, this comparison evokes pity for a child forced to bear adult-sized burdens.
+
+**Option D (Incorrect):** This misinterprets the comparison as positive or forward-looking. Nothing in the passage suggests growth or optimism; instead, the boy is described as "sunk in despair" and overwhelmed by his circumstances. The comparison emphasizes his current suffering, not future potential.
+
+**Final Version:**
+
+In the second paragraph, the author describes the little boy as looking "like a little old man" in his oversized coat. What is the impact of this comparison on the tone of the passage?
+
+A. It creates a humorous tone by highlighting the comical appearance of a child in adult clothing.
+B. It establishes a formal tone by comparing the child to someone more mature and respectable.
+C. *It creates a pitiful tone by emphasizing how the harsh circumstances have robbed the child of his youth.
+D. It develops an optimistic tone by suggesting the boy will quickly grow into his responsibilities.
+
+
+=============== NEW RUN GPT - 2025-11-19 18:02:37 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 3a (GPT) #1 (temp=0.7)
+
+1. Read the sentence from the passage.
+
+   *“It seems that the more I seek her approval, the farther it recedes in the distance.”*
+
+   What is the effect of the word *recedes* in this sentence?
+
+   A. It suggests that Dr. Blackwell is slowly becoming kinder and more welcoming.  
+   *B. It emphasizes how unreachable Dr. Blackwell’s approval feels to the narrator.*  
+   C. It shows that the narrator is physically moving away from Dr. Blackwell.  
+   D. It indicates that the narrator is no longer interested in Dr. Blackwell’s opinion.
+
+---
+
+**Correct Answer: B***
+
+**Rationales**
+
+- **A. It suggests that Dr. Blackwell is slowly becoming kinder and more welcoming.**  
+  This misinterprets the connotation of *recedes*. To “recede” means to move back or farther away. The sentence shows approval moving away, not kindness growing. The tone is one of frustration and distance, not increasing warmth.
+
+- **B. It emphasizes how unreachable Dr. Blackwell’s approval feels to the narrator.***  
+  This correctly interprets the figurative use of *recedes*. The narrator compares Dr. Blackwell’s approval to something that keeps moving farther away the more she tries to reach it. The word choice highlights the narrator’s sense that approval is distant and almost impossible to attain, shaping a tone of discouragement.
+
+- **C. It shows that the narrator is physically moving away from Dr. Blackwell.**  
+  This takes the sentence literally. Nothing in the context suggests physical movement. The “distance” is emotional and symbolic, referring to approval, not location.
+
+- **D. It indicates that the narrator is no longer interested in Dr. Blackwell’s opinion.**  
+  This is the opposite of the meaning. The narrator is very interested in Dr. Blackwell’s opinion and is actively seeking her approval. The word *recedes* shows that, despite her efforts, she feels that approval slipping farther away, not that she has stopped caring.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 3a (GPT) #2 (temp=0.8)
+
+2. Read the sentence from the passage.
+
+   *“If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly disabused of that notion.”*
+
+   What is the effect of the phrase *disabused of that notion* in this sentence?
+
+   A. It shows that the narrator was gently encouraged to keep her unrealistic hopes.  
+   B. It suggests that the narrator was angrily punished for wanting a motherly figure.  
+   *C. It emphasizes that the narrator’s expectation was firmly corrected and proven wrong.*  
+   D. It indicates that the narrator still secretly believes Dr. Blackwell is like a mother.
+
+---
+
+**Correct Answer: C***
+
+**Rationales**
+
+- **A. It shows that the narrator was gently encouraged to keep her unrealistic hopes.**  
+  This misreads the phrase. To be *disabused* of a notion means to be freed from a false idea, not encouraged to keep it. The word has a corrective, not supportive, connotation.
+
+- **B. It suggests that the narrator was angrily punished for wanting a motherly figure.**  
+  While Dr. Blackwell does reprimand the narrator, *disabused* focuses on correcting a mistaken belief, not on punishment or anger. This option overstates the emotional intensity and misses the nuance of the word choice.
+
+- **C. It emphasizes that the narrator’s expectation was firmly corrected and proven wrong.***  
+  This accurately captures the meaning and connotation of *disabused of that notion*. The phrase shows that the narrator learned, through experience, that Dr. Blackwell is not “motherly.” The word choice contributes to a tone of clear-eyed realization rather than comfort.
+
+- **D. It indicates that the narrator still secretly believes Dr. Blackwell is like a mother.**  
+  This is the opposite of the sentence’s meaning. Being *disabused* of a notion means the belief has been taken away, not held onto. The phrase signals that the narrator has let go of that idea.
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 18:07:05 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 3a (Gemini) #1 (temp=0.7)
+
+Here is a unique multiple-choice item aligned to Common Core State Standard RL.8.4, designed for 8th-grade students based on the passage "Dr. Blackwell’s New Assistant."
+
+**Standard:** CCSS.ELA-LITERACY.RL.8.4
+**Passage:** Dr. Blackwell’s New Assistant
+**Item Type:** Multiple Choice
+
+**Item:**
+
+Read the sentence from paragraph 5.
+
+**"That would extinguish my hopes, for the Women’s Medical College that Dr. Blackwell has founded here at the New York Infirmary for Indigent Women and Children is the only institution of its kind."**
+
+What is the impact of the author’s use of the word **extinguish** in this sentence?
+
+A. It creates a resentful tone by suggesting that Dr. Blackwell is intentionally trying to hurt the narrator’s feelings.
+B. It highlights the narrator's intense fear that losing her position means the permanent end of her dream.*
+C. It creates a cautious tone by implying that the narrator’s enthusiasm is dangerous and must be controlled like a fire.
+D. It suggests that the narrator believes her career will be paused temporarily until she can find a different medical school.
+
+**Rationales:**
+
+*   **Option A:** This option is incorrect. While the narrator feels scolded in other parts of the text, the word "extinguish" in this context refers to the loss of "hopes," not the interpersonal conflict or resentment toward the doctor. The focus of the paragraph is on the scarcity of opportunity, not the doctor's malice.
+*   **Option B (*):** This is the correct answer. The word "extinguish" connotes the putting out of a fire or light completely. By using this metaphor, the author emphasizes the high stakes: because this is the "only institution of its kind," leaving would not just be a setback, but the total destruction (darkness/death) of her hope to become a doctor.
+*   **Option C:** This option is incorrect. While "extinguish" is associated with fire, the text does not imply that the narrator's enthusiasm is dangerous or needs to be controlled. This option misinterprets the metaphorical comparison between hope and a flame.
+*   **Option D:** This option is incorrect. "Extinguish" implies a finality, whereas a pause would be better represented by a word like "dampen" or "delay." The text explicitly states this is the "only institution of its kind," refuting the idea that she could simply go elsewhere.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 3a (Gemini) #2 (temp=0.8)
+
+Here is a unique multiple-choice item aligned to Common Core State Standard RL.8.4, designed for 8th-grade students based on the passage "Dr. Blackwell’s New Assistant."
+
+**Standard:** CCSS.ELA-LITERACY.RL.8.4
+**Passage:** Dr. Blackwell’s New Assistant
+**Item Type:** Multiple Choice
+
+**Item:**
+
+Read the sentence from paragraph 4.
+
+**"If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly disabused of that notion."**
+
+What is the impact of the author’s use of the word **disabused** in this sentence?
+
+A. It implies that the narrator feels physically threatened by Dr. Blackwell’s aggressive behavior.
+B. It emphasizes the abrupt and jarring way the narrator’s sentimental expectations were corrected.*
+C. It suggests that the narrator is amused by Dr. Blackwell’s attempt to act like a parent.
+D. It indicates that the narrator remains confused regarding Dr. Blackwell’s contradictory instructions.
+
+**Rationales:**
+
+*   **Option A:** This option is incorrect. Students might choose this if they focus on the root word "abuse" within "disabused" and interpret the sentence literally as the narrator being mistreated. However, in this context, the word refers to the removal of a false idea, not physical or emotional harm.
+*   **Option B (*):** This is the correct answer. To "disabuse" someone is to free them from a misconception or deception. The author uses this word to highlight the sharp contrast between the narrator's fantasy of a "motherly figure" and the harsh reality of the professional, strict doctor. It conveys that the narrator’s illusion was stripped away quickly and efficiently.
+*   **Option C:** This option is incorrect. Students might choose this if they confuse "disabused" with "amused" due to the similar sound, or if they misread the tone. The tone of the paragraph is anxious and serious, not lighthearted or amused.
+*   **Option D:** This option is incorrect. This assumes the definition of "disabused" is related to confusion or a lack of clarity. The text actually supports the opposite; the narrator is very clear now that Dr. Blackwell is *not* a motherly figure. The confusion lies in her medical duties, not in her understanding of Dr. Blackwell's personality.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 18:21:09 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 3a (Claude) #1 (temp=0.7)
+
+Here's a multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In paragraph 4, the narrator states that she hoped "the more I seek her approval, the farther it recedes in the distance." What is the impact of the word "recedes" in this context?
+
+A. It suggests that Dr. Blackwell is physically moving away from the narrator during their interactions.
+
+B. It implies that the narrator's efforts are creating the opposite of her intended effect, like chasing something that keeps slipping away.*
+
+C. It indicates that Dr. Blackwell's standards are decreasing as the narrator tries harder.
+
+D. It shows that the narrator is giving up on earning Dr. Blackwell's respect.
+
+**Rationales:**
+
+**Option A (Incorrect):** Students selecting this option are interpreting "recedes" too literally as physical movement. While "recedes" can mean to move back or withdraw physically, in this context it's being used figuratively to describe the elusive nature of Dr. Blackwell's approval, not actual physical distance between the two characters.
+
+**Option B (Correct):** This is the correct answer. The word "recedes" creates an image of something moving farther away as one approaches it, like waves receding from the shore or a mirage in the desert. This word choice effectively conveys the narrator's frustration that her increased efforts to gain approval are paradoxically making that approval seem more unattainable. The connotative meaning suggests futility and creates a tone of desperation.
+
+**Option C (Incorrect):** Students choosing this option misunderstand what "recedes" means. They may confuse it with "reduces" or "decreases" in quality. The word actually means to move back or become more distant, not to lower in standards or expectations.
+
+**Option D (Incorrect):** This option misinterprets the impact of the word choice. While the narrator is frustrated, the use of "recedes" doesn't suggest she's giving up; rather, it emphasizes her continued pursuit despite the increasing difficulty. The very next paragraph confirms she "must somehow manage to do better," showing she hasn't given up.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 3a (Claude) #2 (temp=0.8)
+
+Here's another multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In paragraph 9, the narrator describes feeling "unjustly reprimanded, like a child caught sneaking sweets from a jar." How does this comparison impact the tone of the passage?
+
+A. It creates a humorous tone by comparing medical training to childhood mischief.
+
+B. It establishes a bitter tone by showing the narrator believes Dr. Blackwell treats her unfairly.*
+
+C. It develops a nostalgic tone by reminding readers of innocent childhood memories.
+
+D. It produces a confident tone by showing the narrator doesn't take criticism seriously.
+
+**Rationales:**
+
+**Option A (Incorrect):** Students selecting this option focus on the childhood imagery without considering the context. While the comparison to sneaking sweets might seem lighthearted in isolation, the word "unjustly" and the overall context of the narrator's struggles make it clear this is not meant to be humorous but rather to emphasize her frustration.
+
+**Option B (Correct):** This is the correct answer. The comparison to a child being caught doing something wrong emphasizes how small and powerless the narrator feels, while the word "unjustly" reveals her resentment. The specific image of sneaking sweets suggests she feels accused of wrongdoing when she was actually trying to help. This contributes to a tone of frustration and injustice, showing the narrator's growing bitterness about her treatment.
+
+**Option C (Incorrect):** Students choosing this option misread the emotional impact of the simile. While it does reference childhood, the context is negative (being caught and reprimanded), not warmly nostalgic. The comparison is meant to show degradation and unfair treatment, not fond memories.
+
+**Option D (Incorrect):** This option represents the opposite of what the text conveys. The narrator's comparison shows she takes the criticism very seriously and personally. Her reaction of biting her tongue and feeling worse when the patient shows sympathy demonstrates that she is deeply affected by the reprimand, not dismissive of it.

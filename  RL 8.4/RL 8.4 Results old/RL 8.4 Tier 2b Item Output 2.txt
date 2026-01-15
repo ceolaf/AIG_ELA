@@ -1,0 +1,39 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 16:56:22 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 2b (GPT) #1 (temp=0.7)
+
+1. Which of the following best explains how the narrator’s comparison “like a child caught sneaking sweets from a jar” affects the meaning and tone of the paragraph?
+
+A. It emphasizes that Dr. Blackwell treats the narrator as if she were much younger and less experienced than she really is, creating a tone of resentment.  
+B. It shows that the narrator feels foolish and guilty after being scolded, creating a tone of embarrassment and self-doubt.*  
+C. It suggests that the narrator has actually been behaving in a childish way at the clinic, creating a tone of playful humor.  
+D. It reveals that the narrator misses the simpler days of her childhood, creating a tone of nostalgia.
+
+**Rationales**
+
+- **Option B (Key)*:**  
+  - The simile appears after Dr. Blackwell snaps, “Less chatter, please, Diana!” and the narrator says, “Once again, I felt unjustly reprimanded, like a child caught sneaking sweets from a jar.”  
+  - The image of a child sneaking sweets suggests feeling guilty and being caught doing something wrong, even if it seems small.  
+  - The phrase “unjustly reprimanded” plus the comparison show that she feels foolish, ashamed, and small, which supports a tone of embarrassment and self-doubt rather than anger or humor.  
+
+- **Option A (Distractor):**  
+  - A reader might notice that the narrator feels “unjustly reprimanded” and infer tension with Dr. Blackwell.  
+  - However, the simile focuses on how the narrator feels (guilty, caught, childish), not on how Dr. Blackwell actually views her.  
+  - The tone in the sentence is more self-conscious and embarrassed than resentful, so this misreads the emotional impact.  
+
+- **Option C (Distractor):**  
+  - The image of “sneaking sweets from a jar” might seem lighthearted to some readers, leading them to think it creates humor.  
+  - But the surrounding words—“snapped,” “unjustly reprimanded,” “bit my tongue”—are serious and negative in tone.  
+  - There is no signal that the narrator finds the situation playful; instead, she feels hurt and ashamed, so this misinterprets the tone.  
+
+- **Option D (Distractor):**  
+  - The mention of a “child” might tempt readers to connect it to childhood memories or nostalgia.  
+  - However, the comparison is about how she feels in the moment (small and caught doing wrong), not about longing for the past.  
+  - Nothing in the paragraph suggests she is reminiscing about “simpler days,” so this adds a meaning not supported by the text.

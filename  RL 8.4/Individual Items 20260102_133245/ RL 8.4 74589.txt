@@ -1,0 +1,58 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 3a (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+   “Every day has brought at least one similar scolding. It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+   As it is used in this sentence, what is the most accurate meaning of the word **“recedes”**?
+
+   A. It disappears completely and can never be found again.  
+   B. It moves farther away and becomes harder to reach.*  
+   C. It changes shape into something unfamiliar.  
+   D. It returns to where it started.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option A: It disappears completely and can never be found again.**
+
+- This goes too far. The narrator says the approval “recedes in the distance,” which suggests it is moving away, not vanishing forever.
+- The tone of the passage shows she still hopes to gain Dr. Blackwell’s respect; it has not “disappeared completely.”
+
+**Option B: It moves farther away and becomes harder to reach.***  
+
+- “Recedes” literally means to move back or farther away.
+- The figurative use here compares Dr. Blackwell’s approval to something that keeps slipping farther out of reach the harder the narrator tries.
+- This meaning supports the discouraged, frustrated tone in the paragraph, showing how her goal feels increasingly distant.
+
+**Option C: It changes shape into something unfamiliar.**
+
+- Nothing in the sentence suggests that the approval is changing its form or nature.
+- The phrase “in the distance” signals movement away, not transformation.
+
+**Option D: It returns to where it started.**
+
+- “Recedes” does not mean “returns”; it means to move back from a point, not to go back to an original starting place.
+- The metaphor focuses on distance growing, not on going back to a beginning.
+
+---
+
+**Final Item Version**
+
+1. Read this sentence from the passage:
+
+   “Every day has brought at least one similar scolding. It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+   As it is used in this sentence, what is the most accurate meaning of the word **“recedes”**?
+
+   A. It disappears completely and can never be found again.  
+   B. It moves farther away and becomes harder to reach.*  
+   C. It changes shape into something unfamiliar.  
+   D. It returns to where it started.

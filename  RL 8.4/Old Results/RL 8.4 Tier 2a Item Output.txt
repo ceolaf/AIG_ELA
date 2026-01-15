@@ -1,0 +1,447 @@
+
+
+========== NEW RUN GPT ==========
+
+
+
+========== NEW ITEM ==========
+
+
+Tier 2a #1 (Temp = 0.7)
+1. Read this sentence from the passage:
+
+   “It seems that the more I seek her approval, the farther it recedes in the distance.”
+
+   What is the best interpretation of the phrase “the farther it recedes in the distance” as it is used in this sentence?
+
+   A. Dr. Blackwell is literally walking away from the narrator more often.  
+   B. The narrator feels that earning Dr. Blackwell’s approval is becoming less likely over time.*  
+   C. Dr. Blackwell is becoming less important to the narrator’s future plans.  
+   D. The narrator is forgetting why she wanted Dr. Blackwell’s approval in the first place.  
+
+---
+
+**Correct Answer: B***
+
+**Rationales:**
+
+- **A. Dr. Blackwell is literally walking away from the narrator more often.**  
+  This is a literal interpretation that ignores the figurative language. “Approval” cannot physically walk away, so this choice does not fit the context.
+
+- **B. The narrator feels that earning Dr. Blackwell’s approval is becoming less likely over time.*  
+  “Recedes in the distance” is used figuratively to compare approval to something moving farther away and harder to reach. In context—after repeated scoldings—this shows that the narrator feels Dr. Blackwell’s approval is becoming more difficult to obtain. This aligns with the figurative meaning and the narrator’s discouraged tone.
+
+- **C. Dr. Blackwell is becoming less important to the narrator’s future plans.**  
+  This would mean the narrator cares less about Dr. Blackwell’s opinion, but the passage shows the opposite: she is desperate for the doctor’s respect and fears being sent away. This misreads the connotation of the phrase.
+
+- **D. The narrator is forgetting why she wanted Dr. Blackwell’s approval in the first place.**  
+  The narrator clearly remembers why she wants the approval—she hopes to become a doctor. The phrase “recedes in the distance” suggests difficulty achieving the goal, not forgetting the reason for it.
+
+
+=============== NEW RUN (Claude) - 2025-11-18 21:29:13 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 2a (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item**
+
+In the passage, the narrator describes feeling "like a child caught sneaking sweets from a jar" when Dr. Blackwell reprimands her. This simile primarily serves to emphasize the narrator's sense of
+
+A. guilt about taking something that doesn't belong to her
+B. nostalgia for the carefree days of her childhood
+C. *shame at being unfairly criticized in front of others*
+D. fear that she will be punished for her actions
+
+---
+
+**Rationales:**
+
+**A. guilt about taking something that doesn't belong to her**
+This option focuses too literally on the comparison to stealing sweets. While the simile does involve wrongdoing, the narrator explicitly states she felt "unjustly reprimanded," indicating she doesn't believe she actually did anything wrong. A student might choose this if they interpret the simile too literally without considering the context of the narrator feeling the reprimand was unfair.
+
+**B. nostalgia for the carefree days of her childhood**
+This option misinterprets the purpose of the childhood reference in the simile. The comparison to childhood is not meant to evoke nostalgia or longing for the past, but rather to illustrate the narrator's feelings in the moment of being scolded. A student might select this if they focus on the childhood element without understanding how it functions within the simile's meaning.
+
+**C. *shame at being unfairly criticized in front of others* (CORRECT)**
+This option correctly identifies how the simile emphasizes the narrator's emotional state. The comparison to a child caught doing something wrong captures the public embarrassment and shame the narrator feels, especially since she believes the criticism is unjust. The simile effectively conveys both the childlike vulnerability she feels and the humiliation of being scolded in front of others (patients, nurses, and students). The context supports this interpretation, as the narrator describes feeling "unjustly reprimanded" and notes that her patient gave her a "sympathetic look," which made her feel even worse.
+
+**D. fear that she will be punished for her actions**
+While fear may be present, this option doesn't capture the primary emphasis of the simile. The comparison to being caught sneaking sweets focuses more on the immediate shame and embarrassment of being caught and scolded rather than anxiety about future consequences. A student might choose this if they focus on the "caught" aspect of the simile without considering the full emotional impact the narrator describes.
+
+
+================= NEW ITEM =================
+Tier 2a (Claude) #2 (temp=0.8)
+
+**Multiple Choice Item**
+
+In the passage, the narrator states that Dr. Blackwell's approval "recedes in the distance" as she seeks it. This figurative language suggests that the narrator's efforts to gain approval
+
+A. are moving her physically farther away from Dr. Blackwell
+B. *become less effective the harder she tries*
+C. require her to travel to distant locations
+D. take too much time to complete properly
+
+---
+
+**Rationales:**
+
+**A. are moving her physically farther away from Dr. Blackwell**
+This option interprets the metaphor too literally, focusing on physical distance rather than the figurative meaning. The phrase "recedes in the distance" is not describing actual physical movement or location, but rather the narrator's perception of how attainable Dr. Blackwell's approval seems to be. A student might choose this if they fail to recognize the figurative nature of the language and instead interpret it as literal movement.
+
+**B. *become less effective the harder she tries* (CORRECT)**
+This option correctly interprets the metaphor's meaning within the context. When something "recedes in the distance," it appears to move farther away even as you try to approach it. The narrator explains that "the more I seek her approval, the farther it recedes," indicating a paradoxical situation where her increased efforts seem to make success less likely rather than more likely. This creates the sense that her anxiety and desperation to please Dr. Blackwell are actually working against her, making the approval seem more unattainable with each attempt.
+
+**C. require her to travel to distant locations**
+This option misinterprets the metaphor as being about literal travel or geographic distance. The "distance" referenced in the phrase is metaphorical, representing the gap between the narrator's current standing with Dr. Blackwell and the approval she desires. A student might select this if they interpret the spatial language literally rather than understanding its figurative application to the narrator's professional relationship.
+
+**D. take too much time to complete properly**
+This option confuses the concept of distance with time. While "recedes in the distance" involves movement, it's not about the duration of the narrator's efforts but rather about how achievable her goal appears to be. The metaphor emphasizes the perceived attainability of approval, not the time required to earn it. A student might choose this if they associate "distance" with the time needed to cover that distance rather than understanding the metaphor's focus on accessibility.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 07:34:47 ===============
+
+
+
+
+=============== NEW RUN (Claude) - 2025-11-19 07:35:37 ===============
+
+
+
+
+=============== NEW RUN (Claude) - 2025-11-19 07:36:09 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 2a (Claude) #1 (temp=0.7)
+
+Here is a multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In the passage, the narrator states that Dr. Blackwell's approval "recedes in the distance." What does this phrase suggest about the narrator's relationship with Dr. Blackwell?
+
+A. The narrator is physically moving farther away from Dr. Blackwell each day.
+
+B. The narrator can see Dr. Blackwell's approval but cannot reach it because of the distance between them.
+
+C. *The narrator feels that earning Dr. Blackwell's respect is becoming increasingly difficult to achieve.
+
+D. The narrator believes Dr. Blackwell will eventually move her medical practice to a distant location.
+
+**Rationales:**
+
+**Option A Rationale:** This response demonstrates a literal interpretation of "recedes in the distance," focusing only on physical distance. Students choosing this option may not recognize that the phrase is used figuratively to describe an emotional or professional relationship rather than a physical one. They miss the metaphorical meaning of the phrase in context.
+
+**Option B Rationale:** This response shows partial understanding of the figurative language but still interprets it too literally. While students recognize that "approval" is something abstract, they may still be thinking of it as something that can be physically seen from a distance. They understand it's figurative but don't fully grasp the emotional implications of the metaphor.
+
+**Option C Rationale (Correct Answer):** This response demonstrates full understanding of the figurative meaning of "recedes in the distance." Students choosing this option recognize that the phrase creates a metaphor comparing Dr. Blackwell's approval to something that moves farther away the more one tries to reach it. They understand that this word choice conveys the narrator's growing frustration and sense that her goal is becoming more elusive, contributing to the tone of discouragement in this part of the passage.
+
+**Option D Rationale:** This response shows a complete misunderstanding of the figurative language, interpreting "recedes in the distance" as a literal prediction about Dr. Blackwell's future actions. Students choosing this option may focus on the word "distance" without considering the context of the sentence about seeking approval, missing both the figurative meaning and the emotional significance of the phrase.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 07:39:11 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 2a (Claude) #1 (temp=0.7)
+
+Here is a multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In the passage, the narrator states that Dr. Blackwell's approval "recedes in the distance." What does this phrase suggest about the narrator's relationship with Dr. Blackwell?
+
+A. The narrator is physically moving farther away from Dr. Blackwell each day.
+
+B. The narrator can see Dr. Blackwell's approval from far away but cannot reach it.
+
+*C. The harder the narrator tries to gain Dr. Blackwell's approval, the more impossible it seems to achieve.
+
+D. Dr. Blackwell's approval exists but is located in a distant place.
+
+**Rationales:**
+
+**Option A:** This response shows a literal misinterpretation of the figurative language. A student choosing this option would be reading "recedes in the distance" as a physical description of movement rather than understanding it as a metaphor for the narrator's emotional experience. This demonstrates a failure to recognize figurative language.
+
+**Option B:** This response shows partial understanding of the figurative nature of the phrase but misses the key relationship between the narrator's efforts and the increasing difficulty of achieving approval. A student might choose this if they recognize it's not literal distance but don't fully grasp the cause-and-effect relationship described in the metaphor.
+
+***Option C:** This is the correct answer. The phrase "recedes in the distance" is a metaphor that captures how the narrator's goal (Dr. Blackwell's approval) seems to move farther away the more she pursues it. The context makes clear that "the more I seek her approval, the farther it recedes," showing the ironic relationship between effort and outcome. This demonstrates full understanding of both the figurative meaning and its impact on conveying the narrator's frustration.
+
+**Option D:** This response treats the metaphor too literally while attempting to acknowledge it's figurative. A student choosing this option recognizes that "approval" isn't a physical object but still interprets "distance" in spatial rather than metaphorical terms, missing the dynamic relationship between seeking and losing that the phrase conveys.
+
+
+================= NEW ITEM =================
+Tier 2a (Claude) #2 (temp=0.8)
+
+Here is another multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In the passage, the narrator describes feeling "like a child caught sneaking sweets from a jar" when Dr. Blackwell reprimands her. What does this comparison reveal about how the narrator perceives her situation?
+
+A. The narrator believes she has done something wrong and deserves punishment.
+
+*B. The narrator feels she is being treated unfairly for something that wasn't truly wrong.
+
+C. The narrator thinks Dr. Blackwell sees her as immature and childish.
+
+D. The narrator wishes she could go back to being a carefree child.
+
+**Rationales:**
+
+**Option A:** This response misses the key word "unjustly" that precedes the simile. A student choosing this option focuses on the idea of being "caught" doing something wrong but ignores the narrator's feeling that the reprimand was unfair. The simile specifically captures the shame of being scolded, not the guilt of actual wrongdoing.
+
+***Option B:** This is the correct answer. The simile "like a child caught sneaking sweets from a jar" follows the narrator's statement that she felt "unjustly reprimanded." The comparison emphasizes the feeling of being made to feel guilty and ashamed despite believing her actions (speaking soothingly to calm a nervous patient) were appropriate and helpful. The analogy captures both the public embarrassment and the sense of unfairness the narrator experiences.
+
+**Option C:** This response focuses on how Dr. Blackwell might view the narrator rather than on how the narrator feels about the situation. While the simile does involve childish behavior, the key impact is not about perceived immaturity but about the emotional experience of feeling wrongly accused and publicly shamed for what the narrator believed was compassionate patient care.
+
+**Option D:** This response misinterprets the simile as expressing nostalgia or a desire to escape responsibility. A student choosing this option might focus on the "child" aspect of the comparison but misses that it's specifically about the experience of being caught and scolded. The narrator is not longing for childhood but rather feeling the sting of what she perceives as unjust criticism.
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 07:45:48 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 2a (Gemini) #1 (temp=0.7)
+
+Here is a multiple-choice item based on the provided passage, aligned to CCSS RL.8.4.
+
+***
+
+**Item**
+
+Read this sentence from paragraph 9.
+
+> Once again, I felt unjustly reprimanded, like a child caught sneaking sweets from a jar.
+
+What is the main effect of the phrase “like a child caught sneaking sweets from a jar”?
+
+A. It emphasizes that the narrator feels Dr. Blackwell’s correction is overly harsh for such a minor action. *
+B. It suggests that the narrator knows she was secretly breaking a rule.
+C. It reveals that the narrator views Dr. Blackwell as a motherly figure who is disappointed in her.
+D. It shows that the narrator is immature and unable to handle the pressures of working in a hospital.
+
+***
+
+**Rationales**
+
+**A. (Correct Answer):** This option correctly analyzes the impact of the simile. The act of a child sneaking sweets is a minor, almost trivial, misdeed. By comparing Dr. Blackwell's scolding to the reaction one might get for such an act, the narrator emphasizes her feeling that the reprimand was disproportionate and that she was being treated as a child for something she did not perceive as a serious offense (comforting a nervous patient).
+
+**B. (Distractor):** This option misinterprets the purpose of the simile. The narrator explicitly states she felt “unjustly reprimanded,” which indicates she did not believe she was in the wrong. The simile is used to describe the *feeling* of being scolded unfairly, not to admit guilt for breaking a rule.
+
+**C. (Distractor):** This option is directly contradicted by the text. In paragraph 4, the narrator states, “If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly disabused of that notion.” The simile highlights a feeling of being patronized, not a feeling of disappointing a maternal figure.
+
+**D. (Distractor):** This option makes an incorrect inference about the narrator's character. The passage establishes her as a capable former field nurse who, by the end of the story, performs her duties expertly under pressure. The simile conveys her frustration with Dr. Blackwell's harsh communication style, not her own inability to cope with her job.
+
+
+================= NEW ITEM =================
+Tier 2a (Gemini) #2 (temp=0.8)
+
+Of course. Here is another unique multiple-choice item aligned to CCSS RL.8.4, based on the same passage.
+
+***
+
+**Item**
+
+Read this sentence from paragraph 5.
+
+> That would extinguish my hopes, for the Women’s Medical College that Dr. Blackwell has founded here at the New York Infirmary for Indigent Women and Children is the only institution of its kind.
+
+How does the author’s use of the word “extinguish” affect the tone of the paragraph?
+
+A. It creates a tone of resentment by suggesting the narrator blames Dr. Blackwell for her struggles.
+B. It creates a tone of uncertainty by showing the narrator is unsure about her future goals.
+C. It creates a tone of desperation by emphasizing the complete and final destruction of the narrator’s dream. *
+D. It creates a tone of exhaustion by implying the narrator is too physically tired to continue her work.
+
+***
+
+**Rationales**
+
+**A. (Distractor):** This option incorrectly identifies the emotion conveyed by the word choice. While the narrator is frustrated, the word “extinguish” relates to the loss of hope, not a feeling of blame or resentment toward another person.
+
+**B. (Distractor):** This option misinterprets the narrator's feelings. The narrator is very certain about her goal of becoming a doctor. The word "extinguish" highlights the high stakes of her current situation, not any indecision about her goals.
+
+**C. (Correct Answer):** This option correctly analyzes the impact of the word choice. "Extinguish" literally means to put out a fire. By using this word figuratively, the author conveys the idea that the narrator’s hopes are like a fragile flame that could be snuffed out completely and permanently. This powerful word choice creates a tone of desperation and shows how high the stakes are for the narrator.
+
+**D. (Distractor):** This option confuses the figurative meaning with a different concept. Although a person can feel "burnt out" or exhausted, the sentence explicitly states that her "hopes" would be extinguished, not her physical energy. The context points to the death of a dream, not physical fatigue.
+
+=============== NEW RUN (Copilot) - 2025-11-19 11:40:24 ===============
+
+
+
+=============== NEW RUN (Copilot) - 2025-11-19 11:45:34 ===============
+
+
+
+=============== NEW RUN (Copilot) - 2025-11-19 12:20:14 ===============
+
+
+
+=============== NEW RUN (Copilot) - 2025-11-19 12:27:12 Conversation f997e8c7-f0cd-4644-bc4d-0addf1e7dcaf ===============
+
+
+
+
+=============== NEW RUN GPT - 2025-11-19 12:31:09 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 2a (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+   “Every day has brought at least one similar scolding. It seems that the more I seek her approval, the farther it recedes in the distance.”
+
+   What is the most accurate meaning of the phrase “the farther it recedes in the distance” as it is used in this sentence?
+
+   A. Her chance of getting Dr. Blackwell’s approval is slowly improving over time.  
+   B. Her goal of earning Dr. Blackwell’s approval feels more and more out of reach.*  
+   C. Dr. Blackwell is becoming less strict and more distant with all the students.  
+   D. Her memories of Dr. Blackwell’s criticism are fading away.
+
+---
+
+### Rationales
+
+**Correct Answer: B. Her goal of earning Dr. Blackwell’s approval feels more and more out of reach.***  
+- The phrase “the farther it recedes in the distance” is figurative language. Literally, something that “recedes in the distance” is moving away from you so you can’t reach it.  
+- In this context, “it” refers to Dr. Blackwell’s approval. The narrator says that each day brings another scolding, and “the more I seek her approval,” the more it seems to move away.  
+- This shows that, emotionally, the narrator feels that gaining approval is becoming less likely, not more likely.
+
+---
+
+**A. Her chance of getting Dr. Blackwell’s approval is slowly improving over time.**  
+- This is the opposite of the figurative meaning.  
+- “Recedes in the distance” suggests moving away, not coming closer.  
+- The surrounding sentences describe repeated scoldings and self-doubt, which support a feeling of failure, not progress.
+
+---
+
+**C. Dr. Blackwell is becoming less strict and more distant with all the students.**  
+- The phrase is about the narrator’s *perception of approval*, not Dr. Blackwell’s physical or emotional distance from “all the students.”  
+- The text focuses on Diana’s personal struggle and her own feelings of inadequacy, not a general change in Dr. Blackwell’s behavior toward everyone.
+
+---
+
+**D. Her memories of Dr. Blackwell’s criticism are fading away.**  
+- “Recedes in the distance” here does not refer to memories in time, but to a goal she is trying to reach.  
+- The passage indicates that the scoldings are frequent and very present in her mind, not fading: “Every day has brought at least one similar scolding.”  
+- Therefore, this interpretation does not match the context or the tone of frustration and discouragement.
+
+
+================= NEW ITEM =================
+Tier 2a (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+   “If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly disabused of that notion.”
+
+   What is the best meaning of the phrase “disabused of that notion” as it is used in this sentence?
+
+   A. I was gently persuaded to keep believing that idea.  
+   B. I was suddenly encouraged to share that idea with others.  
+   C. I was quickly corrected and made to realize that idea was wrong.*  
+   D. I was slowly convinced that the idea was not important.
+
+---
+
+### Rationales
+
+**Correct Answer: C. I was quickly corrected and made to realize that idea was wrong.*  
+- “Disabused of that notion” is a figurative phrase meaning to be freed from a false belief.  
+- The “notion” is that Dr. Blackwell might be a “motherly figure.”  
+- The passage immediately explains that Dr. Blackwell publicly reprimands her and is not gentle or comforting, showing the narrator learned that her belief was mistaken.  
+- “Quickly corrected and made to realize that idea was wrong” fits both the literal meaning of “disabused” and the context.
+
+---
+
+**A. I was gently persuaded to keep believing that idea.**  
+- “Disabused” means to stop believing something, not to keep believing it.  
+- The context shows Dr. Blackwell’s sharp reprimands, which are neither gentle nor supportive of the narrator’s original idea.
+
+---
+
+**B. I was suddenly encouraged to share that idea with others.**  
+- Nothing in the sentence or nearby text suggests sharing the idea.  
+- “Disabused” is the opposite of “encouraged”; it means a belief was taken away, not promoted.
+
+---
+
+**D. I was slowly convinced that the idea was not important.**  
+- “Quickly disabused” indicates a fast change in belief, not a slow one.  
+- The focus is not on the idea being “not important,” but on it being *wrong*—Dr. Blackwell is not motherly as the narrator had hoped.
+
+=============== NEW RUN (Copilot) - 2025-11-19 12:51:05 Conversation ee7ca1e8-598e-4d03-94e3-7d2e789e68c8 ===============
+
+
+
+=============== NEW RUN (Copilot) - 2025-11-19 12:59:02 Conversation fd7c92e0-986c-432d-ab32-0383c1e22d13 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 2a (Copilot) #1
+
+Here’s a complete multiple-choice item aligned to **CCSS RL.8.4** based on the passage:
+
+---
+
+### **Item**
+In paragraph 11, the narrator says, *“I felt unjustly reprimanded, like a child caught sneaking sweets from a jar.”* What does this comparison suggest about the narrator’s feelings toward Dr. Blackwell’s criticism?
+
+**A.** She feels embarrassed and treated as if she were immature.*  
+**B.** She feels grateful for the guidance and eager to improve.  
+**C.** She feels confused about the expectations placed on her.  
+**D.** She feels indifferent to the reprimand and focused on her work.  
+
+---
+
+### **Correct Answer**
+**A.** She feels embarrassed and treated as if she were immature.*
+
+---
+
+### **Rationales**
+- **A (Correct):** The simile compares the narrator to “a child caught sneaking sweets,” which conveys embarrassment and a sense of being scolded like a misbehaving child. This figurative language emphasizes that she feels diminished and treated as if she lacks maturity.
+- **B:** Gratitude and eagerness are not implied; the tone of “unjustly reprimanded” and the childlike comparison suggest resentment, not appreciation.
+- **C:** While the narrator struggles with expectations earlier, this sentence focuses on her emotional reaction to being scolded, not confusion.
+- **D:** The narrator clearly does not feel indifferent; the comparison and her biting her tongue show that the reprimand affects her deeply.
+
+---
+
+Would you like me to **create two more items** based on different figurative phrases in the passage, or **revise this one to include an explanation of tone impact**?
+
+
+================= NEW ITEM =================
+Tier 2a (Copilot) #2
+
+Here’s another unique item based on the same instructions:
+
+---
+
+### **Item: Modular Smart Desk Organizer**
+**Description:**  
+A sleek, customizable desk organizer designed for modern workspaces. It features magnetic modular components that can be rearranged to fit your workflow—pen holders, cable management clips, and a wireless charging pad for your devices. Made from sustainable bamboo and recycled aluminum, it combines functionality with eco-friendly design.
+
+**Key Features:**  
+- **Modular Design:** Rearrange components to suit your needs.  
+- **Wireless Charging:** Built-in Qi-compatible charging pad.  
+- **Eco-Friendly Materials:** Bamboo base and recycled aluminum accents.  
+- **Compact & Stylish:** Fits any desk aesthetic while saving space.  
+
+---
+
+Would you like me to create **another item with a tech focus**, something **for home organization**, or **a travel-friendly gadget**?

@@ -1,0 +1,28 @@
+Standard:  RL 8.1
+Passage: The Night Circus (MA grade 8 2023 MCAS)
+
+============================================================
+
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 5b (GPT) #2 (temp=0.8). (6.46 secs). (5594 + 367 = 5961 total tokens)
+
+2. The passage suggests that Bailey feels a powerful pull to go back to the circus even after his first visit has ended. Which sentence from the passage best supports this idea?
+
+A. “He had hoped it would stay long enough for him to age properly into old enough, but it vanished without notice after two weeks, leaving too-young Bailey heartbroken.”  
+
+B. “They did not stay as long as he would have liked. Bailey would have stayed all night if his parents had let him, there were still so many more tents to explore.”  
+
+C. “He ached to go back almost the moment he walked away.” *  
+
+D. “He wonders if he accepted the dare, in part, to return to the circus sooner.”  
+
+
+**Rationales**
+
+- **Option A:** This shows Bailey’s disappointment when the circus disappeared five years earlier, but it focuses on his younger self and that specific moment of heartbreak, not on an ongoing powerful pull to return after his recent visit.
+
+- **Option B:** This indicates that Bailey wanted to stay longer during that night’s visit, but it mainly describes his feelings while he is still at the circus, not the strong desire that continues after he leaves.
+
+- **Option C (Key):** This sentence directly states that “He ached to go back almost the moment he walked away,” clearly showing an intense, immediate longing to return after his first visit has ended. It most strongly supports the idea of a powerful pull to go back.
+
+- **Option D:** This shows Bailey thinking about why he accepted the dare and hints that returning to the circus is one reason, but it is more about his reasoning than about the strength of his desire. It is supportive, but not as strong or direct as Option C.

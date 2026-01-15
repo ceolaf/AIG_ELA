@@ -1,0 +1,174 @@
+
+
+
+=============== NEW RUN GPT - 2025-12-30 13:02:13 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 2a (GPT) #1 (temp=0.7). (9.61 secs). (2808 + 740 = 3548 total tokens)
+
+1. Which sentence from the passage best supports the inference that Bailey feels a strong pull to return to the circus, beyond just wanting to complete the dare?
+
+A. “He had hoped it would stay long enough for him to age properly into old enough, but it vanished without notice after two weeks, leaving too-young Bailey heartbroken.”  
+
+B. “He wonders if he accepted the dare, in part, to return to the circus sooner.” *  
+
+C. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.”  
+
+D. “He ached to go back almost the moment he walked away.”  
+
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**A. “He had hoped it would stay long enough for him to age properly into old enough, but it vanished without notice after two weeks, leaving too-young Bailey heartbroken.”**  
+- This shows that Bailey was sad when the circus left five years earlier, so it supports that he cared about the circus in the past.  
+- However, the question asks for evidence that supports an inference about his *current* strong pull to return “beyond just wanting to complete the dare.”  
+- This sentence is background information, not the clearest evidence of his present motivation.
+
+**B. “He wonders if he accepted the dare, in part, to return to the circus sooner.”***  
+- This directly supports the inference that Bailey feels a strong inner desire to go back to the circus that goes beyond the dare itself.  
+- The phrase “in part” shows that the dare is only one reason; another reason is his own wish to return.  
+- This sentence most clearly connects his actions (accepting the dare) with his internal motivation (wanting to return), which is exactly what the question asks about.
+
+**C. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.”**  
+- This shows that Bailey is motivated by curiosity as well as the dare.  
+- It supports an inference that his interest is more than just the dare, but it focuses on curiosity in the moment rather than the deeper, ongoing pull to *return* to the circus.  
+- Choice B more strongly and directly links his acceptance of the dare to the desire to return.
+
+**D. “He ached to go back almost the moment he walked away.”**  
+- This shows a strong emotional reaction right after he left the circus previously, supporting that he really wanted to return at that time.  
+- However, it does not explain his motivation for accepting the dare now, which is what the question targets.  
+- It supports his feelings in the past, but B more strongly supports the specific inference about why he takes the dare and his present pull to return.
+
+---
+
+**Final Version of the Item**
+
+1. Which sentence from the passage best supports the inference that Bailey feels a strong pull to return to the circus, beyond just wanting to complete the dare?
+
+A. “He had hoped it would stay long enough for him to age properly into old enough, but it vanished without notice after two weeks, leaving too-young Bailey heartbroken.”  
+
+B. “He wonders if he accepted the dare, in part, to return to the circus sooner.” *  
+
+C. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.”  
+
+D. “He ached to go back almost the moment he walked away.”  
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 2a (GPT) #2 (temp=0.8). (10.72 secs). (3559 + 767 = 4326 total tokens)
+
+2. Which sentence from the passage best supports the inference that the circus is mysterious and difficult to navigate, even for someone who has been there before?
+
+A. “He did not know what tents to choose out of dozens of options, each with tantalizing signs hinting at the contents.”  
+
+B. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”  
+
+C. “Bailey turns right at the end of the passage, and finds himself in a row of tents, each with a door and a sign advertising its contents.”  
+
+D. “Bailey turns around but cannot tell which way he came, the path turns in on itself and he cannot see any of the signs to know which ones he had passed.” *  
+
+
+**Correct Answer: D***
+
+---
+
+### Rationales
+
+**A. “He did not know what tents to choose out of dozens of options, each with tantalizing signs hinting at the contents.”**  
+- This shows that Bailey is overwhelmed by the number of choices and curious about what’s inside the tents.  
+- It supports the idea that the circus is exciting and full of possibilities, but it doesn’t clearly show that it’s *difficult to navigate* or confusing.  
+- The focus is on decision-making, not on getting lost or turned around.
+
+**B. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”**  
+- This shows Bailey’s hesitation and nervousness about going into the circus.  
+- It supports an inference about his fear or reluctance, not about the circus being mysterious or hard to find one’s way through.  
+- It deals with his feelings before entering, not with the layout or navigation inside.
+
+**C. “Bailey turns right at the end of the passage, and finds himself in a row of tents, each with a door and a sign advertising its contents.”**  
+- This describes a clear row of tents with labeled doors and signs, which actually makes the circus seem more organized and understandable.  
+- It does not support the idea that the circus is confusing or difficult to navigate.  
+- It is neutral description rather than evidence of mystery or disorientation.
+
+**D. “Bailey turns around but cannot tell which way he came, the path turns in on itself and he cannot see any of the signs to know which ones he had passed.”***  
+- This directly shows that Bailey is confused and disoriented inside the circus: he “cannot tell which way he came.”  
+- The phrase “the path turns in on itself” suggests a maze-like, mysterious layout that is hard to navigate.  
+- This sentence most strongly supports the inference that the circus is mysterious and difficult to find one’s way through, even for Bailey, who has visited before.
+
+---
+
+**Final Version of the Item**
+
+2. Which sentence from the passage best supports the inference that the circus is mysterious and difficult to navigate, even for someone who has been there before?
+
+A. “He did not know what tents to choose out of dozens of options, each with tantalizing signs hinting at the contents.”  
+
+B. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”  
+
+C. “Bailey turns right at the end of the passage, and finds himself in a row of tents, each with a door and a sign advertising its contents.”  
+
+D. “Bailey turns around but cannot tell which way he came, the path turns in on itself and he cannot see any of the signs to know which ones he had passed.” *
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 2a (GPT) #3 (temp=0.8). (16.99 secs). (4337 + 683 = 5020 total tokens)
+
+3. Which sentence from the passage best supports the inference that the red-haired girl is cautious about Bailey being discovered inside the circus during the day?
+
+A. “She is standing in the middle of the path between the tents, just standing there as though she is waiting for him.”  
+
+B. “You should probably leave before anyone else sees you,” the girl says, glancing over her shoulder, but Bailey cannot tell what she is looking for. *  
+
+C. “The girl takes his hand in her white-gloved one and pulls him down one of the passageways.”  
+
+D. “She helps Bailey squeeze through the bars, which are a bit tighter in this part of the fence.”  
+
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**A. “She is standing in the middle of the path between the tents, just standing there as though she is waiting for him.”**  
+- This suggests that the girl might be expecting Bailey, or at least is not surprised to see him.  
+- It does not show that she is worried or cautious about him being discovered.  
+- There is no mention of other people or any concern about being seen.
+
+**B. “You should probably leave before anyone else sees you,” the girl says, glancing over her shoulder, but Bailey cannot tell what she is looking for.”***  
+- This directly shows her concern that “anyone else” might see Bailey, which indicates she is cautious about him being discovered.  
+- Her glancing over her shoulder reinforces the idea that she is checking for others and being careful.  
+- This is the strongest and most explicit evidence that she is worried about him being found inside the circus.
+
+**C. “The girl takes his hand in her white-gloved one and pulls him down one of the passageways.”**  
+- This shows that she is leading him somewhere, possibly to help him.  
+- While it might suggest she wants to move him quickly, it does not clearly show *why* (no mention of others or being seen), so it is weaker evidence of caution.  
+- The sentence lacks the explicit reference to being seen that makes B stronger.
+
+**D. “She helps Bailey squeeze through the bars, which are a bit tighter in this part of the fence.”**  
+- This shows that she is helping him escape, but it focuses on the physical action of getting through the fence.  
+- It does not directly show her concern about being discovered by others; that motive has to be guessed.  
+- Compared with B, it is less direct as evidence of her cautious attitude.
+
+---
+
+**Final Version of the Item**
+
+3. Which sentence from the passage best supports the inference that the red-haired girl is cautious about Bailey being discovered inside the circus during the day?
+
+A. “She is standing in the middle of the path between the tents, just standing there as though she is waiting for him.”  
+
+B. “You should probably leave before anyone else sees you,” the girl says, glancing over her shoulder, but Bailey cannot tell what she is looking for. *  
+
+C. “The girl takes his hand in her white-gloved one and pulls him down one of the passageways.”  
+
+D. “She helps Bailey squeeze through the bars, which are a bit tighter in this part of the fence.”

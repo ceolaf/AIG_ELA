@@ -1,0 +1,62 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 16:56:51 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 3b (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+> “It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+Based on how the word is used in this sentence, what does the word **“recedes”** most closely suggest about the narrator’s feelings?
+
+A. She believes Dr. Blackwell’s approval is slowly becoming less important to her.  
+B. She feels that Dr. Blackwell’s approval is moving away from her no matter how hard she tries.*  
+C. She thinks Dr. Blackwell’s approval is hidden and must be searched for carefully.  
+D. She is certain that Dr. Blackwell’s approval will come to her if she simply waits patiently.  
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option B (Correct):**  
+- In context, “the more I seek her approval, the farther it recedes in the distance” uses “recedes” figuratively to compare approval to something physically moving farther away.  
+- This word choice emphasizes the narrator’s frustration and discouragement: the harder she works for approval, the more unreachable it feels.  
+- This captures both the literal meaning of “recedes” (moves back/away) and its connotation of something slipping out of reach, which shapes the tone as discouraged and anxious.
+
+**Option A (Distractor):**  
+- “Becoming less important to her” misinterprets the sentence. The narrator is seeking approval more, which shows it is very important to her.  
+- This ignores the figurative comparison of approval to something that is physically moving away; it shifts the focus from “distance” to “importance,” which is not supported by the text.
+
+**Option C (Distractor):**  
+- “Hidden and must be searched for carefully” suggests a static object that is hard to find, not something that is moving away.  
+- This misses the key connotation of “recedes,” which implies motion and increasing distance, not concealment.
+
+**Option D (Distractor):**  
+- “Will come to her if she simply waits patiently” is the opposite of the sentence’s meaning.  
+- The word “recedes” suggests that approval is getting farther away over time, not that it is approaching her.  
+- This choice ignores the discouraging tone created by the author’s word choice and instead suggests confidence and patience, which are not reflected in the passage.
+
+---
+
+**Final Item Version**
+
+1. Read this sentence from the passage:
+
+> “It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+Based on how the word is used in this sentence, what does the word **“recedes”** most closely suggest about the narrator’s feelings?
+
+A. She believes Dr. Blackwell’s approval is slowly becoming less important to her.  
+B. She feels that Dr. Blackwell’s approval is moving away from her no matter how hard she tries.*  
+C. She thinks Dr. Blackwell’s approval is hidden and must be searched for carefully.  
+D. She is certain that Dr. Blackwell’s approval will come to her if she simply waits patiently.  
+
+**Correct Answer: B***

@@ -1,0 +1,55 @@
+Standard:  RL 8.1
+Passage: The Night Circus (MA grade 8 2023 MCAS)
+
+============================================================
+
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 2b (GPT) #3 (temp=0.8). (9.05 secs). (6473 + 721 = 7194 total tokens)
+
+3. Which sentence from the passage best supports the inference that the girl from the circus is cautious about other people discovering Bailey inside the grounds?
+
+A. “She does not say anything more as they walk through the tents, though she makes him stop when they reach a corner and they do not move for almost a minute.” *  
+B. “‘You’re not supposed to be here,’ the red-haired girl says quietly.”  
+C. “She helps Bailey squeeze through the bars, which are a bit tighter in this part of the fence.”  
+D. “The girl smiles. She bites her lip for a second and looks thoughtful, and then she pulls off one of her white gloves and hands it to him through the bars.”
+
+**Correct Answer: A***
+
+---
+
+### Rationales
+
+**Option A (Key):**  
+“She does not say anything more as they walk through the tents, though she makes him stop when they reach a corner and they do not move for almost a minute.”  
+- This detail shows the girl intentionally pausing and waiting at a corner, suggesting she is checking or listening to make sure the way is clear.  
+- Her silence and the long wait indicate careful, cautious behavior so that no one else will see Bailey.  
+- This sentence most strongly supports the inference that she is worried about being discovered with him inside the circus.
+
+**Option B (Distractor):**  
+“‘You’re not supposed to be here,’ the red-haired girl says quietly.”  
+- This shows that the girl knows Bailey is breaking a rule and speaks softly, which could hint at caution.  
+- However, it does not clearly show her taking careful actions to avoid being discovered; it is mainly a statement of fact.  
+- It is relevant but weaker evidence than Option A, which describes her specific cautious behavior.
+
+**Option C (Distractor):**  
+“She helps Bailey squeeze through the bars, which are a bit tighter in this part of the fence.”  
+- This shows that the girl helps Bailey escape, but it focuses on the physical action of getting him out.  
+- It does not clearly show that she is worried about others seeing him, only that she is assisting him in leaving.  
+- The cautious motivation is less evident here than in Option A.
+
+**Option D (Distractor):**  
+“The girl smiles. She bites her lip for a second and looks thoughtful, and then she pulls off one of her white gloves and hands it to him through the bars.”  
+- This shows the girl being kind and reflective as she decides to give Bailey proof for his dare.  
+- It does not relate to her concern about being discovered or to any cautious behavior about others seeing him.  
+- It supports an inference about her generosity, not her caution.
+
+---
+
+**Final Version of the Item**
+
+3. Which sentence from the passage best supports the inference that the girl from the circus is cautious about other people discovering Bailey inside the grounds?
+
+A. “She does not say anything more as they walk through the tents, though she makes him stop when they reach a corner and they do not move for almost a minute.” *  
+B. “‘You’re not supposed to be here,’ the red-haired girl says quietly.”  
+C. “She helps Bailey squeeze through the bars, which are a bit tighter in this part of the fence.”  
+D. “The girl smiles. She bites her lip for a second and looks thoughtful, and then she pulls off one of her white gloves and hands it to him through the bars.”

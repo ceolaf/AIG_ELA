@@ -1,0 +1,27 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 7b (Gemini) #1 (temp=0.7)
+
+Read this sentence from paragraph 9.
+
+> Once again, I felt unjustly reprimanded, like a child caught sneaking sweets from a jar.
+
+What is the main effect of the narrator's comparison?
+
+A. It shows that the narrator is thinking about finding a different, more rewarding job.
+B. It suggests that the narrator knows she has done something wrong and feels guilty.
+C. It implies that the narrator wishes she could go back to the simplicity of her childhood.
+*D. It emphasizes that the narrator feels Dr. Blackwell is treating her in a belittling way.
+
+---
+**Rationales:**
+
+*   **Key (D):** The correct response. The standard (RL.8.4) requires students to analyze the impact of specific word choices, including figurative language. The simile compares the narrator's professional situation to being a child caught in a minor act of mischief. This comparison effectively conveys her feeling that Dr. Blackwell's scolding is demeaning and treats her like an immature child rather than a capable apprentice, thus highlighting the belittling nature of the reprimand.
+
+*   **Distractor (A):** This is incorrect. This option presents an unsupported inference. While the narrator is clearly frustrated, the passage establishes her determination to succeed at the clinic because it is her only opportunity ("That would extinguish my hopes..."). The simile expresses her momentary feeling of being mistreated, not a long-term plan to quit.
+
+*   **Distractor (B):** This is incorrect. This distractor contradicts the explicit text. The narrator states she feels "**unjustly** reprimanded." A student might choose this option if they focus only on the idea of being "caught" in the simile without considering the narrator's stated feeling of injustice or the trivial, childlike nature of "sneaking sweets."
+
+*   **Distractor (C):** This is incorrect. This option misinterprets the purpose of the comparison by making a generic, out-of-context assumption based on the word "child." The simile is not about a general longing for the past (nostalgia) but is used specifically to characterize the negative feeling of being unfairly and childishly scolded in that particular moment.

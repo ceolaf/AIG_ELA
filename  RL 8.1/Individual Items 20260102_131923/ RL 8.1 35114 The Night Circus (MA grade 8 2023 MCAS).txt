@@ -1,0 +1,30 @@
+Standard:  RL 8.1
+Passage: The Night Circus (MA grade 8 2023 MCAS)
+
+============================================================
+
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 5a (GPT) #3 (temp=0.8). (4.70 secs). (3962 + 468 = 4430 total tokens)
+
+3. Which sentence from the passage best supports the idea that Bailey feels nervous and unsure about continuing with the dare as he approaches the circus?
+
+A. “It takes Bailey the better part of ten minutes to walk all the way across the field, and the closer he gets, the larger and more intimidating the tents look, and the more his conviction fades.” *  
+B. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”  
+C. “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+D. “Bailey finds that he does, actually, want to go inside.”  
+
+**Correct Answer: A***
+
+**Rationales**
+
+- **A. “It takes Bailey the better part of ten minutes to walk all the way across the field, and the closer he gets, the larger and more intimidating the tents look, and the more his conviction fades.” *  
+  This sentence directly supports the idea in the question. The tents look “intimidating,” and “the more his conviction fades” clearly shows his nervousness and growing uncertainty about going through with the dare. It is the strongest textual evidence for that idea.
+
+- **B. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”  
+  This shows Bailey looking for a way to avoid entering, which suggests reluctance, but it focuses more on his plan to get proof than on his feelings as he approaches. It is related, but not as strong or direct as option A in showing nervousness and fading confidence.
+
+- **C. “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+  This shows Bailey’s uncertainty about directions and what will count as proof, but it does not clearly show that he feels nervous about the dare itself. It is more about confusion than fear or fading conviction.
+
+- **D. “Bailey finds that he does, actually, want to go inside.”  
+  This sentence indicates desire and curiosity, the opposite of nervous hesitation. It does not support the idea that he is unsure about continuing with the dare.

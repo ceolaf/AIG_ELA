@@ -1,0 +1,45 @@
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual envs (do not commit)
+.venv/
+venv/
+ENV/
+.env
+
+# Jupyter (if any)
+.ipynb_checkpoints/
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Node (if any front-end tooling exists)
+node_modules/
+
+# Docker (project-specific runtime junk—keep images/containers out of git)
+*.pid
+
+#BBEdit project file
+DataFlow.bbprojectd
+
+# Google robot service account
+service-account.json
+
+

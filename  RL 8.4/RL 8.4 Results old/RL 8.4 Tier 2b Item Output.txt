@@ -1,0 +1,89 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 17:28:14 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 2b (GPT) #1 (temp=0.7)
+
+**Item (RL.8.4 – word meaning, figurative language, tone impact)**
+
+Read this sentence from the passage:
+
+> “He was a little country boy, and this village was to him a very strange and perplexing place, **where people wore fine clothes and had hard hearts**.”
+
+What is the best meaning of the phrase “had hard hearts” as it is used in this sentence?
+
+A. They were physically strong and healthy.  
+B. They were wealthy and powerful in the town.  
+C. They were unfriendly and uncaring toward others.*  
+D. They were brave and not easily frightened.
+
+---
+
+### Rationales
+
+**Correct Answer: C. They were unfriendly and uncaring toward others.*  
+- “Hard hearts” is a figurative phrase; hearts cannot literally be hard.  
+- In context, the boy is crying, “My kitten, oh, my kitten! Her will fweeze!” and “the few people who hurried by did not notice him.”  
+- He feels that “this village was to him a very strange and perplexing place,” suggesting he sees the people as cold or unkind.  
+- Therefore, “had hard hearts” conveys the idea that the townspeople seem emotionally cold, unfriendly, and uncaring.
+
+**A. They were physically strong and healthy.**  
+- This misreads “hard” as describing physical toughness rather than emotions.  
+- The sentence focuses on how the boy *feels* about the people (their emotional response to him and his kitten), not their bodies or health.  
+- Nothing in the passage mentions strength or health here, so this is not supported by the text.
+
+**B. They were wealthy and powerful in the town.**  
+- “Fine clothes” might suggest wealth, which can mislead students into thinking “hard hearts” also refers to social status.  
+- However, “hard hearts” describes their *emotional quality*, not their money or power.  
+- The boy’s problem is that no one helps him, not that they are important or influential.
+
+**D. They were brave and not easily frightened.**  
+- This interprets “hard” as “tough” or “fearless,” which might be a common association, but it does not fit the situation.  
+- The scene involves people ignoring a crying child and a freezing kitten; bravery is not mentioned or implied.  
+- The phrase is used to show lack of compassion, not courage.
+
+
+================= NEW ITEM =================
+Tier 2b (GPT) #2 (temp=0.8)
+
+**Item (RL.8.4 – figurative/connotative meaning and tone)**
+
+Read this sentence from the passage:
+
+> “His sister was a tall, strong girl, and she walked rapidly and resolutely, as if she knew exactly where she was going and what she was going to do next. She wore a man’s long ulster (not as if it were an affliction, but as if it were very comfortable and belonged to her; **carried it like a young soldier**), and a round plush cap, tied down with a thick veil.”
+
+How does the comparison “carried it like a young soldier” most affect the tone of this description of Alexandra?
+
+A. It makes her seem playful and careless, as if she does not take anything seriously.  
+B. It makes her seem proud and determined, as if she is ready to face challenges.*  
+C. It makes her seem frightened and unsure, as if she wants to hide from the town.  
+D. It makes her seem weak and helpless, as if she cannot manage on her own.
+
+---
+
+### Rationales
+
+**Correct Answer: B. It makes her seem proud and determined, as if she is ready to face challenges.*  
+- The simile “like a young soldier” is figurative language comparing Alexandra to a soldier.  
+- Soldiers are commonly associated with determination, readiness, and courage.  
+- The passage also says she walked “rapidly and resolutely” and “as if she knew exactly where she was going and what she was going to do next,” reinforcing a tone of strength and purpose.  
+- Therefore, the comparison creates a tone that presents Alexandra as proud, firm, and ready to meet difficulties.
+
+**A. It makes her seem playful and careless, as if she does not take anything seriously.**  
+- “Playful” and “careless” conflict with the words “resolutely” and “serious, thoughtful face” in the passage.  
+- Soldiers are not typically symbols of carelessness; this choice ignores the connotations of “soldier” and the rest of the sentence.
+
+**C. It makes her seem frightened and unsure, as if she wants to hide from the town.**  
+- Nothing in the comparison to a soldier suggests fear or uncertainty.  
+- The passage emphasizes that she walks as if she “knew exactly where she was going and what she was going to do next,” which is the opposite of being unsure.  
+- This answer misreads the figurative language and the surrounding context.
+
+**D. It makes her seem weak and helpless, as if she cannot manage on her own.**  
+- Soldiers are associated with strength and capability, not weakness.  
+- Alexandra is described as “tall, strong” and taking charge of the situation with Emil and the kitten.  
+- This choice contradicts both the connotations of “soldier” and the narrative details.

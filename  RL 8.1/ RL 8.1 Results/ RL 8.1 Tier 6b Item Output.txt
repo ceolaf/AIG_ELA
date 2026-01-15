@@ -1,0 +1,72 @@
+
+
+
+=============== NEW RUN GPT - 2025-12-30 13:05:17 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 6b (GPT) #1 (temp=0.7). (6.40 secs). (5286 + 325 = 5611 total tokens)
+
+1. Which sentence from the passage best supports the idea that Bailey still longs to spend more time at the circus even after his first visit is over?
+
+A. “He could only stare from afar, enchanted, at the tents and the lights.”  
+B. “He could not properly describe it afterward.”  
+*C. “He ached to go back almost the moment he walked away.”*  
+D. “He wonders if he accepted the dare, in part, to return to the circus sooner.”
+
+**Rationales**
+
+- **Option A:** This shows Bailey’s strong interest in the circus when he is too young to visit, but it does not refer to how he feels after his first proper visit is over. It is not the strongest support for the specific idea that he still longs to spend more time there afterward.
+
+- **Option B:** This sentence shows that Bailey has trouble describing the circus, but it says nothing about him wanting to return or spend more time there, so it does not directly support the stated idea.
+
+- **Option C (Key):** This sentence explicitly states that Bailey “ached to go back almost the moment he walked away,” directly and strongly supporting the idea that he still longs to spend more time at the circus after his first visit ends.
+
+- **Option D:** This suggests that Bailey may have accepted the dare partly to return sooner, which implies a desire to go back, but it is less direct and less strong than option C. It focuses on his possible reason for accepting the dare rather than clearly stating his longing right after leaving.
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 6b (GPT) #2 (temp=0.8). (7.66 secs). (5622 + 324 = 5946 total tokens)
+
+2. Which sentence from the passage best supports the idea that Bailey feels nervous about going back into the circus during the day?
+
+A. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”*  
+B. “He finds that he does, actually, want to go inside.”  
+C. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.”  
+D. “Bailey wonders which way he should go, and what might count as proof for his dare.”
+
+**Rationales**
+
+- **Option A (Key):** This sentence clearly shows Bailey “trying to come up with something he can use as proof without having to go in,” which directly supports the idea that he is nervous about entering the circus again during the day.
+
+- **Option B:** This sentence shows that Bailey wants to go inside, which points to his curiosity rather than his nervousness. It does not support the idea that he feels uneasy about going back in.
+
+- **Option C:** Like option B, this focuses on Bailey’s curiosity and desire to go inside “not just because of the dare,” but it does not indicate that he is nervous or reluctant.
+
+- **Option D:** This shows Bailey is uncertain about where to go and what will count as proof, which suggests confusion or indecision, but not necessarily nervousness about entering the circus itself. It is weaker support for the specific idea in the question than option A.
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 6b (GPT) #3 (temp=0.8). (3.61 secs). (5957 + 289 = 6246 total tokens)
+
+3. Which sentence from the passage best supports the idea that Bailey cannot feel the circus’s magic during the daytime?
+
+A. “Bailey doesn’t know what ‘exsanguinated’ means, but he doesn’t much like the sound of it.”  
+B. “If the magic is still there in the daytime, he cannot feel it.”*  
+C. “There doesn’t even appear to be anyone there, as though the whole place is deserted.”  
+D. “The circus feels strange in the daytime, too quiet.”
+
+**Rationales**
+
+- **Option A:** This shows Bailey is unsure about the meaning of a word on the sign and that it bothers him, but it does not mention the circus’s magic or how it feels in the daytime.
+
+- **Option B (Key):** This sentence directly states, “If the magic is still there in the daytime, he cannot feel it,” which explicitly supports the idea that Bailey cannot feel the circus’s magic during the day.
+
+- **Option C:** This shows the circus seems empty and deserted, which contributes to the daytime atmosphere but does not clearly state that Bailey cannot feel any magic.
+
+- **Option D:** This indicates that the circus feels “strange” and “too quiet” in the daytime, suggesting a different mood, but it is less direct than option B about Bailey’s inability to feel the magic.

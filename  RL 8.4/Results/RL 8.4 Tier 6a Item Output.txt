@@ -1,0 +1,206 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 14:41:59 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 6a (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+   “It seems that the more I seek her approval, the farther it recedes in the distance.”
+
+   What is the effect of the phrase “the farther it recedes in the distance” on the tone of this sentence?
+
+   A. It creates a hopeful tone by suggesting that the narrator is getting closer to success.  
+   B. It creates a frustrated tone by comparing approval to something that keeps moving away.*  
+   C. It creates a humorous tone by exaggerating how far away the doctor is standing.  
+   D. It creates a relaxed tone by showing that the narrator does not care much about approval.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option A:**  
+- Misinterprets the figurative phrase. “Recedes in the distance” suggests something moving away, not something getting closer.  
+- This would create a discouraging, not hopeful, feeling.  
+- Does not fit the narrator’s worried, insecure state in this part of the passage.
+
+**Option B (Correct):**  
+- “Recedes in the distance” is used figuratively to compare Dr. Blackwell’s approval to a goal that keeps moving farther away the more the narrator tries to reach it.  
+- This image adds a tone of frustration and discouragement: the narrator feels that her efforts only make success feel less attainable.  
+- Aligns with the context: she feels self-conscious, repeatedly scolded, and afraid she will be sent away.
+
+**Option C:**  
+- Treats the phrase as if it were literal and physical (how far away the doctor is standing), which it is not.  
+- There is nothing humorous in this moment; the narrator feels “unjustly reprimanded” and worried about her future.  
+- Misreads both the figurative language and the tone.
+
+**Option D:**  
+- Directly contradicts the sentence, which shows she cares very deeply about Dr. Blackwell’s approval (“the more I seek her approval”).  
+- “Recedes in the distance” emphasizes her concern and disappointment, not relaxation or indifference.  
+- Ignores the anxious tone running through this section of the passage.
+
+
+================= NEW ITEM =================
+Tier 6a (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+   “Every day has brought at least one similar scolding. It seems that the more I seek her approval, the farther it recedes in the distance.”
+
+   How does the word **“scolding”** most affect the tone of this part of the passage?
+
+   A. It makes the tone admiring, showing how much the narrator looks up to Dr. Blackwell.  
+   B. It makes the tone lighthearted, suggesting that the narrator is not truly upset.  
+   C. It makes the tone tense, emphasizing how harsh and upsetting the doctor’s criticism feels.*  
+   D. It makes the tone formal, focusing on the professional setting of the clinic.
+
+**Correct Answer: C***
+
+---
+
+### Rationales
+
+**Option A:**  
+- “Scolding” has a negative connotation, suggesting sharp or harsh criticism, often directed at a child.  
+- This clashes with an admiring tone; while the narrator does admire Dr. Blackwell overall, this specific word choice focuses on how unpleasant the criticism feels, not on admiration.  
+- Misreads the emotional impact of the word in context.
+
+**Option B:**  
+- A lighthearted tone would require playful or gentle language, but “scolding” suggests seriousness and discomfort.  
+- The narrator already feels that she “could do nothing right” and fears being sent away, which is not light or humorous.  
+- Ignores the stress and insecurity built up in this section.
+
+**Option C (Correct):**  
+- “Scolding” carries a connotation of being sharply corrected, almost like a child being lectured, which adds emotional weight beyond the neutral idea of “correction” or “feedback.”  
+- This choice of word makes the tone tense and anxious, highlighting how harsh and frequent the criticism feels to the narrator.  
+- Fits with nearby phrases like “I felt that I could do nothing right” and “Every day has brought at least one similar scolding.”
+
+**Option D:**  
+- While the setting is professional, “scolding” does not mainly contribute to formality; it emphasizes emotional discomfort and inequality in power.  
+- A formal tone would more likely be created by neutral or technical terms, not by a word that suggests being talked down to.  
+- Misidentifies the primary impact of the word choice on tone.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:47:16 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 6a (Claude) #1 (temp=0.7)
+
+Here is a multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In the passage, the narrator states that Dr. Blackwell's approval "recedes in the distance." In this context, what does the phrase "recedes in the distance" suggest about the narrator's relationship with Dr. Blackwell?
+
+A. The narrator is physically moving farther away from Dr. Blackwell each day.
+
+B. The narrator's memory of Dr. Blackwell's past praise is becoming unclear.
+
+*C. The narrator feels that earning Dr. Blackwell's respect is becoming increasingly difficult to achieve.
+
+D. The narrator believes Dr. Blackwell is deliberately avoiding spending time with her.
+
+**Rationales:**
+
+**Option A:** This response focuses on the literal, spatial meaning of "recedes in the distance," interpreting it as physical movement. However, the author is using this phrase figuratively to describe an emotional and professional dynamic, not a literal geographical relationship. Students choosing this option are missing the figurative language and focusing only on denotative meaning.
+
+**Option B:** This interpretation incorrectly connects "recedes" with fading memory rather than understanding it in the context of the narrator's ongoing struggle. While "recedes" can relate to memory, the passage context shows the narrator is actively seeking approval in the present, not reflecting on past praise that is becoming unclear.
+
+**Option C (Key):** This response correctly recognizes that "recedes in the distance" is used figuratively to convey how Dr. Blackwell's approval feels increasingly unattainable. The phrase creates a metaphorical image of a goal moving away as one tries to reach it, perfectly capturing the narrator's frustration that her efforts to gain respect seem to be having the opposite effect. This word choice emphasizes the narrator's sense of discouragement and the seemingly impossible nature of her goal.
+
+**Option D:** This response misinterprets the figurative language as referring to Dr. Blackwell's intentional behavior rather than the narrator's perception of achieving approval. The passage shows Dr. Blackwell is present and engaged (giving reprimands, working alongside the narrator), so this interpretation doesn't align with the context or the figurative meaning of the phrase.
+
+
+================= NEW ITEM =================
+Tier 6a (Claude) #2 (temp=0.8)
+
+Here is a different multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In the passage, the narrator describes feeling "like a child caught sneaking sweets from a jar" after being reprimanded by Dr. Blackwell. What does this comparison reveal about how the narrator perceives Dr. Blackwell's treatment of her?
+
+A. The narrator believes Dr. Blackwell is trying to teach her proper medical procedures.
+
+*B. The narrator feels she is being treated as someone who has done something wrong and shameful, even when her actions were well-intentioned.
+
+C. The narrator thinks Dr. Blackwell sees her as someone who cannot follow the rules of the clinic.
+
+D. The narrator realizes she needs to ask permission before speaking to patients.
+
+**Rationales:**
+
+**Option A:** This response focuses on the educational aspect of the situation but misses the emotional impact of the specific comparison the author chose. While Dr. Blackwell may indeed be teaching, the simile "like a child caught sneaking sweets" carries connotations of shame, guilt, and unfair punishment that go beyond simple instruction. Students choosing this option are not recognizing the figurative language's emotional undertones.
+
+**Option B (Key):** This response correctly interprets the figurative meaning of the comparison. The image of "a child caught sneaking sweets from a jar" evokes feelings of shame, embarrassment, and being caught doing something wrong, even though the action (sneaking sweets) is relatively innocent. This mirrors the narrator's situation—she was trying to comfort a patient (a well-intentioned act) but feels unjustly shamed. The word choice emphasizes the narrator's sense that the punishment doesn't fit the "crime" and highlights her feeling of being treated unfairly.
+
+**Option C:** This interpretation is too literal and focuses on rule-following rather than capturing the emotional weight of the comparison. While the simile involves a child breaking rules, the key insight is about the shame and disproportionate guilt the narrator feels, not simply about her ability to follow clinic procedures.
+
+**Option D:** This response treats the comparison too practically and misses the figurative meaning entirely. The simile isn't meant to suggest a literal lesson about asking permission, but rather to convey the narrator's emotional state of feeling unfairly shamed and childlike in her embarrassment.
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 15:16:03 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 6a (Gemini) #1 (temp=0.7)
+
+Here is a multiple-choice item written to the specifications provided.
+
+**Item**
+
+In paragraph 5, the narrator says that being sent away would "extinguish my hopes." What is the effect of using the word "extinguish" in this sentence?
+
+A. It implies that the narrator’s passion for medicine has begun to fade due to the challenges she faces.
+B. It suggests that the narrator views Dr. Blackwell as a cruel person who enjoys ending others’ dreams.
+C. It shows that the narrator would be temporarily discouraged but would find another way to pursue her goal.
+*D. It emphasizes that the narrator's dream of becoming a doctor would be completely and permanently ended.
+
+***
+
+**Rationales**
+
+*   **A. Rationale:** This option incorrectly interprets the source of the conflict. The verb "extinguish" implies that an external force (Dr. Blackwell sending her away) would put out the narrator's hopes, which are described as strong. This option suggests the narrator's hopes are fading on their own, which is not supported by the text.
+*   **B. Rationale:** This option makes a judgment about Dr. Blackwell's character that is not the primary focus of the phrase. While the narrator is intimidated by Dr. Blackwell, the effect of the word "extinguish" is to communicate the devastating and final consequence for the narrator, not to define Dr. Blackwell's motives as cruel.
+*   **C. Rationale:** This option misinterprets the finality implied by the word "extinguish." To extinguish a fire is to end it completely, not pause it. This interpretation is also contradicted by the text, which states that this is the "only institution of its kind," meaning there would be no other way for the narrator to achieve her goal.
+*   **D. Rationale (Key):** This is the correct answer. The student must recognize the figurative meaning of "extinguish," which literally means to put out a fire. By applying this to the narrator's "hopes," the author creates a powerful metaphor. This word choice emphasizes that the narrator believes failure would not be a mere setback but the complete and permanent destruction of her dream, just as an extinguished flame cannot be relit. This highlights the high stakes of her apprenticeship.
+
+
+================= NEW ITEM =================
+Tier 6a (Gemini) #2 (temp=0.8)
+
+Here is another unique multiple-choice item written to the specifications provided.
+
+**Item**
+
+Read this sentence from paragraph 7.
+
+>Female physicians are still more of a curiosity than anything.
+
+What is the effect of the author’s choice of the word “curiosity” in this sentence?
+
+A. It suggests that people had many questions about how women were trained to become doctors.
+B. It implies that the clinic was well-known and that people traveled from far away to see it.
+*C. It emphasizes that female doctors were viewed as unusual spectacles rather than as serious professionals.
+D. It shows that patients were more comfortable with female doctors because they were friendlier.
+
+***
+
+**Rationales**
+
+*   **A. Rationale:** This option incorrectly interprets the word "curiosity" by focusing on its denotative meaning related to a desire to know or ask questions. In the context of the sentence, the word is used to describe *what* female physicians are, not what they inspire in others.
+*   **B. Rationale:** This option makes an unsupported inference. While something that is a "curiosity" might attract attention, the word's primary function here is to describe the social perception of female doctors, not the popularity or fame of the clinic itself.
+*   **C. Rationale (Key):** This is the correct answer. The student must understand the connotative meaning of "curiosity" as an unusual or strange object that one might stare at. By using this word, the author highlights the societal prejudice of the time; female doctors were not yet seen as legitimate and normal professionals but as oddities, which diminished their professional standing.
+*   **D. Rationale:** This option contradicts the meaning implied by the word "curiosity." The word suggests a sense of distance and observation, treating the doctors as objects. This is the opposite of the comfort and familiarity this option suggests. The narrator does mention that some patients are more comfortable, but that is a separate point and not the meaning conveyed by this specific word choice.

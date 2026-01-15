@@ -1,0 +1,27 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 3a (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item - RL.8.4**
+
+In the passage, when Diana describes Dr. Blackwell's approval as something that "recedes in the distance," what does this phrase reveal about Diana's emotional state and her relationship with her mentor?
+
+A. It shows that Diana is physically moving farther away from Dr. Blackwell each day.
+
+B. It demonstrates that Diana feels confused about whether she actually wants Dr. Blackwell's approval.
+
+C. *It reveals Diana's growing frustration and sense of hopelessness as her goal seems increasingly unattainable.
+
+D. It indicates that Diana believes Dr. Blackwell is deliberately avoiding her to test her independence.
+
+**Rationales:**
+
+**Option A Rationale:** This response demonstrates a literal interpretation of "recedes in the distance," missing the figurative meaning entirely. A test taker might choose this if they fail to recognize that the phrase is metaphorical rather than describing actual physical distance. The context clearly indicates this is about an emotional/professional relationship, not physical proximity.
+
+**Option B Rationale:** This response misinterprets the connotative meaning of the phrase. While Diana does experience some conflicted feelings about Dr. Blackwell, the phrase "recedes in the distance" suggests something moving away that one is trying to reach, not confusion about wanting it. A test taker might select this if they focus on Diana's mixed emotions about her mentor but miss the specific implication of the chosen metaphor.
+
+**Option C Rationale (KEY):** This response correctly identifies the figurative meaning and emotional impact of the phrase. "Recedes in the distance" creates an image of something desired moving farther away despite one's efforts to reach it, which perfectly captures Diana's mounting frustration and despair. The word choice emphasizes the seemingly impossible nature of gaining Dr. Blackwell's approval, contributing to a tone of discouragement and determination. The phrase suggests both movement away from a goal and the emotional toll of that experience.
+
+**Option D Rationale:** This response incorrectly assumes intentional action on Dr. Blackwell's part and misses the emotional connotations of the phrase. While Dr. Blackwell may indeed be testing Diana, the phrase "recedes in the distance" focuses on Diana's perspective and feelings of the goal becoming more elusive, not on Dr. Blackwell's motivations. A test taker might choose this if they understand the figurative nature but misinterpret who or what is the focus of the metaphor.

@@ -1,0 +1,42 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 2a (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+   “If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly **disabused of that notion**.”
+
+   What does the phrase “disabused of that notion” most nearly mean as it is used in this sentence?
+
+   A. I was gently encouraged to keep believing that idea.  
+   B. I was slowly persuaded to improve on that idea.  
+   C. I was quickly corrected and made to realize that idea was wrong.*  
+   D. I was secretly praised for having that idea.
+
+**Correct Answer: C***
+
+---
+
+### Rationales
+
+**Option C (Correct):**  
+- “Disabused of that notion” is a figurative phrase meaning to be shown that a belief is false.  
+- In context, the narrator expected Dr. Blackwell to be “a motherly figure,” but then describes being publicly reprimanded on the first day and scolded daily afterward.  
+- These details show that she quickly learns her assumption was incorrect, so the phrase means she was corrected and made to realize the idea was wrong.
+
+**Option A (Distractor):**  
+- Says she was encouraged to *keep* believing the idea, which is the opposite of “disabused.”  
+- The harsh public reprimands and repeated scoldings clearly do not support the idea that Dr. Blackwell is motherly.
+
+**Option B (Distractor):**  
+- Suggests the idea was “improved,” not rejected.  
+- The sentence signals a complete change of belief, not a revision or improvement; “disabused” implies being freed from a false belief, not modifying it.
+
+**Option D (Distractor):**  
+- Implies praise, which does not match the tone or events.  
+- The narrator describes feeling “unjustly reprimanded, like a child,” which indicates criticism, not secret approval or praise.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:43:23 ===============

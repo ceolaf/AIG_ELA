@@ -1,0 +1,64 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 7b (GPT) #1 (temp=0.7)
+
+**Item (RL.8.4 – word choice, figurative/connotative meaning, impact on tone)**  
+
+Read this sentence from the passage:
+
+> “Every day has brought at least one similar scolding. **It seems that the more I seek her approval, the farther it recedes in the distance.**”
+
+What is the effect of the phrase “the farther it recedes in the distance” on the meaning and tone of this sentence?
+
+A. It suggests that Dr. Blackwell is physically moving away from Diana, creating a sense of loneliness and isolation.  
+
+B. It emphasizes that Diana’s goal of earning Dr. Blackwell’s approval feels like something she can never quite reach, adding to her frustration and discouragement.*  
+
+C. It shows that Diana is becoming less interested in Dr. Blackwell’s opinion, giving the sentence a calm and confident tone.  
+
+D. It indicates that Dr. Blackwell is ignoring Diana on purpose, making the tone angry and accusing.  
+
+---
+
+### Rationales
+
+**Correct Answer: B***  
+- The phrase “the farther it recedes in the distance” is figurative; approval cannot literally move away.  
+- “Recedes in the distance” connotes something you chase but can’t catch, like a horizon that keeps moving back as you walk toward it.  
+- In context (“Every day has brought at least one similar scolding”), this shows that the more Diana tries, the less successful she feels, which deepens her sense of frustration and discouragement.  
+- This directly addresses how the word choice shapes both meaning (approval feels unreachable) and tone (disheartened).
+
+**A.**  
+- Misinterprets the figurative language as literal physical movement.  
+- The text never indicates that Dr. Blackwell is moving away from Diana; it is Diana’s *approval* that “recedes,” not Dr. Blackwell herself.  
+- While Diana does feel emotionally distant, the key effect here is on the *unreachability* of approval, not on physical loneliness.
+
+**C.**  
+- Contradicts the passage. Diana is *seeking* Dr. Blackwell’s approval more and more; she is not becoming less interested.  
+- The tone in this part of the passage is anxious and self-doubting, not calm or confident.  
+- This answer ignores the connotation of “recedes in the distance,” which implies difficulty and disappointment, not growing indifference.
+
+**D.**  
+- Adds an accusation (“ignoring on purpose”) that is not supported by the text. Dr. Blackwell is strict and critical, but there is no indication she is intentionally pretending Diana doesn’t exist.  
+- The tone is more hurt and discouraged than openly angry or accusing.  
+- This response misreads the figurative phrase as evidence of deliberate cruelty, rather than focusing on how it makes approval feel distant and hard to attain.  
+
+---
+
+**Final Version of Item**
+
+Read this sentence from the passage:
+
+> “Every day has brought at least one similar scolding. **It seems that the more I seek her approval, the farther it recedes in the distance.**”
+
+What is the effect of the phrase “the farther it recedes in the distance” on the meaning and tone of this sentence?
+
+A. It suggests that Dr. Blackwell is physically moving away from Diana, creating a sense of loneliness and isolation.  
+
+B. It emphasizes that Diana’s goal of earning Dr. Blackwell’s approval feels like something she can never quite reach, adding to her frustration and discouragement.*  
+
+C. It shows that Diana is becoming less interested in Dr. Blackwell’s opinion, giving the sentence a calm and confident tone.  
+
+D. It indicates that Dr. Blackwell is ignoring Diana on purpose, making the tone angry and accusing.

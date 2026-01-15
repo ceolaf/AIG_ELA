@@ -1,0 +1,109 @@
+
+
+
+=============== NEW RUN GPT - 2025-12-30 13:04:09 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 4b (GPT) #1 (temp=0.7). (6.71 secs). (5131 + 614 = 5745 total tokens)
+
+1. Which sentence from the passage best supports the inference that Bailey’s desire to return to the circus is stronger than his fear of getting caught trespassing?
+
+A. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.”  
+
+B. “Bailey doesn’t know what ‘exsanguinated’ means, but he doesn’t much like the sound of it.”  
+
+*C. “And beyond proving himself to Caroline and her gang, beneath the curiosity, there is that need to return tugging at him.”*  
+
+D. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”  
+
+
+Rationales:
+
+- **Option A:** “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.”  
+  - *Why a student might pick it:* It shows Bailey wants to go inside and mentions his curiosity, which seems like a strong motive.  
+  - *Why it’s wrong:* This sentence explains that curiosity and the dare motivate him, but it does not clearly show that his longing to return outweighs his fear of trespassing. It lacks the explicit idea of a powerful “need” that overcomes his worries about getting caught.
+
+- **Option B:** “Bailey doesn’t know what ‘exsanguinated’ means, but he doesn’t much like the sound of it.”  
+  - *Why a student might pick it:* It directly mentions his uneasiness, which relates to fear.  
+  - *Why it’s wrong:* This line shows that Bailey is nervous about the threat on the sign, not that his desire to return is stronger than that fear. It highlights fear without showing that he chooses to act despite it.
+
+- **Option C (Key):** “And beyond proving himself to Caroline and her gang, beneath the curiosity, there is that need to return tugging at him.”  
+  - *Why it’s correct:* This sentence explicitly states that Bailey feels a “need to return” that is pulling at him, and it places that need “beyond” and “beneath” other motives like the dare and curiosity. That wording most strongly supports the inference that his deep desire to go back to the circus ultimately drives him more than his fear of trespassing or being caught.
+
+- **Option D:** “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”  
+  - *Why a student might pick it:* It shows that Bailey is worried enough to look for a way to avoid entering, which suggests fear or hesitation.  
+  - *Why it’s wrong:* This sentence actually emphasizes his reluctance and attempts to avoid going in, not that his desire to return is stronger than that fear. It suggests the opposite of the inference in the question.
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 4b (GPT) #2 (temp=0.8). (5.23 secs). (5756 + 490 = 6246 total tokens)
+
+**Item 2**
+
+Which sentence from the passage best supports the inference that the circus has a powerful, lasting effect on Bailey even after he leaves it?
+
+A. “He could not properly describe it afterward. He could only nod when his mother asked if he had enjoyed himself.”  
+
+B. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.”  
+
+C. “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+
+*D. “He ached to go back almost the moment he walked away.”*  
+
+
+**Rationales**
+
+- **Option A:** “He could not properly describe it afterward. He could only nod when his mother asked if he had enjoyed himself.”  
+  - *Why a student might pick it:* It shows that Bailey is deeply affected—so much that he can’t put the experience into words.  
+  - *Why it’s wrong:* This sentence emphasizes his inability to describe the circus, not that the feeling lasts or continues to influence him after he leaves.
+
+- **Option B:** “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.”  
+  - *Why a student might pick it:* It clearly shows strong curiosity and interest in the circus.  
+  - *Why it’s wrong:* This sentence describes his feelings before and during entry, not the lasting effect after he leaves the circus.
+
+- **Option C:** “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+  - *Why a student might pick it:* It shows that Bailey is thinking carefully about the circus and his actions.  
+  - *Why it’s wrong:* This line focuses on his concern about the dare and finding proof, not on a powerful emotional impact that continues after his visit.
+
+- **Option D (Key):** “He ached to go back almost the moment he walked away.”  
+  - *Why it’s correct:* This sentence directly states that as soon as Bailey leaves, he feels an “ache” to return, showing a strong, immediate, and ongoing emotional pull. It most strongly supports the inference that the circus has a powerful, lasting effect on him even after he is no longer there.
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 4b (GPT) #3 (temp=0.8). (5.60 secs). (6257 + 569 = 6826 total tokens)
+
+**Item 3**
+
+Which sentence from the passage best supports the inference that Bailey feels nervous and out of place when he is caught inside the circus during the day?
+
+A. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.”  
+
+B. “Bailey doesn’t know what ‘exsanguinated’ means, but he doesn’t much like the sound of it.”  
+
+*C. “ ‘I . . . uh, I know,’ he says, and it sounds to him like the stupidest thing in the world to say, but the girl only looks at him.”*  
+
+D. “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+
+
+### Rationales
+
+- **Option A:** “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.”  
+  - *Why a student might pick it:* It clearly shows Bailey’s curiosity and desire to enter, which might be mistaken for nervous excitement.  
+  - *Why it’s wrong:* This sentence focuses on his motivation and curiosity before he goes in, not his feelings of nervousness or discomfort when he is actually confronted inside.
+
+- **Option B:** “Bailey doesn’t know what ‘exsanguinated’ means, but he doesn’t much like the sound of it.”  
+  - *Why a student might pick it:* It shows he is uneasy about the warning on the sign, which relates to fear.  
+  - *Why it’s wrong:* This line shows generalized worry about the word on the sign, not the specific moment when he feels awkward and out of place after being discovered by the girl.
+
+- **Option C (Key):** “ ‘I . . . uh, I know,’ he says, and it sounds to him like the stupidest thing in the world to say, but the girl only looks at him.”  
+  - *Why it’s correct:* This sentence directly reveals Bailey’s self-consciousness and discomfort. His stammering (“I . . . uh”) and his thought that what he said sounds “like the stupidest thing in the world” show he feels nervous and out of place when the girl confronts him inside the circus.
+
+- **Option D:** “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+  - *Why a student might pick it:* It shows Bailey is uncertain, which can seem similar to nervousness.  
+  - *Why it’s wrong:* This moment is about planning and confusion over how to complete the dare, not about feeling socially or emotionally out of place after being caught.

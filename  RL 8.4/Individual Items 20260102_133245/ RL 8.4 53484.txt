@@ -1,0 +1,29 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 2a (Gemini) #1 (temp=0.7)
+
+Here is a unique multiple-choice item, with rationales, based on the provided passage and aligned to the specified standard.
+
+***
+
+**Item**
+
+Read this sentence from paragraph 4.
+
+> It seems that the more I seek her approval, the farther it recedes in the distance.
+
+How does this metaphor contribute to the tone of the paragraph?
+
+A. It creates a critical tone by suggesting that Dr. Blackwell is deliberately ignoring the narrator.
+B. It creates a detached tone by showing the narrator is losing her desire to impress Dr. Blackwell.
+C. It creates a frustrated tone by emphasizing the narrator’s feeling that her goal is impossible to reach. *
+D. It creates a mysterious tone by implying that the narrator does not understand what Dr. Blackwell wants from her.
+
+**Rationales**
+
+*   **A. Rationale:** This option is incorrect. The metaphor describes the narrator’s perception of her goal, not a specific action by Dr. Blackwell. While Dr. Blackwell is strict, the phrase “recedes in the distance” focuses on the unattainability of the approval from the narrator’s point of view, rather than suggesting a deliberate act of ignoring her.
+*   **B. Rationale:** This option is incorrect. The text states the opposite; the narrator is actively seeking Dr. Blackwell’s approval. The metaphor highlights her struggle and desire, not a growing detachment or lack of interest.
+*   **C. Rationale:** This is the correct option. A receding object is one that moves farther away, becoming harder to reach or see. By comparing Dr. Blackwell's approval to something that “recedes in the distance,” the narrator powerfully conveys her growing frustration and hopelessness, as her goal seems to become more unattainable the harder she works for it. This directly contributes to the paragraph's frustrated and anxious tone.
+*   **D. Rationale:** This option is incorrect. While the narrator is struggling, the metaphor does not primarily suggest a sense of mystery or confusion about Dr. Blackwell’s expectations. It is focused on the *outcome* of her efforts—failure and the feeling that the goal is unreachable—which creates a tone of frustration, not mystery.

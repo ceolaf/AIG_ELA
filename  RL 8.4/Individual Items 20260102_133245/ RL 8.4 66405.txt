@@ -1,0 +1,29 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 7a (Claude) #1 (temp=0.7)
+
+Here is a multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In the passage, the narrator describes her hopes as something that "would extinguish" if Dr. Blackwell sent her away. How does the author's choice of the word "extinguish" impact the meaning and tone of this part of the text?
+
+A. It emphasizes that the narrator's dreams are delicate and could easily disappear, creating a tone of vulnerability and desperation.
+
+*B. It suggests that the narrator's hopes are like a living flame that could be completely snuffed out, creating a tone of urgency and high stakes.
+
+C. It shows that the narrator's goals are unrealistic and should be put out like a dangerous fire, creating a tone of self-doubt.
+
+D. It indicates that the narrator's ambitions are bright and shining like a light, creating a tone of optimism about her future.
+
+**Rationales:**
+
+**Option A:** This response recognizes some figurative meaning (dreams being delicate) and identifies an appropriate tone (vulnerability/desperation), but it doesn't fully capture the specific connotative power of "extinguish." The word carries stronger implications than mere fragility—it suggests complete destruction of something that was actively burning/alive. This represents a partial understanding that doesn't go deep enough into the word's particular impact.
+
+**Option B (Correct Answer):** This response demonstrates full understanding of how "extinguish" works figuratively in this context. The word choice creates a metaphor comparing the narrator's hopes to a flame or fire—something alive, vital, and burning bright—that could be completely snuffed out. This metaphorical use goes beyond the literal meaning to suggest that her hopes aren't just goals but living, burning aspirations. The connotation creates urgency and high stakes because extinguishing suggests total, irreversible destruction rather than mere disappointment.
+
+**Option C:** This response misinterprets the connotative meaning by suggesting the hopes should be extinguished (as if they were dangerous), rather than understanding that the narrator fears their extinguishment. This represents a fundamental misreading of the figurative meaning and incorrectly identifies the tone as self-doubt rather than fear of loss.
+
+**Option D:** This response confuses "extinguish" with words related to brightness or illumination, missing the figurative meaning entirely. It focuses on a denotative association with light/fire but fails to understand that "extinguish" means to put out or destroy that light. This leads to a completely opposite tone interpretation (optimism instead of anxiety about potential loss).

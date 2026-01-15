@@ -1,0 +1,33 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 4b (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+   “If I was hoping to find a **motherly figure** in Dr. Blackwell, I was quickly disabused of that notion.”
+
+   What is the best interpretation of the phrase **“motherly figure”** as it is used in this sentence?
+
+   A. A woman who replaces the narrator’s real mother at home  
+   B. A strict supervisor who focuses only on rules and discipline  
+   *C. A warm, gentle mentor who offers comfort and encouragement*  
+   D. A famous woman the narrator admires from a distance  
+
+**Rationales**
+
+- **A. A woman who replaces the narrator’s real mother at home**  
+  Incorrect. The phrase is used figuratively, not to mean an actual replacement for her mother. The context is about the narrator’s expectations of Dr. Blackwell’s behavior toward her, not about living arrangements or family roles.
+
+- **B. A strict supervisor who focuses only on rules and discipline**  
+  Incorrect. This describes how Dr. Blackwell actually behaves, but it is the *opposite* of what “motherly figure” suggests. The narrator is disappointed because Dr. Blackwell is *not* motherly in this way.
+
+- **C. A warm, gentle mentor who offers comfort and encouragement* (Key)*  
+  Correct. “Motherly figure” is figurative language suggesting someone nurturing, kind, and supportive, like a caring mother. The narrator’s use of this phrase shows she hoped for emotional support, not just professional training, and the sentence explains that this hope was quickly corrected.
+
+- **D. A famous woman the narrator admires from a distance**  
+  Incorrect. While the narrator does admire Dr. Blackwell, “motherly figure” focuses on a close, caring relationship, not on distant admiration. This option ignores the connotations of comfort and guidance in the phrase.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:45:47 ===============

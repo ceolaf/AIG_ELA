@@ -1,0 +1,135 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 14:41:42 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 5a (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+> “Every day has brought at least one similar scolding. **It seems that the more I seek her approval, the farther it recedes in the distance.**”
+
+What is the most accurate meaning of the phrase “the farther it recedes in the distance” as it is used in this sentence?
+
+A. Her chances of earning Dr. Blackwell’s approval are slowly improving.  
+B. Her desire for Dr. Blackwell’s approval is becoming less important to her.  
+*C. Gaining Dr. Blackwell’s approval feels less and less possible the harder she tries.*  
+D. Dr. Blackwell is becoming physically more distant from her each day.
+
+---
+
+### Rationales
+
+**Option C (Correct):**  
+- The “it” refers to “her approval.”  
+- “Recedes in the distance” is figurative language that suggests something moving farther away and becoming harder to reach.  
+- In context, the narrator explains that she keeps getting scolded and feels she “can do nothing right,” so Dr. Blackwell’s approval seems less attainable the more she tries to earn it.
+
+**Option A (Distractor):**  
+- Says her chances are “improving,” which is the opposite of something “reced[ing] in the distance.”  
+- Ignores the negative context of repeated scoldings and self-doubt.
+
+**Option B (Distractor):**  
+- Misreads the phrase as describing her feelings about approval rather than how attainable it is.  
+- The passage shows she still strongly wants approval; she worries she will be sent away and that this would “extinguish my hopes,” so her desire is not fading.
+
+**Option D (Distractor):**  
+- Takes the phrase literally, as if Dr. Blackwell is physically moving away.  
+- The sentence is about approval, not physical distance, so this misinterprets the figurative language.
+
+
+================= NEW ITEM =================
+Tier 5a (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+> “It seems that the more I seek her approval, the farther it recedes in the distance.”
+
+How does the author’s use of the word **“recedes”** most affect the tone of this sentence?
+
+A. It creates a hopeful tone by suggesting that approval is slowly approaching.  
+B. It creates a frustrated tone by suggesting that approval keeps slipping away from her. *  
+C. It creates a calm tone by suggesting that approval is resting in one place.  
+D. It creates a playful tone by suggesting that approval is teasing her like a game.
+
+---
+
+### Rationales
+
+**Option B (Correct):**  
+- “Recedes” means to move back or away.  
+- In context, the narrator is repeatedly scolded and feels she “can do nothing right,” so using “recedes” makes Dr. Blackwell’s approval feel like something that keeps moving farther out of reach.  
+- This contributes to a frustrated, discouraged tone.
+
+**Option A (Distractor):**  
+- “Recedes” suggests moving away, not “approaching.”  
+- This directly contradicts the image in the sentence and ignores the negative context of her failures.
+
+**Option C (Distractor):**  
+- A “calm” tone would fit a neutral or stable image, but “recedes” implies ongoing loss or retreat.  
+- The narrator is anxious about being sent away, not calm.
+
+**Option D (Distractor):**  
+- Nothing in the passage suggests a playful or joking situation.  
+- The comparison to approval moving away is serious and discouraging, not lighthearted “teasing.”
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:46:16 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 5a (Claude) #1 (temp=0.7)
+
+**Item:**
+
+In the passage, the narrator describes feeling "like a child caught sneaking sweets from a jar" after being reprimanded by Dr. Blackwell. What does this comparison reveal about the narrator's emotional state?
+
+A. She feels guilty about taking something that doesn't belong to her.
+
+B. She feels embarrassed about being caught doing something she knew was wrong.
+
+*C. She feels unfairly shamed and treated as immature despite her good intentions.
+
+D. She feels hungry and distracted by thoughts of food during work.
+
+**Rationales:**
+
+**Option A:** This response focuses only on the literal elements of the comparison (taking something that doesn't belong) without recognizing how the simile functions in context. The narrator isn't actually taking anything; she was speaking kindly to a patient. A student selecting this option likely missed the figurative nature of the comparison and how it relates to the narrator's actual situation.
+
+**Option C (Key):** This response correctly identifies the connotative meaning of the comparison. The simile reveals the narrator's feeling of being unjustly treated—she was doing something she believed was right (comforting a frightened patient) but was made to feel ashamed, much like a child who might be scolded even when their intentions were innocent. The comparison emphasizes her sense of being treated as immature and her frustration with the unfairness of the reprimand, which aligns with her earlier statement that she felt "unjustly reprimanded."
+
+**Option B:** This response partially understands the comparison but misses the crucial element of injustice that the narrator feels. While the comparison does involve embarrassment, the narrator explicitly states she felt "unjustly reprimanded," indicating she doesn't believe she was doing something wrong. A student choosing this option recognizes some figurative meaning but doesn't fully grasp how the author uses this simile to convey the narrator's sense of unfair treatment.
+
+**Option D:** This response completely misses the figurative nature of the comparison and focuses on an irrelevant literal interpretation. The "sweets" in the simile are not meant to suggest actual hunger or food, but rather represent the universal childhood experience of being caught and scolded. A student selecting this option likely struggles with recognizing figurative language and its purpose in conveying emotional states.
+
+
+================= NEW ITEM =================
+Tier 5a (Claude) #2 (temp=0.8)
+
+**Item:**
+
+In the passage, the narrator states that Dr. Blackwell's approval "recedes in the distance" the more she seeks it. What does this phrase suggest about the narrator's struggle?
+
+A. Dr. Blackwell is physically moving farther away from the narrator during their interactions.
+
+B. The narrator needs to get eyeglasses because she cannot see Dr. Blackwell clearly.
+
+*C. The narrator's efforts to impress Dr. Blackwell seem to make success feel increasingly unattainable.
+
+D. Dr. Blackwell is planning to move her office to a location farther from the narrator's workspace.
+
+**Rationales:**
+
+**Option A:** This response interprets the phrase literally, focusing on physical distance rather than recognizing the metaphorical meaning. A student selecting this option likely misses how the author uses spatial imagery to represent an emotional and professional relationship. They fail to understand that "distance" here refers to the gap between the narrator's current performance and her goal of earning approval.
+
+**Option B:** This response also takes a literal approach to the visual imagery in the phrase but misattributes the problem to the narrator's eyesight rather than understanding the figurative meaning. A student choosing this option likely recognizes that "recedes in the distance" involves vision and distance but doesn't grasp how these elements work metaphorically to describe the narrator's frustration with her elusive goal.
+
+**Option C (Key):** This response correctly identifies the figurative meaning of the phrase. The metaphor of something "receding in the distance" suggests that despite the narrator's efforts—or perhaps because of them—her goal of earning Dr. Blackwell's approval seems to become more difficult to achieve. The spatial imagery effectively conveys the narrator's sense of futility and growing desperation as her attempts to succeed appear to backfire, making her objective feel increasingly out of reach.
+
+**Option D:** This response focuses on a literal interpretation involving physical relocation of an office space. A student selecting this option completely misses the metaphorical nature of the language and doesn't recognize how the author uses the concept of distance to represent the emotional and professional gap between the narrator's current standing and her desired relationship with Dr. Blackwell.

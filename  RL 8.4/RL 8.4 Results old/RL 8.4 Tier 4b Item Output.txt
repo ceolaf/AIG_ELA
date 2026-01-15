@@ -1,0 +1,74 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 17:28:51 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 4b (GPT) #1 (temp=0.7)
+
+1. Read the sentence from the passage.
+
+> “The little town of Hanover, **anchored on a windy Nebraska tableland**, was trying not to be blown away.”
+
+In this sentence, what is the most accurate meaning of the word **“anchored”** as it is used, and how does this word choice affect the tone of the description?
+
+A. It means the town is safely fastened in place, giving the scene a calm and secure tone.  
+B. It means the town is loosely attached, giving the scene a playful and lighthearted tone.  
+*C. It suggests the town is being held down with effort against powerful forces, giving the scene a tense and precarious tone.*  
+D. It suggests the town is sinking into the land, giving the scene a gloomy and hopeless tone.
+
+---
+
+### Rationales
+
+**Option A:**  
+- Why a student might choose it: They know “anchor” usually means to fasten something securely, like a ship, and may focus only on that literal meaning.  
+- Why it is incorrect: The rest of the sentence—“was trying not to be blown away”—shows the town is *not* calm or fully secure. The wind is threatening, so the tone is not calm and safe. This misses the tension created by the figurative use of “anchored.”
+
+**Option B:**  
+- Why a student might choose it: They may think “anchored” just means “attached” and confuse the harsh wind with playfulness.  
+- Why it is incorrect: “Anchored” does not suggest being “loosely” attached, and nothing in the description (“howling wind,” “trying not to be blown away”) is playful or lighthearted. This conflicts with the text’s mood.
+
+**Option C (Key):**  
+- Why it is correct: In context, “anchored” is figurative. The town is compared to something that must be held down against a force, like a ship in a storm. The phrase “trying not to be blown away” shows that strong winds threaten it. This word choice makes the town seem small and vulnerable, creating a tense, precarious tone as if it could be ripped away despite being “anchored.”
+
+**Option D:**  
+- Why a student might choose it: They may associate “anchored” with being weighed down and interpret that as “sinking,” then link that to a gloomy mood.  
+- Why it is incorrect: The sentence focuses on the wind possibly blowing the town away, not on the town sinking. The tone is anxious and wind-battered, not hopeless because of sinking. This adds an idea that is not supported by the text.
+
+
+================= NEW ITEM =================
+Tier 4b (GPT) #2 (temp=0.8)
+
+2. Read the sentence from the passage.
+
+> “The dwelling-houses were set about haphazard on the tough prairie sod; some of them looked as if they had been moved in overnight, and others as if they were **straying off by themselves, headed straight for the open plain**.”
+
+What is the effect of the author’s use of the phrase **“straying off by themselves”** in this sentence?
+
+A. It literally shows that the houses are slowly sliding away because the ground is unstable.  
+B. It suggests the houses are being carefully moved farther apart to make room for more buildings.  
+*C. It personifies the houses as if they can wander away, emphasizing how temporary and unsettled the town feels.*  
+D. It hints that the owners are abandoning their homes forever, creating a tone of total despair.
+
+---
+
+### Rationales
+
+**Option A:**  
+- Why a student might choose it: They may read “straying off” as a physical movement and take the description literally.  
+- Why it is incorrect: The houses can’t actually move on their own; the phrase is figurative. The passage does not mention unstable ground or sliding, but rather how the houses *looked*.
+
+**Option B:**  
+- Why a student might choose it: They may assume “straying off” means being moved on purpose and connect it to town growth.  
+- Why it is incorrect: “Straying” suggests wandering without control, not careful planning. The town is described as “haphazard,” not orderly or expanding in a planned way.
+
+**Option C (Key):**  
+- Why it is correct: “Straying off by themselves” is figurative language that personifies the houses, as if they are living things that can wander away. This image supports the earlier idea that the town has “no appearance of permanence” and makes the town seem loose, temporary, and easily scattered by the wind, reinforcing an unsettled tone.
+
+**Option D:**  
+- Why a student might choose it: They may connect “straying off” with people leaving and assume the worst about the town’s future.  
+- Why it is incorrect: The sentence describes how the houses *look*, not what the owners are doing or feeling. The tone is uneasy and impermanent, but not one of “total despair” or definite abandonment.

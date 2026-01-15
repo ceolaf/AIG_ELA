@@ -1,0 +1,81 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 17:29:36 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 7a (GPT) #1 (temp=0.7)
+
+1. In the sentence “The little creature had never been so high before, and she was too frightened to move. Her master was **sunk in despair**,” what is the effect of the phrase “sunk in despair” on the tone of this part of the passage?
+
+A. It makes the scene seem calm and peaceful, as if the boy has accepted what happened.  
+B. It makes the boy’s sadness seem deep and overwhelming, as if it weighs him down.*  
+C. It suggests that the boy is angry and ready to fight whoever caused the problem.  
+D. It shows that the boy is confused and uncertain about what actually happened.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option B (Correct):**  
+- The phrase “sunk in despair” uses figurative language. Literally, “sunk” means to go down into something, like sinking into water.  
+- Here, “sunk” suggests the boy’s despair is so heavy it pulls him down emotionally, emphasizing how intense and overwhelming his sadness is.  
+- This word choice darkens the tone of the moment, making it feel heavy and serious rather than mildly sad.  
+
+**Option A (Distractor):**  
+- “Calm and peaceful” misreads the connotation of “sunk in despair.”  
+- Despair is a strong negative emotion, not acceptance or peace.  
+- A student choosing this is likely focusing only on the idea of “sunk” as being still or settled, without considering the strong negative tone of “despair.”  
+
+**Option C (Distractor):**  
+- Nothing in “sunk in despair” suggests anger or being “ready to fight.”  
+- “Despair” connotes hopelessness and deep sadness, the opposite of active anger.  
+- This reflects a misunderstanding of the denotative and connotative meaning of “despair,” confusing it with frustration or rage.  
+
+**Option D (Distractor):**  
+- “Confused and uncertain” does not match the phrase.  
+- The boy knows exactly what happened: his kitten is stuck on the pole and might freeze.  
+- “Sunk in despair” shows a clear emotional state (hopeless sadness), not confusion.  
+- A student choosing this may be giving a generic emotional description instead of one rooted in the specific wording and context.
+
+
+================= NEW ITEM =================
+Tier 7a (GPT) #2 (temp=0.8)
+
+2. In the description, the town of Hanover is described as “anchored on a windy Nebraska tableland” and its buildings are said to be “huddled on the gray prairie, under a gray sky.” How do these word choices (“anchored” and “huddled”) work together to shape the tone of the setting?
+
+A. They make the town seem cheerful and welcoming, as if everyone is safely gathered together.  
+B. They make the town seem powerful and secure, firmly holding its place against nature.  
+C. They make the town seem small and vulnerable, clinging to the land against the harsh wind.*  
+D. They make the town seem busy and crowded, full of energy and constant activity.
+
+**Correct Answer: C***
+
+---
+
+### Rationales
+
+**Option C (Correct):**  
+- “Anchored” usually describes a ship held in place so it won’t drift away; here it suggests the town is being held down so it won’t be “blown away” by the wind.  
+- “Huddled” often describes people crowding together for warmth or protection, not comfort.  
+- Together, these words imply the town is fragile and exposed, needing to cling to the land, which creates a tone of vulnerability and struggle against the harsh environment.
+
+**Option A (Distractor):**  
+- While “huddled” can sometimes suggest warmth or closeness, in this context it appears with “windy,” “gray prairie,” and “gray sky,” which are bleak details.  
+- The overall tone is not cheerful or welcoming but cold and harsh.  
+- This choice ignores the negative connotations created by the surrounding description.
+
+**Option B (Distractor):**  
+- “Anchored” might suggest stability, but here it is “anchored on a windy Nebraska tableland” and “trying not to be blown away,” which undercuts any sense of power.  
+- The town is resisting the wind, not dominating it.  
+- This misreads “anchored” as purely strong and secure, without considering the struggle implied by the context.
+
+**Option D (Distractor):**  
+- Nothing in “anchored” or “huddled” suggests busyness or energy.  
+- The passage emphasizes emptiness and stillness: the children are in school, shopkeepers stay behind windows, the street is nearly empty.  
+- This answer projects an idea of “crowded” or “full of activity” that is not supported by the text or the specific word choices.

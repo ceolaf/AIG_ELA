@@ -1,0 +1,290 @@
+
+
+
+=============== NEW RUN (Claude) - 2025-11-19 17:49:22 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 2a (Claude) #1 (temp=0.7)
+
+## Multiple Choice Item
+
+**Question:** In paragraph 1, the author describes the buildings as "huddled on the gray prairie." What does the word "huddled" suggest about the town and its relationship to the environment?
+
+A. The buildings were carefully arranged according to a planned design to maximize efficiency.
+
+B. *The buildings were grouped closely together as if seeking protection from the harsh surroundings.
+
+C. The buildings were spread far apart to give each family adequate farming space.
+
+D. The buildings were constructed using the finest materials available to withstand storms.
+
+**Rationales:**
+
+**Option A (Incorrect):** Students selecting this option may have focused on the fact that buildings were grouped together but missed the connotative meaning of "huddled." The text explicitly states the houses were "set about haphazard," which directly contradicts the idea of careful arrangement or planned design.
+
+**Option B (Correct):** This is the correct answer. The word "huddled" carries a connotation of seeking shelter or protection, suggesting vulnerability. Combined with the context of the "howling wind" and the town "trying not to be blown away," this word choice emphasizes how the buildings seem to cluster together defensively against the harsh Nebraska weather. The personification created by "huddled" makes the buildings seem almost alive and fearful.
+
+**Option C (Incorrect):** Students choosing this option have misunderstood the meaning of "huddled," which implies closeness rather than distance. They may have been thinking about typical prairie settlements but ignored the specific language of the text that describes a "cluster" of buildings.
+
+**Option D (Incorrect):** This option represents a misreading of the passage's tone and details. The text describes the buildings as "low drab buildings" with "no appearance of permanence," and notes that "the howling wind blew under them as well as over them," suggesting poor construction rather than fine materials.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 2a (Claude) #2 (temp=0.8)
+
+## Multiple Choice Item
+
+**Question:** In paragraph 2, the author describes the little boy's coat as making him "look like a little old man." What is the impact of this comparison on the reader's understanding of the boy's situation?
+
+A. It shows that the boy is mature for his age and capable of handling difficult situations independently.
+
+B. It suggests that the boy is wearing expensive clothing that makes him appear distinguished and wealthy.
+
+C. *It emphasizes the boy's poverty and vulnerability by highlighting how his oversized, worn clothing diminishes his childhood.
+
+D. It indicates that the boy is pretending to be older to gain respect from the townspeople.
+
+**Rationales:**
+
+**Option A (Incorrect):** Students selecting this option have misinterpreted the comparison. While "old man" might suggest maturity, the context reveals the opposite—the boy is crying, frightened, and unable to solve his problem. The comparison is about his appearance due to the oversized coat, not his actual maturity or capabilities.
+
+**Option B (Incorrect):** This option misreads both the literal and figurative meaning. The text explicitly describes the coat as "much too big for him" and mentions his "shrunken brown flannel dress" that had been "washed many times," clear indicators of poverty, not wealth. The comparison to an "old man" is not flattering but rather pitiful.
+
+**Option C (Correct):** This is the correct answer. The comparison creates a poignant image that emphasizes the boy's unfortunate circumstances. The oversized coat, likely a hand-me-down, overwhelms his small frame and robs him of his youthful appearance. Combined with other details about his worn clothing and his helpless crying, this comparison strengthens the reader's sympathy for the child and understanding of his impoverished, vulnerable state.
+
+**Option D (Incorrect):** Students choosing this option have ignored the context surrounding the comparison. The boy is described as "crying bitterly," "afraid to stop any one," and wanting "to hide behind things for fear someone might laugh at him." These details show he seeks to avoid attention rather than gain respect, and the "old man" appearance is involuntary, caused by the oversized coat.
+
+
+=============== NEW RUN GPT - 2025-11-19 17:59:41 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 2a (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+> “It seems that the more I seek her approval, the farther it **recedes in the distance**.”
+
+What is the most accurate meaning of the phrase “recedes in the distance” as it is used in this sentence?
+
+A. Her approval becomes less important to the narrator over time.  
+B. Her approval seems to move farther and farther out of the narrator’s reach.*  
+C. Her approval is hidden from the narrator by the other students and nurses.  
+D. Her approval eventually disappears completely and is forgotten.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option B (Correct):**  
+- The verb “recedes” literally means “moves back” or “withdraws.”  
+- The figurative phrase “recedes in the distance” suggests something that seems to move farther away as you move toward it.  
+- In context, the narrator says, “It seems that the more I seek her approval, the farther it recedes in the distance.” This shows that even though she tries harder, Dr. Blackwell’s approval feels harder to get.  
+- Therefore, the phrase means that the doctor’s approval feels increasingly out of reach.
+
+**Option A (Distractor):**  
+- “Becomes less important” refers to a change in the narrator’s feelings about approval.  
+- The passage shows the opposite: the narrator cares very deeply about gaining Dr. Blackwell’s respect and is worried about being sent away.  
+- Nothing suggests that approval is less important; instead, it feels less attainable.  
+- This misinterprets the emotional tone and the figurative language.
+
+**Option C (Distractor):**  
+- This choice takes “recedes in the distance” too literally, as if the approval is physically blocked or hidden by other people.  
+- The text does not say the other students or nurses keep her from Dr. Blackwell’s approval.  
+- The phrase is figurative, about emotional distance and difficulty, not physical obstruction.
+
+**Option D (Distractor):**  
+- “Disappears completely and is forgotten” suggests that the narrator stops thinking about or caring about approval.  
+- In context, she is constantly thinking about it and feels more anxious as she keeps being scolded.  
+- The phrase “farther it recedes” implies increasing distance, not total disappearance.  
+- This overstates the meaning and ignores the nuance of the figurative expression.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 2a (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+> “If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly **disabused of that notion**.”
+
+What does the phrase “disabused of that notion” most nearly mean as it is used in this sentence?
+
+A. I was gently encouraged to keep believing that idea.  
+B. I was forced to abandon that idea when I learned it was wrong.*  
+C. I was punished for speaking that idea out loud.  
+D. I was reminded that my mother would never approve of that idea.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option B (Correct):**  
+- “Disabused” means to free someone from a false belief or idea.  
+- The “notion” is that Dr. Blackwell might be a “motherly figure.”  
+- The narrator explains that Dr. Blackwell “thought nothing of reprimanding me in front of all the other students” and scolds her daily, which clashes with the idea of a warm, gentle, motherly mentor.  
+- Therefore, the narrator is forced to give up that mistaken belief, so “disabused of that notion” means she had to abandon that idea when she saw it was wrong.
+
+**Option A (Distractor):**  
+- “Encouraged to keep believing” is the opposite of “disabused.”  
+- The context shows the narrator’s experience proves her hope of a “motherly figure” was incorrect, not supported.  
+- This choice ignores the contrast set up by “If I was hoping… I was quickly disabused…”
+
+**Option C (Distractor):**  
+- Nothing in the passage shows the narrator being punished for saying her idea aloud; in fact, she only shares this thought with the reader as part of her reflection.  
+- “Disabused” refers to changing her belief, not being punished for expressing it.
+
+**Option D (Distractor):**  
+- This option brings in the narrator’s actual mother, who is not mentioned in this specific sentence.  
+- The phrase “disabused of that notion” is about correcting a misunderstanding about Dr. Blackwell, not about what her mother would think.  
+- This misreads the “motherly figure” comparison and adds information not supported by the text.
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 18:05:03 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 2a (Gemini) #1 (temp=0.7)
+
+Here is a unique multiple-choice item aligned to Common Core State Standard RL.8.4 based on the passage "Dr. Blackwell’s New Assistant."
+
+**Standard:** RL.8.4: Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone, including analogies or allusions to other texts.
+
+**Item ID:** RL8.4_Blackwell_Simile
+
+**Passage Segment:** Paragraph 9
+
+**Item:**
+
+Read the sentence from paragraph 9.
+
+“Once again, I felt unjustly reprimanded, like a child caught sneaking sweets from a jar.”
+
+What is the impact of the author’s use of the simile “like a child caught sneaking sweets from a jar”?
+
+A. It suggests that the narrator is secretly breaking hospital rules to help her patients.
+B. It reveals that the narrator feels belittled and embarrassed by the criticism.*
+C. It indicates that the narrator views Dr. Blackwell as a nurturing mother figure.
+D. It implies that the narrator admits she was behaving immaturely during the exam.
+
+**Rationales:**
+
+*   **Option A is incorrect.** While the simile refers to "sneaking," the narrator was not actually hiding anything or breaking a serious rule; she was comforting a patient. The simile describes her emotional reaction to the scolding, not her actual actions.
+*   **Option B is correct.** The author uses this simile to convey the intense feeling of shame and loss of status the narrator experiences. Despite being an experienced war nurse, the scolding makes her feel small, powerless, and stripped of her professional dignity, much like a naughty child.
+*   **Option C is incorrect.** Although the simile uses a child/parent dynamic, the context is negative (scolding/punishment). Furthermore, paragraph 4 explicitly states the narrator was "disabused of that notion" regarding finding a mother figure in Dr. Blackwell.
+*   **Option D is incorrect.** The narrator explicitly states she felt "unjustly" reprimanded. She believes her behavior (comforting the patient) was correct, so she is not admitting to immaturity; rather, she is expressing that she is being *treated* as if she were immature.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 2a (Gemini) #2 (temp=0.8)
+
+Here is a unique multiple-choice item aligned to Common Core State Standard RL.8.4 based on the passage "Dr. Blackwell’s New Assistant."
+
+**Standard:** RL.8.4: Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone, including analogies or allusions to other texts.
+
+**Item ID:** RL8.4_Blackwell_Vocabulary_Context
+
+**Passage Segment:** Paragraph 4
+
+**Item:**
+
+Read the sentence from paragraph 4.
+
+“If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly **disabused of that notion**.”
+
+Based on the context of the paragraph, what is the meaning of the phrase **disabused of that notion**?
+
+A. made to feel ashamed of her lack of medical skill
+B. forced to accept that her idea was incorrect*
+C. told to leave the clinic because of her error
+D. treated unfairly by someone she trusted
+
+**Rationales:**
+
+*   **Option A is incorrect.** While the narrator does feel ashamed of her mistakes later in the paragraph ("reprimanded me in front of all"), the specific phrase "disabused of that notion" refers to the correction of her specific hope (finding a mother figure), not her general feeling of shame regarding her skills.
+*   **Option B is correct.** The word "disabuse" means to persuade someone that an idea or belief is mistaken. The context provides a contrast: the narrator hoped for a "motherly figure," but Dr. Blackwell’s strict behavior proved that hope to be wrong. Therefore, she was forced to realize her belief was incorrect.
+*   **Option C is incorrect.** The narrator mentions later in the passage that she fears she will be "sent away," but in this specific sentence, she is not being fired. She is simply having her expectations about Dr. Blackwell’s personality corrected.
+*   **Option D is incorrect.** Students may choose this option because the word "disabused" contains the word "abuse," leading them to believe the narrator was mistreated. However, in this context, the phrase is idiomatic and refers to the removal of a misconception, not physical or emotional mistreatment.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 18:19:47 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 2a (Claude) #1 (temp=0.7)
+
+Here is a multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In paragraph 4, Diana says, "If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly disabused of that notion." 
+
+What does the word "disabused" mean in this context, and how does this word choice impact the tone of the passage?
+
+A. "Disabused" means encouraged; it creates a hopeful tone by showing Diana was motivated to work harder.
+
+B. "Disabused" means confused; it creates an uncertain tone by showing Diana didn't understand Dr. Blackwell's teaching methods.
+
+C. *"Disabused" means freed from a false belief; it creates a disillusioned tone by showing Diana's expectations were harshly corrected.
+
+D. "Disabused" means criticized; it creates an angry tone by showing Diana felt personally attacked by Dr. Blackwell.
+
+**Rationales:**
+
+**Option A (Incorrect):** A student might select this if they misunderstand the prefix "dis-" as sometimes meaning "more" or "again" (as in "discover"). However, in context, Diana is clearly disappointed that Dr. Blackwell is not motherly, not encouraged by this fact. The tone following this statement is one of disappointment, not hope.
+
+**Option B (Incorrect):** A student might choose this if they focus on Diana's general confusion about her performance but miss the specific meaning of "disabused." While Diana is uncertain about her abilities, the word "disabused" specifically refers to being corrected from a mistaken belief, not being confused.
+
+**Option C (Correct):** This is correct because "disabused" means to be freed from or corrected of a false belief or misconception. Diana had the false belief that Dr. Blackwell would be motherly, but she was quickly shown this was incorrect through Dr. Blackwell's harsh reprimands. The word choice creates a tone of disillusionment—Diana's romantic expectations about her mentor have been replaced with a harsher reality.
+
+**Option D (Incorrect):** A student might select this if they confuse "disabused" with "abused" and think it relates to criticism. While Dr. Blackwell does criticize Diana, the word "disabused" specifically means being corrected from a false belief, not being criticized. Additionally, while Diana feels frustrated, the tone is more disappointed than angry.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 2a (Claude) #2 (temp=0.8)
+
+Here is another multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In paragraph 4, Diana describes Dr. Blackwell's approval as something that "the more I seek her approval, the farther it recedes in the distance."
+
+How does this figurative language impact the meaning and tone of Diana's experience?
+
+A. It compares approval to a race, suggesting Diana feels competitive with the other students.
+
+B. *It compares approval to something physically moving away, emphasizing Diana's growing sense of futility and frustration.
+
+C. It compares approval to a journey, showing that Diana understands she must travel far to become a doctor.
+
+D. It compares approval to a mirage, indicating that Diana believes Dr. Blackwell's approval doesn't really exist.
+
+**Rationales:**
+
+**Option A (Incorrect):** A student might select this if they associate "distance" with racing or competition. However, the passage doesn't suggest Diana is competing with other students for approval. The metaphor specifically describes approval moving away from her personally, not her falling behind others in a race.
+
+**Option B (Correct):** This is correct because the figurative language creates an image of approval as something that physically moves farther away the more Diana pursues it—like trying to reach something that keeps backing away. This paradoxical movement emphasizes her frustration and the futility she feels; her efforts seem to have the opposite effect of what she intends. The tone becomes one of desperation and discouragement.
+
+**Option C (Incorrect):** A student might choose this if they interpret "distance" as referring to the long journey to becoming a doctor. While Diana does have a long path ahead, this specific figurative language is about Dr. Blackwell's immediate approval of her daily work, not the overall journey to her career goal.
+
+**Option D (Incorrect):** A student might select this if they over-interpret the metaphor of distance as meaning something illusory or unreal. While the approval seems unreachable, Diana doesn't suggest it's fake or doesn't exist—she eventually does receive it at the end of the passage, proving it was real but elusive.

@@ -1,0 +1,42 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 6a (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+   “It seems that the more I seek her approval, the farther it recedes in the distance.”
+
+   What is the effect of the phrase “the farther it recedes in the distance” on the tone of this sentence?
+
+   A. It creates a hopeful tone by suggesting that the narrator is getting closer to success.  
+   B. It creates a frustrated tone by comparing approval to something that keeps moving away.*  
+   C. It creates a humorous tone by exaggerating how far away the doctor is standing.  
+   D. It creates a relaxed tone by showing that the narrator does not care much about approval.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option A:**  
+- Misinterprets the figurative phrase. “Recedes in the distance” suggests something moving away, not something getting closer.  
+- This would create a discouraging, not hopeful, feeling.  
+- Does not fit the narrator’s worried, insecure state in this part of the passage.
+
+**Option B (Correct):**  
+- “Recedes in the distance” is used figuratively to compare Dr. Blackwell’s approval to a goal that keeps moving farther away the more the narrator tries to reach it.  
+- This image adds a tone of frustration and discouragement: the narrator feels that her efforts only make success feel less attainable.  
+- Aligns with the context: she feels self-conscious, repeatedly scolded, and afraid she will be sent away.
+
+**Option C:**  
+- Treats the phrase as if it were literal and physical (how far away the doctor is standing), which it is not.  
+- There is nothing humorous in this moment; the narrator feels “unjustly reprimanded” and worried about her future.  
+- Misreads both the figurative language and the tone.
+
+**Option D:**  
+- Directly contradicts the sentence, which shows she cares very deeply about Dr. Blackwell’s approval (“the more I seek her approval”).  
+- “Recedes in the distance” emphasizes her concern and disappointment, not relaxation or indifference.  
+- Ignores the anxious tone running through this section of the passage.

@@ -1,0 +1,438 @@
+
+
+
+=============== NEW RUN (Claude) - 2025-11-19 17:51:29 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 3b (Claude) #1 (temp=0.7)
+
+I'll develop a multiple choice item aligned to RL.8.4, focusing on figurative and connotative meanings and the impact of word choices on meaning and tone.
+
+## Draft Item:
+
+**Stem:**
+Read this description from the passage:
+
+"The dwelling-houses were set about haphazard on the tough prairie sod; some of them looked as if they had been moved in overnight, and others as if they were straying off by themselves, headed straight for the open plain."
+
+What does the author's use of the word "straying" suggest about the houses and the town?
+
+**Answer Options:**
+
+A. The houses were built by people who got lost on their way to other destinations.
+
+B. *The houses appear temporary and disconnected, as if they might wander away like lost animals.
+
+C. The houses were constructed carelessly by builders who didn't follow proper plans.
+
+D. The houses were being physically moved by the strong prairie winds.
+
+**Rationales:**
+
+**Option A (Distractor):** A student might select this if they interpret "straying" too literally and think it refers to the people who built the houses rather than understanding it as a figurative description of how the houses appear. This misses the metaphorical comparison.
+
+**Option B (Key):** This is correct because "straying" personifies the houses, comparing them to animals that might wander off. This word choice emphasizes the impermanent, unsettled nature of the town and creates a tone of instability and isolation. The connotation suggests the houses lack roots or connection to the place.
+
+**Option C (Distractor):** Students might choose this because the passage mentions houses were "set about haphazard," but this option focuses on construction quality rather than the figurative meaning of "straying" and its impact on tone.
+
+**Option D (Distractor):** This represents a misunderstanding where students take the figurative language literally, thinking the wind is actually moving the houses, rather than understanding this as a metaphorical description of their appearance.
+
+## LBIDAT Evaluation:
+
+**Stem & Task:** ✓ 
+- The task appropriately asks students to analyze the impact of a specific word choice on meaning and tone
+- Aligned to RL.8.4's focus on figurative and connotative meanings
+- Grade-appropriate cognition
+
+**The Key:** ✓
+- Directly responsive to the question
+- Definitively correct in identifying the figurative meaning and tonal impact
+
+**Distractors:** ✓
+- Each distractor responds to the question
+- Each represents a plausible misunderstanding or misinterpretation
+- All are definitively incorrect
+- No duplicates; each follows from different reasoning
+
+**Stimulus:** ✓
+- Passage excerpt is necessary to answer the question
+- No construction errors
+- Appropriate length and complexity
+
+**Fairness:** ✓
+- No inappropriate sensitivity topics
+- Content is neutral and appropriate for 8th grade
+
+## Final Version:
+
+**Read this description from the passage:**
+
+"The dwelling-houses were set about haphazard on the tough prairie sod; some of them looked as if they had been moved in overnight, and others as if they were straying off by themselves, headed straight for the open plain."
+
+**What does the author's use of the word "straying" suggest about the houses and the town?**
+
+A. The houses were built by people who got lost on their way to other destinations.
+
+B. *The houses appear temporary and disconnected, as if they might wander away like lost animals.
+
+C. The houses were constructed carelessly by builders who didn't follow proper plans.
+
+D. The houses were being physically moved by the strong prairie winds.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 3b (Claude) #2 (temp=0.8)
+
+I'll develop another multiple choice item aligned to RL.8.4, focusing on a different aspect of figurative language and word choice impact.
+
+## Draft Item:
+
+**Stem:**
+In the passage, the narrator describes the little boy's coat as making him "look like a little old man." How does this comparison affect the reader's understanding of Emil's situation?
+
+**Answer Options:**
+
+A. It shows that Emil is mature for his age and handles problems like an adult would.
+
+B. It suggests that Emil borrowed his grandfather's coat because his family is poor.
+
+C. *It emphasizes how small and vulnerable Emil is, lost in clothing too large for his tiny frame.
+
+D. It indicates that Emil is trying to dress formally to impress the townspeople.
+
+**Rationales:**
+
+**Option A (Distractor):** Students might select this if they focus on the word "man" and assume it refers to maturity or adult-like behavior, missing that the comparison actually emphasizes the opposite—his helplessness and youth.
+
+**Option B (Distractor):** This represents a literal interpretation where students create a backstory not supported by the text. They might choose this because poverty is implied elsewhere, but this misses the figurative impact of the comparison.
+
+**Option C (Key):** This is correct because the comparison creates a poignant image that emphasizes Emil's vulnerability. The oversized coat swallowing his small body reinforces his helplessness in this situation, creating sympathy in the reader. The juxtaposition of "little" and "old man" highlights how out of place and overwhelmed he is.
+
+**Option D (Distractor):** Students might choose this if they misinterpret the "old man" comparison as relating to formal dress, possibly connecting it to the passage's mention of "people wore fine clothes," but this misses the emotional impact of the description.
+
+## LBIDAT Evaluation:
+
+**Stem & Task:** ✓
+- Appropriately asks students to analyze the impact of a figurative comparison
+- Aligned to RL.8.4's focus on figurative meaning and its effect
+- Grade-appropriate cognition
+
+**The Key:** ✓
+- Directly responsive to the question about the comparison's effect
+- Definitively correct in identifying the emotional and descriptive impact
+
+**Distractors:** ✓
+- Each distractor responds to the question
+- Each represents a different plausible misinterpretation
+- All are definitively incorrect
+- No duplicates; distinct reasoning paths
+
+**Stimulus:** ✓
+- Passage is necessary to understand the full context
+- No construction errors
+- Appropriate complexity for grade level
+
+**Fairness:** ✓
+- No inappropriate sensitivity topics
+- Content is appropriate for 8th grade
+
+## Final Version:
+
+**In the passage, the narrator describes the little boy's coat as making him "look like a little old man." How does this comparison affect the reader's understanding of Emil's situation?**
+
+A. It shows that Emil is mature for his age and handles problems like an adult would.
+
+B. It suggests that Emil borrowed his grandfather's coat because his family is poor.
+
+C. *It emphasizes how small and vulnerable Emil is, lost in clothing too large for his tiny frame.
+
+D. It indicates that Emil is trying to dress formally to impress the townspeople.
+
+
+=============== NEW RUN GPT - 2025-11-19 18:02:54 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 3b (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage.
+
+> “It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+As it is used in this sentence, what is the **best** meaning of the word *recedes*?
+
+A. becomes less important to her  
+*B. moves farther away from her reach*  
+C. changes into something different  
+D. disappears completely and forever  
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option A: becomes less important to her**
+
+- This might seem reasonable because “approval” could become less important to Dr. Blackwell, but the sentence compares approval to something “in the distance,” suggesting physical movement away, not importance.
+- The figurative image is of something she is trying to reach that keeps moving away, not of approval losing value.
+- Therefore, this misinterprets the connotation of “recedes” in context.
+
+**Option B: moves farther away from her reach***  
+
+- “Recedes” literally means to move back or move farther away.
+- The narrator says, “the more I seek her approval, the farther it recedes in the distance,” which uses a metaphor: approval is like an object she is chasing that keeps moving away.
+- This captures both the literal meaning (moving back) and the figurative idea that her goal of winning approval feels harder to reach.
+- This aligns with RL.8.4 by recognizing the figurative use and its impact on tone—her frustration and discouragement.
+
+**Option C: changes into something different**
+
+- Nothing in the sentence suggests that Dr. Blackwell’s approval is changing into something else.
+- The focus is on distance (“in the distance”), not on transformation.
+- This choice ignores the spatial metaphor signaled by “farther” and “distance.”
+
+**Option D: disappears completely and forever**
+
+- “Recedes” suggests gradual movement away, not sudden or total disappearance.
+- The narrator still hopes to gain Dr. Blackwell’s respect, so her approval has not vanished; it just feels harder to reach.
+- This overstates the meaning and does not match the tone of struggle and hope that remains in the passage.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 3b (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage.
+
+> “If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly **disabused** of that notion.”
+
+As it is used in this sentence, what is the **best** meaning of the word *disabused*?
+
+A. warned ahead of time to be careful  
+B. convinced that she should look for someone else  
+*C. corrected from a mistaken belief she had*  
+D. comforted after being disappointed  
+
+**Correct Answer: C***
+
+---
+
+### Rationales
+
+**Option A: warned ahead of time to be careful**
+
+- “Warned” suggests someone tells her in advance to avoid danger.
+- In the passage, the narrator has already formed a hope and then realizes it is wrong after Dr. Blackwell reprimands her.
+- The timing is not “ahead of time” but after the mistaken hope, so this does not fit the context.
+
+**Option B: convinced that she should look for someone else**
+
+- This focuses on finding a different person, but the sentence focuses on changing a belief (“that notion”) about Dr. Blackwell herself.
+- The narrator is not necessarily planning to replace Dr. Blackwell; she is realizing her idea of Dr. Blackwell as “motherly” was incorrect.
+- This adds an idea (looking for someone else) that is not supported by the text.
+
+**Option C: corrected from a mistaken belief she had***  
+
+- “Disabused” means to free someone from a false idea or mistaken belief.
+- The “notion” is that Dr. Blackwell might be a “motherly figure”; her strict public reprimands show that this was a wrong expectation.
+- This captures the figurative sense of her being “freed” from an illusion and shows how the word choice sharpens the tone of disappointment and realism.
+
+**Option D: comforted after being disappointed**
+
+- “Comforted” is the opposite of what happens; Dr. Blackwell scolds her “in front of all the other students,” which makes her feel worse, not better.
+- The word “disabused” has a harsher, corrective connotation, not a soothing one.
+- This misreads the emotional tone of the sentence.
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 18:07:50 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 3b (Gemini) #1 (temp=0.7)
+
+**Item**
+
+**Stem:**
+Read the sentence from paragraph 9.
+
+“Once again, I felt unjustly reprimanded, like a child caught sneaking sweets from a jar.”
+
+What is the impact of the phrase **like a child caught sneaking sweets from a jar** on the meaning of the sentence?
+
+**Options:**
+A. It reveals that the narrator believes she has successfully deceived Dr. Blackwell.
+B. It emphasizes the narrator's feeling of humiliation and lack of authority. *
+C. It suggests that the narrator is acting immaturely for her age and position.
+D. It implies that Dr. Blackwell is trying to protect the narrator from making mistakes.
+
+**Rationales:**
+
+*   **A:** This option is incorrect. The phrase "caught sneaking" implies that any attempt to hide her actions was unsuccessful, not that she successfully deceived the doctor. Furthermore, the narrator was not actually trying to deceive anyone; she was comforting a patient.
+*   **B:** **Correct.** The simile compares the narrator, a professional nurse, to a "child," which emphasizes her lack of power in the situation. The image of being "caught sneaking sweets" evokes a specific feeling of shame and smallness, highlighting how humiliated she feels by the scolding, even though she believes her actions (comforting a patient) were correct.
+*   **C:** This option is incorrect. While the simile uses the word "child," the narrator states she was "unjustly" reprimanded. This indicates that she believes her behavior was appropriate for her role as a nurse (comforting a patient), not that she agrees she was acting immaturely.
+*   **D:** This option is incorrect. The context of the sentence is a "snap" and a "reprimand" from Dr. Blackwell. The simile conveys a punitive tone (getting in trouble), not a protective or nurturing one.
+
+***
+
+**LBIDAT Evaluation**
+
+*Stem & Task*
+**✓** The task is clearly aligned to RL.8.4, requiring the student to analyze the impact of specific word choices (a simile) on meaning. The cognitive load is appropriate for 8th grade.
+
+*The Key*
+**✓** The key is definitively correct based on the text. It captures the connotative nuance of the simile (humiliation/smallness) within the context of the narrator's reaction ("unjustly reprimanded").
+
+*Distractors*
+**✓** The distractors are plausible but definitively incorrect.
+*   Distractor A relies on a misinterpretation of "sneaking" (focusing on the act rather than the result of being caught).
+*   Distractor C relies on a misinterpretation of the narrator's perspective (confusing Dr. Blackwell's view with the narrator's internal feeling).
+*   Distractor D relies on a misreading of the tone (mistaking the "mother/child" imagery for protection rather than discipline).
+
+*Stimulus*
+**✓** The stimulus is a grade-appropriate literary text. The item requires close reading of paragraph 9 to answer.
+
+*Fairness*
+**✓** There are no inappropriate sensitivity topics raised by the item or the specific sentence selected.
+
+**Summary:** **✓ ✓ ✓ ✓ ✓** (No Critical Issues detected).
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 3b (Gemini) #2 (temp=0.8)
+
+**Item**
+
+**Stem:**
+Read the sentence from paragraph 4.
+
+“It seems that the more I seek her approval, the farther it **recedes in the distance**.”
+
+What is the impact of the phrase **recedes in the distance** on the meaning of the sentence?
+
+**Options:**
+A. It implies that Dr. Blackwell is physically moving away from the narrator.
+B. It emphasizes that the narrator feels Dr. Blackwell’s approval is staying out of reach. *
+C. It suggests that Dr. Blackwell is becoming increasingly emotionally cold toward the narrator.
+D. It indicates that the narrator is losing her desire to become a doctor.
+
+**Rationales:**
+
+*   **A:** This option is incorrect. It applies a literal interpretation to a figurative phrase. The context of the paragraph describes the narrator's psychological struggle under Dr. Blackwell's "watchful eye," not the doctor's physical movements across the room.
+*   **B:** **Correct.** The phrase uses a metaphor to compare Dr. Blackwell's "approval" to a physical destination or object. By stating that the approval moves "farther" away as the narrator tries to approach it ("seek" it), the author highlights the narrator's feeling of futility and the sense that satisfying her mentor is an unattainable goal.
+*   **C:** This option is incorrect. While the text establishes that Dr. Blackwell is not a "motherly figure," this specific phrase describes the trajectory of her *approval* relative to the narrator's efforts, not Dr. Blackwell's general personality or emotional state.
+*   **D:** This option is incorrect. The "distance" mentioned refers to the gap between the narrator and the approval she wants. The fact that she is still "seeking" the approval indicates that her desire to succeed is still present, not that it is fading.
+
+***
+
+**LBIDAT Evaluation**
+
+*Stem & Task*
+**✓** The task is well-aligned to RL.8.4. It requires the student to analyze the impact of a specific figurative phrase (metaphor) on the meaning of the sentence. The cognitive complexity is appropriate for 8th grade, moving beyond simple identification of the figure of speech to its implication.
+
+*The Key*
+**✓** The key is definitively correct. It accurately translates the metaphorical movement ("recedes") into the abstract feeling the narrator is experiencing (that the goal is "out of reach").
+
+*Distractors*
+**✓** The distractors represent common types of errors:
+*   Distractor A is a literal interpretation of figurative language.
+*   Distractor C is a "right sentiment, wrong evidence" distractor (Dr. Blackwell *is* cold, but that is not what this specific phrase means).
+*   Distractor D is a misinterpretation of the metaphor's target (confusing the goal moving away with the narrator's motivation moving away).
+
+*Stimulus*
+**✓** The stimulus provides sufficient context (the struggle for approval) to determine the meaning of the phrase.
+
+*Fairness*
+**✓** The item is free of fairness or sensitivity concerns.
+
+**Summary:** **✓ ✓ ✓ ✓ ✓** (No Critical Issues detected).
+
+
+=============== NEW RUN (Claude) - 2025-11-19 18:21:41 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 3b (Claude) #1 (temp=0.7)
+
+Looking at this passage, I need to create a multiple choice item aligned to RL.8.4 that focuses on determining meaning of words/phrases, including figurative and connotative meanings, and analyzing the impact of word choices on meaning and tone.
+
+Let me identify a strong example from the text that demonstrates figurative language and its impact on tone.
+
+**Multiple Choice Item:**
+
+In paragraph 4, the narrator states, "It seems that the more I seek her approval, the farther it recedes in the distance." What is the impact of the phrase "recedes in the distance" on the meaning and tone of this statement?
+
+A. It creates a tone of determination by comparing Dr. Blackwell's approval to a destination the narrator will eventually reach through hard work.
+
+B. It establishes a tone of confusion by suggesting that Dr. Blackwell is physically moving away from the narrator during their interactions.
+
+*C. It conveys a tone of frustration by comparing Dr. Blackwell's approval to something that moves farther away the more the narrator pursues it.
+
+D. It produces a tone of admiration by implying that Dr. Blackwell's standards are so high they seem unreachable.
+
+**Rationales:**
+
+**Option A (Distractor):** A student might select this if they focus only on the idea of distance as something that can be traveled, missing the key word "recedes" which means to move backward or away. This interpretation misses the frustration inherent in something moving away as you approach it.
+
+**Option B (Distractor):** This represents a literal interpretation of the figurative language. Students selecting this option are not recognizing that "recedes in the distance" is being used metaphorically to describe an abstract concept (approval) rather than physical movement.
+
+**Option C (Key):** This is correct because it accurately identifies both the figurative comparison (approval is like an object moving away) and the emotional impact this creates (frustration). The paradox of something moving farther away the more you pursue it perfectly captures the narrator's frustrated experience with Dr. Blackwell.
+
+**Option D (Distractor):** While this option correctly identifies that the language is figurative, it misinterprets the emotional tone. A student might select this if they conflate the narrator's overall admiration for Dr. Blackwell with the specific feeling expressed in this sentence about her failed attempts to gain approval.
+
+**LBIDAT Evaluation:**
+- Stem & Task: ✓ (Directly aligned to standard, appropriate grade level)
+- The Key: ✓ (Definitively correct and responsive)
+- Distractors: ✓ (Each represents a plausible misunderstanding)
+- Stimulus: ✓ (Passage is necessary and appropriately complex)
+- Fairness: ✓ (No sensitivity issues)
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 3b (Claude) #2 (temp=0.8)
+
+Looking at the passage for another strong example of figurative language and word choice impact, I'll focus on a different section that demonstrates connotative meaning and tone.
+
+**Multiple Choice Item:**
+
+In paragraph 9, the narrator describes feeling "unjustly reprimanded, like a child caught sneaking sweets from a jar." How does this comparison impact the meaning and tone of the narrator's response to Dr. Blackwell's criticism?
+
+A. It suggests a tone of guilt by comparing the narrator's actions to those of someone who has done something wrong.
+
+*B. It creates a tone of indignation by comparing the narrator to a child being punished for a trivial offense when she was actually helping a patient.
+
+C. It establishes a tone of nostalgia by recalling pleasant childhood memories to cope with the harsh treatment.
+
+D. It conveys a tone of respect by showing that the narrator accepts Dr. Blackwell's authority like a child accepts a parent's discipline.
+
+**Rationales:**
+
+**Option A (Distractor):** Students might select this if they focus too heavily on the "caught" aspect of the simile without considering the word "unjustly" that precedes it. This interpretation misses that the narrator feels the reprimand is undeserved, not that she feels guilty.
+
+**Option B (Key):** This is correct because it accurately captures both elements of the comparison: the narrator feels she's being treated like a misbehaving child (diminishing her professional status) for something trivial (sneaking sweets) when she was actually performing a compassionate professional duty (calming a nervous patient). The word "unjustly" combined with this simile creates a tone of indignation about the unfair treatment.
+
+**Option C (Distractor):** This represents a misreading of the simile's purpose. Students selecting this are interpreting "sweets from a jar" as a positive memory rather than recognizing it as part of a comparison about being caught doing something wrong. They miss that this is meant to show how small and childish Dr. Blackwell makes her feel.
+
+**Option D (Distractor):** While this option recognizes the parent-child dynamic in the comparison, it misinterprets the narrator's emotional response. Students might choose this if they conflate the narrator's overall desire to learn from Dr. Blackwell with her specific feeling of injustice in this moment.
+
+**LBIDAT Evaluation:**
+- Stem & Task: ✓ (Directly targets figurative language analysis and tone)
+- The Key: ✓ (Definitively correct and directly responsive)
+- Distractors: ✓ (Each represents a plausible misinterpretation)
+- Stimulus: ✓ (Passage reference is necessary for understanding)
+- Fairness: ✓ (No sensitivity concerns)

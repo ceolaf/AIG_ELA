@@ -1,0 +1,42 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 2a (GPT) #1 (temp=0.7)
+
+1. Read the sentence from the passage.
+
+   “Every day has brought at least one similar scolding. **It seems that the more I seek her approval, the farther it recedes in the distance.**”
+
+   What is the effect of the phrase “the farther it recedes in the distance” on the meaning and tone of the sentence?
+
+   A. It suggests that Dr. Blackwell is physically moving away from Diana, creating a tone of adventure and travel.  
+   B. It shows that Diana feels that earning Dr. Blackwell’s approval is becoming less likely the harder she tries, creating a tone of frustration and discouragement.*  
+   C. It indicates that Dr. Blackwell is gradually forgetting about Diana, creating a tone of relief and freedom.  
+   D. It reveals that Diana is literally losing her eyesight, creating a tone of fear and confusion.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option B (Correct):**  
+- The phrase “the farther it recedes in the distance” is figurative language. Approval is not a physical object that can literally move away.  
+- By comparing approval to something that keeps moving farther away as she moves toward it, the narrator shows that the more effort she makes, the less attainable that approval seems.  
+- This contributes to a tone of frustration and discouragement, because Diana feels her goal is slipping away despite her hard work.
+
+**Option A (Distractor):**  
+- Misinterprets the figurative phrase as describing physical movement and “distance” in a literal sense.  
+- There is no evidence in the passage that Dr. Blackwell is traveling or moving away from Diana; the sentence is about emotional distance and approval, not geography.  
+- The tone in this part of the passage is anxious and self-doubting, not adventurous.
+
+**Option C (Distractor):**  
+- Suggests that Dr. Blackwell is forgetting Diana and that this makes Diana feel relieved and free.  
+- This conflicts with the passage: Diana wants Dr. Blackwell’s attention and respect; she fears being “sent away,” not being forgotten.  
+- The figurative “recedes in the distance” describes Diana’s sense that approval is harder to reach, not that Dr. Blackwell is forgetting her.
+
+**Option D (Distractor):**  
+- Takes the language literally, as if Diana’s physical eyesight is failing and affecting what she can see.  
+- The passage does not mention any eye problems; instead, it focuses on Diana’s emotional struggle and desire for professional approval.  
+- The tone is not fearful about health but worried about competence and respect.

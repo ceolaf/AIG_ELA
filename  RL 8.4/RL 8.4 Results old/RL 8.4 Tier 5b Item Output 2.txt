@@ -1,0 +1,44 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 16:57:37 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 5b (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+> “It seems that the more I seek her approval, **the farther it recedes in the distance**.”
+
+What is the effect of the phrase “the farther it recedes in the distance” on the meaning and tone of this sentence?
+
+A. It suggests that Dr. Blackwell is physically moving away from Diana, making it hard for Diana to speak with her.  
+B. It shows that Diana thinks earning Dr. Blackwell’s approval is becoming less and less possible, creating a discouraged tone.*  
+C. It explains that Dr. Blackwell is too busy with patients to notice Diana’s efforts, creating a rushed tone.  
+D. It means that Diana has stopped caring about Dr. Blackwell’s opinion, creating a confident tone.
+
+**Correct Answer:** B*
+
+---
+
+### Rationales
+
+**A. It suggests that Dr. Blackwell is physically moving away from Diana, making it hard for Diana to speak with her.**  
+- Misinterprets the figurative language as literal.  
+- “Approval” cannot literally move away; the phrase is metaphorical, not about physical distance.
+
+**B. It shows that Diana thinks earning Dr. Blackwell’s approval is becoming less and less possible, creating a discouraged tone.*  
+- Correct.  
+- “Recedes in the distance” figuratively compares approval to something that keeps moving farther away as she approaches.  
+- This emphasizes how unreachable Dr. Blackwell’s approval feels to Diana and contributes to a tone of frustration and discouragement.
+
+**C. It explains that Dr. Blackwell is too busy with patients to notice Diana’s efforts, creating a rushed tone.**  
+- Adds an idea (Dr. Blackwell being too busy) that is not in the sentence.  
+- The focus is on Diana’s *perception* of approval, not on Dr. Blackwell’s schedule or speed.
+
+**D. It means that Diana has stopped caring about Dr. Blackwell’s opinion, creating a confident tone.**  
+- Directly contradicts the text.  
+- Diana says “the more I seek her approval,” which shows she still cares deeply; the phrase signals difficulty, not confidence.

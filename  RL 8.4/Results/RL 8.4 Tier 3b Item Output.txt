@@ -1,0 +1,178 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 14:41:15 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 3b (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+   “It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+   Based on how the word is used in this sentence, what does **“recedes”** most nearly suggest about Dr. Blackwell’s approval?
+
+   A. It moves away from Diana no matter how hard she tries to reach it.*  
+   B. It disappears completely and can never be gained.  
+   C. It stays in the same place, waiting for Diana to find it.  
+   D. It changes shape so that Diana cannot recognize it.
+
+**Rationales**
+
+- **A. It moves away from Diana no matter how hard she tries to reach it.*  
+  - “Recedes in the distance” is figurative language. Literally, something that recedes moves farther away. Here, Dr. Blackwell’s approval is compared to something that keeps moving away as Diana tries to reach it, emphasizing her frustration and the discouraging tone. This captures both the meaning of “recedes” and its impact on tone.
+
+- **B. It disappears completely and can never be gained.**  
+  - “Recedes” does not mean “vanishes”; it means to move back or away. The sentence suggests the approval is getting farther away, not that it is entirely gone forever. This overstates the meaning and changes the tone from discouraged to hopeless, which the passage does not support.
+
+- **C. It stays in the same place, waiting for Diana to find it.**  
+  - This is the opposite of “recedes.” If something stays in the same place, it does not move farther into the distance. This choice ignores the figurative image of approval becoming harder to reach and would create a more neutral or patient tone, which contradicts Diana’s sense of growing failure.
+
+- **D. It changes shape so that Diana cannot recognize it.**  
+  - “Recedes” does not suggest changing shape or becoming unrecognizable; it refers to movement away. This answer misinterprets the word and does not fit the image of distance in the sentence. It would imply confusion rather than the increasing emotional distance and discouragement that the author conveys.
+
+
+================= NEW ITEM =================
+Tier 3b (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+   “Once again, I felt unjustly reprimanded, **like a child caught sneaking sweets from a jar**.”
+
+   How does this simile affect the tone of the narrator’s description of Dr. Blackwell’s criticism?
+
+   A. It makes the tone more lighthearted, as if the situation is only a harmless joke.  
+   B. It makes the tone more resentful, suggesting Diana believes Dr. Blackwell is deliberately cruel.  
+   C. It makes the tone more vulnerable, showing that Diana feels small and embarrassed by the way she is scolded.*  
+   D. It makes the tone more admiring, showing that Diana respects Dr. Blackwell’s strictness.
+
+**Rationales**
+
+- **A. It makes the tone more lighthearted, as if the situation is only a harmless joke.**  
+  - Being “caught sneaking sweets” is a mild, childish wrongdoing, but the narrator says she feels “unjustly reprimanded,” which shows hurt and discomfort, not amusement. The comparison emphasizes embarrassment, not humor, so this misreads the tone.
+
+- **B. It makes the tone more resentful, suggesting Diana believes Dr. Blackwell is deliberately cruel.**  
+  - The simile focuses on how Diana feels—like a scolded child—not on Dr. Blackwell’s intentions. While she feels the reprimand is unfair, the passage does not show strong resentment or accuse Dr. Blackwell of cruelty. This goes beyond the text.
+
+- **C. It makes the tone more vulnerable, showing that Diana feels small and embarrassed by the way she is scolded.*  
+  - The simile compares Diana to a child caught doing something wrong, which suggests she feels powerless, ashamed, and treated as immature. Combined with “unjustly reprimanded,” this creates a tone of vulnerability and emotional discomfort. This best matches the connotative effect of the figurative language.
+
+- **D. It makes the tone more admiring, showing that Diana respects Dr. Blackwell’s strictness.**  
+  - Nothing in the comparison to a child sneaking sweets suggests admiration. Instead, it highlights how belittled Diana feels. Admiration would require positive or respectful language, which is absent here, so this misinterprets the impact of the word choice on tone.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:44:51 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 3b (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item**
+
+In the passage, when Diana describes seeking Dr. Blackwell's approval, she states "the more I seek her approval, the farther it recedes in the distance." What is the impact of the author's word choice in this phrase?
+
+A. It suggests that Diana's efforts are making Dr. Blackwell physically move away from her in the clinic.
+
+B. It creates a sense of time passing slowly as Diana waits for Dr. Blackwell's feedback on her work.
+
+C. It emphasizes Diana's growing frustration by comparing approval to something that becomes more difficult to obtain the harder she tries.
+
+D. It indicates that Dr. Blackwell is deliberately avoiding Diana because she disapproves of her background as a field nurse.
+
+**Answer Key:** *C
+
+**Rationales:**
+
+**A. It suggests that Diana's efforts are making Dr. Blackwell physically move away from her in the clinic.**
+This response demonstrates a literal interpretation of "recedes in the distance," missing the figurative meaning entirely. A test taker choosing this option likely focuses only on the spatial imagery without recognizing that the phrase is metaphorical, describing an emotional/professional dynamic rather than physical movement.
+
+**B. It creates a sense of time passing slowly as Diana waits for Dr. Blackwell's feedback on her work.**
+This distractor appeals to test takers who recognize some figurative language is present but misinterpret what aspect is being emphasized. While "recedes in the distance" could relate to time in some contexts, the passage focuses on Diana's increasing difficulty obtaining approval rather than temporal concerns.
+
+***C. It emphasizes Diana's growing frustration by comparing approval to something that becomes more difficult to obtain the harder she tries.**
+This is the correct answer. The phrase uses figurative language to create a visual metaphor where approval is compared to a distant object that moves farther away as one pursues it. This word choice effectively conveys the paradoxical and frustrating nature of Diana's situation—her increased efforts actually seem to make success less attainable. The connotative meaning emphasizes futility and creates a tone of mounting frustration.
+
+**D. It indicates that Dr. Blackwell is deliberately avoiding Diana because she disapproves of her background as a field nurse.**
+This option misinterprets the figurative language as indicating intentional behavior by Dr. Blackwell. Test takers choosing this response may recognize that something beyond the literal is happening but incorrectly attribute the "receding" to Dr. Blackwell's conscious actions rather than understanding it as Diana's metaphorical description of her own experience with seeking approval.
+
+
+================= NEW ITEM =================
+Tier 3b (Claude) #2 (temp=0.8)
+
+**Multiple Choice Item**
+
+In the passage, Diana describes feeling "like a child caught sneaking sweets from a jar" when Dr. Blackwell reprimands her. How does this comparison affect the tone and meaning of the passage?
+
+A. It creates a lighthearted tone by comparing Diana's medical mistakes to innocent childhood mischief.
+
+B. It emphasizes Diana's immaturity and suggests she is not ready for the responsibility of medical training.
+
+C. It conveys Diana's sense of shame and diminished status, highlighting the power imbalance between her and Dr. Blackwell.
+
+D. It indicates that Diana's behavior is actually as harmless and forgivable as a child's minor transgression.
+
+**Answer Key:** *C
+
+**Rationales:**
+
+**A. It creates a lighthearted tone by comparing Diana's medical mistakes to innocent childhood mischief.**
+This response misreads the emotional context and tone. While the comparison involves childhood behavior, the overall effect is not lighthearted given Diana's fear of being sent away and her feelings of inadequacy. Test takers choosing this option may focus on the surface-level childhood imagery without considering the serious professional consequences Diana faces.
+
+**B. It emphasizes Diana's immaturity and suggests she is not ready for the responsibility of medical training.**
+This distractor appeals to test takers who recognize that the comparison involves childlike qualities but misinterpret the author's purpose. The simile is not meant to suggest Diana is actually immature, but rather to convey how Dr. Blackwell's treatment makes her feel diminished and powerless, regardless of her actual capabilities.
+
+***C. It conveys Diana's sense of shame and diminished status, highlighting the power imbalance between her and Dr. Blackwell.**
+This is the correct answer. The simile comparing Diana to "a child caught sneaking sweets" effectively captures her feelings of guilt, shame, and powerlessness in the face of authority. The word choice creates a tone of vulnerability and emphasizes the hierarchical relationship where Diana feels small and chastened, much like a child being scolded by an adult. The connotative meaning reinforces themes of power dynamics and Diana's struggle for respect in her professional environment.
+
+**D. It indicates that Diana's behavior is actually as harmless and forgivable as a child's minor transgression.**
+This option misinterprets the comparison by focusing on the relative harmlessness of the child's action rather than the emotional impact of being caught and scolded. Test takers choosing this response may understand that a comparison is being made but miss how the simile emphasizes Diana's emotional state rather than making a judgment about the severity of her actions.
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 15:10:54 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 3b (Gemini) #1 (temp=0.7)
+
+**Item**
+
+In paragraph 9, what is the main effect of the narrator’s comparison of her feeling to that of “a child caught sneaking sweets from a jar”?
+
+A. It suggests the narrator believes she has broken a serious rule and feels guilty.
+B. It reveals the narrator thinks Dr. Blackwell is trying to teach her an important lesson.
+*C. It emphasizes that the narrator feels she has been unfairly scolded for a minor action.
+D. It shows the narrator is secretly happy that the patient offered her sympathy.
+
+**Rationales**
+
+*   **Key Rationale:** This is the correct answer. The simile compares a professional reprimand to being caught doing something minor and childish. This contrast highlights the narrator's feeling that the scolding was overly harsh for the situation (comforting a patient) and that she was treated like a child, not a professional apprentice. This supports her statement that she felt "unjustly reprimanded."
+*   **Distractor A Rationale:** This option is incorrect. While being "caught" can imply guilt, the specific comparison to "sneaking sweets" suggests a minor infraction. Furthermore, the narrator explicitly states she feels "unjustly reprimanded," which contradicts the idea that she feels guilty for breaking a serious rule.
+*   **Distractor B Rationale:** This option is incorrect. The simile emphasizes the narrator feeling childish and belittled, not that she is learning an important lesson. The trivial nature of "sneaking sweets" works against the idea of a significant teaching moment.
+*   **Distractor D Rationale:** This option is incorrect. The text directly contradicts this idea in the following sentence: "My patient forgot her fear for a moment and gave me a sympathetic look. That response only made me feel worse."
+
+
+================= NEW ITEM =================
+Tier 3b (Gemini) #2 (temp=0.8)
+
+**Item**
+
+In paragraph 7, the narrator states, “Female physicians are still more of a curiosity than anything.” What is the primary effect of the word “curiosity” in this context?
+
+A. It suggests that patients were interested in learning about the new medical techniques being developed by women.
+B. It implies that female doctors were naturally more inquisitive and observant than their male counterparts.
+*C. It emphasizes that female doctors were regarded as a novelty rather than as legitimate professionals.
+D. It shows that the narrator’s work at the clinic was seen as peculiar and strange by her family.
+
+**Rationales**
+
+*   **Key Rationale:** This is the correct answer. In this context, the word “curiosity” means an unusual or interesting object or phenomenon. By using this word, the narrator highlights that female doctors were not yet accepted as equals in the medical field but were instead seen as a strange and uncommon spectacle. This word choice effectively communicates the societal barriers and lack of professional respect they faced.
+*   **Distractor A Rationale:** This option misinterprets the meaning of “curiosity.” While the word can relate to a desire to learn, the context of the paragraph—which discusses patients’ lack of confidence and their financial inability to see other doctors—suggests the word is not being used to describe intellectual interest. The focus is on the doctors being an oddity, not on their innovative methods.
+*   **Distractor B Rationale:** This option incorrectly applies the quality of being a “curiosity” to the doctors’ own character traits rather than to how they are perceived by society. The sentence is about how others view female physicians, not about the physicians’ personal inquisitiveness.
+*   **Distractor D Rationale:** This option is too narrow and misdirected. While the narrator’s parents disapproved of her career choice (as stated in paragraph 3), the use of “curiosity” in paragraph 7 refers to the general public perception of all “female physicians,” not specifically the narrator’s work or her family’s opinion of it.

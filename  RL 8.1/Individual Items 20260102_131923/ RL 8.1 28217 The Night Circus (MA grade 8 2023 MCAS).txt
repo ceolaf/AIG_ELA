@@ -1,0 +1,32 @@
+Standard:  RL 8.1
+Passage: The Night Circus (MA grade 8 2023 MCAS)
+
+============================================================
+
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 3b (GPT) #3 (temp=0.8). (3.91 secs). (6049 + 385 = 6434 total tokens)
+
+3. Which quotation from the passage best supports the inference that Bailey finds it difficult to describe the circus experience to other people?
+
+A. “He did not know what tents to choose out of dozens of options, each with tantalizing signs hinting at the contents.”  
+
+B. “He could not properly describe it afterward. He could only nod when his mother asked if he had enjoyed himself.” *  
+
+C. “He wonders which way he should go, and what might count as proof for his dare.”  
+
+D. “Bailey stands there for a long while before he walks back across the field.”  
+
+
+Rationales:
+
+A. “He did not know what tents to choose out of dozens of options, each with tantalizing signs hinting at the contents.”  
+- This shows Bailey’s uncertainty about which tents to visit, not his difficulty in talking about the circus later. It does not address describing the experience to others.
+
+B. “He could not properly describe it afterward. He could only nod when his mother asked if he had enjoyed himself.” *  
+- This directly states that Bailey “could not properly describe” the circus and shows that he only nods instead of explaining. It is explicit evidence that he finds it hard to describe the experience, making it the strongest support for the inference.
+
+C. “He wonders which way he should go, and what might count as proof for his dare.”  
+- This focuses on Bailey planning what to do inside the circus and what he can bring back as proof. It does not show any struggle to explain his experience to someone else.
+
+D. “Bailey stands there for a long while before he walks back across the field.”  
+- This suggests Bailey is thinking or reflecting, but it does not specifically concern describing the circus to other people. It is too vague to be strong evidence for the given inference.

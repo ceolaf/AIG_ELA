@@ -1,0 +1,90 @@
+
+
+
+=============== NEW RUN GPT - 2025-12-30 13:03:52 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 4a (GPT) #1 (temp=0.7). (6.05 secs). (2979 + 465 = 3444 total tokens)
+
+1. Which sentence from the passage best supports the inference that Bailey’s desire to return to the circus affects his decision to accept the dare?
+
+A. “He had hoped it would stay long enough for him to age properly into old enough, but it vanished without notice after two weeks, leaving too-young Bailey heartbroken.”  
+B. “He ached to go back almost the moment he walked away.”  
+C. “He wonders if he accepted the dare, in part, to return to the circus sooner.” *  
+D. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.”
+
+**Correct Answer: C***
+
+**Rationales:**
+
+- **Option A:**  
+  This shows that Bailey was heartbroken when the circus left years earlier, which explains his long‑standing attachment to the circus. However, it does not directly show that this desire influences his decision to accept the current dare. It supports his feelings about the circus, not the specific inference about why he accepts the dare.
+
+- **Option B:**  
+  This sentence shows Bailey’s strong desire to return right after his first recent visit (“He ached to go back almost the moment he walked away”), but it does not explicitly connect that desire to his choice to accept the dare. It supports the idea that he wants to go back, but not clearly that this desire affects his decision about the dare.
+
+- **Option C (Correct):**  
+  This sentence directly links Bailey’s decision about the dare to his wish to return to the circus: “He wonders if he accepted the dare, in part, to return to the circus sooner.” It explicitly states the connection the question asks about—his desire to return influences his choice—so it is the strongest textual evidence for the inference.
+
+- **Option D:**  
+  This sentence shows that Bailey has multiple reasons for wanting to go inside the circus (“Not just because of the dare but because he is curious”), which supports an inference about his curiosity and mixed motivations. However, it does not mention the decision to accept the dare or clearly tie that decision to his wish to return, so it is weaker evidence for the specific inference in the question than option C.
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 4a (GPT) #2 (temp=0.8). (5.99 secs). (3455 + 443 = 3898 total tokens)
+
+2. Which sentence from the passage best supports the inference that Bailey feels nervous and unsure about going through with the dare once he reaches the circus?
+
+A. “He had hoped it would stay long enough for him to age properly into old enough, but it vanished without notice after two weeks, leaving too-young Bailey heartbroken.”  
+B. “He ached to go back almost the moment he walked away.”  
+C. “It takes Bailey the better part of ten minutes to walk all the way across the field, and the closer he gets, the larger and more intimidating the tents look, and the more his conviction fades.” *  
+D. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.”
+
+**Correct Answer: C***
+
+**Rationales:**
+
+- **Option A:**  
+  This shows Bailey’s sadness when the circus left years ago, supporting the idea that he cared deeply about it. It does not show how he feels now about going through with the dare or suggest nervousness or uncertainty at the present moment.
+
+- **Option B:**  
+  This sentence shows Bailey’s strong desire to return to the circus after his earlier visit (“He ached to go back almost the moment he walked away”). It supports an inference about longing, not about feeling nervous or unsure when he approaches the circus to complete the dare.
+
+- **Option C (Correct):**  
+  This sentence directly connects Bailey’s approach to the circus with his growing fear and doubt: “the closer he gets, the larger and more intimidating the tents look, and the more his conviction fades.” The words “intimidating” and “his conviction fades” clearly support the inference that he feels nervous and unsure about continuing with the dare.
+
+- **Option D:**  
+  This sentence shows that Bailey genuinely wants to go inside and that curiosity motivates him. While it reveals mixed motivations (not only the dare), it does not indicate nervousness or uncertainty; instead, it suggests interest and desire. Therefore, it is weaker evidence for the specific inference about him feeling nervous and unsure than option C.
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 4a (GPT) #3 (temp=0.8). (4.75 secs). (3909 + 411 = 4320 total tokens)
+
+3. Which sentence from the passage best supports the inference that the girl is willing to help Bailey even though she knows he is breaking the rules?
+
+A. “You’re not supposed to be here,” the red-haired girl says quietly.  
+B. “You should probably leave before anyone else sees you,” the girl says, glancing over her shoulder, but Bailey cannot tell what she is looking for. *  
+C. “But you should be more careful. You’re not supposed to come in here during the day, it’s trespassing.”  
+D. “The girl smiles. She bites her lip for a second and looks thoughtful, and then she pulls off one of her white gloves and hands it to him through the bars.”
+
+**Correct Answer: B***
+
+**Rationales:**
+
+- **Option A:**  
+  This shows that the girl recognizes Bailey is not allowed to be there, but it only states the rule. It does not show that she is willing to help him; it simply identifies that he is somewhere he shouldn’t be.
+
+- **Option B (Correct):**  
+  This sentence shows both her awareness of the rules and her decision to help: she tells him to leave “before anyone else sees you” and looks over her shoulder, suggesting she is protecting him from being caught. This most strongly supports the inference that she is willing to help even though she knows he is trespassing.
+
+- **Option C:**  
+  Here she warns him about trespassing, which reinforces that she knows he is breaking the rules. However, it focuses on scolding and warning rather than on helping or protecting him, so it is weaker evidence for the inference than option B.
+
+- **Option D:**  
+  Giving Bailey the glove shows that she is kind and willing to help him complete his dare, but this sentence alone does not clearly connect that kindness to her awareness that he is breaking rules. It supports her generosity more than her decision to help despite knowing he is trespassing.

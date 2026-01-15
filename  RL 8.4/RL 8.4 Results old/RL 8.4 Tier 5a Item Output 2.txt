@@ -1,0 +1,49 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 16:57:26 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 5a (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+   “If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly **disabused of that notion**.”
+
+   As it is used in this sentence, the phrase “disabused of that notion” most closely means that the narrator
+
+   A. stopped believing that Dr. Blackwell would be gentle and nurturing with her*  
+   B. became angry that Dr. Blackwell treated her like a child  
+   C. realized that Dr. Blackwell did not remember who she was  
+   D. decided that she no longer wanted to become a doctor
+
+---
+
+### Correct Answer
+**A. stopped believing that Dr. Blackwell would be gentle and nurturing with her***
+
+### Rationales
+
+**A. stopped believing that Dr. Blackwell would be gentle and nurturing with her***  
+- “Disabused of that notion” is a figurative phrase meaning that someone has been corrected or set straight from a mistaken belief.  
+- The “notion” is clearly stated: “If I was hoping to find a motherly figure in Dr. Blackwell…”  
+- The context that follows—Dr. Blackwell reprimanding her publicly and often—shows that the narrator learns Dr. Blackwell is strict, not “motherly.”  
+- Thus, the narrator’s belief that Dr. Blackwell would be a gentle, comforting “motherly figure” is taken away; she stops believing that idea.
+
+**B. became angry that Dr. Blackwell treated her like a child**  
+- This option focuses on the narrator’s emotions (anger) rather than on the meaning of the phrase.  
+- While the narrator “felt unjustly reprimanded, like a child,” the phrase “disabused of that notion” describes the correction of a belief, not her anger.  
+- “Disabused” is about losing a mistaken idea, not about becoming upset.
+
+**C. realized that Dr. Blackwell did not remember who she was**  
+- Nothing in the text suggests Dr. Blackwell forgets the narrator.  
+- The “notion” being corrected is about Dr. Blackwell being a “motherly figure,” not about her memory.  
+- This misreads the figurative phrase and ignores the clear context.
+
+**D. decided that she no longer wanted to become a doctor**  
+- The narrator continues to hope to become a doctor: she fears being sent away would “extinguish my hopes,” showing she still wants this goal.  
+- The phrase “disabused of that notion” refers specifically to her expectations about Dr. Blackwell’s personality, not her career ambitions.  
+- This choice confuses the corrected belief (about Dr. Blackwell’s role) with the narrator’s long-term dream.

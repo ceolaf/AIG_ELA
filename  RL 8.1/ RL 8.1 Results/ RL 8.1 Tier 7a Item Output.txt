@@ -1,0 +1,90 @@
+
+
+
+=============== NEW RUN GPT - 2025-12-30 13:05:35 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 7a (GPT) #1 (temp=0.7). (4.90 secs). (3200 + 446 = 3646 total tokens)
+
+1. Which sentence from the passage best supports the idea that Bailey still wants to visit the circus for his own reasons, not just because of the dare?
+
+A. “He ached to go back almost the moment he walked away.”  
+B. “He wonders if he accepted the dare, in part, to return to the circus sooner.”*  
+C. “Bailey finds that he does, actually, want to go inside.”  
+D. “And beyond proving himself to Caroline and her gang, beneath the curiosity, there is that need to return tugging at him.”
+
+**Correct Answer: B***
+
+**Rationales:**
+
+- **A. “He ached to go back almost the moment he walked away.”**  
+  This shows that Bailey wanted to return to the circus, but it does not mention the dare or contrast his personal desire with the dare. It supports his longing, not specifically the idea that he wants to visit for his own reasons rather than just the dare.
+
+- **B. “He wonders if he accepted the dare, in part, to return to the circus sooner.”***  
+  This directly connects the dare with Bailey’s personal desire, stating that he may have accepted the dare partly so he could go back. It most clearly supports the idea that his own reasons (wanting to return) are involved, not just the dare itself.
+
+- **C. “Bailey finds that he does, actually, want to go inside.”**  
+  This shows that Bailey wants to enter the circus, but it does not mention the dare or distinguish his own desire from the dare. It supports only that he wants to go in, not that his desire is separate from the dare.
+
+- **D. “And beyond proving himself to Caroline and her gang, beneath the curiosity, there is that need to return tugging at him.”**  
+  This sentence does show that Bailey has a strong personal need to return, beyond the dare. However, option B more explicitly ties his acceptance of the dare to his own desire “to return to the circus sooner,” making B the strongest and most direct support for the idea in the question.
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 7a (GPT) #2 (temp=0.8). (4.59 secs). (3657 + 412 = 4069 total tokens)
+
+2. Which sentence from the passage best supports the idea that Bailey feels nervous and less confident as he gets closer to the circus?
+
+A. “The night before had been Bailey’s first proper introduction to the circus.”  
+B. “He had expected it to be a show.”  
+C. “It takes Bailey the better part of ten minutes to walk all the way across the field, and the closer he gets, the larger and more intimidating the tents look, and the more his conviction fades.”*  
+D. “Bailey finds that he does, actually, want to go inside.”
+
+**Correct Answer: C***
+
+**Rationales:**
+
+- **A. “The night before had been Bailey’s first proper introduction to the circus.”**  
+  This provides background information about when Bailey first experienced the circus. It does not describe his current feelings as he approaches it, and it says nothing about nervousness or fading confidence.
+
+- **B. “He had expected it to be a show.”**  
+  This shows Bailey’s earlier expectations about what the circus would be like, not his emotions as he walks toward it now. It does not indicate nervousness or a loss of conviction.
+
+- **C. “It takes Bailey the better part of ten minutes to walk all the way across the field, and the closer he gets, the larger and more intimidating the tents look, and the more his conviction fades.”***  
+  This directly describes how the tents seem “intimidating” and how “his conviction fades” as he gets closer, clearly showing that he is becoming more nervous and less sure of himself. It is the strongest and most explicit support for the idea in the question.
+
+- **D. “Bailey finds that he does, actually, want to go inside.”**  
+  This shows that Bailey wants to enter the circus, which suggests desire or curiosity, not nervousness or reduced confidence. It does not support the idea that his confidence is fading as he approaches.
+
+
+================= NEW ITEM =================
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 7a (GPT) #3 (temp=0.8). (3.94 secs). (4080 + 394 = 4474 total tokens)
+
+3. Which sentence from the passage best supports the idea that Bailey is surprised that the circus feels ordinary when he sneaks in during the day?
+
+A. “If the magic is still there in the daytime, he cannot feel it.”*  
+B. “Bailey finds that he does, actually, want to go inside.”  
+C. “And it seems to be completely abandoned, with no sign of any workers or performers.”  
+D. “The circus feels strange in the daytime, too quiet.”
+
+**Correct Answer: A***
+
+**Rationales:**
+
+- **A. “If the magic is still there in the daytime, he cannot feel it.”***  
+  This directly shows that Bailey expects the circus to feel magical (as it did at night) but is surprised that it does not feel that way now. The contrast between his expectation of “magic” and his current experience (“he cannot feel it”) best supports the idea that it seems ordinary to him in the daytime.
+
+- **B. “Bailey finds that he does, actually, want to go inside.”**  
+  This shows Bailey’s desire and curiosity about the circus, but it does not show any surprise about how the circus feels once he is inside during the day.
+
+- **C. “And it seems to be completely abandoned, with no sign of any workers or performers.”**  
+  This supports the idea that the circus looks empty, but not specifically that Bailey is surprised it feels ordinary or less magical. It describes what he sees, not his reaction compared to his expectations.
+
+- **D. “The circus feels strange in the daytime, too quiet.”**  
+  This shows that the circus feels “strange” and quiet, but it does not clearly express Bailey’s surprise that it lacks the magic he expected. Option A more strongly and explicitly connects his expectations of magic with his realization that it feels ordinary.

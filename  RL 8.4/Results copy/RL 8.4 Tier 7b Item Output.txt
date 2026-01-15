@@ -1,0 +1,190 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 14:42:27 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 7b (GPT) #1 (temp=0.7)
+
+**Item (RL.8.4 – word choice, figurative/connotative meaning, impact on tone)**  
+
+Read this sentence from the passage:
+
+> “Every day has brought at least one similar scolding. **It seems that the more I seek her approval, the farther it recedes in the distance.**”
+
+What is the effect of the phrase “the farther it recedes in the distance” on the meaning and tone of this sentence?
+
+A. It suggests that Dr. Blackwell is physically moving away from Diana, creating a sense of loneliness and isolation.  
+
+B. It emphasizes that Diana’s goal of earning Dr. Blackwell’s approval feels like something she can never quite reach, adding to her frustration and discouragement.*  
+
+C. It shows that Diana is becoming less interested in Dr. Blackwell’s opinion, giving the sentence a calm and confident tone.  
+
+D. It indicates that Dr. Blackwell is ignoring Diana on purpose, making the tone angry and accusing.  
+
+---
+
+### Rationales
+
+**Correct Answer: B***  
+- The phrase “the farther it recedes in the distance” is figurative; approval cannot literally move away.  
+- “Recedes in the distance” connotes something you chase but can’t catch, like a horizon that keeps moving back as you walk toward it.  
+- In context (“Every day has brought at least one similar scolding”), this shows that the more Diana tries, the less successful she feels, which deepens her sense of frustration and discouragement.  
+- This directly addresses how the word choice shapes both meaning (approval feels unreachable) and tone (disheartened).
+
+**A.**  
+- Misinterprets the figurative language as literal physical movement.  
+- The text never indicates that Dr. Blackwell is moving away from Diana; it is Diana’s *approval* that “recedes,” not Dr. Blackwell herself.  
+- While Diana does feel emotionally distant, the key effect here is on the *unreachability* of approval, not on physical loneliness.
+
+**C.**  
+- Contradicts the passage. Diana is *seeking* Dr. Blackwell’s approval more and more; she is not becoming less interested.  
+- The tone in this part of the passage is anxious and self-doubting, not calm or confident.  
+- This answer ignores the connotation of “recedes in the distance,” which implies difficulty and disappointment, not growing indifference.
+
+**D.**  
+- Adds an accusation (“ignoring on purpose”) that is not supported by the text. Dr. Blackwell is strict and critical, but there is no indication she is intentionally pretending Diana doesn’t exist.  
+- The tone is more hurt and discouraged than openly angry or accusing.  
+- This response misreads the figurative phrase as evidence of deliberate cruelty, rather than focusing on how it makes approval feel distant and hard to attain.  
+
+---
+
+**Final Version of Item**
+
+Read this sentence from the passage:
+
+> “Every day has brought at least one similar scolding. **It seems that the more I seek her approval, the farther it recedes in the distance.**”
+
+What is the effect of the phrase “the farther it recedes in the distance” on the meaning and tone of this sentence?
+
+A. It suggests that Dr. Blackwell is physically moving away from Diana, creating a sense of loneliness and isolation.  
+
+B. It emphasizes that Diana’s goal of earning Dr. Blackwell’s approval feels like something she can never quite reach, adding to her frustration and discouragement.*  
+
+C. It shows that Diana is becoming less interested in Dr. Blackwell’s opinion, giving the sentence a calm and confident tone.  
+
+D. It indicates that Dr. Blackwell is ignoring Diana on purpose, making the tone angry and accusing.
+
+
+================= NEW ITEM =================
+Tier 7b (GPT) #2 (temp=0.8)
+
+**Item (RL.8.4 – figurative / connotative meaning and tone)**  
+
+Read this sentence from the passage:
+
+> “If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly **disabused of that notion**.”
+
+What does the phrase “disabused of that notion” suggest about the narrator’s feelings toward Dr. Blackwell, and how does it affect the tone?
+
+A. It shows that the narrator has been gently guided to a better understanding of Dr. Blackwell, creating a grateful and admiring tone.  
+
+B. It suggests that the narrator’s hope for a warm, comforting mentor was sharply corrected, creating a disappointed and slightly bitter tone.*  
+
+C. It means that the narrator never really believed Dr. Blackwell could be motherly, giving the sentence a doubtful and uncertain tone.  
+
+D. It indicates that the narrator thinks Dr. Blackwell is unkind and cruel, making the tone harsh and accusing.  
+
+---
+
+### Rationales
+
+**Correct Answer: B***  
+- “Disabused of that notion” is figurative; ideas are not literally “abused.” It means having a mistaken belief taken away.  
+- In context, the mistaken belief is that Dr. Blackwell would be a “motherly figure.”  
+- The word “quickly” plus “disabused” carries a sharp, abrupt connotation, suggesting the narrator’s comforting expectation was firmly overturned.  
+- This creates a tone of disappointment and a hint of bitterness, because the narrator wanted warmth and received strictness instead.
+
+**A.**  
+- Misreads the connotation of “disabused,” which does not suggest gentle guidance or gratitude; it suggests being corrected, often abruptly or firmly.  
+- The surrounding context (“she thought nothing of reprimanding me in front of all the other students”) supports a more negative emotional response, not admiration.
+
+**C.**  
+- Contradicts the text. The phrase “If I was hoping to find a motherly figure…” shows that the narrator *did* hold that hope.  
+- Being “disabused” means the belief was real and then removed, not that it never really existed.  
+- The tone here is not mainly doubtful or uncertain; it is more about realizing an unwelcome truth.
+
+**D.**  
+- Overstates the narrator’s reaction. The passage portrays Dr. Blackwell as strict and critical, but not as outright cruel.  
+- “Disabused of that notion” focuses on losing an illusion, not on accusing Dr. Blackwell of being unkind.  
+- This answer projects a harsher judgment than the text supports and mischaracterizes the tone as mainly angry and condemning.
+
+---
+
+**Final Version of Item**
+
+Read this sentence from the passage:
+
+> “If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly **disabused of that notion**.”
+
+What does the phrase “disabused of that notion” suggest about the narrator’s feelings toward Dr. Blackwell, and how does it affect the tone?
+
+A. It shows that the narrator has been gently guided to a better understanding of Dr. Blackwell, creating a grateful and admiring tone.  
+
+B. It suggests that the narrator’s hope for a warm, comforting mentor was sharply corrected, creating a disappointed and slightly bitter tone.*  
+
+C. It means that the narrator never really believed Dr. Blackwell could be motherly, giving the sentence a doubtful and uncertain tone.  
+
+D. It indicates that the narrator thinks Dr. Blackwell is unkind and cruel, making the tone harsh and accusing.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:48:44 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 7b (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item**
+
+In the passage, when Diana describes Dr. Blackwell's approval as something that "recedes in the distance," the author uses this phrase to suggest that Diana feels her goal is
+
+A. becoming impossible to reach because she lacks the necessary skills
+B. *slipping further away the harder she tries to achieve it*
+C. less important to her than it was when she first arrived
+D. dependent on factors beyond her control or influence
+
+**Rationales:**
+
+**A. becoming impossible to reach because she lacks the necessary skills**
+This distractor focuses on a literal interpretation that misses the connotative meaning. While Diana does question her abilities, the phrase "recedes in the distance" specifically emphasizes the paradoxical relationship between her effort and the result, not a simple assessment of her skill level. This response fails to recognize how the metaphorical language captures the frustrating dynamic of her situation.
+
+**B. *slipping further away the harder she tries to achieve it* (CORRECT)**
+This option correctly identifies the connotative meaning of "recedes in the distance" as it's used in this context. The phrase creates a visual metaphor suggesting that the more Diana pursues Dr. Blackwell's approval, the more elusive it becomes—like chasing something that moves away from you as you approach it. This captures the ironic and frustrating nature of her situation, where increased effort yields the opposite of the desired result, contributing to a tone of mounting desperation.
+
+**C. less important to her than it was when she first arrived**
+This distractor misinterprets the metaphor by suggesting diminishing importance rather than increasing difficulty in attainment. The phrase "recedes in the distance" doesn't indicate Diana's changing priorities but rather the growing gap between her efforts and success. This response fails to recognize that the approval remains crucially important to Diana throughout the passage.
+
+**D. dependent on factors beyond her control or influence**
+This distractor misses the specific connotative meaning by offering a generic interpretation about external factors. While the phrase does suggest something moving away, it specifically emphasizes the relationship between Diana's seeking and the approval's elusiveness, not external circumstances. This response doesn't account for how the metaphor highlights Diana's active but counterproductive pursuit.
+
+
+================= NEW ITEM =================
+Tier 7b (Claude) #2 (temp=0.8)
+
+**Multiple Choice Item**
+
+In the passage, when Diana describes feeling "like a child caught sneaking sweets from a jar" after Dr. Blackwell's reprimand, this comparison reveals that Diana experiences the scolding as
+
+A. unfair punishment that makes her feel ashamed and diminished
+B. a necessary correction that will help her improve her skills
+C. *both guilty and innocent at the same time, creating inner conflict*
+D. evidence that Dr. Blackwell treats her students too harshly
+
+**Rationales:**
+
+**A. unfair punishment that makes her feel ashamed and diminished**
+This distractor captures Diana's sense of being "unjustly reprimanded" but misses the deeper connotative meaning of the specific analogy. While Diana does feel ashamed, the comparison to "sneaking sweets" suggests something more complex than simple unfairness—it implies a misdeed that feels both wrong and innocent simultaneously. This response doesn't recognize how the analogy creates internal contradiction in Diana's emotional experience.
+
+**B. a necessary correction that will help her improve her skills**
+This distractor completely misreads the connotative meaning of the analogy by suggesting acceptance of the correction. The comparison to "sneaking sweets" doesn't suggest learning or improvement, but rather captures a feeling of being caught in something that feels simultaneously naughty and harmless. This response ignores the emotional complexity the analogy creates and focuses on a literal interpretation of workplace feedback.
+
+**C. *both guilty and innocent at the same time, creating inner conflict* (CORRECT)**
+This option correctly identifies how the analogy works connotatively in this context. "Sneaking sweets" suggests a minor transgression—something that feels wrong but is essentially innocent and natural. This creates the psychological tension Diana experiences: she feels guilty for being reprimanded yet knows her compassionate behavior toward the patient was appropriate and kind. The analogy captures her conflicted emotional state and contributes to a tone of frustrated confusion about Dr. Blackwell's expectations.
+
+**D. evidence that Dr. Blackwell treats her students too harshly**
+This distractor shifts focus away from Diana's internal experience to making a judgment about Dr. Blackwell's behavior. The analogy of "sneaking sweets" is about Diana's subjective emotional response, not an objective assessment of her mentor's teaching methods. This response fails to recognize that the comparison reveals Diana's psychological state rather than commenting on Dr. Blackwell's appropriateness as a teacher.

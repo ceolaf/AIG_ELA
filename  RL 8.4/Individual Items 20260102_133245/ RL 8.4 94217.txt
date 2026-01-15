@@ -1,0 +1,30 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 2a (Claude) #2 (temp=0.8)
+
+**Multiple Choice Item Aligned to RL.8.4**
+
+In the passage, Diana states that Dr. Blackwell's approval "seems that the more I seek her approval, the farther it recedes in the distance." What does the phrase "recedes in the distance" suggest about Diana's struggle, and how does it affect the tone?
+
+A. It implies that Dr. Blackwell is physically moving away from Diana, creating a tone of abandonment.
+
+*B. It suggests that gaining approval feels like chasing something that becomes more unreachable with effort, creating a tone of frustration and desperation.
+
+C. It indicates that Diana is making steady progress toward her goal, establishing a tone of optimism and determination.
+
+D. It shows that Dr. Blackwell's expectations are unclear, creating a tone of confusion and uncertainty.
+
+**Rationales:**
+
+**Option A:** This response takes the phrase too literally. Diana is not describing Dr. Blackwell physically moving away from her, but rather using figurative language to describe the emotional experience of trying to gain approval. The tone is not about abandonment but about the futility of her efforts despite staying in the same workplace. The metaphor relates to emotional distance in achievement, not physical separation.
+
+***Option B:** This is correct because "recedes in the distance" creates a metaphor comparing Dr. Blackwell's approval to something Diana is chasing that moves further away the harder she pursues it. This figurative language effectively captures the frustrating cycle where increased effort leads to seeming failure, making the goal feel more unreachable. The tone becomes one of desperation and frustration as Diana realizes her intense desire to please may actually be working against her.
+
+**Option C:** This option misinterprets the meaning entirely. When something "recedes in the distance," it moves farther away, not closer. Diana is describing the opposite of progress—she's explaining how her goal becomes more elusive despite her efforts. The tone at this point in the passage is not optimistic but rather discouraged, as she fears being "sent away" and having her hopes "extinguished."
+
+**Option D:** While Diana may experience some uncertainty, the phrase "recedes in the distance" specifically emphasizes the elusiveness of achieving approval rather than unclear expectations. Dr. Blackwell's expectations are actually quite clear through her direct reprimands. The metaphor focuses on Diana's sense that success is slipping away from her, creating frustration rather than mere confusion about what is expected.
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 15:08:15 ===============

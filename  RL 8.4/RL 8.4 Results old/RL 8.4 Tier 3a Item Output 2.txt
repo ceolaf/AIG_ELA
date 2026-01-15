@@ -1,0 +1,54 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 16:56:38 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 3a (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+   “It seems that the more I seek her approval, the farther it recedes in the distance.”
+
+   In this sentence, what is the effect of the author’s choice to use the word “recedes”?
+
+   A. It suggests that Dr. Blackwell’s approval is slowly moving away from Diana, making it feel unreachable.*  
+   B. It shows that Dr. Blackwell’s approval is permanently gone and can never return.  
+   C. It implies that Dr. Blackwell is physically walking away whenever Diana makes a mistake.  
+   D. It indicates that Diana is no longer interested in Dr. Blackwell’s opinion.
+
+---
+
+**Correct Answer: A***
+
+**Rationales:**
+
+- **A. It suggests that Dr. Blackwell’s approval is slowly moving away from Diana, making it feel unreachable.*  
+  - “Recedes” literally means to move back or further away. Used figuratively here, it conveys that the more Diana tries to earn approval, the more distant and unattainable it feels. This captures both the connotative meaning of the word and its impact on the tone, emphasizing Diana’s growing frustration and discouragement.
+
+- **B. It shows that Dr. Blackwell’s approval is permanently gone and can never return.**  
+  - “Recedes” suggests gradual movement away, not permanent loss. The sentence does not say approval is gone forever; instead, it feels farther away. This overstates the meaning and misses the nuance of the word choice.
+
+- **C. It implies that Dr. Blackwell is physically walking away whenever Diana makes a mistake.**  
+  - This takes the sentence literally. The approval is what “recedes,” not Dr. Blackwell herself. The phrase is figurative, describing Diana’s emotional perception, not physical movement.
+
+- **D. It indicates that Diana is no longer interested in Dr. Blackwell’s opinion.**  
+  - The passage shows the opposite: Diana is desperate for Dr. Blackwell’s approval. The word “seeks” signals her continued interest, so “recedes” describes how the approval feels to her, not a lack of interest on her part.
+
+---
+
+**Final Item Version**
+
+1. Read this sentence from the passage:
+
+   “It seems that the more I seek her approval, the farther it recedes in the distance.”
+
+   In this sentence, what is the effect of the author’s choice to use the word “recedes”?
+
+   A. It suggests that Dr. Blackwell’s approval is slowly moving away from Diana, making it feel unreachable.*  
+   B. It shows that Dr. Blackwell’s approval is permanently gone and can never return.  
+   C. It implies that Dr. Blackwell is physically walking away whenever Diana makes a mistake.  
+   D. It indicates that Diana is no longer interested in Dr. Blackwell’s opinion.

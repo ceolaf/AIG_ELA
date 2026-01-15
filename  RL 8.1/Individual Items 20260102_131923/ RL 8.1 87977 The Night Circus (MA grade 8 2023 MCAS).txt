@@ -1,0 +1,30 @@
+Standard:  RL 8.1
+Passage: The Night Circus (MA grade 8 2023 MCAS)
+
+============================================================
+
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 7a (GPT) #2 (temp=0.8). (4.59 secs). (3657 + 412 = 4069 total tokens)
+
+2. Which sentence from the passage best supports the idea that Bailey feels nervous and less confident as he gets closer to the circus?
+
+A. “The night before had been Bailey’s first proper introduction to the circus.”  
+B. “He had expected it to be a show.”  
+C. “It takes Bailey the better part of ten minutes to walk all the way across the field, and the closer he gets, the larger and more intimidating the tents look, and the more his conviction fades.”*  
+D. “Bailey finds that he does, actually, want to go inside.”
+
+**Correct Answer: C***
+
+**Rationales:**
+
+- **A. “The night before had been Bailey’s first proper introduction to the circus.”**  
+  This provides background information about when Bailey first experienced the circus. It does not describe his current feelings as he approaches it, and it says nothing about nervousness or fading confidence.
+
+- **B. “He had expected it to be a show.”**  
+  This shows Bailey’s earlier expectations about what the circus would be like, not his emotions as he walks toward it now. It does not indicate nervousness or a loss of conviction.
+
+- **C. “It takes Bailey the better part of ten minutes to walk all the way across the field, and the closer he gets, the larger and more intimidating the tents look, and the more his conviction fades.”***  
+  This directly describes how the tents seem “intimidating” and how “his conviction fades” as he gets closer, clearly showing that he is becoming more nervous and less sure of himself. It is the strongest and most explicit support for the idea in the question.
+
+- **D. “Bailey finds that he does, actually, want to go inside.”**  
+  This shows that Bailey wants to enter the circus, which suggests desire or curiosity, not nervousness or reduced confidence. It does not support the idea that his confidence is fading as he approaches.

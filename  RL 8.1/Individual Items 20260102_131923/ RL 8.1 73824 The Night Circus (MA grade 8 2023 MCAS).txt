@@ -1,0 +1,58 @@
+Standard:  RL 8.1
+Passage: The Night Circus (MA grade 8 2023 MCAS)
+
+============================================================
+
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 2a (GPT) #3 (temp=0.8). (16.99 secs). (4337 + 683 = 5020 total tokens)
+
+3. Which sentence from the passage best supports the inference that the red-haired girl is cautious about Bailey being discovered inside the circus during the day?
+
+A. “She is standing in the middle of the path between the tents, just standing there as though she is waiting for him.”  
+
+B. “You should probably leave before anyone else sees you,” the girl says, glancing over her shoulder, but Bailey cannot tell what she is looking for. *  
+
+C. “The girl takes his hand in her white-gloved one and pulls him down one of the passageways.”  
+
+D. “She helps Bailey squeeze through the bars, which are a bit tighter in this part of the fence.”  
+
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**A. “She is standing in the middle of the path between the tents, just standing there as though she is waiting for him.”**  
+- This suggests that the girl might be expecting Bailey, or at least is not surprised to see him.  
+- It does not show that she is worried or cautious about him being discovered.  
+- There is no mention of other people or any concern about being seen.
+
+**B. “You should probably leave before anyone else sees you,” the girl says, glancing over her shoulder, but Bailey cannot tell what she is looking for.”***  
+- This directly shows her concern that “anyone else” might see Bailey, which indicates she is cautious about him being discovered.  
+- Her glancing over her shoulder reinforces the idea that she is checking for others and being careful.  
+- This is the strongest and most explicit evidence that she is worried about him being found inside the circus.
+
+**C. “The girl takes his hand in her white-gloved one and pulls him down one of the passageways.”**  
+- This shows that she is leading him somewhere, possibly to help him.  
+- While it might suggest she wants to move him quickly, it does not clearly show *why* (no mention of others or being seen), so it is weaker evidence of caution.  
+- The sentence lacks the explicit reference to being seen that makes B stronger.
+
+**D. “She helps Bailey squeeze through the bars, which are a bit tighter in this part of the fence.”**  
+- This shows that she is helping him escape, but it focuses on the physical action of getting through the fence.  
+- It does not directly show her concern about being discovered by others; that motive has to be guessed.  
+- Compared with B, it is less direct as evidence of her cautious attitude.
+
+---
+
+**Final Version of the Item**
+
+3. Which sentence from the passage best supports the inference that the red-haired girl is cautious about Bailey being discovered inside the circus during the day?
+
+A. “She is standing in the middle of the path between the tents, just standing there as though she is waiting for him.”  
+
+B. “You should probably leave before anyone else sees you,” the girl says, glancing over her shoulder, but Bailey cannot tell what she is looking for. *  
+
+C. “The girl takes his hand in her white-gloved one and pulls him down one of the passageways.”  
+
+D. “She helps Bailey squeeze through the bars, which are a bit tighter in this part of the fence.”

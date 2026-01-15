@@ -1,0 +1,123 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 14:41:34 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 4b (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+   “It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+   In this sentence, what is the most accurate meaning of the word **“recedes”** as it is used?
+
+   A. Becomes less important to the narrator over time  
+   *B. Seems to move farther and farther away from the narrator’s reach*  
+   C. Disappears completely from the narrator’s life  
+   D. Returns to the narrator after being gone for a while  
+
+**Rationales**
+
+- **A. Becomes less important to the narrator over time**  
+  This is incorrect because the narrator’s desire for Dr. Blackwell’s approval is *very* important to her; it does not lessen. The figurative image is about the approval moving away from her, not about her caring less about it.
+
+- **B. Seems to move farther and farther away from the narrator’s reach* (Key)*  
+  This is correct. The phrase “the farther it recedes in the distance” uses “recedes” figuratively to suggest that Dr. Blackwell’s approval feels like something the narrator is chasing but that keeps moving away, staying out of reach. This connotative meaning emphasizes her frustration and discouragement.
+
+- **C. Disappears completely from the narrator’s life**  
+  This is incorrect because the sentence does not say the approval vanishes; it is still there, just “farther” away. The figurative language suggests increasing distance, not total disappearance.
+
+- **D. Returns to the narrator after being gone for a while**  
+  This is the opposite of what “recedes” means here. “Recedes” suggests moving backward or away, not coming back. Choosing this indicates a misunderstanding of the word’s meaning in this context.
+
+
+================= NEW ITEM =================
+Tier 4b (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+   “If I was hoping to find a **motherly figure** in Dr. Blackwell, I was quickly disabused of that notion.”
+
+   What is the best interpretation of the phrase **“motherly figure”** as it is used in this sentence?
+
+   A. A woman who replaces the narrator’s real mother at home  
+   B. A strict supervisor who focuses only on rules and discipline  
+   *C. A warm, gentle mentor who offers comfort and encouragement*  
+   D. A famous woman the narrator admires from a distance  
+
+**Rationales**
+
+- **A. A woman who replaces the narrator’s real mother at home**  
+  Incorrect. The phrase is used figuratively, not to mean an actual replacement for her mother. The context is about the narrator’s expectations of Dr. Blackwell’s behavior toward her, not about living arrangements or family roles.
+
+- **B. A strict supervisor who focuses only on rules and discipline**  
+  Incorrect. This describes how Dr. Blackwell actually behaves, but it is the *opposite* of what “motherly figure” suggests. The narrator is disappointed because Dr. Blackwell is *not* motherly in this way.
+
+- **C. A warm, gentle mentor who offers comfort and encouragement* (Key)*  
+  Correct. “Motherly figure” is figurative language suggesting someone nurturing, kind, and supportive, like a caring mother. The narrator’s use of this phrase shows she hoped for emotional support, not just professional training, and the sentence explains that this hope was quickly corrected.
+
+- **D. A famous woman the narrator admires from a distance**  
+  Incorrect. While the narrator does admire Dr. Blackwell, “motherly figure” focuses on a close, caring relationship, not on distant admiration. This option ignores the connotations of comfort and guidance in the phrase.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:45:47 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 4b (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item**
+
+In the passage, when Diana describes her hopes as being "extinguished," she means that her hopes would be
+
+A. temporarily delayed until she could find another opportunity
+B. *completely destroyed with no possibility of recovery
+C. dimmed but still capable of being rekindled later
+D. transferred to a different but related goal
+
+**Rationales:**
+
+**A. temporarily delayed until she could find another opportunity**
+This option focuses only on the literal meaning of delay without recognizing the figurative weight of "extinguished." A student selecting this might understand that losing this opportunity would set Diana back, but they miss how the author uses "extinguished" to convey the finality and completeness of the loss. The passage explicitly states this is "the only institution of its kind," which contradicts the idea that other opportunities exist.
+
+**B. *completely destroyed with no possibility of recovery** (KEY)
+This option correctly identifies the figurative meaning of "extinguished" as used in this context. The author deliberately chose this word (rather than "delayed" or "postponed") to convey the total and permanent destruction of Diana's dreams. The metaphor compares her hopes to a flame or light that, once extinguished, cannot easily be relit. This interpretation is supported by the context that Dr. Blackwell's institution is described as "the only institution of its kind," emphasizing the finality of losing this singular opportunity.
+
+**C. dimmed but still capable of being rekindled later**
+This option shows partial understanding of the fire/light metaphor but misses the specific connotative meaning of "extinguished" versus other possible words like "dimmed." A student might choose this if they recognize the figurative language but don't grasp how "extinguished" specifically suggests complete elimination rather than temporary reduction. The author's word choice emphasizes finality, not temporary setback.
+
+**D. transferred to a different but related goal**
+This option misses the figurative meaning entirely and suggests hopes would simply change direction rather than be destroyed. A student selecting this likely focuses on problem-solving rather than understanding how "extinguished" functions metaphorically in the text. This interpretation ignores both the figurative language and the contextual emphasis on this being Diana's only chance to achieve her specific dream of becoming a doctor.
+
+
+================= NEW ITEM =================
+Tier 4b (Claude) #2 (temp=0.8)
+
+**Multiple Choice Item**
+
+In the passage, when Diana says she was "disabused of that notion," the author's word choice suggests that Diana's expectation of finding a motherly figure was
+
+A. gently corrected through patient guidance
+B. *harshly stripped away through unpleasant reality
+C. gradually modified through honest conversation
+D. temporarily challenged but ultimately fulfilled
+
+**Rationales:**
+
+**A. gently corrected through patient guidance**
+This option misses the harsh connotative meaning of "disabused" and focuses on a more neutral interpretation of correction. A student selecting this might understand that Diana's expectation was wrong but fails to recognize how the author's specific word choice conveys the abrupt and unpleasant nature of this realization. The formal, clinical tone of "disabused" suggests something much more severe than gentle correction, especially when contrasted with softer alternatives the author could have chosen like "corrected" or "shown."
+
+**B. *harshly stripped away through unpleasant reality** (KEY)
+This option correctly identifies how "disabused" carries connotative weight beyond simple correction. The author deliberately chose this formal, somewhat harsh word rather than gentler alternatives to emphasize the abrupt and unpleasant way Diana's romantic expectations were destroyed. The prefix "dis-" suggests removal or reversal, while "abused" (even in this context) carries undertones of rough treatment. This word choice reinforces the tone of disappointment and reflects how Dr. Blackwell's stern, professional demeanor brutally eliminated Diana's hopes for a nurturing relationship.
+
+**C. gradually modified through honest conversation**
+This option suggests a collaborative, communicative process that contradicts both the meaning of "disabused" and the context provided. A student might choose this if they focus on the idea that Diana learned something new but miss how the author's word choice emphasizes suddenness and severity rather than gradual understanding. The passage shows Dr. Blackwell's correction came through actions and reprimands, not conversation, making this interpretation inconsistent with both the figurative language and the narrative details.
+
+**D. temporarily challenged but ultimately fulfilled**
+This option completely misreads both the word's meaning and the context, suggesting Diana eventually found the motherly figure she sought. A student selecting this likely misunderstands "disabused" entirely, perhaps confusing it with words that suggest temporary setbacks. The passage makes clear that Dr. Blackwell remained stern and professional throughout, never becoming the nurturing figure Diana initially hoped for, making this interpretation factually incorrect.

@@ -1,0 +1,37 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 4a (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+   “If I was hoping to find a **motherly figure** in Dr. Blackwell, I was quickly **disabused of that notion**.”
+
+   What is the best interpretation of the phrase “disabused of that notion” as it is used here?
+
+   A. I was gently encouraged to keep believing that she was like a mother.  
+   B. I was forced to give up the idea that she would act like a warm, caring mother.*  
+   C. I was reminded that my own mother wanted me to become a doctor.  
+   D. I was taught that all women doctors must behave in a motherly way.
+
+---
+
+**Correct Answer: B***
+
+**Rationales:**
+
+- **A. I was gently encouraged to keep believing that she was like a mother.**  
+  This is the opposite of the meaning. To be “disabused” of a notion means to be corrected or stripped of a false belief, not encouraged to keep it.
+
+- **B. I was forced to give up the idea that she would act like a warm, caring mother.*  
+  This accurately reflects the figurative meaning. The narrator hoped Dr. Blackwell would be “motherly,” but after being publicly reprimanded, she realizes that belief was wrong. “Disabused of that notion” means she no longer holds that expectation.
+
+- **C. I was reminded that my own mother wanted me to become a doctor.**  
+  This shifts the focus to her actual mother and her wishes, which is not mentioned in this sentence. The phrase refers to the narrator’s mistaken expectation about Dr. Blackwell, not her real mother.
+
+- **D. I was taught that all women doctors must behave in a motherly way.**  
+  This misreads the sentence. The narrator learns the opposite: Dr. Blackwell is not “motherly.” The phrase signals losing a mistaken belief, not gaining a rule about how all women doctors should act.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:45:20 ===============

@@ -1,0 +1,32 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 7a (Claude) #2 (temp=0.8)
+
+Here is a different multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In the passage, the narrator describes how Dr. Blackwell's approval "recedes in the distance" the more she seeks it. How does the author's use of "recedes" in this context impact the meaning and tone?
+
+A. It suggests that Dr. Blackwell is physically moving away from the narrator, creating a tone of confusion about the doctor's location.
+
+*B. It creates the impression that the narrator's goal is like a distant horizon that moves farther away as she approaches it, establishing a tone of frustration and futility.
+
+C. It indicates that the narrator's memory of wanting approval is fading over time, creating a tone of forgetfulness and distraction.
+
+D. It shows that Dr. Blackwell's approval comes and goes in waves like an ocean tide, creating a tone of natural rhythm and patience.
+
+**Rationales:**
+
+**Option A:** This response interprets "recedes" only in its most literal, physical sense (moving backward in space), missing the figurative application entirely. The narrator isn't describing Dr. Blackwell's physical location but rather the elusive nature of gaining her approval. This represents a failure to recognize the metaphorical use of the word and results in a misreading of the tone as mere confusion rather than emotional frustration.
+
+**Option B (Correct Answer):** This response demonstrates full understanding of how "recedes" functions figuratively in this context. The author uses the word to create a spatial metaphor where approval is like a distant point on a horizon that seems to move farther away as one travels toward it—a phenomenon that creates the paradox of pursuit making the goal more elusive. This metaphorical use goes beyond literal meaning to capture the psychological experience of frustration when effort seems counterproductive, establishing a tone of futility and emotional strain.
+
+**Option C:** This response confuses "recedes" with fading memory or diminishing desire, misunderstanding both the figurative meaning and what is actually receding (the approval, not the narrator's wanting of it). The word choice isn't about forgetting but about the goal becoming more distant despite active pursuit. This leads to an incorrect tone interpretation of distraction rather than the actual frustration and determination.
+
+**Option D:** This response misapplies the concept of receding by connecting it to tidal movement, which involves regular patterns of coming and going. However, the narrator describes a one-directional movement away, not a cyclical pattern. The word "recedes" in context suggests increasing distance and elusiveness, not natural rhythmic cycles. This misreading leads to an inappropriate tone of patience rather than the mounting frustration the narrator actually experiences.
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 15:18:04 ===============

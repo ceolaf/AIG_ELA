@@ -1,0 +1,305 @@
+
+
+
+=============== NEW RUN (Claude) - 2025-11-19 17:52:18 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 4a (Claude) #1 (temp=0.7)
+
+## Multiple Choice Item
+
+**Read this sentence from the passage:**
+
+*"The little town of Hanover, anchored on a windy Nebraska tableland, was trying not to be blown away."*
+
+In this sentence, the word "anchored" suggests that the town is—
+
+A. permanently secured to the ground with heavy foundations
+
+B. *barely holding its place against powerful natural forces
+
+C. a popular stopping point for travelers crossing Nebraska  
+
+D. connected to the prairie by strong railroad ties
+
+---
+
+### Rationales for Each Answer Option:
+
+**Option A (Incorrect):** A student might select this if they focus only on the literal, denotative meaning of "anchored" (secured firmly in place). However, this misses the figurative tension created by the phrase "trying not to be blown away," which suggests the town's hold is precarious, not permanent. The passage goes on to describe buildings that "had no appearance of permanence."
+
+**Option B (Correct):** This captures the figurative and connotative meaning of "anchored" as used in this specific context. The word creates an ironic tension—ships are anchored to stay in place, but this town is "trying not to be blown away" despite being "anchored." The personification ("trying") combined with "anchored" suggests the town is desperately clinging to its location against hostile forces, much like a ship in a storm barely held by its anchor.
+
+**Option C (Incorrect):** Students might choose this if they confuse "anchored" with being a central location or hub. While the passage mentions a railway station, nothing suggests the town is a significant stopping point. This represents a misunderstanding of the metaphorical use of "anchored."
+
+**Option D (Incorrect):** This distractor might appeal to students who notice the mention of the "squat red railway station" and make a literal connection between "anchored" and railroad infrastructure. However, this misses the figurative meaning entirely and incorrectly interprets the word choice's impact on tone.
+
+---
+
+### Final Version:
+
+**Read this sentence from the passage:**
+
+*"The little town of Hanover, anchored on a windy Nebraska tableland, was trying not to be blown away."*
+
+In this sentence, the word "anchored" suggests that the town is—
+
+A. permanently secured to the ground with heavy foundations
+
+B. *barely holding its place against powerful natural forces
+
+C. a popular stopping point for travelers crossing Nebraska  
+
+D. connected to the prairie by strong railroad ties
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 4a (Claude) #2 (temp=0.8)
+
+## Multiple Choice Item
+
+**Read this description from the passage:**
+
+*"She wore a man's long ulster (not as if it were an affliction, but as if it were very comfortable and belonged to her; carried it like a young soldier)"*
+
+The comparison of Alexandra to "a young soldier" in this context suggests that she is—
+
+A. preparing to fight against the harsh winter weather
+
+B. following strict rules about how women should dress
+
+C. *moving through the world with confidence and purpose
+
+D. wearing a military uniform that belonged to her father
+
+---
+
+### Rationales for Each Answer Option:
+
+**Option A (Incorrect):** Students might select this if they make a superficial connection between "soldier" and "fighting" combined with the harsh weather described in the passage. However, this misses the deeper connotative meaning about Alexandra's bearing and character. The comparison isn't about combat but about how she carries herself.
+
+**Option B (Incorrect):** This represents a misreading that interprets the soldier comparison as suggesting conformity or following orders. In fact, the passage suggests the opposite—she's wearing men's clothing "not as if it were an affliction," implying she's unbothered by social expectations about women's dress.
+
+**Option C (Correct):** This captures how the word "soldier" functions figuratively in this specific context. The simile works alongside other descriptive phrases ("walked rapidly and resolutely," "as if she knew exactly where she was going") to characterize Alexandra as someone with military-like determination and self-assurance. The soldier comparison emphasizes her strength and purposefulness, not literal military connection.
+
+**Option D (Incorrect):** Students might choose this if they interpret "soldier" literally and assume the ulster is an actual military garment. This misses that it's a simile ("like a young soldier") describing how she wears the coat, not what the coat actually is. The passage clearly states it's "a man's long ulster," not a uniform.
+
+---
+
+### Final Version:
+
+**Read this description from the passage:**
+
+*"She wore a man's long ulster (not as if it were an affliction, but as if it were very comfortable and belonged to her; carried it like a young soldier)"*
+
+The comparison of Alexandra to "a young soldier" in this context suggests that she is—
+
+A. preparing to fight against the harsh winter weather
+
+B. following strict rules about how women should dress
+
+C. *moving through the world with confidence and purpose
+
+D. wearing a military uniform that belonged to her father
+
+
+=============== NEW RUN GPT - 2025-11-19 18:03:20 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 4a (GPT) #1 (temp=0.7)
+
+1. In paragraph 4, the narrator says, “It seems that the more I seek her approval, the farther it recedes in the distance.” What is the effect of the phrase “the farther it recedes in the distance” on the tone of this sentence?
+
+A. It creates a hopeful tone by suggesting that the narrator is steadily getting closer to Dr. Blackwell’s approval.  
+B. It creates a frustrated tone by showing that Dr. Blackwell’s approval feels like something the narrator can never quite reach.*  
+C. It creates an angry tone by accusing Dr. Blackwell of deliberately moving her approval away.  
+D. It creates a humorous tone by exaggerating the situation in a lighthearted way.  
+
+**Correct Answer: B***
+
+**Rationales:**
+
+- **A. It creates a hopeful tone by suggesting that the narrator is steadily getting closer to Dr. Blackwell’s approval.**  
+  This is incorrect because the figurative phrase “the farther it recedes in the distance” suggests the opposite of getting closer. “Recedes” means to move away, so the image conveys that approval seems to be slipping out of reach, not approaching. A reader who focuses only on the narrator’s desire for approval, rather than the specific word “recedes,” might mistakenly see this as hopeful.
+
+- **B. It creates a frustrated tone by showing that Dr. Blackwell’s approval feels like something the narrator can never quite reach.*  
+  This is correct. The phrase is figurative: approval is described as if it were a physical object moving farther away. The verb “recedes” and the image of something “in the distance” emphasize that, no matter how hard the narrator tries, the goal seems to move out of reach. This deepens the tone of frustration and discouragement.
+
+- **C. It creates an angry tone by accusing Dr. Blackwell of deliberately moving her approval away.**  
+  This is incorrect because the sentence does not accuse Dr. Blackwell of doing anything on purpose. The figurative language focuses on how the *narrator* experiences the situation, not on Dr. Blackwell’s intentions. The tone is more self-doubting and frustrated than angry or blaming.
+
+- **D. It creates a humorous tone by exaggerating the situation in a lighthearted way.**  
+  This is incorrect. Although the phrase is figurative, it is not used for humor. The context of repeated scoldings (“Every day has brought at least one similar scolding”) and the narrator’s fear of being sent away makes the tone serious and anxious, not playful or lighthearted.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 4a (GPT) #2 (temp=0.8)
+
+1. In paragraph 3, the narrator says, “I long to save lives, find cures for diseases, make the broken whole again.” What is the effect of the phrase “make the broken whole again” on the meaning and tone of the sentence?
+
+A. It literally describes the narrator’s plan to repair only physical injuries, such as broken bones.  
+B. It suggests, in a hopeful tone, that the narrator wants to heal people completely, both physically and emotionally.*  
+C. It shows, in a fearful tone, that the narrator doubts she will ever be able to help anyone.  
+D. It indicates, in a mocking tone, that the narrator thinks doctors are pretending to be heroes.  
+
+**Correct Answer: B***
+
+**Rationales:**
+
+- **A. It literally describes the narrator’s plan to repair only physical injuries, such as broken bones.**  
+  This is incorrect because “make the broken whole again” goes beyond the literal idea of fixing broken bones. The phrase is figurative: “broken” can include people harmed by war, loss, or illness, and “whole” suggests complete restoration, not just physical repair. Focusing only on the literal meaning misses the broader, deeper purpose the narrator feels.
+
+- **B. It suggests, in a hopeful tone, that the narrator wants to heal people completely, both physically and emotionally.*  
+  This is correct. The phrase is connotative and figurative: “broken” suggests damaged lives and spirits as well as bodies, and “whole again” implies full recovery. This language adds a hopeful tone, revealing that the narrator’s dream of being a doctor is about fully restoring people, not just treating symptoms.
+
+- **C. It shows, in a fearful tone, that the narrator doubts she will ever be able to help anyone.**  
+  This is incorrect because nothing in the phrase expresses doubt. In context, the narrator is describing her ambitions: “I long to save lives, find cures…,” which shows desire and optimism, not fear. A reader misreading her strong wish as worry might choose this, but the tone here is more aspirational than anxious.
+
+- **D. It indicates, in a mocking tone, that the narrator thinks doctors are pretending to be heroes.**  
+  This is incorrect because the narrator deeply admires Dr. Blackwell and wants to follow in her footsteps. The phrase “make the broken whole again” is respectful and earnest, not sarcastic. There is no language in the passage that suggests she is mocking doctors or their work.
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 18:09:21 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 4a (Gemini) #1 (temp=0.7)
+
+**Item ID:** RL.8.4-001
+**Grade:** 8
+**Standard:** RL.8.4
+**Passage:** Dr. Blackwell’s New Assistant
+
+**Item:**
+
+Read the sentence from paragraph 4.
+
+“It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+How does the author’s use of the word **recedes** impact the meaning and tone of the sentence?
+
+A. It implies that the narrator is voluntarily withdrawing from her duties, creating a tone of resignation.
+B. It suggests that the doctor’s approval is diminishing in value to the narrator, creating a tone of indifference.
+C. It emphasizes the narrator’s sense of futility by comparing the doctor’s approval to an object moving out of reach.*
+D. It illustrates the large physical size of the hospital wards to explain why the narrator feels isolated from the doctor.
+
+**Rationales:**
+
+A. This distractor is incorrect. While "recede" can mean to withdraw or move back, the subject of the verb in the sentence is "approval," not the narrator. The narrator is not quitting or resigning; she is actively "seeking." A student might choose this if they misidentify the subject of the sentence or misinterpret the context of the narrator's struggle.
+
+B. This distractor is incorrect. While "recede" can imply a diminution or lessening (like a flood receding), the context does not suggest the narrator no longer values the approval (indifference). The text states she is "seeking" it, implying she values it highly. A student might choose this if they confuse the definition of the word with the emotional state of the narrator.
+
+C. *Correct. The author uses the word "recedes"—which literally describes a physical backward movement (like a tide or a coastline)—metaphorically. By applying this action to the abstract concept of "approval," the author creates a vivid image of a goal that keeps moving away regardless of the effort made to catch it. This word choice establishes a tone of frustration, discouragement, and futility.*
+
+D. This distractor is incorrect. This is a literal interpretation of "distance" and "recedes." It assumes the text is describing the physical space of the hospital rather than the abstract relationship between the characters. A student might choose this if they fail to recognize the figurative usage of the word.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 4a (Gemini) #2 (temp=0.8)
+
+**Item ID:** RL.8.4-002
+**Grade:** 8
+**Standard:** RL.8.4
+**Passage:** Dr. Blackwell’s New Assistant
+
+**Item:**
+
+Read the sentence from paragraph 4.
+
+“If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly **disabused** of that notion.”
+
+How does the author’s use of the word **disabused** impact the meaning and tone of the sentence?
+
+A. It suggests that the narrator felt mistreated by the doctor, contributing to a resentful tone.
+B. It implies that the narrator was gently guided toward the truth, contributing to a grateful tone.
+C. It indicates that the narrator's romanticized expectation was abruptly corrected, contributing to a harsh tone.*
+D. It shows that the narrator felt confused by the doctor's instructions, contributing to a chaotic tone.
+
+**Rationales:**
+
+A. This distractor is incorrect. Students may choose this if they focus on the root word “abuse” within “disabused” and interpret it as the doctor treating the narrator cruelly or unfairly, rather than the correct definition of freeing someone from a misconception.
+
+B. This distractor is incorrect. This option presents an antonymic interpretation of the tone. While the narrator was indeed corrected, the context of the paragraph (which mentions reprimands and scolding) makes it clear that the process was not gentle, nurturing, or "motherly."
+
+C. *Correct. The word “disabused” denotes the act of freeing someone from a false idea or error. In this context, it carries a connotation of a sharp, rude awakening. By using this word, the author creates a strong contrast between the warmth of the “motherly figure” the narrator desired and the cold reality of the professional relationship she actually experienced.*
+
+D. This distractor is incorrect. Students may choose this if they rely on the surrounding context of the narrator making mistakes (“clumsy blunders”) to guess the meaning of the word, assuming it means she was confused or bewildered, rather than the specific act of having her illusion removed.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 18:22:24 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 4a (Claude) #1 (temp=0.7)
+
+Here is a multiple choice item aligned to RL.8.4:
+
+**Question:**
+In paragraph 4, the narrator says that she hoped "the more I seek her approval, the farther it recedes in the distance." What does the phrase "recedes in the distance" suggest about the narrator's relationship with Dr. Blackwell?
+
+A. The narrator is physically moving away from Dr. Blackwell during their work together.
+
+B. Dr. Blackwell's expectations are becoming clearer as the narrator gains more experience.
+
+C. The narrator's goal of earning Dr. Blackwell's respect seems increasingly unattainable.*
+
+D. Dr. Blackwell is spending less time at the clinic as the days pass.
+
+**Rationales:**
+
+**Option A (Incorrect):** This represents a literal interpretation of "recedes in the distance," focusing only on physical movement. Students selecting this miss that the phrase is being used figuratively to describe an emotional/professional dynamic, not actual physical distance between the two characters.
+
+**Option B (Incorrect):** This misinterprets the figurative language entirely. "Receding" means moving farther away or becoming less accessible, not becoming clearer. Students choosing this may not understand the connotative meaning of "recede" and its implication of something becoming more difficult to reach.
+
+**Option C (Correct):** This correctly interprets the figurative language. The phrase creates an image of something moving farther away the more one pursues it, like a mirage. This metaphorical use conveys the narrator's frustration that her efforts to please Dr. Blackwell seem to have the opposite effect—the harder she tries, the more impossible approval seems.
+
+**Option D (Incorrect):** Like Option A, this takes the phrase too literally, suggesting Dr. Blackwell is physically absent more often. Students selecting this fail to recognize that the author is using figurative language to describe the emotional distance and difficulty in earning approval, not commenting on Dr. Blackwell's actual presence at the clinic.
+
+This item effectively assesses students' ability to recognize and interpret figurative language in context, understanding how the phrase "recedes in the distance" shapes both meaning and tone by conveying the narrator's growing sense of futility and frustration in her attempts to gain her mentor's approval.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 4a (Claude) #2 (temp=0.8)
+
+Here is another multiple choice item aligned to RL.8.4:
+
+**Question:**
+In paragraph 9, the narrator describes feeling "unjustly reprimanded, like a child caught sneaking sweets from a jar." How does this comparison impact the reader's understanding of the narrator's emotional state?
+
+A. It shows that the narrator recognizes she deserves the criticism for breaking hospital rules.
+
+B. It reveals that the narrator feels unfairly shamed for trying to show compassion.*
+
+C. It suggests that the narrator is secretly taking supplies from the hospital.
+
+D. It indicates that the narrator wishes she could return to her childhood.
+
+**Rationales:**
+
+**Option A (Incorrect):** Students selecting this misunderstand the word "unjustly" which explicitly indicates the narrator believes the reprimand is undeserved. They may also miss how the simile functions to emphasize her feelings of being wrongly accused rather than actually guilty.
+
+**Option B (Correct):** This correctly interprets how the simile functions in context. The comparison to a child caught stealing sweets emphasizes both the shame she feels and the unfairness of it—she was trying to comfort a nervous patient (something positive), yet is made to feel as guilty as if she'd done something wrong. The word "unjustly" reinforces that she sees her compassionate action as appropriate, not deserving of criticism.
+
+**Option C (Incorrect):** This represents an overly literal interpretation of the figurative language. Students choosing this fail to recognize that "like a child caught sneaking sweets" is a simile meant to convey an emotional comparison about feeling wrongly accused, not a literal statement about theft.
+
+**Option D (Incorrect):** While the comparison references childhood, students selecting this miss the actual purpose of the simile. The childhood reference is used to convey the particular quality of shame and powerlessness she feels, not to express nostalgia or a desire to return to being a child.
+
+This item effectively assesses students' ability to analyze how a specific figurative comparison (simile) shapes meaning and conveys the narrator's complex emotional state—feeling both ashamed and indignant about being criticized for showing kindness to a patient.

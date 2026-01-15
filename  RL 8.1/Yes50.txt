@@ -1,0 +1,1 @@
+“Given a text passage and a particular idea about what a literary text either i) explicitly says or ii) implies, the test taker must cite some single specific excerpt from the text that is the best support that can be found in the text for that particular. The supplied conclusion need not be about the main point or most significant implication of the passage.”

@@ -1,0 +1,44 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 7a (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+   “If I was hoping to find a **motherly figure** in Dr. Blackwell, I was quickly **disabused** of that notion.”
+
+   How do the words “motherly figure” and “disabused” work together to shape the meaning and tone of this sentence?
+
+   A. They show that the narrator has decided Dr. Blackwell is too old to be a real mentor.  
+   *B. They contrast the narrator’s wish for gentle comfort with the harsh reality of Dr. Blackwell’s strictness, creating a disappointed tone.*  
+   C. They suggest that Dr. Blackwell has replaced the narrator’s actual mother, adding a warm, affectionate tone.  
+   D. They indicate that the narrator no longer wants any guidance from Dr. Blackwell, creating a rebellious tone.
+
+---
+
+**Rationales**
+
+**Option A:**  
+- Misinterprets “motherly figure” as mainly about age instead of emotional qualities (kindness, gentleness, nurturing).  
+- “Disabused” means the narrator was corrected or had a mistaken belief taken away, not that she decided Dr. Blackwell was “too old.”  
+- Does not capture the emotional contrast between expectation and reality.
+
+**Option B (KEY):**  
+- “Motherly figure” connotes warmth, protection, and gentle support—what the narrator *hoped* for.  
+- “Disabused” suggests that this comforting idea was firmly taken away, often in a somewhat harsh or abrupt way.  
+- Together, these words highlight a sharp contrast between the narrator’s expectations and Dr. Blackwell’s strict, critical behavior.  
+- This contrast creates a tone of disappointment and emotional letdown, which aligns with the narrator’s feelings in the paragraph.
+
+**Option C:**  
+- Claims the words imply that Dr. Blackwell *has* become like a mother, but the sentence says the opposite: the narrator was “disabused” of that hope.  
+- Misreads the tone as “warm, affectionate” when the actual tone is more disappointed and sober.  
+- Ignores the negative connotation of “disabused,” which undercuts the “motherly” idea.
+
+**Option D:**  
+- Overstates the narrator’s reaction; she still desperately wants Dr. Blackwell’s approval and guidance.  
+- “Disabused” refers to losing an illusion about *what kind* of mentor Dr. Blackwell is, not rejecting her mentorship altogether.  
+- Introduces a “rebellious” tone that is not present in the passage at this point.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:48:12 ===============

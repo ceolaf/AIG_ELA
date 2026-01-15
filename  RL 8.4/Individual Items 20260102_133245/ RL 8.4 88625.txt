@@ -1,0 +1,29 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 6b (Gemini) #1 (temp=0.7)
+
+**Item**
+
+Read this sentence from paragraph 9.
+
+> Once again, I felt unjustly reprimanded, like a child caught sneaking sweets from a jar.
+
+What is the main effect of comparing Diana's feeling to that of a child caught sneaking sweets?
+
+A. It emphasizes that Diana feels Dr. Blackwell's correction is patronizing and unfair. *
+B. It suggests that Diana knows she was secretly breaking a rule by talking to the patient.
+C. It shows that Diana is afraid of being punished by Dr. Blackwell for her mistake.
+D. It reveals that Dr. Blackwell views Diana as immature and in need of constant guidance.
+
+---
+**Rationales**
+
+**A. (Key):** The simile compares Diana, an adult professional, to a "child" and her action of comforting a patient to "sneaking sweets," a minor infraction. This comparison effectively communicates that Diana perceives Dr. Blackwell's reprimand as demeaning or "patronizing." The text also explicitly states she felt "unjustly reprimanded," which aligns with the idea that the correction was "unfair." The simile thus deepens the reader's understanding of the specific quality of this unfairness.
+
+**B. (Distractor):** This option incorrectly focuses on the "sneaking" aspect of the simile to suggest guilt. However, the narrator explicitly states that she felt "unjustly reprimanded." She was performing a nursing duty by comforting a nervous patient and does not believe she has done anything wrong. This interpretation ignores the direct textual evidence of the narrator's feelings about the situation.
+
+**C. (Distractor):** While Diana does express a general fear of being dismissed by Dr. Blackwell earlier in the passage, this specific simile does not primarily evoke fear. The image of a child caught taking sweets is more closely associated with feelings of shame, embarrassment, and indignation at being scolded for something trivial, rather than terror of a severe punishment.
+
+**D. (Distractor):** This option incorrectly shifts the perspective of the simile. The sentence is about Diana's internal state ("I felt..."). The simile is a device to explain *her* experience of being reprimanded, not to provide a direct insight into Dr. Blackwell's actual assessment of Diana. While Dr. Blackwell's actions cause Diana to feel this way, the simile itself characterizes Diana's perception.

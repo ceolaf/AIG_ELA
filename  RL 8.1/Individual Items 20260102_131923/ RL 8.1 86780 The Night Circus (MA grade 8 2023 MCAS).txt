@@ -1,0 +1,28 @@
+Standard:  RL 8.1
+Passage: The Night Circus (MA grade 8 2023 MCAS)
+
+============================================================
+
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 5b (GPT) #3 (temp=0.8). (3.42 secs). (5972 + 335 = 6307 total tokens)
+
+3. The passage provides evidence that Bailey feels nervous and unsure about entering the circus during the day. Which sentence from the passage best supports this idea?
+
+A. “Bailey doesn’t know what ‘exsanguinated’ means, but he doesn’t much like the sound of it.”  
+
+B. “It takes Bailey the better part of ten minutes to walk all the way across the field, and the closer he gets, the larger and more intimidating the tents look, and the more his conviction fades.” *  
+
+C. “Bailey finds that he does, actually, want to go inside.”  
+
+D. “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+
+
+**Rationales**
+
+- **Option A:** This shows that Bailey is uneasy about the word “exsanguinated,” but it focuses on his reaction to the sign, not clearly on his overall nervousness and uncertainty about entering the circus.  
+
+- **Option B (Key):** This sentence directly shows Bailey’s growing nervousness and doubt: the tents look “intimidating,” and “the more his conviction fades.” It most strongly supports the idea that he feels nervous and unsure about going in.  
+
+- **Option C:** This shows that Bailey wants to go inside and emphasizes his curiosity, which works against the idea of nervous uncertainty rather than supporting it.  
+
+- **Option D:** This indicates that Bailey is thinking about directions and what will count as proof, but it does not clearly show that he feels nervous or unsure about entering; it focuses more on planning than on his emotions.

@@ -1,0 +1,68 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 17:28:43 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 4a (GPT) #1 (temp=0.7)
+
+1. Read the sentence from the passage.
+
+   “His sister was a tall, strong girl, and she walked **rapidly and resolutely**, as if she knew exactly where she was going and what she was going to do next.”
+
+   As it is used in this sentence, what is the best meaning of the word **“resolutely”**?
+
+   A. Slowly and lazily, without much energy  
+   B. *Firmly and with determination, not likely to be stopped*  
+   C. Nervously and shyly, afraid of what might happen  
+   D. Politely and kindly, with good manners  
+
+   **Correct Answer: B***
+
+   **Rationales:**
+
+   - **A. Slowly and lazily, without much energy**  
+     This is incorrect because “resolutely” suggests purpose and firmness, not slowness or laziness. The sentence also says she walked “rapidly,” which directly contradicts “slowly and lazily.”
+
+   - **B. Firmly and with determination, not likely to be stopped***  
+     This is correct. In context, “resolutely” works with “rapidly” and the phrase “as if she knew exactly where she was going and what she was going to do next” to show that Alexandra is confident and determined. The author’s word choice builds a tone of strength and purpose around her character.
+
+   - **C. Nervously and shyly, afraid of what might happen**  
+     This is incorrect because nothing in the sentence suggests fear or shyness. Instead, Alexandra appears sure of herself. “Resolutely” here carries a positive, strong connotation, not a fearful one.
+
+   - **D. Politely and kindly, with good manners**  
+     This is incorrect because “resolutely” does not describe manners or politeness. It describes her attitude and purpose in walking, not how courteous she is. The context focuses on her certainty and direction, not her kindness.
+
+
+================= NEW ITEM =================
+Tier 4a (GPT) #2 (temp=0.8)
+
+2. Read the sentence from the passage.
+
+   “He was a little country boy, and this village was to him a very strange and **perplexing** place, where people wore fine clothes and had hard hearts.”
+
+   What is the best meaning of the word **“perplexing”** as it is used in this sentence?
+
+   A. Confusing and difficult to understand  
+   B. Peaceful and quiet  
+   C. Exciting and full of fun  
+   D. Ordinary and unimportant  
+
+   **Correct Answer: A*  
+
+   **Rationales:**
+
+   - **A. Confusing and difficult to understand***  
+     This is correct. The word “perplexing” means puzzling or hard to figure out. In the sentence, the boy feels uncomfortable in the village, where people “wore fine clothes and had hard hearts.” These details show that the place feels confusing and emotionally difficult for him, matching the connotation of “perplexing.”
+
+   - **B. Peaceful and quiet**  
+     This is incorrect because nothing in the sentence suggests calm or peace. Instead, the description of “hard hearts” and the boy’s discomfort implies emotional tension and confusion, not peacefulness.
+
+   - **C. Exciting and full of fun**  
+     This is incorrect because the tone is negative, not joyful. The boy is unhappy and feels out of place; “perplexing” here does not suggest excitement or fun but rather emotional and social confusion.
+
+   - **D. Ordinary and unimportant**  
+     This is incorrect because “perplexing” suggests the opposite: the village stands out to the boy as strange and difficult, not ordinary. The author’s word choice emphasizes how unusual and troubling the village feels to him, not how unimportant it is.

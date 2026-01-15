@@ -1,0 +1,21 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 3b (Gemini) #2 (temp=0.8)
+
+**Item**
+
+In paragraph 7, the narrator states, “Female physicians are still more of a curiosity than anything.” What is the primary effect of the word “curiosity” in this context?
+
+A. It suggests that patients were interested in learning about the new medical techniques being developed by women.
+B. It implies that female doctors were naturally more inquisitive and observant than their male counterparts.
+*C. It emphasizes that female doctors were regarded as a novelty rather than as legitimate professionals.
+D. It shows that the narrator’s work at the clinic was seen as peculiar and strange by her family.
+
+**Rationales**
+
+*   **Key Rationale:** This is the correct answer. In this context, the word “curiosity” means an unusual or interesting object or phenomenon. By using this word, the narrator highlights that female doctors were not yet accepted as equals in the medical field but were instead seen as a strange and uncommon spectacle. This word choice effectively communicates the societal barriers and lack of professional respect they faced.
+*   **Distractor A Rationale:** This option misinterprets the meaning of “curiosity.” While the word can relate to a desire to learn, the context of the paragraph—which discusses patients’ lack of confidence and their financial inability to see other doctors—suggests the word is not being used to describe intellectual interest. The focus is on the doctors being an oddity, not on their innovative methods.
+*   **Distractor B Rationale:** This option incorrectly applies the quality of being a “curiosity” to the doctors’ own character traits rather than to how they are perceived by society. The sentence is about how others view female physicians, not about the physicians’ personal inquisitiveness.
+*   **Distractor D Rationale:** This option is too narrow and misdirected. While the narrator’s parents disapproved of her career choice (as stated in paragraph 3), the use of “curiosity” in paragraph 7 refers to the general public perception of all “female physicians,” not specifically the narrator’s work or her family’s opinion of it.

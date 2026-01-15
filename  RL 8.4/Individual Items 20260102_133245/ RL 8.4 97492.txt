@@ -1,0 +1,42 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 6b (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+> “I long to save lives, find cures for diseases, **make the broken whole again**.”
+
+What is the best interpretation of the phrase “make the broken whole again” as it is used in this sentence?
+
+A. To repair injured bodies and restore people to health.*  
+B. To fix damaged medical tools so they can be reused.  
+C. To reunite families that were separated by the war.  
+D. To rebuild hospitals that were destroyed in battles.
+
+**Correct Answer: A***
+
+---
+
+### Rationales
+
+**A. To repair injured bodies and restore people to health.*  
+- Correct: captures the figurative meaning in context.  
+- “Broken” does not literally mean shattered objects; it refers to people harmed by illness or injury.  
+- “Whole again” suggests restoring them to full health, matching the narrator’s earlier wish to “save lives” and “find cures for diseases.”  
+
+**B. To fix damaged medical tools so they can be reused.**  
+- Plausible if “broken” is read literally, but the surrounding phrases (“save lives,” “find cures for diseases”) focus on patients, not equipment.  
+- Does not fit the figurative, patient-centered tone of the sentence.
+
+**C. To reunite families that were separated by the war.**  
+- Reflects a possible emotional sense of “broken,” but the passage here is specifically about medical work.  
+- The narrator speaks as a nurse/aspiring doctor, so her goal is about health, not family relationships.
+
+**D. To rebuild hospitals that were destroyed in battles.**  
+- Misreads “broken” as buildings.  
+- The sentence lists actions doctors perform on people, not construction projects on places.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:47:44 ===============

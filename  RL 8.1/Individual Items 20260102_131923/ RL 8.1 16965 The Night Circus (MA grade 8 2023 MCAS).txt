@@ -1,0 +1,30 @@
+Standard:  RL 8.1
+Passage: The Night Circus (MA grade 8 2023 MCAS)
+
+============================================================
+
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 5a (GPT) #1 (temp=0.7). (7.26 secs). (3057 + 483 = 3540 total tokens)
+
+1. Which sentence from the passage best supports the idea that Bailey wants to go back into the circus for his own reasons, not just because of the dare?
+
+A. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”  
+B. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.” *  
+C. “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+D. “It was a dare,” he adds, hoping she will understand.  
+
+**Correct Answer: B***
+
+**Rationales**
+
+- **A. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”**  
+  This shows Bailey is nervous and is looking for a way to avoid going in while still proving he completed the dare. It does not clearly show that he has his own personal reasons for wanting to return to the circus; instead, it emphasizes his hesitation and desire to avoid entering.
+
+- **B. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious.” *  
+  This sentence directly and explicitly supports the idea in the question. It clearly states that Bailey’s desire to enter the circus is “not just because of the dare,” and gives his own reason—his curiosity. It is the strongest textual evidence for the idea that he wants to return for his own reasons.
+
+- **C. “Bailey wonders which way he should go, and what might count as proof for his dare.”**  
+  This focuses on Bailey thinking about how to complete the dare and what will serve as proof. It supports the idea that he is concerned about the dare itself, not that he has his own separate reasons for wanting to be in the circus.
+
+- **D. “It was a dare,” he adds, hoping she will understand.**  
+  This sentence shows Bailey explaining his actions to the girl by mentioning the dare. It supports the idea that the dare is his stated reason for being there, but it does not indicate that he also wants to be there for his own personal reasons beyond the dare.

@@ -1,0 +1,476 @@
+
+
+========== NEW RUN GPT ==========
+
+
+
+========== NEW ITEM ==========
+
+
+Tier 2b #1 (Temp = 0.7)
+1. Read this sentence from the passage:
+
+> “It seems that the more I seek her approval, the farther it **recedes in the distance**.”
+
+What is the most accurate meaning of the phrase “recedes in the distance” as it is used in this sentence?
+
+A. Dr. Blackwell’s approval is becoming less important to Diana over time.  
+B. Dr. Blackwell’s approval seems to be getting harder and harder for Diana to obtain.*  
+C. Dr. Blackwell’s approval is slowly disappearing because Diana sees her less often.  
+D. Dr. Blackwell’s approval is moving away because Dr. Blackwell is planning to close the clinic.
+
+**Correct Answer:** B*
+
+---
+
+### Rationales
+
+**Option B (Key):**  
+The phrase “recedes in the distance” is figurative language comparing Dr. Blackwell’s approval to an object that keeps moving farther away as Diana moves toward it. In context, she says this after describing repeated scoldings and failed attempts to please Dr. Blackwell. This supports the interpretation that her approval feels harder and harder to reach, making B the best answer.
+
+**Option A (Distractor):**  
+This suggests that Dr. Blackwell’s approval is becoming less important to Diana. The passage shows the opposite: Diana is desperate for approval (“the more I seek her approval”), and her hopes depend on gaining Dr. Blackwell’s respect. This misreads the emotional tone and ignores the context of her anxiety.
+
+**Option C (Distractor):**  
+This takes “recedes in the distance” literally, as if Dr. Blackwell’s approval is disappearing because they see each other less. In fact, they see each other frequently; Dr. Blackwell is “watchful” and often reprimands Diana. The phrase is figurative, not about physical distance or time spent together.
+
+**Option D (Distractor):**  
+This invents a reason—Dr. Blackwell planning to close the clinic—that is not in the passage. Nothing suggests the clinic will close. This distractor misinterprets the figurative language as a concrete action rather than as a description of how unreachable approval feels to Diana.
+
+
+=============== NEW RUN (Claude) - 2025-11-18 21:29:42 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 2b (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item**
+
+In the passage, the narrator describes feeling "like a child caught sneaking sweets from a jar" when Dr. Blackwell reprimands her. What does this comparison reveal about the narrator's emotional state and the tone of the scene?
+
+A. It shows the narrator feels guilty about talking to patients and creates a tone of medical professionalism.
+
+B. It shows the narrator feels ashamed about something she knows is wrong and creates a tone of strict discipline.
+
+*C. It shows the narrator feels unfairly treated for something she believes was appropriate and creates a tone of frustration and injustice.
+
+D. It shows the narrator feels childish about her medical skills and creates a tone of educational mentorship.
+
+---
+
+**Rationales:**
+
+**Option A:** This response focuses too narrowly on the surface action (talking to patients) and misses the emotional nuance of feeling "unjustly reprimanded." While medical professionalism is present in the scene, the simile specifically conveys the narrator's sense of unfair treatment, not guilt about appropriate professional behavior. The comparison to a child caught doing something wrong suggests shame, but the text explicitly states she felt "unjustly reprimanded," indicating she doesn't believe her comforting words were inappropriate.
+
+**Option B:** This response correctly identifies shame as an emotion but misses the crucial word "unjustly" that appears immediately after the simile. The narrator doesn't believe she was doing something wrong—she was trying to comfort a frightened patient. The simile captures how the reprimand made her feel, not an admission of actual wrongdoing. The tone is more complex than simple discipline; it includes the narrator's sense of unfairness.
+
+**Option C (KEY):** This response correctly interprets both the figurative language and its impact on tone. The simile "like a child caught sneaking sweets from a jar" captures the shame and embarrassment of being scolded, but the text explicitly states she felt "unjustly reprimanded." The narrator believes comforting a nervous patient was appropriate, making the reprimand feel unfair. This creates a tone of frustration and injustice rather than simple shame, as evidenced by her biting her tongue and the patient's sympathetic look.
+
+**Option D:** This response misinterprets the simile's focus. While the narrator may feel insecure about her medical abilities elsewhere in the passage, this specific comparison relates to being reprimanded for comforting a patient, not her clinical skills. The tone created by this moment is not educational mentorship but rather tension and perceived unfairness, as shown by the narrator's reaction and the patient's sympathetic response.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 07:36:22 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 2b (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item**
+
+In the passage, the narrator describes feeling "like a child caught sneaking sweets from a jar" when Dr. Blackwell reprimands her. What does this comparison reveal about the narrator's emotional state and the tone of the scene?
+
+A. It shows the narrator feels guilty and ashamed, creating a tone of harsh judgment and childhood innocence lost.
+
+*B. It reveals the narrator feels unfairly criticized and embarrassed, creating a tone of frustration mixed with powerlessness.
+
+C. It demonstrates the narrator feels playful and mischievous, creating a lighthearted tone despite the serious medical setting.
+
+D. It indicates the narrator feels nostalgic for simpler times, creating a wistful tone about her past experiences.
+
+---
+
+**Rationales:**
+
+**Option A Rationale:** This option focuses on guilt and shame, but the narrator explicitly states she felt "unjustly reprimanded," indicating she doesn't believe she deserves the criticism. The comparison doesn't suggest lost innocence but rather unfair treatment. While there is harshness, the narrator's perspective is that the judgment is unwarranted.
+
+**Option B Rationale (CORRECT):** The simile comparing her feeling to "a child caught sneaking sweets" captures the narrator's sense of being unfairly scolded and the embarrassment that follows. The word "unjustly" directly states she feels the reprimand is undeserved. The childlike comparison emphasizes her powerlessness in the situation - like a child, she cannot defend herself and must "bite her tongue." This creates a tone that combines frustration (at the unfair treatment) with powerlessness (inability to respond).
+
+**Option C Rationale:** This misinterprets the emotional context entirely. The narrator is clearly distressed and embarrassed, not playful. The "sweets" reference in the simile relates to the shame of being caught doing something wrong, not actual playfulness. The tone is serious and tense, not lighthearted.
+
+**Option D Rationale:** While the simile references childhood, it's not used to express nostalgia but to convey the immediate feeling of embarrassment and powerlessness. The narrator isn't longing for the past but describing her present emotional state. The tone is about current frustration, not wistful remembrance.
+
+---
+
+**LBIDAT Self-Assessment:**
+- **Stem & Task:** ✓ (Clearly aligned to RL.8.4, asking students to analyze figurative language and its impact on meaning and tone)
+- **Key:** ✓ (Definitively correct and directly responsive to the question)
+- **Distractors:** ✓ (Each represents plausible misinterpretations of the figurative language and tone)
+- **Stimulus:** ✓ (Item requires close reading of the specific simile and surrounding context)
+- **Fairness:** ✓ (No inappropriate sensitivity topics)
+
+
+=============== NEW RUN (Claude) - 2025-11-19 07:39:39 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 2b (Claude) #1 (temp=0.7)
+
+## Multiple Choice Item
+
+**In paragraph 4, what is the meaning of the phrase "the farther it recedes in the distance"?**
+
+A. The more Dr. Blackwell physically moves away from Diana during their interactions
+
+*B. The more impossible Dr. Blackwell's approval becomes for Diana to achieve
+
+C. The longer the time period becomes before Diana can expect to receive praise
+
+D. The more Diana realizes that Dr. Blackwell's standards are unreasonably high
+
+---
+
+## Rationales
+
+**Option A Rationale:** This response demonstrates a literal interpretation of the figurative language. A student selecting this option is likely focusing on the physical/spatial meanings of "recedes" and "distance" rather than understanding that the phrase is used metaphorically to describe Diana's emotional experience with seeking approval. This represents a failure to recognize figurative language and its connotative meaning.
+
+**Option B Rationale (CORRECT):** This response correctly identifies the figurative meaning of the phrase within the context of Diana's struggle to gain Dr. Blackwell's approval. The metaphor of something "receding in the distance" effectively conveys how Diana's goal of earning approval becomes increasingly unattainable the harder she tries. Students selecting this option demonstrate understanding of how the author uses spatial imagery to represent an emotional/psychological experience, showing mastery of both figurative meaning and the impact of this word choice on conveying Diana's frustration and sense of futility.
+
+**Option C Rationale:** This response shows partial understanding of the figurative nature of the phrase but misinterprets "distance" as referring to time rather than difficulty/possibility of achievement. A student might select this thinking that Diana believes she needs to wait longer for approval, missing the key point that the approval seems to become impossible rather than delayed. This demonstrates incomplete analysis of the figurative language's meaning.
+
+**Option D Rationale:** This response misinterprets the focus of the metaphor. While Diana may indeed find Dr. Blackwell's standards challenging, the phrase "the farther it recedes in the distance" describes Diana's perception of her ability to meet those standards, not the standards themselves becoming more unreasonable. Students selecting this option are not accurately analyzing what the figurative language is describing—Diana's sense of her own failure rather than Dr. Blackwell's expectations.
+
+---
+
+## LBIDAT Self-Assessment
+
+**Stem & Task: ✓** - The task directly aligns with RL.8.4 by asking students to determine the meaning of a figurative phrase in context and requires analysis of the specific word choice's impact on meaning.
+
+**Key: ✓** - Option B is definitively correct and directly responsive to the question, accurately identifying the figurative meaning of the phrase.
+
+**Distractors: ✓** - All three distractors are plausible misconceptions that could arise from different types of misunderstanding of figurative language, each represents a different error in analyzing the phrase, and all are definitively incorrect.
+
+**Stimulus: ✓** - The passage is required to answer the question, contains the necessary context for understanding the figurative language, and the targeted phrase is integral to the character's emotional journey.
+
+**Fairness: ✓** - No inappropriate sensitivity topics are raised by this item about literary analysis of figurative language.
+
+
+================= NEW ITEM =================
+Tier 2b (Claude) #2 (temp=0.8)
+
+## Multiple Choice Item
+
+**In paragraph 8, the narrator describes feeling "like a child caught sneaking sweets from a jar." What is the impact of this analogy on the meaning and tone of the passage?**
+
+A. It shows that Diana has an immature attitude toward her medical training
+
+*B. It emphasizes Diana's sense of shame despite believing her actions were appropriate
+
+C. It suggests that Diana's behavior was actually wrong and deserved punishment
+
+D. It indicates that Dr. Blackwell treats her students like children rather than adults
+
+---
+
+## Rationales
+
+**Option A Rationale:** This response misinterprets the analogy by focusing on Diana's supposed immaturity rather than her emotional response to the reprimand. A student selecting this option likely missed that the analogy describes how Diana *feels* in the moment, not an assessment of her actual behavior or attitude. This represents a failure to analyze how the analogy functions to convey the narrator's internal experience rather than making a judgment about her character.
+
+**Option B Rationale (CORRECT):** This response correctly identifies how the analogy impacts both meaning and tone. The comparison to a child caught doing something wrong emphasizes the shame Diana feels, while the word "unjustly" in the same sentence reveals that she believes her comforting words to the patient were appropriate. This creates a tone of frustration and unfair treatment. Students selecting this option demonstrate understanding of how analogies can convey complex emotional states and contribute to the overall tone of injustice in the passage.
+
+**Option C Rationale:** This response misses the key word "unjustly" that precedes the analogy and fails to consider the full context. The analogy describes Diana's feeling of shame, but the narrator makes clear she believes the reprimand was unfair. Students selecting this option are not fully analyzing how the analogy works within the broader context to show Diana's conflicted emotions—feeling shame while believing she did nothing wrong.
+
+**Option D Rationale:** This response shifts focus from Diana's internal experience to Dr. Blackwell's behavior. While the analogy involves childlike feelings, it's used to describe Diana's emotional response to being reprimanded, not to characterize Dr. Blackwell's general treatment of students. Students selecting this option are not accurately analyzing what the analogy is meant to convey—the narrator's sense of shame and injustice, not a critique of Dr. Blackwell's teaching methods.
+
+---
+
+## LBIDAT Self-Assessment
+
+**Stem & Task: ✓** - The task directly aligns with RL.8.4 by asking students to analyze the impact of a specific analogy on meaning and tone, requiring understanding of figurative language and word choice effects.
+
+**Key: ✓** - Option B is definitively correct and directly responsive to the question, accurately identifying both the meaning conveyed by the analogy and its impact on tone.
+
+**Distractors: ✓** - All three distractors represent plausible misconceptions about how to analyze analogies, each focuses on different aspects (character judgment, moral assessment, characterization of others), and all are definitively incorrect.
+
+**Stimulus: ✓** - The passage is required to understand the analogy in context, provides necessary information about Diana's perspective through "unjustly reprimanded," and the analogy is integral to understanding the narrator's emotional state.
+
+**Fairness: ✓** - No inappropriate sensitivity topics are raised by this item about literary analysis of figurative language.
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 07:46:46 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 2b (Gemini) #1 (temp=0.7)
+
+Here is a unique multiple-choice item aligned to CCSS.RL.8.4, based on the provided passage.
+
+***
+
+**Item**
+
+Read this sentence from the passage.
+
+> Once again, I felt unjustly reprimanded, like a child caught sneaking sweets from a jar.
+
+What does this comparison emphasize about Diana’s feelings?
+
+A. It shows she feels belittled and that the reprimand is for something insignificant. *
+B. It suggests that she knows she has broken an important rule and feels guilty.
+C. It implies that she is startled by Dr. Blackwell’s sudden appearance.
+D. It reveals that she has been working so hard that she is hungry and thinking about food.
+
+***
+
+**Rationales**
+
+*   **A. (Key):** The student correctly analyzes the figurative language. The simile compares Diana to a "child," which emphasizes her feeling of being treated as immature or small (belittled). The act of "sneaking sweets from a jar" is a minor, childish misdeed, which aligns with Diana’s feeling that Dr. Blackwell’s reprimand for "chatter" is for something insignificant and "unjust."
+
+*   **B. (Distractor):** The student focuses on the idea of being "caught" but misinterprets the context. The passage explicitly states that Diana felt "unjustly reprimanded," indicating she does not feel true guilt. Furthermore, the simile compares her action to something minor ("sneaking sweets"), not breaking an "important rule."
+
+*   **C. (Distractor):** The student misunderstands the purpose of the simile. While being "caught" can involve an element of surprise, the core of the comparison is about the feeling of being unfairly scolded for a small offense, not the feeling of being startled. The text does not suggest Diana was surprised by Dr. Blackwell's presence, but rather by the nature of her comment.
+
+*   **D. (Distractor):** The student interprets the figurative language literally. The reference to "sweets" is part of a comparison used to describe an emotion; it is not meant to suggest that Diana is literally thinking about food or is hungry. This option reflects a failure to understand how similes function.
+
+
+================= NEW ITEM =================
+Tier 2b (Gemini) #2 (temp=0.8)
+
+Of course. Here is another unique multiple-choice item aligned to CCSS.RL.8.4, based on the provided passage.
+
+***
+
+**Item**
+
+Read this sentence from paragraph 4.
+
+> It seems that the more I seek her approval, the farther it recedes in the distance.
+
+How does this metaphor contribute to the tone of the paragraph?
+
+A. It creates a competitive tone by suggesting Diana is in a race against Dr. Blackwell.
+B. It establishes a hopeful tone by implying that Diana’s goal is visible and she must keep pursuing it.
+C. It develops a frustrated tone by emphasizing Diana’s feeling that her goal is becoming impossible to achieve. *
+D. It builds a suspenseful tone by hinting that Dr. Blackwell will soon be leaving the clinic for a distant place.
+
+***
+
+**Rationales**
+
+*   **A. (Distractor):** This option misinterprets the metaphor. While a race involves distance, the word "recedes" suggests that the goal is moving away from the pursuer, which is not characteristic of a fair competition. The tone is one of discouragement, not competition.
+
+*   **B. (Distractor):** This option incorrectly interprets the emotional impact of the metaphor. An object that "recedes in the distance" as you approach it is a classic image of futility, not hope. This suggests the goal is unattainable, which contradicts a hopeful tone.
+
+*   **C. (Key):** The student correctly analyzes the impact of the figurative language on the tone. The metaphor compares gaining approval to chasing an object on the horizon that moves farther away the more one tries to reach it. This effectively conveys Diana's growing sense of futility and frustration with her situation, which is a central feeling in the paragraph.
+
+*   **D. (Distractor):** This option reflects a literal and unsupported interpretation of the phrase. The metaphor describes Diana's feelings about gaining "approval," an abstract concept, not a literal statement about Dr. Blackwell's physical location or travel plans. Therefore, it does not create a suspenseful tone.
+
+=============== NEW RUN (Copilot) - 2025-11-19 11:45:35 ===============
+
+
+
+=============== NEW RUN (Copilot) - 2025-11-19 12:27:16 Conversation 9589a281-6279-45c2-b7e0-21882eb18650 ===============
+
+
+
+
+=============== NEW RUN GPT - 2025-11-19 12:31:34 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 2b (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+> “It seems that the more I seek her approval, the farther it **recedes in the distance**.”
+
+What is the most accurate meaning of the phrase “recedes in the distance” as it is used in this sentence?
+
+A. It becomes less important to the narrator over time.  
+B. It seems to move farther and farther out of her reach.*  
+C. It is hidden from her by other people’s opinions.  
+D. It is delayed until she gains more medical experience.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option B (Key):**  
+- The literal image of something “receding in the distance” suggests an object moving farther away as you try to reach it.  
+- In context, the narrator says, “the more I seek her approval, the farther it recedes in the distance,” which indicates that Dr. Blackwell’s approval feels less attainable the harder she tries.  
+- This captures the figurative meaning and shows how the word choice emphasizes the narrator’s frustration and sense that approval is slipping away.
+
+**Option A:**  
+- “Becomes less important” is incorrect because the approval does not lose importance; it actually seems more important to the narrator as she keeps seeking it.  
+- This misreads “recedes” as about emotional value rather than about attainability or distance.
+
+**Option C:**  
+- “Hidden from her by other people’s opinions” adds an idea not in the text.  
+- Nothing in the sentence or nearby context suggests that other people’s views are blocking the narrator; the difficulty comes from her own mistakes and Dr. Blackwell’s strictness.
+
+**Option D:**  
+- “Delayed until she gains more medical experience” suggests that approval is postponed, not that it feels farther away the more she tries now.  
+- The figurative language focuses on increasing distance, not on a scheduled delay, so this interpretation does not match the tone or meaning of the phrase.
+
+
+================= NEW ITEM =================
+Tier 2b (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+> “I either **freeze like a statue** or make all manner of clumsy blunders.”
+
+What is the effect of the phrase “freeze like a statue” on the tone of this sentence?
+
+A. It creates a humorous tone by making the narrator seem silly and carefree.  
+B. It creates a hopeful tone by showing the narrator is determined to improve.  
+C. It creates an anxious tone by emphasizing how tense and unable to act she feels.*  
+D. It creates an angry tone by showing how annoyed she is with Dr. Blackwell.
+
+**Correct Answer: C***
+
+---
+
+### Rationales
+
+**Option C (Key):**  
+- “Freeze like a statue” is a simile comparing the narrator’s reaction to being completely still, unable to move or act.  
+- In context, she is under Dr. Blackwell’s “watchful eye” and worries her “abilities” are “in question,” which shows she is nervous.  
+- The simile emphasizes her tension and paralysis, contributing to an anxious tone.
+
+**Option A:**  
+- While the image could be slightly exaggerated, the context is not playful: she feels she “can do nothing right” and fears being sent away.  
+- This is not “silly and carefree”; it is serious and stressful, so humorous tone is inaccurate.
+
+**Option B:**  
+- “Hopeful” and “determined to improve” are not supported by this sentence.  
+- The phrase focuses on her inability to act, not on her resolve, so it misinterprets the emotional impact of the figurative language.
+
+**Option D:**  
+- The sentence describes how she reacts (freezing and blundering), not her feelings toward Dr. Blackwell.  
+- Although she later feels “unjustly reprimanded,” “freeze like a statue” highlights fear and self-consciousness, not anger, so this tone is incorrect.
+
+=============== NEW RUN (Copilot) - 2025-11-19 12:51:07 Conversation 273000d1-8b48-46a8-9aa1-0674ae12e627 ===============
+
+
+
+=============== NEW RUN (Copilot) - 2025-11-19 12:59:35 Conversation d3dbdba4-c0cf-4733-9638-a5cbe1d09cd2 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 2b (Copilot) #1
+
+Here’s a complete draft of a **multiple-choice item** aligned to **CCSS RL.8.4** based on the passage *“Dr. Blackwell’s New Assistant”*:
+
+---
+
+### **Item Stem**
+In paragraph 10, the narrator says, *“Once again, I felt unjustly reprimanded, like a child caught sneaking sweets from a jar.”*  
+What does this comparison suggest about the narrator’s feelings toward Dr. Blackwell’s criticism?
+
+---
+
+### **Answer Options**
+A. She feels embarrassed and treated as if she were immature.*  
+B. She feels grateful for Dr. Blackwell’s guidance and support.  
+C. She feels confused about the reason for Dr. Blackwell’s comment.  
+D. She feels motivated to work harder and prove herself.
+
+---
+
+### **Correct Answer**
+**A. She feels embarrassed and treated as if she were immature.***  
+
+---
+
+### **Rationales**
+- **A (Key):** The simile compares the narrator to “a child caught sneaking sweets,” which conveys embarrassment and a sense of being scolded like a misbehaving child. This figurative language emphasizes feeling diminished and treated as immature.  
+- **B:** Gratitude is not implied; the tone of “unjustly reprimanded” and the comparison to a punished child suggests resentment, not appreciation.  
+- **C:** The narrator does not express confusion; she clearly understands the reprimand but feels it is unfair.  
+- **D:** While she hopes to improve later, this sentence focuses on her emotional reaction, not motivation.  
+
+---
+
+### **Why This Aligns to RL.8.4**
+- Requires students to interpret **figurative meaning** of a simile in context.  
+- Analyzes how the author’s word choice impacts tone and characterization.  
+- Avoids requiring outside knowledge; all reasoning is text-based.  
+
+---
+
+✅ **LBIDAT Check**  
+- **Stem & Task:** ✓ Clear, grade-appropriate, targets RL.8.4.  
+- **Key:** ✓ Definitively correct and text-based.  
+- **Distractors:** ✓ Plausible misconceptions (gratitude, confusion, motivation) without duplicating errors.  
+- **Stimulus:** ✓ Requires reference to passage; no construction issues.  
+- **Fairness:** ✓ No inappropriate sensitivity topics.  
+
+---
+
+Would you like me to **create two more items** of the same quality for this passage, or **revise this one to include an allusion-based question**?
+
+
+================= NEW ITEM =================
+Tier 2b (Copilot) #2
+
+Here’s another **unique multiple-choice item** aligned to **CCSS RL.8.4** based on the same passage:
+
+---
+
+### **Item Stem**
+In paragraph 6, the narrator says, *“It seems that the more I seek her approval, the farther it recedes in the distance.”*  
+What is the effect of this figurative language on the tone of the passage?
+
+---
+
+### **Answer Options**
+A. It creates a hopeful tone by showing that the narrator is determined to succeed.  
+B. It creates a frustrated tone by emphasizing how unattainable Dr. Blackwell’s approval feels.*  
+C. It creates a humorous tone by exaggerating the narrator’s mistakes.  
+D. It creates a fearful tone by suggesting that the narrator is afraid of Dr. Blackwell.
+
+---
+
+### **Correct Answer**
+**B. It creates a frustrated tone by emphasizing how unattainable Dr. Blackwell’s approval feels.***  
+
+---
+
+### **Rationales**
+- **A:** While the narrator wants approval, the phrase “farther it recedes” conveys discouragement, not hope.  
+- **B (Key):** The metaphor compares approval to something moving away, highlighting the narrator’s frustration and sense of futility. This directly affects the tone, making it feel strained and disheartened.  
+- **C:** There is no humor in the passage; the narrator’s tone is serious and self-critical.  
+- **D:** Fear is not the dominant emotion here; the narrator feels frustrated rather than afraid.  
+
+---
+
+### **Why This Aligns to RL.8.4**
+- Requires interpretation of **figurative language** (metaphor) and its impact on tone.  
+- Encourages analysis of how word choice shapes meaning and emotional effect.  
+- All reasoning is grounded in the text, avoiding outside knowledge.  
+
+---
+
+✅ **LBIDAT Check**  
+- **Stem & Task:** ✓ Targets RL.8.4 clearly and appropriately.  
+- **Key:** ✓ Definitively correct and text-based.  
+- **Distractors:** ✓ Plausible misconceptions (hope, humor, fear) without duplication.  
+- **Stimulus:** ✓ Requires reference to passage; no construction issues.  
+- **Fairness:** ✓ No inappropriate sensitivity topics.  
+
+---
+
+Would you like me to **create a third item focusing on an allusion or analogy in the passage**, or **compile these two items into a polished mini-assessment with directions and scoring guide**?

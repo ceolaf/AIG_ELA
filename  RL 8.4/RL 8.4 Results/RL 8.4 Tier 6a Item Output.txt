@@ -1,0 +1,285 @@
+
+
+
+=============== NEW RUN (Claude) - 2025-11-19 17:55:11 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 6a (Claude) #1 (temp=0.7)
+
+Looking at this passage, I need to find a word or phrase that carries meaning beyond its literal definition and impacts the tone of the text. The word "anchored" in the opening sentence is perfect for this standard - it's used figuratively to describe the town's position on the prairie, but carries deeper connotations about the town's precarious existence.
+
+Here's the item:
+
+---
+
+**In the opening sentence, the author describes the town of Hanover as "anchored on a windy Nebraska tableland." What does the author's use of the word "anchored" suggest about the town?**
+
+A. The town is a reliable stopping point for travelers crossing the prairie
+
+B. The town has deep historical roots that connect it to the land
+
+*C. The town is barely holding its position against hostile natural forces
+
+D. The town serves as a central hub for the surrounding farming community
+
+**Rationales:**
+
+**Option A:** A student might select this if they focus on the literal maritime meaning of "anchor" as something that provides stability and think about towns as places where people stop. However, this misses the ironic tension created by describing something as "anchored" while it's "trying not to be blown away."
+
+**Option B:** This distractor appeals to students who recognize that "anchored" can mean "rooted" or "established" but fail to see how the subsequent description ("trying not to be blown away") creates an ironic contrast that undermines this interpretation.
+
+**Option C (Correct):** This is correct because the word "anchored" creates an ironic contrast - ships drop anchor to stay secure, but this town's "anchor" is barely keeping it from being blown away. The figurative use suggests the town is clinging desperately to its location, much like a ship in a storm might strain against its anchor. This word choice establishes the tone of precariousness that pervades the entire passage.
+
+**Option D:** Students might choose this if they think of "anchor" in terms of an "anchor store" or central point, interpreting the town as the main settlement in the area. While the town does have stores and services, this interpretation misses the environmental struggle implied by the word choice in context.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 6a (Claude) #2 (temp=0.8)
+
+Looking for another word or phrase that carries meaning beyond its literal definition, "straggled" is an excellent choice. It's used to describe the arrangement of buildings but carries connotations about the town's lack of organization and vitality.
+
+---
+
+**The author writes that "two uneven rows of wooden buildings" along the main street "straggled" on either side of the road. What does the author's use of the word "straggled" suggest about the town?**
+
+A. The buildings were constructed at different time periods as the town grew
+
+*B. The town lacks energy and order, as if it's barely managing to exist
+
+C. The merchants compete with each other for the best locations
+
+D. The buildings were damaged by harsh weather and never properly repaired
+
+**Rationales:**
+
+**Option A:** Students might select this if they focus on the literal meaning of things appearing at intervals or being spread out over time. While "straggled" can mean arriving at different times, this interpretation misses the exhausted, disorganized connotation that shapes the passage's tone of a struggling settlement.
+
+**Option B (Correct):** This is correct because "straggled" typically describes soldiers falling behind in formation or people moving in a tired, disorganized way. Applied to buildings, it personifies them as exhausted entities barely maintaining their positions. This word choice reinforces the overall tone of the town as something worn down and lacking vitality, connecting to other descriptions like "huddled," "drab," and "trying not to be blown away."
+
+**Option C:** This distractor might appeal to students who think about business competition and interpret the uneven arrangement as merchants jockeying for position. However, this misreads the weary, defeated tone that "straggled" creates in context with the other descriptive language.
+
+**Option D:** Students might choose this if they connect "straggled" with the harsh weather described throughout the passage and assume it means the buildings are physically damaged or leaning. While the weather is harsh, "straggled" refers to the arrangement and spacing of the buildings, not their physical condition, and carries a connotation of exhaustion rather than damage.
+
+
+=============== NEW RUN GPT - 2025-11-19 18:04:22 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 6a (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage.
+
+> “Every day has brought at least one similar scolding. It seems that the more I seek her approval, **the farther it recedes in the distance**.”
+
+What is the most likely effect of the phrase “the farther it recedes in the distance” on the meaning and tone of this sentence?
+
+A. It suggests that Dr. Blackwell is physically moving away from the narrator, creating a lonely, isolated tone.  
+B. It implies that gaining Dr. Blackwell’s approval feels like a goal that keeps slipping away, creating a discouraged tone.*  
+C. It shows that the narrator does not actually care about Dr. Blackwell’s opinion, creating a carefree tone.  
+D. It indicates that the narrator is too busy to notice Dr. Blackwell’s reactions, creating an indifferent tone.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**A. It suggests that Dr. Blackwell is physically moving away from the narrator, creating a lonely, isolated tone.**  
+- This misinterprets the figurative language as literal. “Approval” is not something that can physically move away. The phrase is being used metaphorically to describe how hard it feels to earn Dr. Blackwell’s praise, not her physical location.
+
+**B. It implies that gaining Dr. Blackwell’s approval feels like a goal that keeps slipping away, creating a discouraged tone.*  
+- This correctly interprets “the farther it recedes in the distance” as figurative language. The narrator compares Dr. Blackwell’s approval to something she is chasing but that keeps moving farther away, emphasizing her frustration and discouragement. This captures both the meaning (a goal that feels unreachable) and the tone (discouraged, disheartened).
+
+**C. It shows that the narrator does not actually care about Dr. Blackwell’s opinion, creating a carefree tone.**  
+- This directly contradicts the passage. The narrator clearly cares deeply about Dr. Blackwell’s approval (“the more I seek her approval”), so the tone is anxious and discouraged, not carefree. This option ignores both the literal statement and the connotation of the phrase.
+
+**D. It indicates that the narrator is too busy to notice Dr. Blackwell’s reactions, creating an indifferent tone.**  
+- The sentence focuses on the narrator’s emotional struggle to gain approval, not on being too busy or indifferent. She is very aware of Dr. Blackwell’s reactions. This choice misreads the figurative phrase and the overall tone.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 6a (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage.
+
+> “If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly **disabused of that notion**.”
+
+How does the phrase “disabused of that notion” affect the meaning and tone of the sentence?
+
+A. It shows that the narrator is happily surprised that Dr. Blackwell is even kinder than she expected, creating a joyful tone.  
+B. It suggests that the narrator’s hope was corrected in a harsh way, creating a tone of disappointment and realism.*  
+C. It reveals that the narrator never truly believed Dr. Blackwell could be motherly, creating a doubtful tone.  
+D. It indicates that Dr. Blackwell gently encouraged the narrator to keep her expectations low, creating a calm, reassuring tone.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**A. It shows that the narrator is happily surprised that Dr. Blackwell is even kinder than she expected, creating a joyful tone.**  
+- This reverses the meaning. “Disabused of that notion” means having a mistaken belief taken away, not discovering something better. The surrounding description (public reprimands, lack of motherliness) also contradicts a joyful tone.
+
+**B. It suggests that the narrator’s hope was corrected in a harsh way, creating a tone of disappointment and realism.*  
+- This correctly interprets the figurative phrase. “Disabused of that notion” implies that the narrator’s hopeful idea of Dr. Blackwell as “motherly” was stripped away, likely through unpleasant experience. The tone becomes more disappointed and realistic as she faces who Dr. Blackwell really is.
+
+**C. It reveals that the narrator never truly believed Dr. Blackwell could be motherly, creating a doubtful tone.**  
+- The sentence structure (“If I was hoping to find a motherly figure…”) shows that she *did* have that hope. The phrase “disabused of that notion” signals that a belief she actually held was removed, not that she doubted it from the start.
+
+**D. It indicates that Dr. Blackwell gently encouraged the narrator to keep her expectations low, creating a calm, reassuring tone.**  
+- Nothing in the passage suggests gentleness or reassurance. Dr. Blackwell “reprimanding” the narrator in front of others creates a more severe, not calm, tone. This misreads both the connotation of “disabused” and the context.
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 18:14:46 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 6a (Gemini) #1 (temp=0.7)
+
+**Item ID:** R.8.4.Blackwell.001
+**Standard:** RL.8.4
+**Passage:** Dr. Blackwell’s New Assistant
+
+**Item Stem:**
+Read the sentences from paragraph 9.
+
+> Today I spoke soothingly to a nervous young woman who was in my charge . . . “Less **chatter**, please, Diana!” Dr. Blackwell snapped.
+
+What is the impact of Dr. Blackwell’s use of the word *chatter*?
+
+A. It implies that the narrator is speaking too loudly and disturbing the recovery of the other patients.
+B. It reveals Dr. Blackwell’s strict attitude by dismissing the narrator’s attempt at comfort as a trivial distraction. *
+C. It suggests that Dr. Blackwell believes the narrator is sharing personal secrets with the patient rather than working.
+D. It demonstrates that the narrator is speaking uncontrollably because she is nervous about being watched by the doctor.
+
+**Rationales:**
+
+*   **A.** This is a distractor based on a literal interpretation of "chatter" as noise. A student might choose this if they focus on the hospital setting requiring quiet. However, the text states the narrator was speaking "soothingly," which implies a soft volume. The conflict is not about volume, but about the utility of the conversation.
+*   **B. [Key]** This is the correct answer. The item requires the student to analyze the tension between the narrator’s intent ("spoke soothingly") and the doctor’s description of that same action ("chatter"). While the narrator sees her words as a necessary medical tool to calm a patient, the word "chatter" carries a connotation of inconsequential, idle, or annoying talk. By choosing this word, the author establishes Dr. Blackwell’s harsh, efficiency-focused tone and her view that emotional comforting is unprofessional "idle conversation."
+*   **C.** This is a distractor based on a common definition of "chatter" (gossip). A student might choose this if they ignore the context clue that the narrator was trying to "calm" the patient. There is no evidence in the text that the narrator was sharing secrets.
+*   **D.** This is a distractor that confuses the cause and effect found elsewhere in the text. While the narrator mentions earlier in the passage (Paragraph 4) that she freezes or blunders when watched, in this specific instance, she is purposefully trying to help a patient. The word "chatter" represents Dr. Blackwell’s perception of the action, not the narrator’s internal state of nervousness.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 6a (Gemini) #2 (temp=0.8)
+
+**Item ID:** R.8.4.Blackwell.002
+**Standard:** RL.8.4
+**Passage:** Dr. Blackwell’s New Assistant
+
+**Item Stem:**
+Read the sentences from paragraph 7.
+
+> I am still not sure our patients are as confident in our abilities as they would be with those of a male doctor. Female physicians are still more of a **curiosity** than anything.
+
+What is the impact of the word *curiosity* on the meaning of the paragraph?
+
+A. It suggests that the patients are eager to ask questions and learn from the new doctors.
+B. It emphasizes that female doctors are seen as strange attractions rather than qualified professionals. *
+C. It implies that the female doctors are behaving in mysterious ways that confuse the patients.
+D. It reveals that the community is paying close attention to the clinic because they support its mission.
+
+**Rationales:**
+
+*   **A.** This is a distractor based on the most common definition of "curiosity" (a desire to learn). A student might choose this if they fail to recognize the word is being used as a noun to describe the doctors ("*a* curiosity") rather than a feeling the patients have. The context of the paragraph, which discusses a lack of confidence, contradicts the idea of eager learning.
+*   **B. [Key]** This is the correct answer. In this context, calling a person or group "a curiosity" implies they are novelties, oddities, or sideshows. This word choice deepens the meaning of the text by explaining *why* patients lack confidence: they view the women as an interesting experiment rather than as serious medical authorities.
+*   **C.** This is a distractor that plays on the definition of "curious" as meaning strange or mysterious. However, the text does not suggest the doctors are acting mysteriously; rather, it focuses on the public's perception of their gender in that role.
+*   **D.** This is a distractor that interprets "curiosity" as general public interest or attention. While the community is paying attention, the surrounding text ("confident," "doubt") indicates this attention is skeptical, not supportive or mission-driven.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 18:24:59 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 6a (Claude) #1 (temp=0.7)
+
+Looking at this passage, I need to find a word or phrase that carries connotative or figurative meaning beyond its literal definition, and whose specific usage impacts the tone or meaning of the text.
+
+Here's a strong item aligned to RL.8.4:
+
+---
+
+In paragraph 4, the narrator says Dr. Blackwell's approval "recedes in the distance." What does this phrase reveal about the narrator's emotional state?
+
+A. She believes Dr. Blackwell is physically moving away from her during their interactions.
+
+B. She feels increasingly hopeless about ever earning Dr. Blackwell's respect.
+
+C. She thinks Dr. Blackwell is becoming less strict as time passes.
+
+D. She notices that Dr. Blackwell is avoiding direct conversation with her.
+
+**Answer: B***
+
+**Rationales:**
+
+**Option A (Incorrect):** This represents a literal interpretation of "recedes in the distance." A student selecting this doesn't recognize the figurative nature of the language and thinks the phrase refers to actual physical movement rather than an emotional/metaphorical distance.
+
+**Option B (Correct):** This correctly interprets the figurative meaning. The phrase "recedes in the distance" creates an image of something moving farther away despite efforts to reach it, like trying to reach the horizon. This metaphor conveys the narrator's growing sense of futility and despair about gaining approval—the harder she tries, the more impossible it seems.
+
+**Option C (Incorrect):** This misinterprets both the literal meaning of "recedes" and the context. The passage clearly shows Dr. Blackwell becoming more critical, not less strict. Students choosing this may confuse "receding" with "relaxing" or misunderstand the overall tone.
+
+**Option D (Incorrect):** While this acknowledges some figurative meaning (understanding it's not purely literal), it misinterprets what kind of distance is meant. The passage shows Dr. Blackwell actively engaging with criticism, not avoiding the narrator. This distractor catches students who recognize figurative language but don't fully grasp its specific connotative meaning in context.
+
+---
+
+This item effectively assesses RL.8.4 because:
+- It focuses on a figurative phrase students likely understand literally ("recedes in the distance")
+- It requires analyzing how the specific word choice impacts meaning and tone
+- It goes beyond vocabulary knowledge to examine connotative meaning in context
+- The correct answer requires understanding how the metaphor reveals the narrator's emotional journey
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 6a (Claude) #2 (temp=0.8)
+
+Looking for another word or phrase with figurative/connotative meaning that impacts tone and meaning, I'll focus on a different part of the passage.
+
+---
+
+In paragraph 8, when Diana feels "unjustly reprimanded, like a child caught sneaking sweets from a jar," what does this comparison reveal about the situation?
+
+A. Diana believes she deserves punishment for making a serious medical error.
+
+B. Diana feels her kind gesture is being treated as if it were something shameful.
+
+C. Diana thinks Dr. Blackwell is jealous of her connection with patients.
+
+D. Diana realizes she has been breaking important hospital rules.
+
+**Answer: B***
+
+**Rationales:**
+
+**Option A (Incorrect):** This misinterprets the word "unjustly" and the tone of the comparison. A student choosing this doesn't recognize that the simile emphasizes the unfairness Diana feels—she wasn't doing anything wrong (like a child stealing), yet she's being treated as if she were. This distractor catches students who focus only on the "reprimanded" part without considering the qualifying language.
+
+**Option B (Correct):** This correctly interprets how the simile functions. The comparison to "a child caught sneaking sweets" creates a specific tone—Diana was doing something innocent and even helpful (comforting a nervous patient), but Dr. Blackwell's reaction makes her feel as if she'd been caught doing something naughty. The connotative meaning emphasizes both the innocence of her action and the shame she feels despite that innocence.
+
+**Option C (Incorrect):** This introduces an interpretation not supported by the text or the comparison. Students selecting this may be making unfounded inferences about Dr. Blackwell's motivations rather than analyzing what the specific word choice reveals about Diana's perspective.
+
+**Option D (Incorrect):** This takes the comparison too literally, suggesting Diana actually did violate rules. These students miss that the simile expresses how Diana *feels* rather than what actually happened. The word "unjustly" should signal that she didn't actually do anything wrong.
+
+---
+
+This item effectively assesses RL.8.4 because:
+- It examines a simile that students understand literally but must interpret figuratively
+- It requires analyzing how the specific comparison shapes our understanding of Diana's emotional state
+- It tests whether students can recognize how "unjustly" combined with the simile creates a tone of unfairness
+- The comparison adds layers of meaning about power dynamics and Diana's vulnerability that go beyond the literal statement "Dr. Blackwell criticized me"

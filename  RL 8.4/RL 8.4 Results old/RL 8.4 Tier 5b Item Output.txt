@@ -1,0 +1,60 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 17:29:10 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 5b (GPT) #1 (temp=0.7)
+
+1. In the sentence “His sister was a tall, strong girl, and she walked rapidly and resolutely, as if she knew exactly where she was going and what she was going to do next,” what is the most likely effect of the word “resolutely” on the tone of the description of Alexandra?
+
+A. It makes her seem impatient and annoyed with everyone around her.  
+*B. It makes her seem determined and confident in the face of difficulty.*  
+C. It makes her seem hurried and careless about what is happening.  
+D. It makes her seem nervous and uncertain about her choices.  
+
+**Correct Answer: B***
+
+**Rationales**
+
+- **A. It makes her seem impatient and annoyed with everyone around her.**  
+  This misreads the connotation of “resolutely.” Nothing in the sentence suggests irritation with “everyone around her”; instead, the focus is on her purposeful movement. “Resolutely” implies firmness of purpose, not impatience.
+
+- **B. It makes her seem determined and confident in the face of difficulty.***  
+  This is correct. “Resolutely” means with firm purpose or determination. In the context of a cold, harsh town and her brother’s distress, the word choice adds a tone of steadiness and strength to Alexandra’s character, suggesting she knows what to do and will act decisively.
+
+- **C. It makes her seem hurried and careless about what is happening.**  
+  “Rapidly” might suggest speed, but “resolutely” does not suggest carelessness. The pairing of “rapidly and resolutely” emphasizes purposeful, controlled action, not rushing without thought.
+
+- **D. It makes her seem nervous and uncertain about her choices.**  
+  This is the opposite of the word’s connotation. “Resolutely” suggests firmness and certainty, while nervousness and uncertainty would be conveyed by words like “hesitantly” or “anxiously,” which are not used here.
+
+
+================= NEW ITEM =================
+Tier 5b (GPT) #2 (temp=0.8)
+
+2. In the sentence “The little creature had never been so high before, and she was too frightened to move. Her master was **sunk in despair**,” what does the phrase “sunk in despair” suggest about the boy’s feelings?
+
+A. He is slightly worried but expects someone will help soon.  
+B. He is embarrassed that people in town might be watching him.  
+*C. He feels completely overwhelmed and hopeless about saving his kitten.*  
+D. He is angry at his sister for leaving him alone with the kitten.  
+
+**Correct Answer: C***
+
+**Rationales**
+
+- **A. He is slightly worried but expects someone will help soon.**  
+  “Sunk in despair” is much stronger than “slightly worried.” The figurative use of “sunk” suggests being pulled down or weighed down by emotion, not mild concern or optimism about help arriving.
+
+- **B. He is embarrassed that people in town might be watching him.**  
+  Earlier, the boy is described as shy and afraid people might laugh, but here the phrase “sunk in despair” shifts the focus from embarrassment to deep sadness and hopelessness about the kitten.
+
+- **C. He feels completely overwhelmed and hopeless about saving his kitten.***  
+  This is correct. The figurative phrase “sunk in despair” implies that his sadness and fear have “pulled him down,” emphasizing how strong and overwhelming his emotions are. It adds a tone of deep seriousness to his feelings.
+
+- **D. He is angry at his sister for leaving him alone with the kitten.**  
+  The text does not mention anger toward his sister at this moment. The phrase “sunk in despair” emphasizes sorrow and helplessness, not anger or blame.

@@ -1,0 +1,45 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 6a (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+   “Every day has brought at least one similar scolding. It seems that the more I seek her approval, the farther it recedes in the distance.”
+
+   How does the word **“scolding”** most affect the tone of this part of the passage?
+
+   A. It makes the tone admiring, showing how much the narrator looks up to Dr. Blackwell.  
+   B. It makes the tone lighthearted, suggesting that the narrator is not truly upset.  
+   C. It makes the tone tense, emphasizing how harsh and upsetting the doctor’s criticism feels.*  
+   D. It makes the tone formal, focusing on the professional setting of the clinic.
+
+**Correct Answer: C***
+
+---
+
+### Rationales
+
+**Option A:**  
+- “Scolding” has a negative connotation, suggesting sharp or harsh criticism, often directed at a child.  
+- This clashes with an admiring tone; while the narrator does admire Dr. Blackwell overall, this specific word choice focuses on how unpleasant the criticism feels, not on admiration.  
+- Misreads the emotional impact of the word in context.
+
+**Option B:**  
+- A lighthearted tone would require playful or gentle language, but “scolding” suggests seriousness and discomfort.  
+- The narrator already feels that she “could do nothing right” and fears being sent away, which is not light or humorous.  
+- Ignores the stress and insecurity built up in this section.
+
+**Option C (Correct):**  
+- “Scolding” carries a connotation of being sharply corrected, almost like a child being lectured, which adds emotional weight beyond the neutral idea of “correction” or “feedback.”  
+- This choice of word makes the tone tense and anxious, highlighting how harsh and frequent the criticism feels to the narrator.  
+- Fits with nearby phrases like “I felt that I could do nothing right” and “Every day has brought at least one similar scolding.”
+
+**Option D:**  
+- While the setting is professional, “scolding” does not mainly contribute to formality; it emphasizes emotional discomfort and inequality in power.  
+- A formal tone would more likely be created by neutral or technical terms, not by a word that suggests being talked down to.  
+- Misidentifies the primary impact of the word choice on tone.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:47:16 ===============

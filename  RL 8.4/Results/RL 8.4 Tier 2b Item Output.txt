@@ -1,0 +1,210 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 14:40:51 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 2b (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+> “It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+As it is used in this sentence, what does the word “recedes” most nearly mean?
+
+A. becomes less important to Diana over time  
+B. moves farther away from Diana’s reach *  
+C. changes into something different than Diana expected  
+D. disappears completely from Diana’s mind  
+
+**Correct Answer: B. moves farther away from Diana’s reach***
+
+**Rationales**
+
+- **A. becomes less important to Diana over time**  
+  This is incorrect because approval is very important to Diana throughout the passage. She worries constantly about gaining Dr. Blackwell’s respect and fears being sent away, so the approval does not “become less important” to her.
+
+- **B. moves farther away from Diana’s reach***  
+  This is correct. The sentence compares approval to something in the distance that keeps moving away the more she tries to reach it. In context, “recedes” has a figurative meaning: the approval feels harder and harder to get, as if it is moving farther away.
+
+- **C. changes into something different than Diana expected**  
+  This is incorrect because nothing in the sentence suggests that Dr. Blackwell’s approval is changing in nature. Instead, the focus is on how difficult it is for Diana to obtain it, not on the approval itself becoming something different.
+
+- **D. disappears completely from Diana’s mind**  
+  This is incorrect because Diana continues to think about Dr. Blackwell’s approval and fears losing her position. The phrase “farther it recedes in the distance” suggests it is still there but out of reach, not gone from her thoughts.
+
+
+================= NEW ITEM =================
+Tier 2b (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+> “If I was hoping to find a **motherly figure** in Dr. Blackwell, I was quickly disabused of that notion.”
+
+What is the effect of the phrase “motherly figure” on the tone of this sentence?
+
+A. It makes the tone humorous by suggesting Diana expected Dr. Blackwell to joke with her.  
+B. It makes the tone bitter by showing that Diana now dislikes Dr. Blackwell.  
+C. It makes the tone wistful by revealing Diana’s desire for warmth and gentle support.*  
+D. It makes the tone fearful by suggesting that Diana is afraid of older women.  
+
+**Correct Answer: C. It makes the tone wistful by revealing Diana’s desire for warmth and gentle support.*  
+
+**Rationales**
+
+- **A. It makes the tone humorous by suggesting Diana expected Dr. Blackwell to joke with her.**  
+  Incorrect. “Motherly” suggests kindness, guidance, and protection, not joking. Nothing in the sentence indicates humor; instead, it shows disappointment.
+
+- **B. It makes the tone bitter by showing that Diana now dislikes Dr. Blackwell.**  
+  Incorrect. The narrator does not say she dislikes Dr. Blackwell; she is disappointed that Dr. Blackwell is not as gentle as she hoped. The tone is more sad and reflective than angry or bitter.
+
+- **C. It makes the tone wistful by revealing Diana’s desire for warmth and gentle support.*  
+  Correct. Calling Dr. Blackwell a hoped-for “motherly figure” shows that Diana longed for nurturing guidance, and the phrase “I was quickly disabused of that notion” shows that this hope was not fulfilled. This combination creates a wistful, regretful tone.
+
+- **D. It makes the tone fearful by suggesting that Diana is afraid of older women.**  
+  Incorrect. The sentence does not express fear of older women; instead, it focuses on what Diana hoped Dr. Blackwell would be like emotionally (caring and supportive) and the disappointment when she is not.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:43:51 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 2b (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item**
+
+In the passage, when Diana says "the more I seek her approval, the farther it recedes in the distance," what does this figurative language reveal about Diana's emotional state?
+
+A. She is becoming increasingly confident in her medical abilities under Dr. Blackwell's guidance.
+
+B. She is physically exhausted from the long hours of medical training and patient care.
+
+*C. She feels frustrated and discouraged because her efforts to impress Dr. Blackwell seem to backfire.
+
+D. She is growing more determined to prove that women can be as capable as male doctors.
+
+**Rationales:**
+
+**A. She is becoming increasingly confident in her medical abilities under Dr. Blackwell's guidance.**
+This option contradicts the figurative language and context. The metaphor of approval "receding in the distance" suggests movement away from confidence, not toward it. The surrounding text describes Diana feeling self-conscious, making "clumsy blunders," and being repeatedly scolded, which indicates decreasing rather than increasing confidence.
+
+**B. She is physically exhausted from the long hours of medical training and patient care.**
+While Diana does work long hours, the figurative language specifically relates to seeking approval, not physical fatigue. The metaphor of something "receding in the distance" describes an emotional or psychological distance, not physical tiredness. The context focuses on her relationship with Dr. Blackwell and her desire for recognition, not her energy levels.
+
+**C. She feels frustrated and discouraged because her efforts to impress Dr. Blackwell seem to backfire. [CORRECT]**
+This option correctly interprets the figurative language. The metaphor of approval "receding in the distance" creates an image of something moving farther away despite Diana's efforts to reach it. The context supports this interpretation: Diana describes freezing "like a statue," making "clumsy blunders," and being repeatedly scolded. The phrase "the more I seek" indicates active effort, while "the farther it recedes" suggests that these very efforts are counterproductive, creating frustration and discouragement.
+
+**D. She is growing more determined to prove that women can be as capable as male doctors.**
+This option misinterprets the figurative language's emotional tone. While Diana does want to prove women's capabilities, the metaphor of approval "receding in the distance" suggests defeat and discouragement, not growing determination. The context shows her fear of being "sent away" and feeling that her "abilities" are "called into question," which indicates diminishing rather than increasing determination.
+
+**LBIDAT Evaluation:**
+- **Stem & Task:** ✓ (Directly targets RL.8.4 by asking students to analyze figurative language and its impact on revealing character's emotional state)
+- **Key:** ✓ (Definitively correct interpretation of the metaphor in context)
+- **Distractors:** ✓ (Each represents plausible misinterpretations of either the figurative language or context)
+- **Stimulus:** ✓ (Passage is necessary for successful response and contains clear figurative language)
+- **Fairness:** ✓ (No inappropriate sensitivity topics)
+
+
+================= NEW ITEM =================
+Tier 2b (Claude) #2 (temp=0.8)
+
+**Multiple Choice Item**
+
+In the passage, Diana describes feeling "like a child caught sneaking sweets from a jar" when Dr. Blackwell reprimands her. How does this simile contribute to the overall tone of the passage?
+
+A. It creates a lighthearted, humorous tone by comparing medical training to childhood mischief.
+
+*B. It reinforces the tone of vulnerability and powerlessness that Diana experiences throughout her training.
+
+C. It establishes a bitter, resentful tone toward Dr. Blackwell's teaching methods.
+
+D. It develops a nostalgic tone by connecting Diana's current experiences to pleasant childhood memories.
+
+**Rationales:**
+
+**A. It creates a lighthearted, humorous tone by comparing medical training to childhood mischief.**
+This option misreads the emotional weight of the simile. While the comparison involves a childhood scenario, the context is Diana feeling "unjustly reprimanded" and experiencing shame. The simile emphasizes her discomfort and diminished status, not humor. The overall passage tone focuses on Diana's struggles and insecurities, making a lighthearted interpretation inconsistent with the broader emotional landscape.
+
+**B. It reinforces the tone of vulnerability and powerlessness that Diana experiences throughout her training. [CORRECT]**
+This option correctly analyzes how the simile contributes to tone. Comparing herself to "a child caught sneaking sweets" emphasizes Diana's feelings of being small, guilty, and at the mercy of an authority figure's judgment. This reinforces the vulnerable tone established throughout the passage, where Diana describes feeling self-conscious, making mistakes, and fearing dismissal. The simile's imagery of childhood wrongdoing amplifies her sense of powerlessness in the mentor-student relationship.
+
+**C. It establishes a bitter, resentful tone toward Dr. Blackwell's teaching methods.**
+While Diana does feel the reprimand is unjust, the simile itself doesn't create bitterness or resentment. The comparison to a child suggests shame and submission rather than anger or rebellion. Diana "bit my tongue and said nothing," indicating acceptance rather than resentment. The tone is more about vulnerability and self-doubt than bitter opposition to Dr. Blackwell's methods.
+
+**D. It develops a nostalgic tone by connecting Diana's current experiences to pleasant childhood memories.**
+This option misinterprets both the simile and the emotional context. Being "caught sneaking sweets" refers to getting in trouble, not a pleasant memory. The simile evokes the shame and guilt of childhood misbehavior, not nostalgia. Additionally, the surrounding context of feeling "unjustly reprimanded" and worse after a patient's sympathetic look contradicts any nostalgic interpretation.
+
+**LBIDAT Evaluation:**
+- **Stem & Task:** ✓ (Directly targets RL.8.4 by asking students to analyze how a specific simile contributes to overall tone)
+- **Key:** ✓ (Definitively correct analysis of how the simile reinforces the passage's tone)
+- **Distractors:** ✓ (Each represents plausible misinterpretations of the simile's effect on tone)
+- **Stimulus:** ✓ (Passage is necessary for successful response and contains clear figurative language)
+- **Fairness:** ✓ (No inappropriate sensitivity topics)
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 15:09:04 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 2b (Gemini) #1 (temp=0.7)
+
+Here is a unique multiple-choice item aligned to the specified standard, based on the provided passage.
+
+***
+
+Read this sentence from the passage.
+
+> Once again, I felt unjustly reprimanded, like a child caught sneaking sweets from a jar.
+
+What does this comparison reveal about how Diana feels?
+
+A. It shows that Diana feels Dr. Blackwell treats her unfairly for minor issues. *
+B. It suggests that Diana recognizes she is still young and has much to learn.
+C. It implies that Diana feels guilty because she knows she was breaking a rule.
+D. It indicates that Diana is worried that the patient now views her as untrustworthy.
+
+---
+**Rationales:**
+
+*   **A. (Key):** The student correctly analyzes the figurative language. The simile compares being reprimanded by Dr. Blackwell to a child being caught doing something minor and forbidden, like "sneaking sweets." This comparison emphasizes Diana's feeling that the scolding is disproportionate to her action (comforting a patient) and that she is being treated in a condescending, childish manner, which supports the text's claim that she felt "unjustly reprimanded."
+
+*   **B. (Distractor):** The student may have focused on the word "child" to mean inexperienced. While Diana is an apprentice, the simile's purpose is not to express humility but to convey her frustration and embarrassment at being unfairly scolded. The tone is one of indignation, not self-reflection on her need for more training.
+
+*   **C. (Distractor):** The student likely focused on the words "caught" and "sneaking," which suggest wrongdoing, but ignored the key phrase "unjustly reprimanded." The text explicitly states that Diana believes the reprimand is unfair, which contradicts the idea that she feels genuine guilt for her actions.
+
+*   **D. (Distractor):** The student may have been misled by the patient's sympathetic look mentioned in the next sentence. However, the simile itself describes Diana's internal emotional response to Dr. Blackwell's actions, not her concern about her professional image in the eyes of the patient. The focus of the comparison is on the dynamic between Diana and her mentor.
+
+
+================= NEW ITEM =================
+Tier 2b (Gemini) #2 (temp=0.8)
+
+Of course. Here is another unique multiple-choice item aligned to the same standard.
+
+***
+
+In the fourth paragraph, Diana says that Dr. Blackwell’s approval "recedes in the distance."
+
+What does this phrase reveal about Diana's feelings?
+
+A. It emphasizes that Diana believes earning Dr. Blackwell's respect is an increasingly impossible goal. *
+B. It suggests that Diana feels Dr. Blackwell is actively trying to avoid her.
+C. It implies that Diana is willing to be patient because she knows approval will take a long time.
+D. It indicates that Diana is beginning to care less about what Dr. Blackwell thinks of her.
+
+---
+**Rationales:**
+
+*   **A. (Key):** The student correctly interprets the metaphorical language. The phrase "recedes in the distance" creates an image of an object moving farther away, becoming harder to see or reach. By applying this to "approval," the student understands that Diana feels her goal of earning Dr. Blackwell's respect is becoming more, not less, difficult to achieve, despite her efforts.
+
+*   **B. (Distractor):** The student is likely interpreting the word "distance" in a literal or personal sense rather than a figurative one. The text suggests Dr. Blackwell is watching Diana closely ("watchful eye"), not avoiding her. The "distance" refers to the unattainability of the goal (approval), not a physical or emotional distance between the two people.
+
+*   **C. (Distractor):** The student misunderstands the connotative meaning of "recedes." This word suggests a loss of hope or a goal that is slipping away, which creates a feeling of frustration, not patience. If the phrase were "is in the distance," it might imply a long but achievable journey, but "recedes" implies movement away from the observer.
+
+*   **D. (Distractor):** The student has made an inference that is directly contradicted by the text. The sentence begins with "the more I seek her approval," which shows that Diana cares deeply about what Dr. Blackwell thinks. The metaphor is used to express her frustration with this desire, not a diminishing of it.

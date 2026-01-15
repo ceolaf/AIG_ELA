@@ -1,0 +1,44 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 5b (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage.
+
+> “If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly **disabused of that notion**.”
+
+What does the phrase “disabused of that notion” most nearly mean as it is used in this sentence?
+
+A. I was gently encouraged to keep believing that idea.  
+B. I was forced to admit that my idea was wrong.*  
+C. I was persuaded to change my idea to a different one.  
+D. I was reminded that my idea was not very important.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**A. I was gently encouraged to keep believing that idea.**  
+- “Disabused” means to correct a false belief, not to support it.  
+- The context shows Dr. Blackwell is strict and publicly reprimands the narrator, which would not encourage the “motherly” idea.  
+- This is the opposite of the sentence’s meaning.
+
+**B. I was forced to admit that my idea was wrong.*  
+- “Disabused of that notion” is an idiomatic phrase meaning someone’s mistaken belief has been taken away.  
+- The narrator expected a “motherly figure,” but Dr. Blackwell’s sharp public scoldings prove that belief false.  
+- This option best matches both the literal meaning of “disabused” and the context of the narrator’s disappointment.
+
+**C. I was persuaded to change my idea to a different one.**  
+- This suggests a neutral change, but “disabused” carries the connotation of being corrected or set straight about a mistaken belief.  
+- Nothing in the sentence suggests a gentle “persuasion” or a simple swap of ideas; it emphasizes that the hope was wrong.
+
+**D. I was reminded that my idea was not very important.**  
+- The phrase does not refer to importance; it refers to accuracy.  
+- The narrator’s hope is clearly important to her; what changes is whether it is realistic.  
+- This misreads the emotional and figurative impact of the phrase.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:46:43 ===============

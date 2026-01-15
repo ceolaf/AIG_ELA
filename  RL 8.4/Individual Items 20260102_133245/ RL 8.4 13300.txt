@@ -1,0 +1,25 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 6a (Gemini) #1 (temp=0.7)
+
+Here is a multiple-choice item written to the specifications provided.
+
+**Item**
+
+In paragraph 5, the narrator says that being sent away would "extinguish my hopes." What is the effect of using the word "extinguish" in this sentence?
+
+A. It implies that the narrator’s passion for medicine has begun to fade due to the challenges she faces.
+B. It suggests that the narrator views Dr. Blackwell as a cruel person who enjoys ending others’ dreams.
+C. It shows that the narrator would be temporarily discouraged but would find another way to pursue her goal.
+*D. It emphasizes that the narrator's dream of becoming a doctor would be completely and permanently ended.
+
+***
+
+**Rationales**
+
+*   **A. Rationale:** This option incorrectly interprets the source of the conflict. The verb "extinguish" implies that an external force (Dr. Blackwell sending her away) would put out the narrator's hopes, which are described as strong. This option suggests the narrator's hopes are fading on their own, which is not supported by the text.
+*   **B. Rationale:** This option makes a judgment about Dr. Blackwell's character that is not the primary focus of the phrase. While the narrator is intimidated by Dr. Blackwell, the effect of the word "extinguish" is to communicate the devastating and final consequence for the narrator, not to define Dr. Blackwell's motives as cruel.
+*   **C. Rationale:** This option misinterprets the finality implied by the word "extinguish." To extinguish a fire is to end it completely, not pause it. This interpretation is also contradicted by the text, which states that this is the "only institution of its kind," meaning there would be no other way for the narrator to achieve her goal.
+*   **D. Rationale (Key):** This is the correct answer. The student must recognize the figurative meaning of "extinguish," which literally means to put out a fire. By applying this to the narrator's "hopes," the author creates a powerful metaphor. This word choice emphasizes that the narrator believes failure would not be a mere setback but the complete and permanent destruction of her dream, just as an extinguished flame cannot be relit. This highlights the high stakes of her apprenticeship.

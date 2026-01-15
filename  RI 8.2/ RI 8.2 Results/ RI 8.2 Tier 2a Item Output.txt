@@ -1,0 +1,154 @@
+
+
+
+=============== NEW RUN GPT - 2026-01-15 11:01:22 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 2a (GPT) #1 (temp=0.7). (9.01 secs). (868 + 482 = 1350 total tokens)
+
+1. Which statement best expresses a central idea of the passage?
+
+A. Elephants can be trained by humans to perform complex tricks for rewards.  
+*B. Elephants show advanced social cognition by understanding when they need a partner’s help to succeed at a task.*  
+C. Elephants are more intelligent than all other animals, including chimpanzees and rooks.  
+D. Elephants in captivity behave very differently from elephants in the wild.
+
+**Correct Answer: B***
+
+**Rationales:**
+
+**Option A:**  
+- This is partially related to the passage (mahouts help train elephants to pull the rope), but training is not the main focus.  
+- The article emphasizes what the experiments reveal about elephants’ *natural* cooperative thinking, not about teaching tricks.  
+- A student choosing this may be focusing too narrowly on the training details rather than the broader purpose of the study.
+
+**Option B (Correct):**  
+- The passage repeatedly highlights that elephants:  
+  - “know when they need a helping hand—or rather, trunk,”  
+  - understand they “will fail at a task without a partner’s assistance,”  
+  - wait for their partners and give up when a partner cannot help.  
+- These points support the central idea that elephants have advanced social cognition and understand when cooperation is necessary.  
+- The description of experiments, comparisons to chimpanzees and rooks, and comments from scientists all develop this idea across the text.
+
+**Option C:**  
+- The passage never claims elephants are more intelligent than *all* other animals.  
+- It says elephants “join an elite club” of cooperators and compares them to chimpanzees, hyenas, rooks, and humans, noting some similarities and differences (e.g., waiting longer than chimps, rooks not waiting).  
+- This option overgeneralizes and misrepresents the author’s more balanced comparison.
+
+**Option D:**  
+- The passage briefly mentions wild elephants (e.g., lifting a fallen companion) to support the study’s findings, but it does not argue that captive and wild elephants behave “very differently.”  
+- Instead, it shows that behavior in the lab is consistent with behavior observed in nature.  
+- A student choosing this may be confusing a supporting example (wild observations) with the central idea of the text.
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 2a (GPT) #2 (temp=0.8). (11.90 secs). (1361 + 539 = 1900 total tokens)
+
+2. Which sentence is the best objective summary of the passage?
+
+A. In Thailand, trainers taught elephants to pull ropes for bowls of corn, proving that elephants can easily learn tricks from humans.  
+B. Scientists ran several rope‑pulling experiments with elephants and chimpanzees and found that elephants are the smartest animals in the world.  
+*C. A study in Thailand showed that elephants understand when they need a partner’s help to get a reward, and other scientists note that this cooperative behavior matches what has been seen in wild elephants.*  
+D. Researchers discovered that elephants will always wait patiently for their partners, while rooks and chimpanzees usually refuse to cooperate in experiments.
+
+**Correct Answer: C***
+
+---
+
+### Rationales
+
+**Option A:**  
+- Not correct because it focuses on training and “tricks,” which is only a small part of the passage.  
+- The main purpose of the study was to explore elephants’ social cognition and understanding of cooperation, not just to show they can be trained.  
+- This summary leaves out key ideas about needing a partner, understanding when help is required, and comparisons to other animals.
+
+**Option B:**  
+- Incorrect because it is not objective and is factually inaccurate.  
+- The passage never claims elephants are “the smartest animals in the world.” It only says they “join an elite club of social cooperators” and compares their performance with chimpanzees and rooks in specific tasks.  
+- The summary also ignores the details about waiting for partners and giving up when a partner cannot help.
+
+**Option C (Correct):**  
+- This option captures the central idea: elephants show advanced social cognition by recognizing when they need a partner’s assistance to succeed.  
+- It accurately mentions the setting (a study in Thailand), the main task (getting a reward by cooperating), and the key conclusion (understanding the need for help).  
+- It also includes how scientists connect the lab findings to observations of wild elephants, which is a major supporting idea in the passage.  
+- The tone is neutral and factual, making it an objective summary.
+
+**Option D:**  
+- Not correct because it exaggerates and distorts the comparisons.  
+- The passage does say elephants could wait longer than chimpanzees and that rooks failed to wait, but it does not say chimps and rooks “usually refuse to cooperate.”  
+- Saying elephants “will always wait patiently” overstates the findings and is not supported by the text.  
+- This option focuses too narrowly on one detail and misrepresents the overall evidence, so it is not a good objective summary.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:06:24 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get
+
+
+
+=============== NEW RUN (Claude) - 2026-01-15 11:13:04 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 2a (Claude) #1 (temp=0.7). (15.72 secs). (949 + 428 = 1377 total tokens)
+
+## Multiple Choice Item
+
+**Which statement best represents the central idea of the passage?**
+
+A. Elephants have been trained by mahouts in Thailand to perform complex tasks using ropes and tables to earn food rewards.
+
+B. *Elephants demonstrate advanced social cognition by understanding when they need cooperation from others to succeed at tasks.
+
+C. Scientists have discovered that elephants are more intelligent than chimpanzees when solving problems involving food rewards.
+
+D. Researchers use rope-pulling experiments to study how different animal species learn to work with human trainers.
+
+### Rationales for Each Answer Option:
+
+**Option A (Incorrect):** While the passage does mention mahouts training elephants and the rope-and-table experiment, this is a supporting detail about the methodology, not the central idea. A student selecting this option is focusing too narrowly on the experimental setup rather than the broader significance of what the experiments revealed about elephant cognition.
+
+**Option B (Correct):** This captures the main point of the passage - that elephants possess higher social cognition as evidenced by their ability to recognize when cooperation is necessary. The passage explicitly states this is "a sign of higher social cognition" and places elephants in an "elite club of social cooperators." The entire article builds toward demonstrating this cognitive ability through various experimental results.
+
+**Option C (Incorrect):** Although the passage mentions that elephants "learned to do this faster than the chimpanzees," this is a supporting detail, not the central idea. The passage is not primarily about comparing elephants to chimpanzees but about establishing elephants' cooperative abilities. A student choosing this might be overemphasizing one comparative detail.
+
+**Option D (Incorrect):** This option misrepresents the focus of the passage by suggesting it's about animal-human trainer relationships. The experiments actually test elephant-to-elephant cooperation, not how animals work with humans. Students selecting this have misunderstood the nature of the research being described.
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 2a (Claude) #2 (temp=0.8). (18.41 secs). (1391 + 500 = 1891 total tokens)
+
+## Multiple Choice Item
+
+**Which of the following best summarizes the passage?**
+
+A. Scientists in Thailand trained twelve Asian elephants to pull ropes for food rewards, discovering that elephants learn these tasks more quickly than chimpanzees and can wait patiently for extended periods when necessary.
+
+B. *Researchers demonstrated that elephants possess advanced cooperative abilities by showing they understand when a partner's help is needed, will wait for assistance, and will give up when cooperation is impossible, placing them among the few species with higher social cognition.
+
+C. A team of scientists studied elephant behavior at the Thai Elephant Conservation Center, where they observed elephants helping fallen companions and working together to solve problems that individual elephants could not complete alone.
+
+D. Experiments with Asian elephants revealed that these animals can be trained to perform complex tasks involving ropes and sliding tables, leading scientists to conclude that elephants have impressive cognitive abilities similar to those of rooks and hyenas.
+
+### Rationales for Each Answer Option:
+
+**Option A (Incorrect):** While this option includes accurate details from the passage (twelve elephants, learning faster than chimpanzees, waiting), it fails to capture the main significance of these findings - that they demonstrate elephants' understanding of cooperation. A student selecting this option is listing facts without synthesizing the central meaning of the research.
+
+**Option B (Correct):** This option provides a comprehensive summary that captures both the experimental evidence (understanding when help is needed, waiting for partners, giving up when cooperation is impossible) and the broader significance (higher social cognition, joining an elite group of species). It accurately represents the progression of ideas in the passage from specific experiments to broader conclusions.
+
+**Option C (Incorrect):** This option conflates the experimental setting with observations from nature. While the passage mentions elephants helping fallen companions, this was an observation from East Africa used to support the findings, not part of the Thai experiments. Students choosing this have confused supporting evidence with the main experimental findings.
+
+**Option D (Incorrect):** This option is too vague and misses the key point about cooperation and social cognition. It mentions "complex tasks" and "impressive cognitive abilities" without specifying that the crucial ability being tested was understanding the need for cooperation. Additionally, it incorrectly suggests the experiments were about training rather than testing natural cooperative abilities.

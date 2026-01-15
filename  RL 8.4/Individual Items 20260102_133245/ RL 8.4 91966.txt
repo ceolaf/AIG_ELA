@@ -1,0 +1,41 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 2b (Claude) #2 (temp=0.8)
+
+**Multiple Choice Item**
+
+In the passage, Diana describes feeling "like a child caught sneaking sweets from a jar" when Dr. Blackwell reprimands her. How does this simile contribute to the overall tone of the passage?
+
+A. It creates a lighthearted, humorous tone by comparing medical training to childhood mischief.
+
+*B. It reinforces the tone of vulnerability and powerlessness that Diana experiences throughout her training.
+
+C. It establishes a bitter, resentful tone toward Dr. Blackwell's teaching methods.
+
+D. It develops a nostalgic tone by connecting Diana's current experiences to pleasant childhood memories.
+
+**Rationales:**
+
+**A. It creates a lighthearted, humorous tone by comparing medical training to childhood mischief.**
+This option misreads the emotional weight of the simile. While the comparison involves a childhood scenario, the context is Diana feeling "unjustly reprimanded" and experiencing shame. The simile emphasizes her discomfort and diminished status, not humor. The overall passage tone focuses on Diana's struggles and insecurities, making a lighthearted interpretation inconsistent with the broader emotional landscape.
+
+**B. It reinforces the tone of vulnerability and powerlessness that Diana experiences throughout her training. [CORRECT]**
+This option correctly analyzes how the simile contributes to tone. Comparing herself to "a child caught sneaking sweets" emphasizes Diana's feelings of being small, guilty, and at the mercy of an authority figure's judgment. This reinforces the vulnerable tone established throughout the passage, where Diana describes feeling self-conscious, making mistakes, and fearing dismissal. The simile's imagery of childhood wrongdoing amplifies her sense of powerlessness in the mentor-student relationship.
+
+**C. It establishes a bitter, resentful tone toward Dr. Blackwell's teaching methods.**
+While Diana does feel the reprimand is unjust, the simile itself doesn't create bitterness or resentment. The comparison to a child suggests shame and submission rather than anger or rebellion. Diana "bit my tongue and said nothing," indicating acceptance rather than resentment. The tone is more about vulnerability and self-doubt than bitter opposition to Dr. Blackwell's methods.
+
+**D. It develops a nostalgic tone by connecting Diana's current experiences to pleasant childhood memories.**
+This option misinterprets both the simile and the emotional context. Being "caught sneaking sweets" refers to getting in trouble, not a pleasant memory. The simile evokes the shame and guilt of childhood misbehavior, not nostalgia. Additionally, the surrounding context of feeling "unjustly reprimanded" and worse after a patient's sympathetic look contradicts any nostalgic interpretation.
+
+**LBIDAT Evaluation:**
+- **Stem & Task:** ✓ (Directly targets RL.8.4 by asking students to analyze how a specific simile contributes to overall tone)
+- **Key:** ✓ (Definitively correct analysis of how the simile reinforces the passage's tone)
+- **Distractors:** ✓ (Each represents plausible misinterpretations of the simile's effect on tone)
+- **Stimulus:** ✓ (Passage is necessary for successful response and contains clear figurative language)
+- **Fairness:** ✓ (No inappropriate sensitivity topics)
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 15:09:04 ===============

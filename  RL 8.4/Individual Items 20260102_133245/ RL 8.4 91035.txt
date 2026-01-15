@@ -1,0 +1,30 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 4b (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+   “It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+   In this sentence, what is the most accurate meaning of the word **“recedes”** as it is used?
+
+   A. Becomes less important to the narrator over time  
+   *B. Seems to move farther and farther away from the narrator’s reach*  
+   C. Disappears completely from the narrator’s life  
+   D. Returns to the narrator after being gone for a while  
+
+**Rationales**
+
+- **A. Becomes less important to the narrator over time**  
+  This is incorrect because the narrator’s desire for Dr. Blackwell’s approval is *very* important to her; it does not lessen. The figurative image is about the approval moving away from her, not about her caring less about it.
+
+- **B. Seems to move farther and farther away from the narrator’s reach* (Key)*  
+  This is correct. The phrase “the farther it recedes in the distance” uses “recedes” figuratively to suggest that Dr. Blackwell’s approval feels like something the narrator is chasing but that keeps moving away, staying out of reach. This connotative meaning emphasizes her frustration and discouragement.
+
+- **C. Disappears completely from the narrator’s life**  
+  This is incorrect because the sentence does not say the approval vanishes; it is still there, just “farther” away. The figurative language suggests increasing distance, not total disappearance.
+
+- **D. Returns to the narrator after being gone for a while**  
+  This is the opposite of what “recedes” means here. “Recedes” suggests moving backward or away, not coming back. Choosing this indicates a misunderstanding of the word’s meaning in this context.

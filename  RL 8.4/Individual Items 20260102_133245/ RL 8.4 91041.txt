@@ -1,0 +1,57 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 3a (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+   “If I was hoping to find a **motherly figure** in Dr. Blackwell, I was quickly disabused of that notion.”
+
+   What does the phrase **“motherly figure”** suggest about what the narrator expected from Dr. Blackwell?
+
+   A. She expected Dr. Blackwell to act as a gentle guide who would comfort and protect her.*  
+   B. She expected Dr. Blackwell to treat her as an equal colleague and close friend.  
+   C. She expected Dr. Blackwell to ignore her mistakes and let her work independently.  
+   D. She expected Dr. Blackwell to behave in a strict, distant, and unemotional way.
+
+**Correct Answer: A***
+
+---
+
+### Rationales
+
+**Option A: She expected Dr. Blackwell to act as a gentle guide who would comfort and protect her.*  
+- “Motherly” has connotations of warmth, care, patience, and protection.  
+- A “motherly figure” suggests someone who guides, nurtures, and supports.  
+- This fits the narrator’s disappointment: she hoped for gentle support but instead receives public scoldings.
+
+**Option B: She expected Dr. Blackwell to treat her as an equal colleague and close friend.**  
+- “Motherly” does not usually imply equality or friendship; it implies a more experienced person caring for someone younger or less experienced.  
+- The passage emphasizes guidance and approval, not equality.
+
+**Option C: She expected Dr. Blackwell to ignore her mistakes and let her work independently.**  
+- A “motherly” figure would likely correct mistakes, though gently, rather than ignore them.  
+- The narrator’s problem is not that Dr. Blackwell corrects her, but that she does so harshly and publicly.
+
+**Option D: She expected Dr. Blackwell to behave in a strict, distant, and unemotional way.**  
+- These traits are the opposite of the usual connotations of “motherly.”  
+- The sentence shows she is “disabused” of her hope when Dr. Blackwell behaves more strictly than she expected, which means the original expectation was something warmer and more supportive.
+
+---
+
+**Final Item Version**
+
+2. Read this sentence from the passage:
+
+   “If I was hoping to find a **motherly figure** in Dr. Blackwell, I was quickly disabused of that notion.”
+
+   What does the phrase **“motherly figure”** suggest about what the narrator expected from Dr. Blackwell?
+
+   A. She expected Dr. Blackwell to act as a gentle guide who would comfort and protect her.*  
+   B. She expected Dr. Blackwell to treat her as an equal colleague and close friend.  
+   C. She expected Dr. Blackwell to ignore her mistakes and let her work independently.  
+   D. She expected Dr. Blackwell to behave in a strict, distant, and unemotional way.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:44:23 ===============

@@ -1,0 +1,33 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 3b (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item**
+
+In the passage, when Diana describes seeking Dr. Blackwell's approval, she states "the more I seek her approval, the farther it recedes in the distance." What is the impact of the author's word choice in this phrase?
+
+A. It suggests that Diana's efforts are making Dr. Blackwell physically move away from her in the clinic.
+
+B. It creates a sense of time passing slowly as Diana waits for Dr. Blackwell's feedback on her work.
+
+C. It emphasizes Diana's growing frustration by comparing approval to something that becomes more difficult to obtain the harder she tries.
+
+D. It indicates that Dr. Blackwell is deliberately avoiding Diana because she disapproves of her background as a field nurse.
+
+**Answer Key:** *C
+
+**Rationales:**
+
+**A. It suggests that Diana's efforts are making Dr. Blackwell physically move away from her in the clinic.**
+This response demonstrates a literal interpretation of "recedes in the distance," missing the figurative meaning entirely. A test taker choosing this option likely focuses only on the spatial imagery without recognizing that the phrase is metaphorical, describing an emotional/professional dynamic rather than physical movement.
+
+**B. It creates a sense of time passing slowly as Diana waits for Dr. Blackwell's feedback on her work.**
+This distractor appeals to test takers who recognize some figurative language is present but misinterpret what aspect is being emphasized. While "recedes in the distance" could relate to time in some contexts, the passage focuses on Diana's increasing difficulty obtaining approval rather than temporal concerns.
+
+***C. It emphasizes Diana's growing frustration by comparing approval to something that becomes more difficult to obtain the harder she tries.**
+This is the correct answer. The phrase uses figurative language to create a visual metaphor where approval is compared to a distant object that moves farther away as one pursues it. This word choice effectively conveys the paradoxical and frustrating nature of Diana's situation—her increased efforts actually seem to make success less attainable. The connotative meaning emphasizes futility and creates a tone of mounting frustration.
+
+**D. It indicates that Dr. Blackwell is deliberately avoiding Diana because she disapproves of her background as a field nurse.**
+This option misinterprets the figurative language as indicating intentional behavior by Dr. Blackwell. Test takers choosing this response may recognize that something beyond the literal is happening but incorrectly attribute the "receding" to Dr. Blackwell's conscious actions rather than understanding it as Diana's metaphorical description of her own experience with seeking approval.

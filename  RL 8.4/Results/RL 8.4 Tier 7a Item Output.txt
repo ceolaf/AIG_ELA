@@ -1,0 +1,208 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 14:42:19 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 7a (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+   “It seems that the more I seek her approval, the farther it **recedes in the distance**.”
+
+   In this sentence, what is the most accurate effect of the phrase “recedes in the distance” on the meaning and tone of the narrator’s description of Dr. Blackwell’s approval?
+
+   A. It suggests that Dr. Blackwell’s approval is physically moving away from the narrator down a hallway.  
+   B. It shows that Dr. Blackwell’s approval is becoming less important to the narrator over time.  
+   *C. It conveys that Dr. Blackwell’s approval feels harder and harder for the narrator to reach, adding a tone of discouragement.*  
+   D. It implies that Dr. Blackwell no longer notices the narrator’s efforts at all.
+
+---
+
+**Rationales**
+
+**Option A:**  
+- Misinterprets the phrase literally as physical movement.  
+- “Recedes in the distance” is used figuratively here; Dr. Blackwell’s approval is not an object moving away in space.  
+- This ignores the emotional context of the narrator’s frustration and self-doubt.
+
+**Option B:**  
+- Misreads the connotation of “recedes” as “matters less.”  
+- In context, the narrator is *more* focused on Dr. Blackwell’s approval, not less.  
+- The phrase emphasizes how unreachable that approval feels, not that it has lost importance.
+
+**Option C (KEY):**  
+- Correctly interprets “recedes in the distance” as figurative language suggesting something that seems to move farther away the more you try to reach it.  
+- This fits the context: the narrator keeps trying to impress Dr. Blackwell but only earns more scoldings.  
+- Captures the impact on tone: the wording adds a sense of discouragement and emotional distance, deepening the narrator’s feeling of failure.
+
+**Option D:**  
+- Overstates the situation and adds an idea not supported by the text.  
+- Dr. Blackwell clearly *does* notice the narrator’s efforts (she frequently reprimands her and later praises her).  
+- “Recedes in the distance” refers to how the narrator *feels* about achieving approval, not to Dr. Blackwell’s attention or awareness.
+
+
+================= NEW ITEM =================
+Tier 7a (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+   “If I was hoping to find a **motherly figure** in Dr. Blackwell, I was quickly **disabused** of that notion.”
+
+   How do the words “motherly figure” and “disabused” work together to shape the meaning and tone of this sentence?
+
+   A. They show that the narrator has decided Dr. Blackwell is too old to be a real mentor.  
+   *B. They contrast the narrator’s wish for gentle comfort with the harsh reality of Dr. Blackwell’s strictness, creating a disappointed tone.*  
+   C. They suggest that Dr. Blackwell has replaced the narrator’s actual mother, adding a warm, affectionate tone.  
+   D. They indicate that the narrator no longer wants any guidance from Dr. Blackwell, creating a rebellious tone.
+
+---
+
+**Rationales**
+
+**Option A:**  
+- Misinterprets “motherly figure” as mainly about age instead of emotional qualities (kindness, gentleness, nurturing).  
+- “Disabused” means the narrator was corrected or had a mistaken belief taken away, not that she decided Dr. Blackwell was “too old.”  
+- Does not capture the emotional contrast between expectation and reality.
+
+**Option B (KEY):**  
+- “Motherly figure” connotes warmth, protection, and gentle support—what the narrator *hoped* for.  
+- “Disabused” suggests that this comforting idea was firmly taken away, often in a somewhat harsh or abrupt way.  
+- Together, these words highlight a sharp contrast between the narrator’s expectations and Dr. Blackwell’s strict, critical behavior.  
+- This contrast creates a tone of disappointment and emotional letdown, which aligns with the narrator’s feelings in the paragraph.
+
+**Option C:**  
+- Claims the words imply that Dr. Blackwell *has* become like a mother, but the sentence says the opposite: the narrator was “disabused” of that hope.  
+- Misreads the tone as “warm, affectionate” when the actual tone is more disappointed and sober.  
+- Ignores the negative connotation of “disabused,” which undercuts the “motherly” idea.
+
+**Option D:**  
+- Overstates the narrator’s reaction; she still desperately wants Dr. Blackwell’s approval and guidance.  
+- “Disabused” refers to losing an illusion about *what kind* of mentor Dr. Blackwell is, not rejecting her mentorship altogether.  
+- Introduces a “rebellious” tone that is not present in the passage at this point.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:48:12 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 7a (Claude) #1 (temp=0.7)
+
+Here is a multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In the passage, the narrator describes her hopes as something that "would extinguish" if Dr. Blackwell sent her away. How does the author's choice of the word "extinguish" impact the meaning and tone of this part of the text?
+
+A. It emphasizes that the narrator's dreams are delicate and could easily disappear, creating a tone of vulnerability and desperation.
+
+*B. It suggests that the narrator's hopes are like a living flame that could be completely snuffed out, creating a tone of urgency and high stakes.
+
+C. It shows that the narrator's goals are unrealistic and should be put out like a dangerous fire, creating a tone of self-doubt.
+
+D. It indicates that the narrator's ambitions are bright and shining like a light, creating a tone of optimism about her future.
+
+**Rationales:**
+
+**Option A:** This response recognizes some figurative meaning (dreams being delicate) and identifies an appropriate tone (vulnerability/desperation), but it doesn't fully capture the specific connotative power of "extinguish." The word carries stronger implications than mere fragility—it suggests complete destruction of something that was actively burning/alive. This represents a partial understanding that doesn't go deep enough into the word's particular impact.
+
+**Option B (Correct Answer):** This response demonstrates full understanding of how "extinguish" works figuratively in this context. The word choice creates a metaphor comparing the narrator's hopes to a flame or fire—something alive, vital, and burning bright—that could be completely snuffed out. This metaphorical use goes beyond the literal meaning to suggest that her hopes aren't just goals but living, burning aspirations. The connotation creates urgency and high stakes because extinguishing suggests total, irreversible destruction rather than mere disappointment.
+
+**Option C:** This response misinterprets the connotative meaning by suggesting the hopes should be extinguished (as if they were dangerous), rather than understanding that the narrator fears their extinguishment. This represents a fundamental misreading of the figurative meaning and incorrectly identifies the tone as self-doubt rather than fear of loss.
+
+**Option D:** This response confuses "extinguish" with words related to brightness or illumination, missing the figurative meaning entirely. It focuses on a denotative association with light/fire but fails to understand that "extinguish" means to put out or destroy that light. This leads to a completely opposite tone interpretation (optimism instead of anxiety about potential loss).
+
+
+================= NEW ITEM =================
+Tier 7a (Claude) #2 (temp=0.8)
+
+Here is a different multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In the passage, the narrator describes how Dr. Blackwell's approval "recedes in the distance" the more she seeks it. How does the author's use of "recedes" in this context impact the meaning and tone?
+
+A. It suggests that Dr. Blackwell is physically moving away from the narrator, creating a tone of confusion about the doctor's location.
+
+*B. It creates the impression that the narrator's goal is like a distant horizon that moves farther away as she approaches it, establishing a tone of frustration and futility.
+
+C. It indicates that the narrator's memory of wanting approval is fading over time, creating a tone of forgetfulness and distraction.
+
+D. It shows that Dr. Blackwell's approval comes and goes in waves like an ocean tide, creating a tone of natural rhythm and patience.
+
+**Rationales:**
+
+**Option A:** This response interprets "recedes" only in its most literal, physical sense (moving backward in space), missing the figurative application entirely. The narrator isn't describing Dr. Blackwell's physical location but rather the elusive nature of gaining her approval. This represents a failure to recognize the metaphorical use of the word and results in a misreading of the tone as mere confusion rather than emotional frustration.
+
+**Option B (Correct Answer):** This response demonstrates full understanding of how "recedes" functions figuratively in this context. The author uses the word to create a spatial metaphor where approval is like a distant point on a horizon that seems to move farther away as one travels toward it—a phenomenon that creates the paradox of pursuit making the goal more elusive. This metaphorical use goes beyond literal meaning to capture the psychological experience of frustration when effort seems counterproductive, establishing a tone of futility and emotional strain.
+
+**Option C:** This response confuses "recedes" with fading memory or diminishing desire, misunderstanding both the figurative meaning and what is actually receding (the approval, not the narrator's wanting of it). The word choice isn't about forgetting but about the goal becoming more distant despite active pursuit. This leads to an incorrect tone interpretation of distraction rather than the actual frustration and determination.
+
+**Option D:** This response misapplies the concept of receding by connecting it to tidal movement, which involves regular patterns of coming and going. However, the narrator describes a one-directional movement away, not a cyclical pattern. The word "recedes" in context suggests increasing distance and elusiveness, not natural rhythmic cycles. This misreading leads to an inappropriate tone of patience rather than the mounting frustration the narrator actually experiences.
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 15:18:04 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 7a (Gemini) #1 (temp=0.7)
+
+Here is a multiple-choice item aligned to RL.8.4 based on the provided passage.
+
+Read this sentence from paragraph 5.
+
+"That would **extinguish** my hopes, for the Women’s Medical College that Dr. Blackwell has founded here at the New York Infirmary for Indigent Women and Children is the only institution of its kind."
+
+What is the main effect of using the word "extinguish" in this sentence?
+
+A. It emphasizes the complete and final way her dream would be destroyed. *
+B. It suggests that Diana's hopes are unrealistic and should be abandoned.
+C. It implies that Dr. Blackwell intentionally wants to cause Diana harm.
+D. It shows that Diana's feelings about her situation can be easily changed.
+
+---
+**Rationales**
+
+*   **A. (Correct):** The student must recognize that "extinguish" is used figuratively. They must understand its denotative meaning (to put out a fire, to bring to an end) and then analyze its connotative power in this context. The word implies a total, irreversible end, much like a snuffed-out flame cannot be easily relit. This choice highlights the high stakes for the narrator—failure means the absolute end of her dream, not just a delay or a disappointment, because this is the "only institution of its kind."
+
+*   **B. (Incorrect):** This option misinterprets the narrator's perspective and the overall theme of the passage. The narrator's hopes are presented as valid and noble, and she is determined to achieve them. The word "extinguish" describes the external threat *to* her hopes if she is sent away, not an internal judgment *on* their validity. A student might choose this if they misread the source of the conflict, thinking the problem is with Diana's ambition rather than her difficult circumstances.
+
+*   **C. (Incorrect):** This option incorrectly assigns malicious intent to Dr. Blackwell. The passage portrays Dr. Blackwell as strict, demanding, and focused on high standards, not as someone who is actively cruel. The "extinguishing" of hope would be a *consequence* of Diana failing to meet the standards, not the result of Dr. Blackwell's personal desire to hurt her. This requires the student to distinguish between the severity of a consequence and the intent of the person who might cause it.
+
+*   **D. (Incorrect):** This option describes the opposite of what the word "extinguish" implies. The word suggests permanence and finality, not something that is easy to change, reverse, or shift. A student might choose this if they focus generally on the emotional nature of the narrator without connecting to the specific, powerful meaning of the chosen word, which implies an unchangeable outcome.
+
+
+================= NEW ITEM =================
+Tier 7a (Gemini) #2 (temp=0.8)
+
+Of course. Here is another unique multiple-choice item aligned to RL.8.4 based on the passage provided.
+
+---
+Read this sentence from paragraph 7.
+
+"Female physicians are still more of a **curiosity** than anything."
+
+How does the author’s use of the word "curiosity" affect the meaning of the paragraph?
+
+A. It emphasizes that female doctors are viewed as unusual objects of interest rather than as respected professionals. *
+B. It suggests that patients are eager and interested to learn more about the skills of female doctors.
+C. It implies that the work of female doctors is so complex that most people cannot understand it.
+D. It shows that the narrator believes her own desire to be a doctor is strange and peculiar.
+
+---
+**Rationales**
+
+*   **A. (Correct):** This option correctly analyzes the connotative meaning of "curiosity" in this context. A "curiosity" is often a strange or rare object one looks at, like an item in a collection or a sideshow. By using this word to describe female doctors, the author highlights that they are not yet seen as legitimate, capable professionals on par with men, but rather as novelties. This choice accurately captures the impact of the word on the meaning—it reveals the societal prejudice and lack of professional respect these women faced.
+
+*   **B. (Incorrect):** This option assigns a positive connotation to the word "curiosity" that is not supported by the passage. While being curious can mean being interested in learning, the context here suggests a more detached and less respectful form of interest. The paragraph states that patients come to the clinic out of financial necessity and are more comfortable with women, but it also notes they "cannot afford to doubt us," implying their confidence is not strong. This distractor misreads the tone and the specific connotation of being treated *like* a curiosity.
+
+*   **C. (Incorrect):** This option misinterprets the focus of the word. The word "curiosity" is used to describe how female doctors are perceived by society, not the complexity of their medical work. The text does not suggest their work is mysterious or hard to understand; it suggests their *gender* in that professional role is what is considered strange. This is an error in connecting the word's impact to the wrong aspect of the text.
+
+*   **D. (Incorrect):** This option misapplies the narrator's statement. The narrator is describing how *patients and society* view female doctors, not how she views her own ambition. Throughout the passage, Diana presents her goal as noble and important ("I long to save lives..."). This distractor incorrectly projects the meaning of "curiosity" onto the narrator's internal feelings about herself, rather than her observation of the outside world.

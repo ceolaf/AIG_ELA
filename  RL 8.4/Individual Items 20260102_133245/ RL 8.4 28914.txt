@@ -1,0 +1,34 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 4a (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+   “It seems that the more I seek her approval, the farther it **recedes in the distance**.”
+
+   As it is used in this sentence, what is the most accurate meaning of the phrase “recedes in the distance”?
+
+   A. Her approval is literally moving away from her across the room.  
+   B. Her approval becomes less important to her over time.  
+   C. Her approval seems to move farther out of reach the more she tries to earn it.*  
+   D. Her approval is completely gone and can never return.
+
+---
+
+**Correct Answer: C***
+
+**Rationales:**
+
+- **A. Her approval is literally moving away from her across the room.**  
+  This takes “recedes in the distance” literally, as if Dr. Blackwell’s approval is a physical object moving away. In context, the narrator is talking about feelings and goals, so the phrase is figurative, not literal.
+
+- **B. Her approval becomes less important to her over time.**  
+  This suggests that the narrator cares less about Dr. Blackwell’s approval, but the passage shows the opposite. She is desperate to gain Dr. Blackwell’s respect: “I must somehow manage to do better… and gain the doctor’s respect, or she will send me away.”
+
+- **C. Her approval seems to move farther out of reach the more she tries to earn it.*  
+  This correctly interprets the figurative language. “Recedes in the distance” compares Dr. Blackwell’s approval to something that keeps moving farther away, emphasizing how difficult and unreachable it feels despite the narrator’s efforts.
+
+- **D. Her approval is completely gone and can never return.**  
+  This overstates the meaning. The phrase suggests that approval is getting harder to attain, not that it has disappeared forever. Later, Dr. Blackwell praises her (“Well done, Diana!”), showing that approval was still possible.

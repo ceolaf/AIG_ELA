@@ -1,0 +1,29 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 3a (Gemini) #2 (temp=0.8)
+
+Of course. Here is another unique multiple-choice item based on the same passage and instructions.
+
+***
+
+**Item**
+
+Read this sentence from the passage.
+
+> It seems that the more I seek her approval, the farther it recedes in the distance.
+
+How does this sentence contribute to the tone of the paragraph?
+
+A. It creates a competitive tone by suggesting the narrator is in a race against others to win Dr. Blackwell’s favor.
+B. It develops a mysterious tone by implying that Dr. Blackwell’s motives for being so harsh are hidden from the narrator.
+C. It establishes a determined tone by showing the narrator’s commitment to pursuing a difficult and distant goal.
+*D. It conveys a frustrated tone by emphasizing the narrator’s feeling that her goal is becoming impossible to reach.
+
+**Rationales**
+
+*   **A. Rationale:** This option misinterprets the metaphor. The image of something receding in the distance suggests a personal, solitary struggle, not a race against other people. The narrator’s focus is on her own perceived failures, not on outperforming the other students.
+*   **B. Rationale:** While the narrator may not understand Dr. Blackwell’s motives, the primary effect of this specific sentence is to describe the narrator’s own feelings of futility, not to create mystery around Dr. Blackwell. The focus is on the *effect* of Dr. Blackwell's actions, which is the narrator's growing sense of hopelessness.
+*   **C. Rationale:** This option incorrectly interprets the emotional impact of the metaphor. While the narrator is determined to succeed, this particular sentence expresses her discouragement and the feeling that her efforts are futile. The image of a goal moving farther away as one approaches it is one of frustration, not renewed determination.
+*   **D. Rationale (Key):** This is the correct answer. The metaphor of a goal that “recedes in the distance” the more one tries to reach it powerfully illustrates the narrator’s growing frustration and sense of helplessness. The harder she works for approval, the more unattainable it seems. This specific word choice creates a tone of deep discouragement in the paragraph.

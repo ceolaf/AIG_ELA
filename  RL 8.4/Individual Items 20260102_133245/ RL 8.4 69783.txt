@@ -1,0 +1,28 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 7b (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item**
+
+In the passage, when Diana describes Dr. Blackwell's approval as something that "recedes in the distance," the author uses this phrase to suggest that Diana feels her goal is
+
+A. becoming impossible to reach because she lacks the necessary skills
+B. *slipping further away the harder she tries to achieve it*
+C. less important to her than it was when she first arrived
+D. dependent on factors beyond her control or influence
+
+**Rationales:**
+
+**A. becoming impossible to reach because she lacks the necessary skills**
+This distractor focuses on a literal interpretation that misses the connotative meaning. While Diana does question her abilities, the phrase "recedes in the distance" specifically emphasizes the paradoxical relationship between her effort and the result, not a simple assessment of her skill level. This response fails to recognize how the metaphorical language captures the frustrating dynamic of her situation.
+
+**B. *slipping further away the harder she tries to achieve it* (CORRECT)**
+This option correctly identifies the connotative meaning of "recedes in the distance" as it's used in this context. The phrase creates a visual metaphor suggesting that the more Diana pursues Dr. Blackwell's approval, the more elusive it becomes—like chasing something that moves away from you as you approach it. This captures the ironic and frustrating nature of her situation, where increased effort yields the opposite of the desired result, contributing to a tone of mounting desperation.
+
+**C. less important to her than it was when she first arrived**
+This distractor misinterprets the metaphor by suggesting diminishing importance rather than increasing difficulty in attainment. The phrase "recedes in the distance" doesn't indicate Diana's changing priorities but rather the growing gap between her efforts and success. This response fails to recognize that the approval remains crucially important to Diana throughout the passage.
+
+**D. dependent on factors beyond her control or influence**
+This distractor misses the specific connotative meaning by offering a generic interpretation about external factors. While the phrase does suggest something moving away, it specifically emphasizes the relationship between Diana's seeking and the approval's elusiveness, not external circumstances. This response doesn't account for how the metaphor highlights Diana's active but counterproductive pursuit.

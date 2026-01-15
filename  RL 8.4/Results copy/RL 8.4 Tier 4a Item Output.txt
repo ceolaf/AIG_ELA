@@ -1,0 +1,123 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 14:41:25 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 4a (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+   “It seems that the more I seek her approval, the farther it **recedes in the distance**.”
+
+   As it is used in this sentence, what is the most accurate meaning of the phrase “recedes in the distance”?
+
+   A. Her approval is literally moving away from her across the room.  
+   B. Her approval becomes less important to her over time.  
+   C. Her approval seems to move farther out of reach the more she tries to earn it.*  
+   D. Her approval is completely gone and can never return.
+
+---
+
+**Correct Answer: C***
+
+**Rationales:**
+
+- **A. Her approval is literally moving away from her across the room.**  
+  This takes “recedes in the distance” literally, as if Dr. Blackwell’s approval is a physical object moving away. In context, the narrator is talking about feelings and goals, so the phrase is figurative, not literal.
+
+- **B. Her approval becomes less important to her over time.**  
+  This suggests that the narrator cares less about Dr. Blackwell’s approval, but the passage shows the opposite. She is desperate to gain Dr. Blackwell’s respect: “I must somehow manage to do better… and gain the doctor’s respect, or she will send me away.”
+
+- **C. Her approval seems to move farther out of reach the more she tries to earn it.*  
+  This correctly interprets the figurative language. “Recedes in the distance” compares Dr. Blackwell’s approval to something that keeps moving farther away, emphasizing how difficult and unreachable it feels despite the narrator’s efforts.
+
+- **D. Her approval is completely gone and can never return.**  
+  This overstates the meaning. The phrase suggests that approval is getting harder to attain, not that it has disappeared forever. Later, Dr. Blackwell praises her (“Well done, Diana!”), showing that approval was still possible.
+
+
+================= NEW ITEM =================
+Tier 4a (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+   “If I was hoping to find a **motherly figure** in Dr. Blackwell, I was quickly **disabused of that notion**.”
+
+   What is the best interpretation of the phrase “disabused of that notion” as it is used here?
+
+   A. I was gently encouraged to keep believing that she was like a mother.  
+   B. I was forced to give up the idea that she would act like a warm, caring mother.*  
+   C. I was reminded that my own mother wanted me to become a doctor.  
+   D. I was taught that all women doctors must behave in a motherly way.
+
+---
+
+**Correct Answer: B***
+
+**Rationales:**
+
+- **A. I was gently encouraged to keep believing that she was like a mother.**  
+  This is the opposite of the meaning. To be “disabused” of a notion means to be corrected or stripped of a false belief, not encouraged to keep it.
+
+- **B. I was forced to give up the idea that she would act like a warm, caring mother.*  
+  This accurately reflects the figurative meaning. The narrator hoped Dr. Blackwell would be “motherly,” but after being publicly reprimanded, she realizes that belief was wrong. “Disabused of that notion” means she no longer holds that expectation.
+
+- **C. I was reminded that my own mother wanted me to become a doctor.**  
+  This shifts the focus to her actual mother and her wishes, which is not mentioned in this sentence. The phrase refers to the narrator’s mistaken expectation about Dr. Blackwell, not her real mother.
+
+- **D. I was taught that all women doctors must behave in a motherly way.**  
+  This misreads the sentence. The narrator learns the opposite: Dr. Blackwell is not “motherly.” The phrase signals losing a mistaken belief, not gaining a rule about how all women doctors should act.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:45:20 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 4a (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item**
+
+In the passage, when Diana describes her hopes as something that "would extinguish," the author's word choice suggests that Diana views her dreams as:
+
+A. Something that burns brightly but could easily be put out
+*B. A vital force that gives her life meaning and direction
+C. A dangerous fire that might consume her completely  
+D. Something that provides warmth but little actual light
+
+**Rationales:**
+
+**Option A:** This response focuses only on the literal meaning of "extinguish" as putting out a fire, without recognizing the deeper connotative meaning. While "extinguish" does relate to fire imagery, this interpretation misses how the word choice reveals the essential, life-giving nature of Diana's aspirations. A student choosing this option likely understands the basic metaphorical connection but hasn't analyzed the full impact of the word choice on meaning.
+
+**Option B (Correct Answer):** This response demonstrates understanding of how "extinguish" carries connotative meaning beyond its literal definition. The word choice suggests that Diana's hopes are not merely wishes, but something essential to her very being—like a flame that represents life itself. When something vital is "extinguished," it dies completely. This word choice reveals the intensity of Diana's commitment and how central becoming a doctor is to her identity and purpose, creating a tone of desperation and deep personal stakes.
+
+**Option C:** This response misinterprets the connotative meaning by suggesting Diana views her dreams negatively. The word "extinguish" in context doesn't imply that her hopes are dangerous or destructive—quite the opposite. A student selecting this option may understand that figurative language is being used but has misread the emotional tone and Diana's attitude toward her aspirations.
+
+**Option D:** This response shows limited understanding of the figurative meaning. While it recognizes some metaphorical connection to fire/light, it suggests Diana's hopes are weak or insufficient ("little actual light"), which contradicts the passionate, determined tone established throughout the passage. The word "extinguish" in this context emphasizes the vital importance of her dreams, not their inadequacy.
+
+
+================= NEW ITEM =================
+Tier 4a (Claude) #2 (temp=0.8)
+
+**Multiple Choice Item**
+
+In the passage, when Diana describes Dr. Blackwell's approval as something that "recedes in the distance," the author's word choice creates the effect of:
+
+A. Suggesting that Diana needs to walk faster to catch up with her mentor
+*B. Emphasizing how Diana's efforts seem to push her goal further away
+C. Indicating that Dr. Blackwell is physically moving away from Diana
+D. Showing that Diana's eyesight is getting worse under stress
+
+**Rationales:**
+
+**Option A:** This response demonstrates a literal interpretation of "recedes in the distance" as a physical action requiring a physical solution. A student choosing this option recognizes the spatial imagery but misses the figurative meaning entirely. They haven't grasped how the author uses this phrase to convey the psychological and emotional experience of pursuing something that becomes more elusive with effort.
+
+**Option B (Correct Answer):** This response shows sophisticated understanding of how the author's word choice creates meaning beyond the literal. "Recedes in the distance" typically describes something moving away as you try to approach it—like a mirage or horizon. Applied to approval, this creates a powerful sense of frustration and irony: the harder Diana tries, the more unattainable her goal becomes. The word choice establishes a tone of mounting desperation and captures the psychological reality that anxiety can make us perform worse, creating a self-defeating cycle.
+
+**Option C:** This response focuses on the literal, physical meaning of the words rather than their figurative application. While "recedes in the distance" could describe someone walking away, in this context it's describing an abstract concept (approval), not Dr. Blackwell's physical location. A student selecting this option hasn't recognized that the phrase is being used metaphorically to describe an emotional and professional dynamic.
+
+**Option D:** This response completely misinterprets the figurative language by suggesting a medical/physical problem with Diana's vision. This shows a failure to recognize that "recedes in the distance" is being used as a metaphor for the elusiveness of achieving Dr. Blackwell's approval. The student has missed both the figurative nature of the language and the emotional context in which it appears.

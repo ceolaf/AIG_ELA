@@ -1,0 +1,383 @@
+
+
+========== NEW RUN GPT ==========
+
+
+
+========== NEW ITEM ==========
+
+
+Tier 3a #1 (Temp = 0.7)
+Item 1 (RL.8.4 – word choice, figurative meaning, tone)
+
+Read the following sentence from the passage:
+
+“Every day has brought at least one similar scolding. It seems that the more I seek her approval, the farther it recedes in the distance.”
+
+In this sentence, what is the effect of the author’s word choice “recedes in the distance”?
+
+A. It shows that Dr. Blackwell is physically moving farther away from the narrator.  
+B. It suggests that the narrator’s goal of earning Dr. Blackwell’s approval feels harder and harder to reach.*  
+C. It shows that Dr. Blackwell is gradually forgetting who the narrator is.  
+D. It suggests that the narrator is losing interest in becoming a doctor.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**A. It shows that Dr. Blackwell is physically moving farther away from the narrator.**  
+- This takes “recedes in the distance” literally, as if Dr. Blackwell is walking away.  
+- In context, the narrator is talking about “approval,” which is not a physical object or person; it’s an emotional/psychological goal.  
+- The phrase is being used figuratively, so a literal interpretation misses the connotative meaning.
+
+**B. It suggests that the narrator’s goal of earning Dr. Blackwell’s approval feels harder and harder to reach.*  
+- “Approval” is treated like something far away that keeps moving farther back as the narrator moves toward it.  
+- The figurative phrase “the farther it recedes in the distance” conveys frustration and discouragement: no matter how much she tries, she feels less successful.  
+- This choice correctly identifies the non-literal meaning and explains the impact on tone (a sense of doubt and disappointment).
+
+**C. It shows that Dr. Blackwell is gradually forgetting who the narrator is.**  
+- Nothing in the sentence suggests memory or forgetting.  
+- The focus is on “approval” moving away, not on Dr. Blackwell’s awareness of the narrator.  
+- This misreads the metaphor and adds an idea not supported by the text.
+
+**D. It suggests that the narrator is losing interest in becoming a doctor.**  
+- The sentence is about the narrator’s difficulty gaining Dr. Blackwell’s approval, not about losing interest in her dream.  
+- In fact, elsewhere in the passage she still longs to become a doctor and fears being sent away.  
+- This option confuses her emotional struggle (feeling discouraged) with abandoning her goal, which the passage does not support.
+
+---
+
+**Final Item Version**
+
+Read the following sentence from the passage:
+
+“Every day has brought at least one similar scolding. It seems that the more I seek her approval, the farther it recedes in the distance.”
+
+In this sentence, what is the effect of the author’s word choice “recedes in the distance”?
+
+A. It shows that Dr. Blackwell is physically moving farther away from the narrator.  
+B. It suggests that the narrator’s goal of earning Dr. Blackwell’s approval feels harder and harder to reach.*  
+C. It shows that Dr. Blackwell is gradually forgetting who the narrator is.  
+D. It suggests that the narrator is losing interest in becoming a doctor.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 07:36:38 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 3a (Claude) #1 (temp=0.7)
+
+**Multiple Choice Item:**
+
+In the passage, when Diana describes how Dr. Blackwell's approval "recedes in the distance," what does this phrase reveal about Diana's emotional state?
+
+A. She feels physically exhausted from working long hours at the clinic.
+
+B. She believes Dr. Blackwell is intentionally avoiding her during their work together.
+
+C. *She feels increasingly discouraged as her goal seems harder to achieve.*
+
+D. She thinks Dr. Blackwell's expectations are unreasonable for a new student.
+
+**Rationales:**
+
+**Option A:** This option focuses on physical tiredness rather than emotional state. While Diana does work hard, the phrase "recedes in the distance" is not describing physical exhaustion but rather her emotional relationship to achieving Dr. Blackwell's approval. The metaphor suggests something moving away from her reach, not physical fatigue.
+
+**Option B:** This interpretation misunderstands the figurative language. Diana isn't saying that Dr. Blackwell is literally moving away from her or avoiding her. The passage shows Dr. Blackwell is very present, constantly watching and correcting Diana. The phrase describes Diana's perception of achieving approval, not Dr. Blackwell's physical proximity or attention.
+
+**Option C (Key):** This option correctly identifies the connotative meaning of "recedes in the distance." The word "recedes" suggests something moving farther away, becoming less attainable, while "distance" reinforces the growing gap between Diana and her goal. This figurative language conveys Diana's growing discouragement and sense that the more effort she puts in, the less likely she seems to gain Dr. Blackwell's approval. The tone created by this word choice emphasizes her frustration and diminishing hope.
+
+**Option D:** While Diana might feel Dr. Blackwell's expectations are challenging, the phrase "recedes in the distance" doesn't focus on the reasonableness of expectations. Instead, it emphasizes Diana's emotional experience of feeling farther from her goal. The metaphor suggests her own sense of failure rather than criticism of Dr. Blackwell's standards.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 07:40:15 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 3a (Claude) #1 (temp=0.7)
+
+Here is a multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+In the passage, Diana describes seeking Dr. Blackwell's approval by saying "the more I seek her approval, the farther it recedes in the distance." What is the impact of the author's word choice in this phrase?
+
+A. It suggests that Diana is physically moving away from Dr. Blackwell during their interactions.
+
+B. It emphasizes that Dr. Blackwell is deliberately trying to make Diana fail by being unreasonable.
+
+C. It shows that Diana lacks the basic skills needed to become a doctor and should give up her dream.
+
+D. *It conveys Diana's frustration that her efforts to impress Dr. Blackwell seem to make things worse rather than better.
+
+**Rationales:**
+
+**Option A:** This response demonstrates a literal interpretation of "recedes in the distance," focusing on physical movement rather than the figurative meaning. Students choosing this option miss the metaphorical use of spatial language to describe an emotional and professional relationship. The phrase is not about physical distance but about the elusive nature of earning approval.
+
+**Option B:** This interpretation places blame on Dr. Blackwell's character rather than recognizing that the phrase focuses on Diana's internal experience and perception. While Dr. Blackwell is strict, the figurative language specifically captures Diana's feeling that her own efforts are counterproductive, not that Dr. Blackwell is deliberately sabotaging her.
+
+**Option C:** This response misinterprets the connotative meaning by suggesting the phrase indicates Diana's incompetence. However, the metaphor of approval "receding" suggests something that moves away despite pursuit, implying effort rather than lack of ability. The tone is one of frustration with the situation, not self-condemnation about her skills.
+
+**Option D (Correct Answer):** This response correctly identifies how the author's figurative language creates meaning and tone. The metaphor of approval "receding in the distance" like a mirage or distant object conveys the paradoxical nature of Diana's situation—the harder she tries, the more elusive success becomes. This word choice effectively captures her frustration and creates a tone of sympathetic struggle rather than simple failure.
+
+
+================= NEW ITEM =================
+Tier 3a (Claude) #2 (temp=0.8)
+
+Here is another multiple choice item aligned to RL.8.4:
+
+**Item:**
+
+When Diana describes feeling "like a child caught sneaking sweets from a jar" after Dr. Blackwell's reprimand, what does this comparison reveal about Diana's emotional state?
+
+A. It shows that Diana actually did something wrong and deserved to be scolded by Dr. Blackwell.
+
+B. *It emphasizes Diana's sense of shame and feeling unfairly treated, despite trying to help her patient.
+
+C. It indicates that Diana is too immature to handle the responsibilities of medical training.
+
+D. It suggests that Diana has a sweet tooth and often thinks about food while working.
+
+**Rationales:**
+
+**Option A:** This response focuses on the literal aspect of the analogy (being caught doing something wrong) without recognizing the connotative meaning Diana intends. The key word "unjustly" in the sentence indicates Diana believes she didn't deserve the reprimand, so the analogy is meant to convey her feeling of unfair treatment, not actual guilt or wrongdoing.
+
+**Option B (Correct Answer):** This response correctly analyzes how the author's word choice creates meaning and tone. The analogy to a child being caught doing something minor and innocent (sneaking sweets) emphasizes Diana's feelings of shame and embarrassment while also suggesting the punishment doesn't fit the "crime." The comparison conveys both her diminished sense of self and her belief that she was trying to do good (comfort a patient) but was treated as if she had done something wrong.
+
+**Option C:** This interpretation misses the connotative impact of the specific analogy chosen. While the comparison involves a child, it's not meant to suggest Diana is immature in her capabilities. Instead, it captures the universal feeling of being made to feel small and ashamed. The analogy focuses on the emotional experience rather than making a judgment about Diana's maturity level or qualifications.
+
+**Option D:** This response demonstrates a completely literal misreading of the figurative language. Students choosing this option miss that the analogy is meant to convey an emotional state, not suggest Diana is actually thinking about sweets. The comparison is about the feeling of shame and being caught, not about the specific object (sweets) mentioned in the analogy.
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 07:47:59 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 3a (Gemini) #1 (temp=0.7)
+
+Here is a multiple-choice item written to the specifications provided.
+
+**Item**
+
+Read this sentence from the passage.
+
+> "Once again, I felt unjustly reprimanded, like a child caught sneaking sweets from a jar."
+
+What does this comparison reveal about how Diana feels in this moment?
+
+A. She believes she has broken a serious rule and feels guilty for her actions.
+B. She thinks that Dr. Blackwell is trying to hide her own mistakes by scolding others.
+*C. She feels that Dr. Blackwell's scolding is both unfair and makes her feel immature.
+D. She wishes that Dr. Blackwell would treat her in a sweeter, more motherly way.
+
+---
+**Rationales**
+
+*   **A. Rationale:** This option is incorrect. The simile compares Diana’s action to "sneaking sweets," which is a minor, childish misdeed, not the breaking of a "serious rule." Furthermore, the text explicitly states she felt "unjustly reprimanded," which contradicts the idea that she feels guilty.
+*   **B. Rationale:** This option is incorrect. The comparison focuses entirely on Diana's feelings about being scolded. It does not provide any information or implication about Dr. Blackwell's motivations or potential mistakes.
+*   **C. Rationale:** This is the correct answer. The phrase "unjustly reprimanded" shows Diana feels the scolding is unfair. The comparison to a "child caught sneaking sweets" emphasizes her feeling of being treated as immature or small for a minor offense, thus capturing the full impact of the figurative language on the tone and characterization.
+*   **D. Rationale:** This option is incorrect. While Diana mentions earlier that she was "disabused of the notion" of Dr. Blackwell being a "motherly figure," this specific simile is not about a desire for sweetness. It is about her reaction to the reprimand itself—feeling that it is unjust and belittling.
+
+========== ERROR ==========
+
+An error occurred: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 2, model: gemini-2.5-pro
+Please retry in 30.622007174s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 2
+}
+, retry_delay {
+  seconds: 30
+}
+]
+
+
+=============== NEW RUN (Copilot) - 2025-11-19 11:45:36 ===============
+
+
+
+=============== NEW RUN (Copilot) - 2025-11-19 12:27:23 Conversation b95d97af-46c2-4ee6-9ad4-7074df46d20b ===============
+
+
+
+
+=============== NEW RUN GPT - 2025-11-19 12:31:49 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 3a (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+   “Every day has brought at least one similar scolding. It seems that the more I seek her approval, the farther it recedes in the distance.”
+
+   What is the most likely effect of the phrase “the farther it recedes in the distance” on the tone of this sentence?
+
+   A. It creates a hopeful tone by suggesting that the narrator is steadily getting closer to earning Dr. Blackwell’s praise.  
+   B. It creates a frustrated tone by showing that the narrator feels Dr. Blackwell’s approval is slipping away no matter how hard she tries.*  
+   C. It creates an amused tone by implying that the narrator finds Dr. Blackwell’s criticism entertaining.  
+   D. It creates a fearful tone by warning that Dr. Blackwell’s approval will soon disappear forever.
+
+---
+
+### Answer Key  
+Correct Answer: **B***
+
+---
+
+### Rationales
+
+**A. It creates a hopeful tone by suggesting that the narrator is steadily getting closer to earning Dr. Blackwell’s praise.**  
+- The phrase “the farther it recedes in the distance” suggests something moving away, not something getting closer.  
+- This choice misinterprets the connotation of “recedes,” which implies loss or increasing distance, so it does not fit a hopeful tone.
+
+**B. It creates a frustrated tone by showing that the narrator feels Dr. Blackwell’s approval is slipping away no matter how hard she tries.*  
+- “Recedes in the distance” is figurative language comparing approval to something that keeps moving farther away.  
+- The connotation of “recedes” emphasizes that her goal (approval) seems to get more distant the more she tries, which contributes to a tone of frustration and discouragement.  
+- This aligns with the narrator’s earlier feelings of making “all manner of clumsy blunders” and being “unjustly reprimanded.”
+
+**C. It creates an amused tone by implying that the narrator finds Dr. Blackwell’s criticism entertaining.**  
+- Nothing in the surrounding sentences suggests amusement; instead, the narrator feels “self-conscious” and worried about being sent away.  
+- The figurative phrase indicates emotional struggle, not entertainment, so this tone is incorrect.
+
+**D. It creates a fearful tone by warning that Dr. Blackwell’s approval will soon disappear forever.**  
+- While the narrator is worried, the phrase “recedes in the distance” suggests it is getting farther away, not vanishing completely.  
+- The tone is more about ongoing frustration than outright fear or a sense of permanent loss, so this overstates the emotional impact.
+
+
+================= NEW ITEM =================
+Tier 3a (GPT) #2 (temp=0.8)
+
+2. Read this sentence from the passage:
+
+   “If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly disabused of that notion.”
+
+   In this sentence, what is the impact of the phrase “motherly figure” on the reader’s understanding of the narrator’s feelings about Dr. Blackwell?
+
+   A. It shows that the narrator expected Dr. Blackwell to be gentle and nurturing, which makes Dr. Blackwell’s strictness feel especially harsh to her.*  
+   B. It suggests that the narrator thinks Dr. Blackwell is too inexperienced to be respected as a serious teacher.  
+   C. It implies that the narrator believes Dr. Blackwell should care more about her family than about her students.  
+   D. It reveals that the narrator views Dr. Blackwell as distant and cold from the very beginning of their relationship.
+
+---
+
+### Answer Key  
+Correct Answer: **A***
+
+---
+
+### Rationales
+
+**A. It shows that the narrator expected Dr. Blackwell to be gentle and nurturing, which makes Dr. Blackwell’s strictness feel especially harsh to her.*  
+- The phrase “motherly figure” carries connotations of warmth, protection, and comfort.  
+- By saying she was “quickly disabused of that notion,” the narrator shows that her expectation of kindness was sharply corrected.  
+- This contrast emphasizes how severe or unsympathetic Dr. Blackwell’s public reprimands feel to the narrator, shaping the tone as disappointed and stung.
+
+**B. It suggests that the narrator thinks Dr. Blackwell is too inexperienced to be respected as a serious teacher.**  
+- “Motherly figure” does not suggest inexperience; if anything, it implies maturity and guidance.  
+- Nothing in the sentence questions Dr. Blackwell’s experience or skill, so this misreads the connotation of the phrase.
+
+**C. It implies that the narrator believes Dr. Blackwell should care more about her family than about her students.**  
+- The text never mentions Dr. Blackwell’s family, and “motherly figure” is used metaphorically about her role with students, not about an actual family.  
+- This option confuses the figurative meaning with a literal one and is not supported by the passage.
+
+**D. It reveals that the narrator views Dr. Blackwell as distant and cold from the very beginning of their relationship.**  
+- The narrator hoped for a “motherly figure” at the beginning, which means she did not initially see Dr. Blackwell as distant or cold.  
+- The disappointment comes later, when she is “disabused” of that hope, so this choice reverses the timeline of her feelings.
+
+=============== NEW RUN (Copilot) - 2025-11-19 12:51:08 Conversation c71f6197-c7f9-4342-9b6e-ba4cc571f46f ===============
+
+
+
+=============== NEW RUN (Copilot) - 2025-11-19 13:00:12 Conversation 43933263-4ffc-4940-b74e-0c110f1ce3f7 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 3a (Copilot) #1
+
+Here’s a **multiple-choice item** aligned to **CCSS RL.8.4** based on the passage:
+
+---
+
+### **Item**
+In paragraph 8, the narrator says, *“I either freeze like a statue or make all manner of clumsy blunders.”* What is the effect of the phrase **“freeze like a statue”** on the tone of the passage?
+
+**A.** It conveys a sense of calm and control in the narrator’s actions.  
+**B.** It emphasizes the narrator’s feelings of nervousness and inability to act.*  
+**C.** It suggests that the narrator is deliberately refusing to follow instructions.  
+**D.** It creates an image of strength and determination in the narrator.
+
+---
+
+### **Correct Answer**
+**B.** It emphasizes the narrator’s feelings of nervousness and inability to act.*
+
+---
+
+### **Rationales**
+- **A.** Incorrect. While “freeze” might suggest stillness, the context shows the narrator feels anxious and incapable, not calm or in control.
+- **B.** Correct. The figurative phrase “freeze like a statue” highlights the narrator’s nervousness and paralysis under pressure, reinforcing a tone of self-doubt.
+- **C.** Incorrect. There is no indication that the narrator’s inaction is intentional or rebellious; it is caused by anxiety.
+- **D.** Incorrect. “Freeze like a statue” does not suggest strength or determination; instead, it conveys immobility and vulnerability.
+
+---
+
+Would you like me to **create two more items** based on other figurative or connotative phrases in the passage (e.g., “approval recedes in the distance” or “disabused of that notion”) to give you a full mini-set?
+
+
+================= NEW ITEM =================
+Tier 3a (Copilot) #2
+
+Here’s another **unique multiple-choice item** aligned to **CCSS RL.8.4**:
+
+---
+
+### **Item**
+In paragraph 7, the narrator says, *“It seems that the more I seek her approval, the farther it recedes in the distance.”* What does the phrase **“recedes in the distance”** suggest about the narrator’s feelings?
+
+**A.** The narrator believes Dr. Blackwell’s approval is becoming less important over time.  
+**B.** The narrator feels that gaining Dr. Blackwell’s approval is increasingly out of reach.*  
+**C.** The narrator thinks Dr. Blackwell is deliberately ignoring her efforts.  
+**D.** The narrator assumes that Dr. Blackwell will eventually recognize her hard work.
+
+---
+
+### **Correct Answer**
+**B.** The narrator feels that gaining Dr. Blackwell’s approval is increasingly out of reach.*
+
+---
+
+### **Rationales**
+- **A.** Incorrect. The narrator does not indicate that approval is less important; in fact, it remains very important to her.
+- **B.** Correct. The figurative phrase “recedes in the distance” conveys the idea that approval feels farther away the harder she tries, emphasizing her frustration and self-doubt.
+- **C.** Incorrect. The passage does not suggest intentional disregard by Dr. Blackwell; the narrator blames her own mistakes.
+- **D.** Incorrect. There is no indication of optimism here; the tone reflects discouragement rather than hope.
+
+---
+
+Would you like me to **create a third item using another figurative phrase** (such as *“disabused of that notion”* or *“extinguish my hopes”*) so you have a complete set of three?

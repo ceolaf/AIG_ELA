@@ -1,0 +1,95 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 17:28:24 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 3a (GPT) #1 (temp=0.7)
+
+1. Read the sentence from the passage.
+
+   “He was a little country boy, and this village was to him a very **strange and perplexing** place, where people wore fine clothes and had hard hearts.”
+
+   In this sentence, what is the most accurate effect of the author’s use of the word **“perplexing”**?
+
+   A. It suggests that the boy is angry at the village and refuses to accept it.  
+   B. It shows that the boy finds the village confusing and overwhelming.*  
+   C. It shows that the boy thinks the village is exciting and full of possibilities.  
+   D. It suggests that the boy believes the village is dangerous and threatening.
+
+---
+
+**Answer Key:**  
+B*
+
+---
+
+**Rationales:**
+
+**Option B (Correct):**  
+- “Perplexing” means confusing or difficult to understand.  
+- In context, the boy is crying, afraid to ask for help, and feels that people in the village “had hard hearts.”  
+- The word “perplexing” emphasizes that the village is not just unfamiliar, but emotionally and socially confusing and overwhelming to him, reinforcing his sense of isolation and discomfort.  
+- This aligns with RL.8.4 because it focuses on how a specific word choice shapes the reader’s understanding of his feelings.
+
+**Option A (Distractor):**  
+- “Angry” and “refuses to accept it” suggest a strong, active rejection.  
+- The text shows the boy is shy, afraid, and “sunk in despair,” not angry or defiant.  
+- “Perplexing” does not carry a connotation of anger; it emphasizes confusion, not refusal.
+
+**Option C (Distractor):**  
+- “Exciting and full of possibilities” is a positive connotation.  
+- Nothing in the description of the village (“hard hearts,” strange, crying alone, afraid to speak) suggests excitement or opportunity.  
+- This misreads the tone created by “perplexing,” which is uneasy and bewildered, not hopeful.
+
+**Option D (Distractor):**  
+- While the boy is uncomfortable, the word “perplexing” does not literally mean dangerous or threatening.  
+- The passage does not mention physical danger; instead, it stresses emotional discomfort and social confusion.  
+- This option exaggerates the connotation beyond what the word choice supports.
+
+
+================= NEW ITEM =================
+Tier 3a (GPT) #2 (temp=0.8)
+
+2. Read the sentence from the passage.
+
+   “His sister was a tall, strong girl, and she walked rapidly and **resolutely**, as if she knew exactly where she was going and what she was going to do next.”
+
+   What is the most accurate effect of the author’s use of the word **“resolutely”** in this sentence?
+
+   A. It shows that she is stubborn and refuses to listen to anyone else’s ideas.  
+   B. It suggests that she is brave but also reckless about the risks she faces.  
+   C. It shows that she moves with firm determination and a clear purpose.*  
+   D. It suggests that she is impatient and annoyed with the people around her.
+
+---
+
+**Answer Key:**  
+C*
+
+---
+
+**Rationales:**
+
+**Option C (Correct):**  
+- “Resolutely” means with firm purpose or determination.  
+- The sentence reinforces this meaning by adding “as if she knew exactly where she was going and what she was going to do next.”  
+- This word choice shapes the tone around Alexandra as confident and purposeful, helping readers see her as a strong, capable character.
+
+**Option A (Distractor):**  
+- “Stubborn” implies an unwillingness to change one’s mind or listen, which is not shown here.  
+- The text focuses on how she walks, not how she reacts to others’ ideas.  
+- This misinterprets the connotation of “resolutely,” which emphasizes determination, not unreasonable stubbornness.
+
+**Option B (Distractor):**  
+- “Reckless” suggests carelessness about danger.  
+- Nothing in the sentence indicates that she is ignoring risks or acting carelessly; instead, it stresses that she “knew exactly” what she was doing.  
+- This adds a negative connotation that “resolutely” does not carry in this context.
+
+**Option D (Distractor):**  
+- “Impatient and annoyed” would suggest irritation with others, which isn’t described here.  
+- The sentence focuses on her inner purpose, not her feelings toward other people.  
+- This misreads the tone created by “resolutely,” which is steady and focused, not irritated.

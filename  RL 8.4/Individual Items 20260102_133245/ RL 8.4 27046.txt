@@ -1,0 +1,36 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 3b (Claude) #2 (temp=0.8)
+
+**Multiple Choice Item**
+
+In the passage, Diana describes feeling "like a child caught sneaking sweets from a jar" when Dr. Blackwell reprimands her. How does this comparison affect the tone and meaning of the passage?
+
+A. It creates a lighthearted tone by comparing Diana's medical mistakes to innocent childhood mischief.
+
+B. It emphasizes Diana's immaturity and suggests she is not ready for the responsibility of medical training.
+
+C. It conveys Diana's sense of shame and diminished status, highlighting the power imbalance between her and Dr. Blackwell.
+
+D. It indicates that Diana's behavior is actually as harmless and forgivable as a child's minor transgression.
+
+**Answer Key:** *C
+
+**Rationales:**
+
+**A. It creates a lighthearted tone by comparing Diana's medical mistakes to innocent childhood mischief.**
+This response misreads the emotional context and tone. While the comparison involves childhood behavior, the overall effect is not lighthearted given Diana's fear of being sent away and her feelings of inadequacy. Test takers choosing this option may focus on the surface-level childhood imagery without considering the serious professional consequences Diana faces.
+
+**B. It emphasizes Diana's immaturity and suggests she is not ready for the responsibility of medical training.**
+This distractor appeals to test takers who recognize that the comparison involves childlike qualities but misinterpret the author's purpose. The simile is not meant to suggest Diana is actually immature, but rather to convey how Dr. Blackwell's treatment makes her feel diminished and powerless, regardless of her actual capabilities.
+
+***C. It conveys Diana's sense of shame and diminished status, highlighting the power imbalance between her and Dr. Blackwell.**
+This is the correct answer. The simile comparing Diana to "a child caught sneaking sweets" effectively captures her feelings of guilt, shame, and powerlessness in the face of authority. The word choice creates a tone of vulnerability and emphasizes the hierarchical relationship where Diana feels small and chastened, much like a child being scolded by an adult. The connotative meaning reinforces themes of power dynamics and Diana's struggle for respect in her professional environment.
+
+**D. It indicates that Diana's behavior is actually as harmless and forgivable as a child's minor transgression.**
+This option misinterprets the comparison by focusing on the relative harmlessness of the child's action rather than the emotional impact of being caught and scolded. Test takers choosing this response may understand that a comparison is being made but miss how the simile emphasizes Diana's emotional state rather than making a judgment about the severity of her actions.
+
+
+=============== NEW RUN (Gemini) - 2025-11-19 15:10:54 ===============

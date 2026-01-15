@@ -1,0 +1,66 @@
+Standard:  RL 8.4
+
+============================================================
+
+Tier 7b (GPT) #2 (temp=0.8)
+
+**Item (RL.8.4 – figurative / connotative meaning and tone)**  
+
+Read this sentence from the passage:
+
+> “If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly **disabused of that notion**.”
+
+What does the phrase “disabused of that notion” suggest about the narrator’s feelings toward Dr. Blackwell, and how does it affect the tone?
+
+A. It shows that the narrator has been gently guided to a better understanding of Dr. Blackwell, creating a grateful and admiring tone.  
+
+B. It suggests that the narrator’s hope for a warm, comforting mentor was sharply corrected, creating a disappointed and slightly bitter tone.*  
+
+C. It means that the narrator never really believed Dr. Blackwell could be motherly, giving the sentence a doubtful and uncertain tone.  
+
+D. It indicates that the narrator thinks Dr. Blackwell is unkind and cruel, making the tone harsh and accusing.  
+
+---
+
+### Rationales
+
+**Correct Answer: B***  
+- “Disabused of that notion” is figurative; ideas are not literally “abused.” It means having a mistaken belief taken away.  
+- In context, the mistaken belief is that Dr. Blackwell would be a “motherly figure.”  
+- The word “quickly” plus “disabused” carries a sharp, abrupt connotation, suggesting the narrator’s comforting expectation was firmly overturned.  
+- This creates a tone of disappointment and a hint of bitterness, because the narrator wanted warmth and received strictness instead.
+
+**A.**  
+- Misreads the connotation of “disabused,” which does not suggest gentle guidance or gratitude; it suggests being corrected, often abruptly or firmly.  
+- The surrounding context (“she thought nothing of reprimanding me in front of all the other students”) supports a more negative emotional response, not admiration.
+
+**C.**  
+- Contradicts the text. The phrase “If I was hoping to find a motherly figure…” shows that the narrator *did* hold that hope.  
+- Being “disabused” means the belief was real and then removed, not that it never really existed.  
+- The tone here is not mainly doubtful or uncertain; it is more about realizing an unwelcome truth.
+
+**D.**  
+- Overstates the narrator’s reaction. The passage portrays Dr. Blackwell as strict and critical, but not as outright cruel.  
+- “Disabused of that notion” focuses on losing an illusion, not on accusing Dr. Blackwell of being unkind.  
+- This answer projects a harsher judgment than the text supports and mischaracterizes the tone as mainly angry and condemning.
+
+---
+
+**Final Version of Item**
+
+Read this sentence from the passage:
+
+> “If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly **disabused of that notion**.”
+
+What does the phrase “disabused of that notion” suggest about the narrator’s feelings toward Dr. Blackwell, and how does it affect the tone?
+
+A. It shows that the narrator has been gently guided to a better understanding of Dr. Blackwell, creating a grateful and admiring tone.  
+
+B. It suggests that the narrator’s hope for a warm, comforting mentor was sharply corrected, creating a disappointed and slightly bitter tone.*  
+
+C. It means that the narrator never really believed Dr. Blackwell could be motherly, giving the sentence a doubtful and uncertain tone.  
+
+D. It indicates that the narrator thinks Dr. Blackwell is unkind and cruel, making the tone harsh and accusing.
+
+
+=============== NEW RUN (Claude) - 2025-11-19 14:48:44 ===============

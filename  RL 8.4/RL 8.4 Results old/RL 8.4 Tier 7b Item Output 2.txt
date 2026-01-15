@@ -1,0 +1,71 @@
+
+
+
+=============== NEW RUN GPT - 2025-11-19 16:58:14 ===============
+
+
+
+
+================= NEW ITEM =================
+Tier 7b (GPT) #1 (temp=0.7)
+
+1. Read this sentence from the passage:
+
+   “It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+   In this sentence, what is the most accurate meaning of the word **“recedes”** as it is used, and how does this word choice affect the tone?
+
+   A. “Recedes” means to move backward physically, emphasizing how Dr. Blackwell keeps walking away from the narrator in the clinic.  
+   B. “Recedes” means to shrink or fade away, highlighting the narrator’s growing fear that Dr. Blackwell’s approval is becoming less and less likely.*  
+   C. “Recedes” means to be hidden or concealed, giving the passage a mysterious and secretive tone.  
+   D. “Recedes” means to be postponed until later, suggesting the narrator is calmly willing to wait for approval.
+
+---
+
+**Rationales**
+
+**Correct Answer: B.*  
+“Recedes” means to shrink or fade away, highlighting the narrator’s growing fear that Dr. Blackwell’s approval is becoming less and less likely.**
+
+- In context, “the more I seek her approval, the farther it recedes in the distance” is figurative, not literal. Approval is described as if it were a distant object moving away.  
+- Here, “recedes” suggests that Dr. Blackwell’s approval feels less attainable the harder the narrator tries.  
+- This word choice intensifies the discouraged, anxious tone: the narrator feels that success is slipping away from her, not just staying out of reach but actively moving farther away.
+
+---
+
+**Distractor A. “Recedes” means to move backward physically, emphasizing how Dr. Blackwell keeps walking away from the narrator in the clinic.**
+
+- This takes the most literal, physical meaning (“move backward”) and applies it to Dr. Blackwell’s body, but in the sentence, what “recedes” is her **approval**, an abstract idea, not her physical presence.  
+- It ignores the figurative use of distance and misses how the phrase reflects the narrator’s feelings, not Dr. Blackwell’s movements.  
+- Because it misreads the object of “recedes,” it misinterprets both the meaning and its impact on tone.
+
+---
+
+**Distractor C. “Recedes” means to be hidden or concealed, giving the passage a mysterious and secretive tone.**
+
+- “Recedes” does not mean “to be hidden”; it means to move back or away. Approval isn’t hidden; it feels like it’s drifting farther out of reach.  
+- The tone in this part of the passage is discouraged and self-doubting, not mysterious or secretive.  
+- This answer projects a tone (“mysterious”) that is not supported by the surrounding text about scoldings and self-consciousness.
+
+---
+
+**Distractor D. “Recedes” means to be postponed until later, suggesting the narrator is calmly willing to wait for approval.**
+
+- “Recedes” does not mean “postponed”; that would suggest delay, not increasing distance.  
+- The narrator is not calm or patient—she is worried she will be sent away and that her hopes will be “extinguished.”  
+- This choice mischaracterizes both the word’s connotation and the emotional tone, which is anxious and discouraged, not relaxed or accepting.
+
+---
+
+**Final Item Version**
+
+1. Read this sentence from the passage:
+
+   “It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+   In this sentence, what is the most accurate meaning of the word **“recedes”** as it is used, and how does this word choice affect the tone?
+
+   A. “Recedes” means to move backward physically, emphasizing how Dr. Blackwell keeps walking away from the narrator in the clinic.  
+   B. “Recedes” means to shrink or fade away, highlighting the narrator’s growing fear that Dr. Blackwell’s approval is becoming less and less likely.*  
+   C. “Recedes” means to be hidden or concealed, giving the passage a mysterious and secretive tone.  
+   D. “Recedes” means to be postponed until later, suggesting the narrator is calmly willing to wait for approval.

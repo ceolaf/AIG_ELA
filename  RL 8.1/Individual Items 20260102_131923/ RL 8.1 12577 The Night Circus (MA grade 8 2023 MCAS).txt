@@ -1,0 +1,32 @@
+Standard:  RL 8.1
+Passage: The Night Circus (MA grade 8 2023 MCAS)
+
+============================================================
+
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+Tier 3b (GPT) #1 (temp=0.7). (6.10 secs). (5034 + 529 = 5563 total tokens)
+
+1. Which quotation from the passage best supports the idea that Bailey feels a powerful pull to return to the circus, beyond just wanting to complete the dare?
+
+A. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”  
+
+B. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious. Dreadfully, hopelessly curious. And beyond proving himself to Caroline and her gang, beneath the curiosity, there is that need to return tugging at him.” *  
+
+C. “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+
+D. “He is halfway home when he realizes he never told the girl his name.”  
+
+
+Rationales:
+
+A. “He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates.”  
+- This shows Bailey thinking about how to complete the dare without entering the circus. It emphasizes his hesitation and desire to avoid going in, not a strong inner pull to return. It does not best support the idea that he feels a powerful need to go back to the circus.
+
+B. “Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious. Dreadfully, hopelessly curious. And beyond proving himself to Caroline and her gang, beneath the curiosity, there is that need to return tugging at him.” *  
+- This directly and explicitly states that Bailey wants to go inside for reasons beyond the dare. It names his “dreadfully, hopelessly” strong curiosity and clearly describes “that need to return tugging at him.” This quotation most strongly supports the idea that Bailey feels a powerful pull to return to the circus.
+
+C. “Bailey wonders which way he should go, and what might count as proof for his dare.”  
+- This focuses on Bailey’s concern about how to complete the dare, not on his emotional need to return to the circus. It shows him planning, not feeling a powerful inner pull to go back.
+
+D. “He is halfway home when he realizes he never told the girl his name.”  
+- This detail suggests Bailey is still thinking about the girl and the encounter, but it does not clearly connect to a strong desire to return to the circus itself. It is too indirect to be the best evidence for the idea that he feels a powerful pull to go back.
