@@ -1,0 +1,31 @@
+Standard:  RI 8.2
+ID: 19585
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 5a (Claude) #2 (temp=0.8). (20.43 secs). (1721 + 544 = 2265 total tokens)
+
+Based on the passage about elephant cooperation, here's another multiple choice item aligned to RI.8.2:
+
+**Which statement best describes how the central idea about elephants' social cognition develops through its relationship to supporting ideas in the text?**
+
+A. The central idea that elephants can cooperate is introduced through experimental evidence, expanded through descriptions of increasingly complex tests, and reinforced by showing that elephants outperform other species in every measure of cooperation.
+
+B. The central idea that elephants need training to cooperate is first established through the rope-pulling setup, then developed by showing how mahouts taught them the task, and finally supported by examples of elephants failing without proper instruction.
+
+*C. The central idea that elephants possess sophisticated understanding of cooperation is introduced as a research conclusion, developed through evidence of their ability to wait and recognize futile situations, and strengthened by connecting experimental results to natural elephant behaviors.
+
+D. The central idea that animal cooperation is rare begins broadly across species, narrows to focus on the mechanical aspects of the rope test, and concludes by ranking elephants among the most intelligent animals based solely on waiting time.
+
+**Rationales:**
+
+**Option A:** Students might select this if they recognize the progression through experiments but misinterpret the comparisons. The text doesn't claim elephants outperform other species in "every measure"—rooks also passed the test, and the text notes elephants join an "elite club" rather than lead it.
+
+**Option B:** This distractor appeals to students who notice the mahouts' role but fundamentally misunderstand the central idea. The text isn't about elephants needing training to cooperate, but about their inherent ability to understand cooperation. The training was only to teach them the specific rope-pulling mechanism.
+
+**Option C (Correct):** This accurately captures the development:
+1. The central idea is introduced in the opening as a research conclusion ("That's the conclusion of a new study")
+2. It develops through two key pieces of evidence: elephants waiting for partners and giving up when cooperation is impossible
+3. It's strengthened in the final paragraph when experts connect the experimental findings to natural observations (helping fallen companions)
+
+**Option D:** Students choosing this confuse the introductory context with the central idea. While the text mentions cooperation is "rarely found in other species," the central idea focuses specifically on elephants' abilities, not animal cooperation broadly. The text also doesn't rank elephants based "solely on waiting time" but considers multiple aspects of their performance.

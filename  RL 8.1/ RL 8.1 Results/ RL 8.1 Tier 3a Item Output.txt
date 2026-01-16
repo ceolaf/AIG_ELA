@@ -94,3 +94,93 @@ Rationales:
 
 - **D. “Bailey looks back across the field. The others are still in the tree, though they look tiny from so far away.”**  
   This shows that Bailey is aware his friends are watching from a distance, but it does not reveal his emotional state about the dare. It neither states nor clearly implies that he feels nervous or uncertain, making it weaker evidence than option B.
+
+
+=============== NEW RUN GPT - 2026-01-15 11:50:33 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 3a (GPT) #1 (temp=0.7). (7.10 secs). (1019 + 536 = 1555 total tokens)
+
+Item (RL.8.1 – Citing Strongest Textual Evidence)
+
+Stem:  
+A student makes the following inference about Jim Bridger:  
+
+“Jim Bridger’s knowledge of the western landforms and routes was so respected that it influenced major transportation developments in the United States.”  
+
+Which sentence from the passage best supports this inference?
+
+A. “When Bridger was eighteen years old, he was the youngest member of a group that explored and mapped the Missouri River.”  
+
+B. “Because of his knowledge and skills, he became a valued guide. People often hired him to lead them across the mountains.”  
+
+C. “In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains.”  
+
+D.* “In addition, the pass later became part of the Union Pacific Railroad. The Union Pacific was part of the Transcontinental Railroad, the first railroad to cross America from coast to coast.”  
+
+---
+
+Rationales:
+
+A. “When Bridger was eighteen years old, he was the youngest member of a group that explored and mapped the Missouri River.”  
+- This shows that Bridger participated in exploration and mapping when he was young, but it does not show that his knowledge was respected enough to influence major transportation developments. It supports his early exploration, not the stated inference about national transportation impact.
+
+B. “Because of his knowledge and skills, he became a valued guide. People often hired him to lead them across the mountains.”  
+- This supports the idea that his knowledge was respected and that people trusted him as a guide, but it does not mention any broader influence on “major transportation developments in the United States,” such as railroads or large-scale routes. It is too limited in scope to be the best support.
+
+C. “In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains.”  
+- This shows that he discovered an important route, which relates to the idea of landforms and routes, but it does not explicitly connect his discovery to any major, national transportation system. It partially supports the inference but not as strongly as option D.
+
+D.* “In addition, the pass later became part of the Union Pacific Railroad. The Union Pacific was part of the Transcontinental Railroad, the first railroad to cross America from coast to coast.”  
+- This directly connects Bridger’s route (Bridger’s Pass) to a major transportation development: the Transcontinental Railroad, which crossed the entire country. It most strongly supports the inference that his knowledge of landforms and routes influenced major U.S. transportation developments.
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 3a (GPT) #2 (temp=0.8). (7.69 secs). (1566 + 540 = 2106 total tokens)
+
+Item (RL.8.1 – Citing Strongest Textual Evidence)
+
+Stem:  
+A student makes the following inference about Jim Bridger:  
+
+“Jim Bridger’s reputation and personality helped make Fort Bridger an important stopping place for people traveling west.”  
+
+Which sentence from the passage best supports this inference?
+
+A. “Bridger's success at trapping—as well as the growing number of people moving to the western part of America—led to the building of a trading post and fort near the Green River in Wyoming.”  
+
+B.* “Many people passed the fort as they traveled west on the Oregon Trail. Often, the settlers stopped to buy supplies, get their wagons fixed, and hear Jim Bridger's stories.”  
+
+C. “He became famous for telling tall tales to the people passing through.”  
+
+D. “These outrageous stories were told both to tease new arrivals from the east and to amuse the locals who knew they weren't true.”  
+
+---
+
+Rationales:
+
+A. “Bridger's success at trapping—as well as the growing number of people moving to the western part of America—led to the building of a trading post and fort near the Green River in Wyoming.”  
+- This explains why the fort was built and mentions population movement west, but it does not show that Bridger’s reputation or personality made the fort an important stopping place. It focuses on causes of construction, not the fort’s appeal to travelers.
+
+B.* “Many people passed the fort as they traveled west on the Oregon Trail. Often, the settlers stopped to buy supplies, get their wagons fixed, and hear Jim Bridger's stories.”  
+- This directly shows that travelers regularly stopped at the fort and that one reason was to “hear Jim Bridger’s stories,” connecting both his reputation/personality (storytelling) and the fort’s role as a key stopping place. It most strongly supports the inference.
+
+C. “He became famous for telling tall tales to the people passing through.”  
+- This shows Bridger’s fame and storytelling ability, supporting the idea of his reputation, but it does not clearly state that this made Fort Bridger an important stopping place for many travelers. It focuses on his fame, not the fort’s importance as a stop.
+
+D. “These outrageous stories were told both to tease new arrivals from the east and to amuse the locals who knew they weren't true.”  
+- This describes the purpose and audience of his stories, showing something about his personality, but it does not show that his personality helped make the fort an important stopping place for travelers in general. It is weaker support than option B.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:54:52 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get

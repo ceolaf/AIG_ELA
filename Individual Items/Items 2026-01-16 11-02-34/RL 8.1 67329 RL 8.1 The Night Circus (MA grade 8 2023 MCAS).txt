@@ -1,0 +1,177 @@
+Standard:  RL 8.1
+ID: 67329
+Passage: RL 8.1 The Night Circus (MA grade 8 2023 MCAS).txt
+
+3. Which sentence from the passage best supports the inference that the girl from the circus is cautious about other people discovering Bailey inside the grounds?
+
+A. “She does not say anything more as they walk through the tents, though she makes him stop when they reach a corner and they do not move for almost a minute.” *  
+B. “‘You’re not supposed to be here,’ the red-haired girl says quietly.”  
+C. “She helps Bailey squeeze through the bars, which are a bit tighter in this part of the fence.”  
+D. “The girl smiles. She bites her lip for a second and looks thoughtful, and then she pulls off one of her white gloves and hands it to him through the bars.”
+
+**Correct Answer: A***
+
+---
+
+### Rationales
+
+**Option A (Key):**  
+“She does not say anything more as they walk through the tents, though she makes him stop when they reach a corner and they do not move for almost a minute.”  
+- This detail shows the girl intentionally pausing and waiting at a corner, suggesting she is checking or listening to make sure the way is clear.  
+- Her silence and the long wait indicate careful, cautious behavior so that no one else will see Bailey.  
+- This sentence most strongly supports the inference that she is worried about being discovered with him inside the circus.
+
+**Option B (Distractor):**  
+“‘You’re not supposed to be here,’ the red-haired girl says quietly.”  
+- This shows that the girl knows Bailey is breaking a rule and speaks softly, which could hint at caution.  
+- However, it does not clearly show her taking careful actions to avoid being discovered; it is mainly a statement of fact.  
+- It is relevant but weaker evidence than Option A, which describes her specific cautious behavior.
+
+**Option C (Distractor):**  
+“She helps Bailey squeeze through the bars, which are a bit tighter in this part of the fence.”  
+- This shows that the girl helps Bailey escape, but it focuses on the physical action of getting him out.  
+- It does not clearly show that she is worried about others seeing him, only that she is assisting him in leaving.  
+- The cautious motivation is less evident here than in Option A.
+
+**Option D (Distractor):**  
+“The girl smiles. She bites her lip for a second and looks thoughtful, and then she pulls off one of her white gloves and hands it to him through the bars.”  
+- This shows the girl being kind and reflective as she decides to give Bailey proof for his dare.  
+- It does not relate to her concern about being discovered or to any cautious behavior about others seeing him.  
+- It supports an inference about her generosity, not her caution.
+
+---
+
+**Final Version of the Item**
+
+3. Which sentence from the passage best supports the inference that the girl from the circus is cautious about other people discovering Bailey inside the grounds?
+
+A. “She does not say anything more as they walk through the tents, though she makes him stop when they reach a corner and they do not move for almost a minute.” *  
+B. “‘You’re not supposed to be here,’ the red-haired girl says quietly.”  
+C. “She helps Bailey squeeze through the bars, which are a bit tighter in this part of the fence.”  
+D. “The girl smiles. She bites her lip for a second and looks thoughtful, and then she pulls off one of her white gloves and hands it to him through the bars.”
+
+================== Passage Text =================
+
+In this passage from the fantasy novel The Night Circus, Bailey’s sister, Caroline, dares 10-year-old Bailey to visit the grounds of a circus that suddenly arrived in their town. The circus has appeared once before. Read the passage and then answer the questions that follow.
+from The Night Circus by Erin Morgenstern
+
+
+It materialized in the same spot then, and now it looks like it never left. As though it were merely invisible for the five-year period when the field sat empty. 
+
+At the age of not quite six, he was not allowed to visit the circus. His parents deemed him too young, so he could only stare from afar, enchanted, at the tents and the lights. 
+
+He had hoped it would stay long enough for him to age properly into old enough, but it vanished without notice after two weeks, leaving too-young Bailey heartbroken. 
+
+But now it has returned.
+
+It arrived only a few days ago and is still a novelty. Had it been present for longer, Caroline likely would have chosen a different dare, but the circus is currently the talk of the town, and Caroline likes to keep her dares en vogue.
+
+The night before had been Bailey’s first proper introduction to the circus. 
+
+It was like nothing he had ever seen. The lights, the costumes, it was all so different. As though he had escaped his everyday life and wandered into another world. 
+
+He had expected it to be a show. Something to sit in a chair and watch. 
+
+He realized quickly how wrong he was. 
+
+It was something to be explored. 
+
+He investigated it as best he could, though he felt woefully unprepared. He did not know what tents to choose out of dozens of options, each with tantalizing signs hinting at the contents. And every turn he took through the twisting striped pathways led to more tents, more signs, more mysteries. 
+
+He found a tent full of acrobats and stayed amongst them as they twirled and spun until his neck ached from staring up. He wandered through a tent full of mirrors and saw hundreds and thousands of Baileys staring, wide-eyed, back at him, each in matching grey caps. 
+
+Even the food was amazing. Apples dipped in caramel so dark they appeared almost blackened but remained light and crisp and sweet. Chocolate bats with impossibly delicate wings. The most delicious cider Bailey had ever tasted. 
+
+Everything was magical. And it seemed to go on forever. None of the pathways ended, they curved into others or circled back to the courtyard. 
+
+He could not properly describe it afterward. He could only nod when his mother asked if he had enjoyed himself.
+
+They did not stay as long as he would have liked. Bailey would have stayed all night if his parents had let him, there were still so many more tents to explore. But he was ushered home to bed after only a few hours, consoled with promises that he could go back the next weekend, though he anxiously recalls how quickly it disappeared before. He ached to go back almost the moment he walked away. 
+
+He wonders if he accepted the dare, in part, to return to the circus sooner. 
+
+It takes Bailey the better part of ten minutes to walk all the way across the field, and the closer he gets, the larger and more intimidating the tents look, and the more his conviction fades.
+
+He is already trying to come up with something he can use as proof without having to go in, when he reaches the gates. 
+
+The gates are easily three times his height, the letters atop it spelling out LE CIRQUE DES RÊVES are almost indiscernible in the daylight, each one perhaps the size of a rather large pumpkin. The curls of iron around the letters do remind him of pumpkin vines. There is a complicated-looking lock holding the gates shut, and a small sign that reads: Gates Open at Nightfall & Close at Dawn in swirly lettering, and under that, in tiny plain letters: Trespassers Will Be Exsanguinated 
+
+Bailey doesn’t know what “exsanguinated” means, but he doesn’t much like the sound of it. The circus feels strange in the daytime, too quiet. There is no music, no noise. Just the calls of nearby birds and the rustling of the leaves in the trees. There doesn’t even appear to be anyone there, as though the whole place is deserted. It smells like it does at night, but fainter, of caramel and popcorn and smoke from the bonfire. 
+
+Bailey looks back across the field. The others are still in the tree, though they look tiny from so far away. They are undoubtedly watching, so he decides to walk around to the other side of the fence. He is no longer entirely certain he wants to do this, and if and when he does, he doesn’t particularly want to be watched. 
+
+Most of the fence past the gates borders the edges of tents, so there isn’t really anywhere to enter. Bailey keeps walking. 
+
+A few minutes after he loses sight of the oak tree, he finds a part of the fence that is not right up against a tent but borders a small passageway, like an alley between them, wrapping around the side of one tent and disappearing around a corner. It is as good a place as any to try to get in. 
+
+Bailey finds that he does, actually, want to go inside. Not just because of the dare but because he is curious. Dreadfully, hopelessly curious. And beyond proving himself to Caroline and her gang, beneath the curiosity, there is that need to return tugging at him. 
+
+The iron bars are thick and smooth, and Bailey knows without trying that he will not be able to climb over. Besides the fact that there are no good footholds past the first few feet, the top of the fence curls outward in swirls that are something like spikes. They are not overly intimidating, but they are definitely not welcoming. 
+
+But the fence was apparently not built with the express purpose of keeping ten-year-old boys out, for while the bars are solid, they are spread almost a foot apart. And Bailey, being somewhat small, can squeeze through comparatively easily.
+
+He had thought it would feel different, the way it had at night, but as he pulls himself through the fence and stands in the passage between the tents, he feels exactly as he had on the outside. If the magic is still there in the daytime, he cannot feel it.
+
+And it seems to be completely abandoned, with no sign of any workers or performers. 
+
+It is quieter inside; he cannot hear the birds. The leaves that rustled around his feet on the outside have not followed him past the fence, though there is room enough for the breeze to carry them through the bars. 
+
+Bailey wonders which way he should go, and what might count as proof for his dare. There doesn’t seem to be anything to take, only bare ground and the smooth striped sides of tents. The tents look surprisingly old and worn in the light, and he wonders how long the circus has been traveling, and where it goes when it leaves. He thinks there must be a circus train, though there is not one at the nearest station, and as far as he can tell, no one ever sees such a train come or go. 
+
+Bailey turns right at the end of the passage, and finds himself in a row of tents, each with a door and a sign advertising its contents. FLIGHTS OF FANCY, reads one; ETHEREAL ENIGMAS, another. Bailey holds his breath as he passes the one marked FEARSOME BEASTS & STRANGE CREATURES, but he hears nothing from inside. He finds nothing to take with him, as he is unwilling to steal a sign, and the only other things out in plain sight are scraps of paper and the occasional smushed piece of popcorn. 
+
+The afternoon sun casts long shadows across the tents, stretching over the dry ground. The ground has been painted or powdered white in some areas, black in others. Bailey can see the brown dirt beneath that has been kicked up by so many feet walking over it. He wonders if they repaint it every night as he turns another corner, and because he is looking at the ground, he nearly runs into the girl. 
+
+She is standing in the middle of the path between the tents, just standing there as though she is waiting for him. She looks to be about his own age, and she wears what can only be called a costume, as they certainly aren’t normal clothes. White boots with lots of buttons, white stockings, and a white dress made from bits of every fabric imaginable, scraps of lace and silk and cotton all combined into one, with a short white military jacket over it, and white gloves. Every inch from her neck down is covered in white, which makes her red hair exceptionally shocking. 
+
+“You’re not supposed to be here,” the red-haired girl says quietly. She does not sound upset or even surprised. Bailey blinks at her a few times before he manages to respond. 
+
+“I . . . uh, I know,” he says, and it sounds to him like the stupidest thing in the world to say, but the girl only looks at him. “I’m sorry?” he adds, which sounds even stupider. 
+
+“You should probably leave before anyone else sees you,” the girl says, glancing over her shoulder, but Bailey cannot tell what she is looking for. “Which way did you come in?” 
+
+“Back, uh . . .” Bailey turns around but cannot tell which way he came, the path turns in on itself and he cannot see any of the signs to know which ones he had passed. “I’m not sure,” he says. 
+
+“That’s all right, come with me.” The girl takes his hand in her white-gloved one and pulls him down one of the passageways. She does not say anything more as they walk through the tents, though she makes him stop when they reach a corner and they do not move for almost a minute. When he opens his mouth to ask what they are waiting for she simply holds her finger to her lips to quiet him and then continues walking a few seconds later. 
+
+“You can fit through the fence?” the girl asks, and Bailey nods. The girl takes a sharp turn behind one of the tents, down a passageway Bailey had not even noticed, and there is the fence again, and the field outside. 
+
+“Go out this way,” the girl says. “You should be fine.” 
+
+She helps Bailey squeeze through the bars, which are a bit tighter in this part of the fence. When he is on the other side, he turns around to face her. 
+
+“Thank you,” he says. He cannot think of anything else to say. 
+
+“You’re welcome,” the girl says. “But you should be more careful. You’re not supposed to come in here during the day, it’s trespassing.” 
+
+“I know, I’m sorry,” Bailey says. “What does exsanguinated mean?” 
+
+The girl smiles. 
+
+“It means draining all your blood,” she says. “But they don’t actually do that, I don’t think.” 
+
+She turns and starts back down the passageway. 
+
+“Wait,” Bailey says, though he doesn’t know what he is asking her to wait for. The girl returns to the fence. She does not respond, just waits to hear what he has to say. “I . . . I’m supposed to bring something back,” he says, and regrets it instantly. The girl’s brow furrows as she stares at him through the bars. 
+
+“Bring something back?” she repeats. 
+
+“Yeah,” Bailey says, looking down at his scuffed brown shoes, and at her white boots on the other side of the fence. “It was a dare,” he adds, hoping she will understand. 
+
+The girl smiles. She bites her lip for a second and looks thoughtful, and then she pulls off one of her white gloves and hands it to him through the bars. Bailey hesitates. 
+
+“It’s okay, take it,” she says. “I have a whole box of them.” 
+
+Bailey takes the white glove from her and puts it in his pocket. 
+
+“Thank you,” he says again. 
+
+“You’re welcome, Bailey,” the girl says, and this time when she turns away he does not say anything, and she disappears behind the corner of a striped tent. 
+
+Bailey stands there for a long while before he walks back across the field. There is no one left in the oak tree when he reaches it, only a great deal of acorns on the ground, and the sun is starting to set. 
+
+He is halfway home when he realizes he never told the girl his name.
+
+============================
+
+

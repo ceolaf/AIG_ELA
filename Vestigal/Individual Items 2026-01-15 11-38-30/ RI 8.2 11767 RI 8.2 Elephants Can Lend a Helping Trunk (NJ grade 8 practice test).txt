@@ -1,0 +1,45 @@
+Standard:  RI 8.2
+ID: 11767
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 2b (Claude) #1 (temp=0.7). (22.92 secs). (3308 + 736 = 4044 total tokens)
+
+## Multiple Choice Item for RI.8.2
+
+**Stem:**
+Which statement best identifies the central idea of "Elephants Can Lend a Helping Trunk" and explains how it is developed throughout the text?
+
+**Answer Options:**
+
+A. Elephants are more intelligent than chimpanzees because they learned cooperative tasks faster and showed better patience when waiting for partners during scientific experiments.
+
+*B. Scientists have discovered that elephants possess advanced social cognition by demonstrating through controlled experiments that these animals understand when they need help from others to accomplish tasks.
+
+C. Researchers modified a 1930s chimpanzee experiment to test whether elephants could work together, proving that elephants can be trained by mahouts to perform complex tasks for food rewards.
+
+D. The Thai Elephant Conservation Center has become an important research facility where scientists study elephant behavior and compare it to the behaviors of chimpanzees, hyenas, and rooks.
+
+**Rationales:**
+
+**Option A (Distractor):** Students selecting this option are focusing too narrowly on the comparison between elephants and chimpanzees mentioned in the text. While the article does note that elephants "learned to do this faster than the chimpanzees," this is a supporting detail rather than the central idea. The text's main focus is on elephants' cognitive abilities, not on proving their superiority to other animals.
+
+**Option B (Key):** This is correct because it accurately captures the central idea that elephants have advanced social cognition, specifically the ability to recognize when cooperation is needed. The text develops this idea by: (1) introducing the concept of higher social cognition in the first paragraph, (2) describing the experimental methodology in detail, (3) presenting the results showing elephants waited for partners and gave up when partners couldn't help, and (4) including expert validation that confirms these findings demonstrate "impressive cognitive abilities."
+
+**Option C (Distractor):** Students choosing this option are confusing experimental methodology with the central idea. While the text does describe how researchers modified a classic experiment and mentions mahouts training elephants, these are details about how the research was conducted, not the main point about what was discovered about elephant cognition.
+
+**Option D (Distractor):** This option misidentifies setting information as the central idea. Although the Thai Elephant Conservation Center is mentioned as the location where research took place, and other animals are referenced for comparison, the text's central focus is on the specific discovery about elephants' cooperative intelligence, not on the research facility itself.
+
+---
+
+**Final Version:**
+
+Which statement best identifies the central idea of "Elephants Can Lend a Helping Trunk" and explains how it is developed throughout the text?
+
+A. Elephants are more intelligent than chimpanzees because they learned cooperative tasks faster and showed better patience when waiting for partners during scientific experiments.
+
+*B. Scientists have discovered that elephants possess advanced social cognition by demonstrating through controlled experiments that these animals understand when they need help from others to accomplish tasks.
+
+C. Researchers modified a 1930s chimpanzee experiment to test whether elephants could work together, proving that elephants can be trained by mahouts to perform complex tasks for food rewards.
+
+D. The Thai Elephant Conservation Center has become an important research facility where scientists study elephant behavior and compare it to the behaviors of chimpanzees, hyenas, and rooks.

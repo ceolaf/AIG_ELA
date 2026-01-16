@@ -1,0 +1,52 @@
+Standard:  RI 8.2
+ID: 17342
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 6b (Claude) #1 (temp=0.7). (26.30 secs). (3624 + 840 = 4464 total tokens)
+
+I'll create a multiple choice item aligned to RI.8.2 that examines how a central idea develops through its relationship to supporting ideas.
+
+**Draft Item:**
+
+How does the central idea that elephants demonstrate advanced social cooperation develop throughout the text?
+
+A. The idea begins with a general claim about elephants' helping behavior, expands through detailed experimental evidence showing their understanding of cooperative tasks, and concludes by connecting these findings to broader scientific understanding of animal cognition.
+
+B. The idea starts by comparing elephants to humans, narrows to focus only on experimental results with Asian elephants, and ends by rejecting comparisons to other species.
+
+C. The idea is introduced through observations of wild elephant behavior, shifts to laboratory experiments that contradict these observations, and resolves by showing that captive elephants behave differently than wild ones.
+
+D. The idea emerges from descriptions of elephant training methods, develops through explanations of why elephants fail at tasks, and concludes with evidence that elephants cannot match the cognitive abilities of primates.
+
+**Answer Key:** A*
+
+**Rationales:**
+
+**Option A (Key):** This correctly traces how the central idea develops. The text begins with the broad claim that elephants understand when they need help (paragraph 1), expands through detailed description of experiments that demonstrate this understanding (paragraphs 2-3), and concludes by situating these findings within the broader scientific context of animal cognition research (paragraph 4). The supporting ideas about the rope experiment, waiting behavior, and comparisons to other species all serve to build and reinforce this central concept.
+
+**Option B:** This misrepresents the text's development. While the text does mention comparisons to humans and other species, it doesn't narrow to reject these comparisons. Instead, it maintains and strengthens these comparisons throughout, particularly noting that elephants join "an elite club" with other species.
+
+**Option C:** This distractor incorrectly suggests a contradiction between wild observations and experimental results. The text actually presents these as consistent and mutually reinforcing (paragraph 4 explicitly states the findings are "consistent with observations in nature").
+
+**Option D:** This reverses the text's actual development and conclusions. The text doesn't focus on failure or suggest elephants can't match primate abilities. In fact, it notes elephants "learned to do this faster than the chimpanzees" and emphasizes their successful demonstration of advanced cognition.
+
+**LBIDAT Analysis:**
+
+- **Stem & Task:** ✓ - Appropriately targets the development of a central idea and its relationship to supporting ideas
+- **Key:** ✓ - Definitively correct and directly responsive to the question
+- **Distractors:** ✓ - Each represents a plausible misreading of the text's development pattern
+- **Stimulus:** ✓ - Required for successful response; appropriately complex for grade 8
+- **Fairness:** ✓ - No sensitivity issues present
+
+**Final Version:**
+
+How does the central idea that elephants demonstrate advanced social cooperation develop throughout the text?
+
+A.* The idea begins with a general claim about elephants' helping behavior, expands through detailed experimental evidence showing their understanding of cooperative tasks, and concludes by connecting these findings to broader scientific understanding of animal cognition.
+
+B. The idea starts by comparing elephants to humans, narrows to focus only on experimental results with Asian elephants, and ends by rejecting comparisons to other species.
+
+C. The idea is introduced through observations of wild elephant behavior, shifts to laboratory experiments that contradict these observations, and resolves by showing that captive elephants behave differently than wild ones.
+
+D. The idea emerges from descriptions of elephant training methods, develops through explanations of why elephants fail at tasks, and concludes with evidence that elephants cannot match the cognitive abilities of primates.

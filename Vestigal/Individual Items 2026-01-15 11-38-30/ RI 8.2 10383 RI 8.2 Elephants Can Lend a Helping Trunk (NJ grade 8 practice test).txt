@@ -1,0 +1,42 @@
+Standard:  RI 8.2
+ID: 10383
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 3a (GPT) #1 (temp=0.7). (14.84 secs). (958 + 754 = 1712 total tokens)
+
+1. Which statement best explains how the central idea of the article develops over the course of the text?
+
+A. The article begins by describing elephants’ natural behavior in the wild and then shifts to show how experiments in zoos contradict those behaviors.  
+B. The article starts by claiming elephants can cooperate, then explains experiments that test this claim, and finally connects the results to other research showing elephants’ advanced social and cognitive abilities.*  
+C. The article introduces elephants’ intelligence by comparing them to humans, then focuses mainly on the history of elephant training in Thailand.  
+D. The article begins with a description of the Thai Elephant Conservation Center and ends by arguing that elephants are better cooperators than all other animals.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option B (Correct):**  
+- The central idea of the text is that elephants possess advanced social cognition, especially the ability to understand when they need a partner’s help and to cooperate accordingly.  
+- In paragraph 1, the author introduces this idea directly: elephants “know when they need a helping hand—or rather, trunk” and have joined an “elite club of social cooperators.”  
+- The middle paragraphs describe the rope-and-table experiments in detail, showing how the elephants learned to pull together, wait for a partner, and give up when a partner couldn’t help—specific evidence that supports and develops the central idea.  
+- The final paragraph brings in outside experts and field observations (e.g., elephants lifting a fallen companion, comparisons to chimps and rooks) to reinforce and broaden the idea that elephants have “impressive cognitive abilities.”  
+- This answer accurately traces how the central idea is introduced, supported by experiments, and then strengthened by expert commentary and related research.
+
+**Option A (Distractor):**  
+- This choice misrepresents the structure and supporting ideas of the text.  
+- The article does not begin with wild behavior and then show that experiments in zoos contradict it. Instead, it opens with a claim about cooperation and then describes controlled experiments that support, not contradict, observations from nature.  
+- The final paragraph actually says the findings are “consistent with observations in nature,” the opposite of contradiction.  
+- A student choosing this might notice references to behavior “in nature” and experiments, but misunderstand their relationship.
+
+**Option C (Distractor):**  
+- The article does compare elephants to humans (and other species), but only briefly and as part of showing that elephants belong to an “elite club of social cooperators.”  
+- The central development of the text is not about “the history of elephant training in Thailand.” The mahouts and conservation center are mentioned only to explain where and how the experiment took place, not as the main focus.  
+- This answer confuses a minor background detail (location and trainers) with the central idea and its development.
+
+**Option D (Distractor):**  
+- The text does not open with a description of the Thai Elephant Conservation Center; it opens with the claim about elephants needing “a helping hand—or rather, trunk” and the idea of higher social cognition.  
+- The article also never argues that elephants are better cooperators than all other animals. It says they “join an elite club” that includes chimpanzees, hyenas, rooks, and humans, and later compares their waiting behavior to chimps and rooks, but it does not claim outright superiority.  
+- A student might be misled by the comparison to chimpanzees (“They learned to do this faster than the chimpanzees”) and overgeneralize that the author is arguing elephants are the best, which is not the central idea the text develops.

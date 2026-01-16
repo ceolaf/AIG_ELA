@@ -1,0 +1,27 @@
+Standard:  RI 8.2
+ID: 42872
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 2b (GPT) #1 (temp=0.7). (8.36 secs). (3020 + 372 = 3392 total tokens)
+
+1. Which statement best expresses a central idea of the passage?
+
+A. Asian elephants can be trained by mahouts to perform complex tricks for rewards.  
+B. Elephants demonstrate advanced cooperation and understanding of when they need a partner’s help.*  
+C. The rope‑pulling experiment with elephants was more successful than earlier experiments with chimpanzees.  
+D. Wild elephants in East Africa are more intelligent than elephants kept in conservation centers.
+
+**Rationales**
+
+- **A. Asian elephants can be trained by mahouts to perform complex tricks for rewards.**  
+  This is a partial detail, not the central idea. The passage mentions mahouts and training only to explain how the experiment was set up, not as the main focus or message.
+
+- **B. Elephants demonstrate advanced cooperation and understanding of when they need a partner’s help.*  
+  This is the correct answer. The introduction states that elephants “know when they need a helping hand—or rather, trunk,” and that this shows “higher social cognition.” The rest of the passage explains and supports this idea through descriptions of the experiments and comparisons to other animals.
+
+- **C. The rope‑pulling experiment with elephants was more successful than earlier experiments with chimpanzees.**  
+  This distorts a supporting point. The passage notes that elephants learned to wait “faster than the chimpanzees,” but that comparison is used to support the larger idea about elephants’ cooperative cognition, not as the main focus.
+
+- **D. Wild elephants in East Africa are more intelligent than elephants kept in conservation centers.**  
+  This misinterprets the text. The passage briefly describes wild elephants lifting a fallen companion as an example consistent with the study’s findings, but it never compares the intelligence levels of wild versus captive elephants.

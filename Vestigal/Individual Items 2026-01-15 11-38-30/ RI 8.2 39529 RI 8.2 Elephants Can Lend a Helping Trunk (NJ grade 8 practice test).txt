@@ -1,0 +1,30 @@
+Standard:  RI 8.2
+ID: 39529
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 4a (Claude) #1 (temp=0.7). (19.25 secs). (1130 + 543 = 1673 total tokens)
+
+Based on the passage and the requirements for RI.8.2, here's a multiple choice item:
+
+**Which statement best describes how the central idea about elephants' cooperative intelligence develops throughout the text?**
+
+A. The text begins by establishing elephants' ability to cooperate, then progressively reveals through increasingly complex experiments that elephants not only work together but understand *why* cooperation is necessary, culminating in comparisons that place them among the most socially intelligent species.
+
+B. The text initially focuses on the mechanical aspects of how elephants pull ropes together, then shifts entirely to comparing elephants with other animals, ultimately arguing that elephants are more intelligent than chimpanzees and rooks.
+
+C. The text starts with a broad claim about elephant intelligence, narrows to describe a single experiment about rope-pulling, then expands again to discuss various unrelated examples of elephant behavior in the wild.
+
+D. The text opens with the researchers' methods for training elephants, develops into a discussion of failed experiments, and concludes by questioning whether elephants truly understand cooperation or are simply following learned behaviors.
+
+**Answer: A***
+
+**Rationales:**
+
+**Option A (Correct):** This accurately traces how the central idea develops. The text begins with the conclusion that elephants understand when they need help (paragraph 1), then shows through progressively challenging experiments how elephants demonstrate this understanding—first by learning to pull together, then by waiting for partners, and finally by giving up when partners can't help (paragraphs 2-3). The text concludes by contextualizing these findings among other intelligent species (paragraph 4), showing that the central idea builds from simple cooperation to complex social cognition.
+
+**Option B:** While the text does compare elephants to other animals, this is not the primary development. The text doesn't shift "entirely" to comparisons, nor does it argue elephants are definitively more intelligent than all other species mentioned. This misrepresents the progression of ideas.
+
+**Option C:** This distractor mischaracterizes the development. The text doesn't narrow to a "single experiment"—it describes multiple experimental variations. The wild examples aren't "unrelated" but rather support the findings. The development is more cohesive than this option suggests.
+
+**Option D:** This contradicts the text's actual development. The text doesn't focus on "failed experiments" or end by questioning the elephants' understanding. Instead, it progressively builds evidence that elephants do understand cooperation, with expert validation in the final paragraph.

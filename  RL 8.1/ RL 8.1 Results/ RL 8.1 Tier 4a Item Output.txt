@@ -88,3 +88,87 @@ D. “The girl smiles. She bites her lip for a second and looks thoughtful, and 
 
 - **Option D:**  
   Giving Bailey the glove shows that she is kind and willing to help him complete his dare, but this sentence alone does not clearly connect that kindness to her awareness that he is breaking rules. It supports her generosity more than her decision to help despite knowing he is trespassing.
+
+
+=============== NEW RUN GPT - 2026-01-15 11:51:04 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 4a (GPT) #1 (temp=0.7). (6.80 secs). (1116 + 440 = 1556 total tokens)
+
+1. Which sentence from the passage best supports the inference that Jim Bridger’s knowledge of the western landforms was valuable to other people?
+
+A. “He learned how to make horseshoes and other products out of iron.”  
+B. “For many years, people assumed Bridger was the first non-Native American to discover the Great Salt Lake.”  
+C. “In his travels, he learned a great deal about the terrain and wildlife of the area.”  
+D.* “Because of his knowledge and skills, he became a valued guide. People often hired him to lead them across the mountains.”  
+
+**Correct Answer: D***
+
+---
+
+### Rationales
+
+**Option D (Correct):**  
+- The inference: Bridger’s knowledge of western landforms was valuable to others.  
+- This sentence explicitly states that “because of his knowledge and skills, he became a valued guide” and that “people often hired him to lead them across the mountains.”  
+- It directly connects his knowledge to its value for other people (they “hired him”), making it the strongest textual evidence for the inference.
+
+**Option A (Distractor):**  
+- This shows he learned blacksmithing skills, but it does not relate to western landforms or show that this knowledge was valuable to others.  
+- It is accurate information, but it does not support the specific inference about his knowledge of the land helping other people.
+
+**Option B (Distractor):**  
+- This sentence suggests he may have been among the first non-Native Americans to see the Great Salt Lake, which shows exploration, not the usefulness of his knowledge to others.  
+- It does not mention other people benefiting from that knowledge, so it weakly supports the inference at best.
+
+**Option C (Distractor):**  
+- This sentence shows that Bridger “learned a great deal about the terrain and wildlife,” which supports that he had knowledge of the land.  
+- However, it does not show that this knowledge was valuable to others. It lacks the explicit connection to other people relying on or using his knowledge, so it is weaker evidence than D.
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 4a (GPT) #2 (temp=0.8). (6.95 secs). (1567 + 363 = 1930 total tokens)
+
+2. Which sentence from the passage best supports the inference that Jim Bridger continued to have an important impact on the American West even after his death?
+
+A. “He learned how to make horseshoes and other products out of iron.”  
+B. “For many years, people assumed Bridger was the first non-Native American to discover the Great Salt Lake.”  
+C. “In addition, the pass later became part of the Union Pacific Railroad.”*  
+D. “Bridger spent twenty years working as a guide.”  
+
+**Correct Answer: C***
+
+---
+
+### Rationales
+
+**Option C (Correct):**  
+- Inference: Bridger’s influence on the West lasted beyond his lifetime.  
+- The sentence explains that “the pass” he found “later became part of the Union Pacific Railroad,” which was part of the first railroad to cross America.  
+- This shows that something Bridger discovered continued to shape travel and transportation in the West long after he found it, strongly supporting the inference.
+
+**Option A (Distractor):**  
+- This refers only to his early work as a blacksmith’s apprentice.  
+- It does not relate to the American West or suggest any lasting impact after his death.
+
+**Option B (Distractor):**  
+- This focuses on whether he was the first non-Native American to see the Great Salt Lake.  
+- While it shows exploration, it does not indicate a continuing impact or legacy after his death.
+
+**Option D (Distractor):**  
+- This shows that he worked a long time as a guide, which indicates importance during his life.  
+- It does not show that his influence continued after he died, so it does not best support the specific inference in the question.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:56:17 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get

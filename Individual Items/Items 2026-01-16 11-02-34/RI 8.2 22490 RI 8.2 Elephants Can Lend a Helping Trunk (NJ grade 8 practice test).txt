@@ -1,0 +1,66 @@
+Standard:  RI 8.2
+ID: 22490
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+
+Here is a unique multiple-choice item designed for 8th Grade students, aligned to CCSS.ELA-LITERACY.RI.8.2, and self-evaluated against the LBIDAT criteria.
+
+**Item Stem:**
+How does the author primarily develop the central idea that elephants understand the specific need for a partner to succeed?
+
+**Answer Options:**
+A. By comparing the elephants’ ability to pull ropes with the abilities of other species, such as chimpanzees and rooks.
+B. By describing an experiment in which elephants waited for a delayed partner before attempting the task.*
+C. By quoting experts who have observed wild elephants using their tusks to help fallen companions stand up.
+D. By explaining the training process used by mahouts to teach the elephants how to use the sliding table.
+
+**Rationales:**
+
+*   **Option A:** This is incorrect. While the author does compare elephants to other species (Paragraphs 1 and 4), these comparisons serve to categorize the elephants' intelligence level. The comparison itself does not explain *how* the author demonstrates the elephants' specific understanding of the partner's role; the experimental evidence does that.
+*   **Option B:** This is the correct answer (*). The central idea is that elephants possess "higher social cognition" and understand that they will "fail at a task without a partner’s assistance." The author develops this in Paragraph 3 by detailing the specific phase of the experiment where elephants were released at different times. The fact that they waited for the partner proves they understood the *necessity* of the partner, rather than just performing a rote trick.
+*   **Option C:** This is incorrect. The anecdote about wild elephants (Paragraph 4) is used as supporting evidence to validate the study's findings ("consistent with observations in nature"). However, the primary development of the central idea regarding the *study's conclusion* relies on the controlled experiment described in the body of the text, not this external anecdote.
+*   **Option D:** This is incorrect. The training by mahouts (Paragraph 2) explains the methodology of the experiment ("first taught individual animals to pull the rope"). However, this explains how the elephants learned the *mechanics* of the task, not how the author establishes their *cognitive understanding* of the partner's necessity.
+
+***
+
+**LBIDAT Self-Evaluation**
+
+*   **Stem & Task: (✓)** The task is directly aligned to RI.8.2. It asks the student to identify how a central idea (elephants understand the need for cooperation) is developed (through specific experimental evidence). It requires analyzing the relationship between the text's structure and its thesis, which is appropriate for Grade 8. It does not rely on outside knowledge.
+*   **The Key: (✓)** The key is definitively correct based on the text. Paragraph 3 explicitly states: "To find out if the elephants understood that they needed one another’s assistance, the researchers upped the challenge... That shows the elephants understood why the partner was needed." The key summarizes this development accurately.
+*   **Distractors: (✓)**
+    *   All distractors are plausible because they reference specific details found in the text (comparisons, wild observations, training methods).
+    *   They are definitively incorrect in relation to the specific question asked (how the *understanding of necessity* is developed).
+    *   They represent different types of misunderstandings: confusing supporting context for main evidence (A, C) and confusing methodology for results (D).
+*   **Stimulus: (✓)** The stimulus is a standard science journalism text appropriate for 8th grade. It is self-contained and accurate.
+*   **Fairness: (✓)** There are no apparent sensitivity issues. The text deals with animal intelligence in a non-controversial, scientific manner.
+
+***
+
+**Final Item Version**
+
+**Standard:** RI.8.2  
+**Passage:** Elephants Can Lend a Helping Trunk
+
+**How does the author primarily develop the central idea that elephants understand the specific need for a partner to succeed?**
+
+A. By comparing the elephants’ ability to pull ropes with the abilities of other species, such as chimpanzees and rooks.
+B. By describing an experiment in which elephants waited for a delayed partner before attempting the task.*
+C. By quoting experts who have observed wild elephants using their tusks to help fallen companions stand up.
+D. By explaining the training process used by mahouts to teach the elephants how to use the sliding table.
+
+================== Passage Text =================
+
+Elephants Can Lend a Helping Trunk
+by Virginia Morell 
+
+
+Elephants know when they need a helping hand—or rather, trunk. That’s the conclusion of a new study that tested the cooperative skills of Asian elephants (Elephas maximus) in Thailand and showed that the pachyderms understand that they will fail at a task without a partner’s assistance. The ability to recognize that you sometimes need a little help from your friends is a sign of higher social cognition, psychologists say, and is rarely found in other species. Elephants now join an elite club of social cooperators: chimpanzees, hyenas, rooks, and humans.
+
+To test the elephants’ cooperation skills, a team of scientists modified a classic experiment first administered to chimpanzees in the 1930s, which requires two animals work together to earn a treat. If they don’t cooperate, neither gets the reward. For the elephants, the researchers used a sliding table with a single rope threaded around it. Two bowls of corn were attached to the table, but the elephants could reach them only by pulling two ends of the rope simultaneously. Working with mahout—Asian elephant trainers—trained elephants at the Thai Elephant Conservation Center in Lampang, the researchers first taught individual animals to pull the rope with their trunks. The 12 elephants were then divided into six pairs, and each pair was released to walk to their waiting ropes. If one animal pulled the rope before the other, the rope would slip out, leaving the table—and treats—in place. “That taught them to pull together,” says Joshua Plotnik, a postdoc in experimental psychology at the University of Cambridge in the United Kingdom and the lead author of the study, which appears online this week in the Proceedings of the National Academy of Sciences.
+
+To find out if the elephants understood that they needed one another’s assistance, the researchers upped the challenge by releasing the elephants at different times. Thus, one elephant would arrive at the table before the other and would have to wait for a partner to show up before pulling the rope. “They learned to do this faster than the chimpanzees,” says Plotnik. “They would stand there holding their end of the rope, just waiting.” In another experiment, the partner’s rope was placed out of reach. “When the partner couldn’t do anything, the other one would just give up,” Plotnik says. That shows the elephants understood why the partner was needed, he adds.
+
+“These are clever experiments,” says Karen McComb, a behavioral ecologist at the University of Sussex in the United Kingdom who studies social cognition in wild elephants. The findings are consistent with observations in nature, she says. For instance, in East Africa biologists have seen elephants work together to lift a fallen companion with their tusks. “It’s particularly striking that the elephants were able to inhibit pulling” longer than chimpanzees do, comparative psychologist Nicola Clayton of the University of Cambridge in the United Kingdom. She and her team showed that rooks, too, could pass a similar dual-rope exam, although they failed to wait. The study “adds to the growing body of evidence that elephants show some impressive cognitive abilities.”
+
+“Elephants Can Lend a Helping Trunk” by Virginia Morell, from Science, March
+2011 issue. Copyright © 2011 by American Association for the Advancement of
+Science. Reprinted by permission of AAAS.

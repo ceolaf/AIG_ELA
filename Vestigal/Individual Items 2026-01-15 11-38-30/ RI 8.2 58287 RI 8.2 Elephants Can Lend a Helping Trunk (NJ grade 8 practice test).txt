@@ -1,0 +1,39 @@
+Standard:  RI 8.2
+ID: 58287
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 3b (GPT) #1 (temp=0.7). (13.74 secs). (3110 + 568 = 3678 total tokens)
+
+1. Which statement best explains how the author develops a central idea about elephants’ intelligence throughout the article?
+
+A. The author introduces elephants’ need for help and then contrasts it with examples of animals that cannot cooperate successfully.  
+B. The author presents a claim that elephants show advanced social cooperation, then explains experiments and field observations that support and deepen that idea over the course of the text.*  
+C. The author argues that elephants are smarter than chimpanzees and rooks and uses the experiment only to prove that elephants always perform better.  
+D. The author states that elephants can be trained to do tricks and then describes how mahouts teach them to pull ropes for food.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option B (Key):**  
+- The opening paragraph introduces a central idea: elephants have “higher social cognition” and can recognize when they need a partner’s help.  
+- The second and third paragraphs describe a series of controlled experiments (the sliding table, rope-pulling, delayed release, and out-of-reach rope) that show elephants understanding when cooperation is necessary.  
+- The final paragraph brings in outside experts and examples from nature (lifting a fallen companion, comparison to rooks and chimpanzees) that reinforce and extend this idea.  
+- This option accurately captures both the central idea (advanced social cooperation/intelligence) and how it is developed through supporting ideas (experimental evidence, comparisons to other species, and field observations).
+
+**Option A (Distractor):**  
+- This suggests the author contrasts elephants with animals that “cannot cooperate successfully,” but the passage actually places elephants in an “elite club” with other successful cooperators (chimpanzees, hyenas, rooks, humans).  
+- There is no sustained pattern of contrasting elephants with non-cooperating animals, so this misrepresents how the central idea is developed.
+
+**Option C (Distractor):**  
+- The text does not claim elephants are simply “smarter” than chimpanzees and rooks or that they “always perform better.”  
+- While it notes elephants learn one task faster than chimpanzees and that rooks fail to wait, the author uses these comparisons to situate elephants among other intelligent species, not to argue overall superiority.  
+- This distorts both the central idea and the role of the supporting comparisons.
+
+**Option D (Distractor):**  
+- Training by mahouts is mentioned briefly as context for how elephants learned the rope task, but the central idea is not about “tricks” or training.  
+- The main focus is on elephants’ own understanding of when cooperation is needed, not on human instruction.  
+- This option focuses on a minor supporting detail and incorrectly elevates it to the central idea.

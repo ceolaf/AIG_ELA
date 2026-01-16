@@ -1,0 +1,61 @@
+Standard:  RI 8.2
+ID: 61609
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+
+Item (RI.8.2 – central idea and its development)
+
+1. Which statement best explains a central idea of the article and how the author develops it over the course of the text?
+
+A. The study proves that elephants are more intelligent than all other animals, and the author develops this idea by comparing elephants’ performance to that of chimpanzees, hyenas, and rooks throughout the article.  
+
+B. The article’s central idea is that elephants show advanced social cooperation, and the author develops this idea by describing a rope‑pulling experiment and then adding expert commentary and real‑world examples that support the findings.*  
+
+C. The main idea is that scientists in Thailand have created a new kind of animal intelligence test, and the author develops this idea by explaining how the apparatus works and how the elephants were trained to use it.  
+
+D. The article’s central idea is that elephants will do almost anything for food rewards, and the author develops this idea by showing how they learn to pull ropes and by noting that they quickly understand how to get the corn.  
+
+
+Answer Key: B*
+
+
+Rationales
+
+A.  
+- Misidentifies the central idea. The article does not claim elephants are “more intelligent than all other animals.”  
+- The comparisons to chimpanzees and rooks are used to place elephants in an “elite club” of cooperators and to show similarity in skills, not overall superiority.  
+- Because the relationship between the comparisons and the supposed central idea is misread, this option reflects poor analysis of how ideas relate.
+
+B. *Correct*  
+- Accurately states a central idea: elephants display advanced social cooperation and higher social cognition (introduced in paragraph 1: “Elephants know when they need a helping hand… sign of higher social cognition”).  
+- Correctly traces development:
+  - The rope‑pulling experiment is described in detail (how pairs must coordinate, how timing is changed, how one elephant gives up when the partner can’t reach the rope).  
+  - Expert commentary from Plotnik, McComb, and Clayton interprets these results and connects them to concepts like “cooperation,” “inhibit pulling,” and “impressive cognitive abilities.”  
+  - Real‑world observations (elephants lifting a fallen companion) extend and reinforce the experimental findings.  
+- This option accurately captures both the primary idea and how supporting ideas and details build it over the article.
+
+C.  
+- Focuses on a supporting idea (the design of the experiment) as if it were the central idea. The test is a tool to reveal elephant cognition, not the main focus.  
+- The development described (explaining apparatus and training) is only part of the middle of the article and does not account for later expert analysis and natural observations, so it mischaracterizes how the article’s ideas develop.
+
+D.  
+- Misstates the central idea: the article is about cooperation and understanding when help is needed, not about motivation by food.  
+- While food rewards are used, the development focuses on waiting for a partner, giving up when help is impossible, and expert evaluation of cognition—none of which supports the claim that elephants will “do almost anything for food.”  
+- This reflects a misunderstanding of both what is central and how details relate to it.
+
+================== Passage Text =================
+
+Elephants Can Lend a Helping Trunk
+by Virginia Morell 
+
+
+Elephants know when they need a helping hand—or rather, trunk. That’s the conclusion of a new study that tested the cooperative skills of Asian elephants (Elephas maximus) in Thailand and showed that the pachyderms understand that they will fail at a task without a partner’s assistance. The ability to recognize that you sometimes need a little help from your friends is a sign of higher social cognition, psychologists say, and is rarely found in other species. Elephants now join an elite club of social cooperators: chimpanzees, hyenas, rooks, and humans.
+
+To test the elephants’ cooperation skills, a team of scientists modified a classic experiment first administered to chimpanzees in the 1930s, which requires two animals work together to earn a treat. If they don’t cooperate, neither gets the reward. For the elephants, the researchers used a sliding table with a single rope threaded around it. Two bowls of corn were attached to the table, but the elephants could reach them only by pulling two ends of the rope simultaneously. Working with mahout—Asian elephant trainers—trained elephants at the Thai Elephant Conservation Center in Lampang, the researchers first taught individual animals to pull the rope with their trunks. The 12 elephants were then divided into six pairs, and each pair was released to walk to their waiting ropes. If one animal pulled the rope before the other, the rope would slip out, leaving the table—and treats—in place. “That taught them to pull together,” says Joshua Plotnik, a postdoc in experimental psychology at the University of Cambridge in the United Kingdom and the lead author of the study, which appears online this week in the Proceedings of the National Academy of Sciences.
+
+To find out if the elephants understood that they needed one another’s assistance, the researchers upped the challenge by releasing the elephants at different times. Thus, one elephant would arrive at the table before the other and would have to wait for a partner to show up before pulling the rope. “They learned to do this faster than the chimpanzees,” says Plotnik. “They would stand there holding their end of the rope, just waiting.” In another experiment, the partner’s rope was placed out of reach. “When the partner couldn’t do anything, the other one would just give up,” Plotnik says. That shows the elephants understood why the partner was needed, he adds.
+
+“These are clever experiments,” says Karen McComb, a behavioral ecologist at the University of Sussex in the United Kingdom who studies social cognition in wild elephants. The findings are consistent with observations in nature, she says. For instance, in East Africa biologists have seen elephants work together to lift a fallen companion with their tusks. “It’s particularly striking that the elephants were able to inhibit pulling” longer than chimpanzees do, comparative psychologist Nicola Clayton of the University of Cambridge in the United Kingdom. She and her team showed that rooks, too, could pass a similar dual-rope exam, although they failed to wait. The study “adds to the growing body of evidence that elephants show some impressive cognitive abilities.”
+
+“Elephants Can Lend a Helping Trunk” by Virginia Morell, from Science, March
+2011 issue. Copyright © 2011 by American Association for the Advancement of
+Science. Reprinted by permission of AAAS.

@@ -1,0 +1,56 @@
+Standard:  RI 8.2
+ID: 62723
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 4a (GPT) #2 (temp=0.8). (21.02 secs). (1954 + 943 = 2897 total tokens)
+
+Item (RI.8.2 – Central Idea, Supporting Ideas, and Summary)
+
+Which statement best provides an objective summary of the article by identifying a central idea and how it is supported?
+
+A. The article describes how elephants are trained by mahouts in Thailand, explaining in detail how trainers teach them to pull ropes and follow commands, and concludes that human instruction is the main reason elephants can complete complex tasks.  
+
+B. The article explains that elephants are part of an elite group of highly social animals, then shows through a series of rope-pulling experiments that they can recognize when they need a partner’s help, and supports this central idea with comparisons to other species and real-life examples of elephants cooperating in the wild.*  
+
+C. The article argues that chimpanzees are not as smart as once believed, using the results of the rope experiments to show that elephants learn faster than chimpanzees and suggesting that most earlier research on primates should be reconsidered.  
+
+D. The article warns that keeping elephants in conservation centers can change their natural behavior, using the rope experiment to argue that captive elephants act differently from wild elephants and that researchers should stop testing them.  
+
+
+Rationales
+
+A. The article describes how elephants are trained by mahouts in Thailand, explaining in detail how trainers teach them to pull ropes and follow commands, and concludes that human instruction is the main reason elephants can complete complex tasks.  
+- Why a reader might choose it: Mahouts and training are mentioned, and the elephants are indeed taught to pull the rope.  
+- Why it is incorrect: This option turns a minor detail into the central idea. The article does not focus on mahout training “in detail” or conclude that human instruction is the main reason for elephants’ abilities. Training is just a setup step; the central idea is about elephants’ own cooperative and cognitive skills revealed by the experiments.
+
+*B. The article explains that elephants are part of an elite group of highly social animals, then shows through a series of rope-pulling experiments that they can recognize when they need a partner’s help, and supports this central idea with comparisons to other species and real-life examples of elephants cooperating in the wild.*  
+- Why it is correct:  
+  - Central idea: Elephants have advanced social and cooperative abilities, including understanding when they need a partner.  
+  - Development/support:  
+    • The introduction states that elephants know when they need “a helping hand—or rather, trunk” and places them in an “elite club of social cooperators.”  
+    • The article describes the rope-pulling experiments and how elephants learn to pull together.  
+    • It then increases the challenge (delayed release, unreachable rope) to show elephants can wait for a partner and give up when cooperation is impossible, suggesting real understanding.  
+    • Finally, it supports this idea with expert comments and observations from the wild (elephants lifting a fallen companion) and compares elephants’ performance to chimpanzees and rooks.  
+  - This option accurately captures both the central idea and the main supporting ideas in an objective way, without adding opinions or claims not in the text.
+
+C. The article argues that chimpanzees are not as smart as once believed, using the results of the rope experiments to show that elephants learn faster than chimpanzees and suggesting that most earlier research on primates should be reconsidered.  
+- Why a reader might choose it: The passage notes that elephants learned to wait “faster than the chimpanzees,” which might mislead some readers into thinking chimp intelligence is being challenged.  
+- Why it is incorrect: The article never claims that chimpanzees are “not as smart as once believed” or that earlier primate research is flawed. The chimpanzee comparison is brief and serves to highlight elephants’ cooperative skill, not to overturn primate research. This option invents a central argument that is not in the text.
+
+D. The article warns that keeping elephants in conservation centers can change their natural behavior, using the rope experiment to argue that captive elephants act differently from wild elephants and that researchers should stop testing them.  
+- Why a reader might choose it: The Thai Elephant Conservation Center is mentioned, and some students may assume the article is about captivity issues.  
+- Why it is incorrect: The conservation center is only the setting for the experiments; the article does not argue that captivity changes behavior or that researchers should stop testing elephants. Instead, it connects captive experiments to wild observations in a positive way, saying the findings are “consistent with observations in nature” and that the study adds to evidence of elephants’ impressive cognition.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:08:19 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get
+
+
+
+=============== NEW RUN (Claude) - 2026-01-15 11:15:48 ===============

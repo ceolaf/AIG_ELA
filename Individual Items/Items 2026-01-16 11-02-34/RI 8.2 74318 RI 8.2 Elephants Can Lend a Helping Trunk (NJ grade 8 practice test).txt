@@ -1,0 +1,44 @@
+Standard:  RI 8.2
+ID: 74318
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+
+Item (aligned to RI.8.2)
+
+Which statement best explains how a central idea of the passage develops over the course of the text?
+
+A. The passage begins by claiming that elephants belong to an “elite club” of animals and then mainly explains how elephants’ physical strength allows them to help one another in the wild.  
+
+*B. The passage introduces the idea that elephants have advanced social cooperation, then develops this idea by describing controlled experiments and connecting the results to similar behaviors seen in wild elephants.*  
+
+C. The passage first argues that elephants are smarter than chimpanzees and rooks, then supports this argument by listing several different animal species that fail the cooperation test.  
+
+D. The passage starts by explaining how mahouts train elephants, then shows that elephants can only cooperate successfully when humans guide them.
+
+
+Rationales
+
+A. This is not correct because it misrepresents the focus and development. The “elite club” is mentioned briefly to introduce the idea that elephants show rare cooperative abilities, but the passage does not “mainly explain” their physical strength or focus on how they help in the wild. Most of the text details the experimental setup and what it reveals about elephants’ social cognition.
+
+*B. This is correct because it accurately traces a central idea and how it is developed. A central idea is that elephants show advanced social cooperation and social cognition. The author first introduces this idea in the opening paragraph (elephants recognize when they need a partner and join an “elite club of social cooperators”), then develops it through step‑by‑step descriptions of the rope‑pulling experiments and the elephants’ responses. Finally, the passage connects these laboratory findings to field observations of elephants helping one another in nature, reinforcing and extending the same central idea.
+
+C. This is not correct because the passage does not claim that elephants are simply “smarter” than other animals or that other animals “fail” the test. Instead, it notes that elephants learned one task faster than chimpanzees and that rooks also passed a similar test. The comparisons are used to situate elephants among other cooperative species, not to develop a central idea that they are the smartest.
+
+D. This is not correct because it distorts both the starting point and the development. While mahouts help train the elephants to pull the rope, the passage does not “start by explaining” their training methods, nor does it conclude that elephants can cooperate only when humans guide them. The experiments are specifically designed to show what elephants understand and do on their own, which supports the central idea of their sophisticated social cognition.
+
+================== Passage Text =================
+
+Elephants Can Lend a Helping Trunk
+by Virginia Morell 
+
+
+Elephants know when they need a helping hand—or rather, trunk. That’s the conclusion of a new study that tested the cooperative skills of Asian elephants (Elephas maximus) in Thailand and showed that the pachyderms understand that they will fail at a task without a partner’s assistance. The ability to recognize that you sometimes need a little help from your friends is a sign of higher social cognition, psychologists say, and is rarely found in other species. Elephants now join an elite club of social cooperators: chimpanzees, hyenas, rooks, and humans.
+
+To test the elephants’ cooperation skills, a team of scientists modified a classic experiment first administered to chimpanzees in the 1930s, which requires two animals work together to earn a treat. If they don’t cooperate, neither gets the reward. For the elephants, the researchers used a sliding table with a single rope threaded around it. Two bowls of corn were attached to the table, but the elephants could reach them only by pulling two ends of the rope simultaneously. Working with mahout—Asian elephant trainers—trained elephants at the Thai Elephant Conservation Center in Lampang, the researchers first taught individual animals to pull the rope with their trunks. The 12 elephants were then divided into six pairs, and each pair was released to walk to their waiting ropes. If one animal pulled the rope before the other, the rope would slip out, leaving the table—and treats—in place. “That taught them to pull together,” says Joshua Plotnik, a postdoc in experimental psychology at the University of Cambridge in the United Kingdom and the lead author of the study, which appears online this week in the Proceedings of the National Academy of Sciences.
+
+To find out if the elephants understood that they needed one another’s assistance, the researchers upped the challenge by releasing the elephants at different times. Thus, one elephant would arrive at the table before the other and would have to wait for a partner to show up before pulling the rope. “They learned to do this faster than the chimpanzees,” says Plotnik. “They would stand there holding their end of the rope, just waiting.” In another experiment, the partner’s rope was placed out of reach. “When the partner couldn’t do anything, the other one would just give up,” Plotnik says. That shows the elephants understood why the partner was needed, he adds.
+
+“These are clever experiments,” says Karen McComb, a behavioral ecologist at the University of Sussex in the United Kingdom who studies social cognition in wild elephants. The findings are consistent with observations in nature, she says. For instance, in East Africa biologists have seen elephants work together to lift a fallen companion with their tusks. “It’s particularly striking that the elephants were able to inhibit pulling” longer than chimpanzees do, comparative psychologist Nicola Clayton of the University of Cambridge in the United Kingdom. She and her team showed that rooks, too, could pass a similar dual-rope exam, although they failed to wait. The study “adds to the growing body of evidence that elephants show some impressive cognitive abilities.”
+
+“Elephants Can Lend a Helping Trunk” by Virginia Morell, from Science, March
+2011 issue. Copyright © 2011 by American Association for the Advancement of
+Science. Reprinted by permission of AAAS.

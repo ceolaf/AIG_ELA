@@ -1,0 +1,42 @@
+Standard:  RI 8.2
+ID: 48222
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 7a (Claude) #2 (temp=0.8). (21.22 secs). (2066 + 690 = 2756 total tokens)
+
+**Item:**
+
+How does the central idea that elephants possess advanced social cognition relate to the supporting ideas presented in the passage?
+
+A. The central idea is supported first by explaining the rope-pulling task's mechanics, then by showing how elephants failed at increasingly difficult variations, ultimately proving they rely more on training than understanding.
+
+B. The central idea is developed through a single experiment that demonstrates elephants can pull ropes, with supporting details about their trunk strength and the rewards they received for completing tasks.
+
+*C. The central idea is established through the initial claim about recognizing the need for help, then supported by experimental evidence showing elephants waiting for partners and abandoning tasks when cooperation is impossible, and finally reinforced by expert testimony and natural observations.
+
+D. The central idea emerges gradually as the passage shifts from describing simple physical tasks to revealing that elephants surpass all other species in cooperative ability, with each experiment showing elephants inventing new solutions researchers hadn't anticipated.
+
+**Answer Key:** C*
+
+**Rationales:**
+
+**Option A (Incorrect):** This distractor mischaracterizes the experimental results. The passage shows elephants succeeding at increasingly difficult variations (waiting for partners, recognizing when tasks are impossible), not failing at them. The evidence supports understanding rather than mere training.
+
+**Option B (Incorrect):** This oversimplifies the passage structure by suggesting only a single experiment was conducted, when actually multiple variations were tested. It also mistakenly emphasizes physical abilities (trunk strength) and rewards rather than the cognitive abilities that are the passage's focus.
+
+**Option C (Correct):** This accurately captures the relationship between the central idea and supporting ideas. The passage opens with the conclusion about social cognition (paragraph 1), supports it with the basic experiment and variations showing understanding of cooperation (paragraphs 2-3), and concludes with expert validation and real-world examples (paragraph 4).
+
+**Option D (Incorrect):** While this correctly notes the progression from simple to complex, it misrepresents the findings. The passage doesn't claim elephants surpass "all other species" but rather places them among an "elite club." It also incorrectly suggests elephants invented unexpected solutions, when they actually performed the expected cooperative behaviors.
+
+**Final Version:**
+
+How does the central idea that elephants possess advanced social cognition relate to the supporting ideas presented in the passage?
+
+A. The central idea is supported first by explaining the rope-pulling task's mechanics, then by showing how elephants failed at increasingly difficult variations, ultimately proving they rely more on training than understanding.
+
+B. The central idea is developed through a single experiment that demonstrates elephants can pull ropes, with supporting details about their trunk strength and the rewards they received for completing tasks.
+
+*C. The central idea is established through the initial claim about recognizing the need for help, then supported by experimental evidence showing elephants waiting for partners and abandoning tasks when cooperation is impossible, and finally reinforced by expert testimony and natural observations.
+
+D. The central idea emerges gradually as the passage shifts from describing simple physical tasks to revealing that elephants surpass all other species in cooperative ability, with each experiment showing elephants inventing new solutions researchers hadn't anticipated.

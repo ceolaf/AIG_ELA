@@ -1,0 +1,93 @@
+Standard:  RL 8.4
+ID: 23476
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+
+Read this sentence from the passage.
+
+> “If I was hoping to find a **motherly figure** in Dr. Blackwell, I was quickly disabused of that notion.”
+
+What is the best explanation of the phrase **“motherly figure”** as it is used in this sentence?
+
+A. A woman who is actually her biological mother  
+B. A famous woman she admires from a distance  
+*C. A woman who is gentle, comforting, and protective toward her*  
+D. A strict teacher who focuses only on rules and discipline  
+
+**Correct Answer: C***
+
+---
+
+### Rationales
+
+**A. A woman who is actually her biological mother.**  
+- This takes “motherly” literally, as if the narrator expected Dr. Blackwell to be her real mother.  
+- The passage shows the narrator is an apprentice, not a child looking for a parent.  
+- This ignores the figurative use of “motherly figure” to describe a role, not a literal family relationship.
+
+**B. A famous woman she admires from a distance.**  
+- While the narrator does admire Dr. Blackwell, “motherly figure” is not about fame or distance.  
+- The phrase focuses on the kind of emotional support or behavior she hoped for, not just admiration.  
+- This misreads the connotation of “motherly,” which suggests warmth and care, not simply being a role model.
+
+**C. A woman who is gentle, comforting, and protective toward her.***  
+- “Motherly” carries connotations of kindness, comfort, and nurturing support.  
+- The narrator contrasts this expectation with reality: Dr. Blackwell publicly reprimands her and is not “motherly” in that sense.  
+- This answer explains both the figurative meaning of the phrase and how it shapes the disappointed tone of the sentence.
+
+**D. A strict teacher who focuses only on rules and discipline.**  
+- This is closer to how Dr. Blackwell actually behaves, but it is the opposite of what “motherly figure” means here.  
+- The sentence says she was “disabused of that notion,” meaning Dr. Blackwell did not match the gentle, caring image she had imagined.  
+- This confuses the narrator’s hope (motherly) with the reality (strict), and therefore does not capture the phrase’s meaning.
+
+---
+
+**Final Item Version**
+
+Read this sentence from the passage.
+
+> “If I was hoping to find a **motherly figure** in Dr. Blackwell, I was quickly disabused of that notion.”
+
+What is the best explanation of the phrase **“motherly figure”** as it is used in this sentence?
+
+A. A woman who is actually her biological mother  
+B. A famous woman she admires from a distance  
+*C. A woman who is gentle, comforting, and protective toward her*  
+D. A strict teacher who focuses only on rules and discipline
+
+================== Passage Text =================
+
+Read this passage about a woman in the 1800s who works with a famous female doctor. Then answer the questions. Some questions may ask you about certain paragraphs. The paragraphs are numbered on the left side.
+
+Dr. Blackwell’s New Assistant
+
+written for the Minnesota Department of Education
+
+Elizabeth Blackwell was the first American woman to attend medical school. In 1857, unable to find work because of her gender, Dr. Blackwell opened her own clinic in New York, where her primary patients (and employees) were women. After the Civil War ended in 1865, she opened a medical school at the clinic to train other women to become doctors. The following is a fictional personal reflection written by a nurse who hopes to achieve this goal.
+
+I was only a few days into my second week working under Miss . . . I mean, Dr. Blackwell, and already I felt that I could do nothing right.
+
+Actually, my first mistake was not remembering to call her by her title. The idea of a woman doctor still required some adjustment, even though I harbored the hope of becoming one myself someday.
+
+When I first heard of Elizabeth Blackwell and her accomplishments—the first American woman to be admitted to medical school, the first to become a doctor, the first to open her own clinic—she became my heroine. I saved as much money as I could from my nursing duties. When the war finally ended, I moved to New York and became one of her apprentices. My parents disapproved, of course; they thought I should return home and find a husband among the young men who survived the war. But after what I have seen and experienced at the battlefield, I know I can do more. I know that I am no longer satisfied with bandaging wounds and comforting the afflicted. I long to save lives, find cures for diseases, make the broken whole again. And now, someone has shown the world that women are as capable of accomplishing these deeds as any man.
+
+However, my first week under Dr. Blackwell’s tutelage has, I fear, called my abilities into question. I was quite capable in my former role as a field nurse, but now I feel very self-conscious under her watchful eye. I either freeze like a statue or make all manner of clumsy blunders. If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly disabused of that notion. On my very first day, when I failed to adequately prepare a tray of instruments, she thought nothing of reprimanding me in front of all the other students, nurses, and patients. Every day has brought at least one similar scolding. It seems that the more I seek her approval, the farther it recedes in the distance.
+
+I must somehow manage to do better, make no further mistakes, and gain the doctor’s respect, or she will send me away. That would extinguish my hopes, for the Women’s Medical College that Dr. Blackwell has founded here at the New York Infirmary for Indigent Women and Children is the only institution of its kind.
+
+This institution is sorely needed. Many women were made widows during the war. Others saw their husbands return to them so badly injured that they cannot possibly work. These women have little money for a doctor when they or their children become ill. Established doctors expect to be paid for their services. And so these less fortunate patients come to us.
+
+I think the relief I see in these women’s faces, however, is based on more than financial concerns. Though the clinic accepts people who cannot pay, more than one young woman has communicated to me that she is more comfortable discussing her health problems with another woman than with a man. I am still not sure our patients are as confident in our abilities as they would be with those of a male doctor. Female physicians are still more of a curiosity than anything. These patients, however, cannot afford to doubt us.
+
+Today I spoke soothingly to a nervous young woman who was in my charge, trying to calm her as I helped her onto the bed. The poor girl looked alarmed; her eyes darted back and forth, and her fingers trembled in my hands. She had obviously never been in a medical institution before.
+
+ “Less chatter, please, Diana!” Dr. Blackwell snapped. “This is a hospital, not a place for idle conversation.” Once again, I felt unjustly reprimanded, like a child caught sneaking sweets from a jar. As usual, I bit my tongue and said nothing. My patient forgot her fear for a moment and gave me a sympathetic look. That response only made me feel worse.
+
+An industrial accident had occurred earlier in the day, so the night was unusually busy. I did not have the chance to stop and think but simply moved purposefully from one patient to the next, diagnosing problems and administering aid. Indeed, I was reminded of my time as a nurse on the battlefield during which rest was impossible to obtain.
+
+Finally, the endless evening was finished. Only then did I turn to see Dr. Blackwell at my elbow. She had been assisting me all along, and I had not even acknowledged her. In fact, for the first time in almost two weeks, I had forgotten all about her. Now I was sure to be sent home.
+
+But she was smiling at me.
+
+“Well done, Diana!” she said. “Perhaps you will become a doctor after all.”
+ “Dr. Blackwell’s New Assistant” written for the Minnesota Department of Education.
+

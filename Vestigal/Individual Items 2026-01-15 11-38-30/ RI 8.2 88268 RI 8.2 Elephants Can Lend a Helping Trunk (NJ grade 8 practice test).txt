@@ -1,0 +1,45 @@
+Standard:  RI 8.2
+ID: 88268
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 5b (GPT) #1 (temp=0.7). (12.91 secs). (3277 + 644 = 3921 total tokens)
+
+1. Which statement best explains how a central idea of the article develops across the text?
+
+A. The article begins by arguing that elephants are more intelligent than all other animals and then proves this by showing they can solve any problem scientists give them.  
+
+B. The article introduces the idea that elephants have advanced social cooperation, then explains experiments that test this ability, and finally connects the results to similar findings and real-world elephant behavior.*  
+
+C. The article introduces the idea that elephants are in danger, then describes how scientists study them, and ends by suggesting that better cooperation could help protect the species.  
+
+D. The article begins by explaining the history of elephant training, then shows how trainers teach elephants tricks, and ends by questioning whether elephants truly understand what they are doing.  
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option B (Key):**  
+- The central idea is that elephants show advanced social cooperation and social cognition.  
+- Paragraph 1 introduces this idea directly, stating elephants recognize when they need help and placing them in an “elite club of social cooperators.”  
+- Paragraphs 2–3 describe and layer the rope-pulling experiments that test and reveal this cooperative understanding (waiting for partners, giving up when help is impossible).  
+- The final paragraph connects these experimental results to observations in the wild (e.g., lifting a fallen companion) and to other research on animal cognition, reinforcing and broadening the central idea.  
+- This option accurately traces how that central idea is introduced, supported by experiments, and then strengthened through expert commentary and real-world examples.
+
+**Option A (Distractor):**  
+- Misstates the central idea: the article does not claim elephants are “more intelligent than all other animals” or that they can solve “any problem.”  
+- Misrepresents the development: the text compares elephants to other species and shows specific cooperative tasks, not “any” task.  
+- A student choosing this likely overgeneralizes from the mention of an “elite club” and the impressive results, without carefully tracking what the article actually claims and supports.
+
+**Option C (Distractor):**  
+- Introduces a different, unsupported central idea: the article does not focus on elephants being “in danger” or on conservation.  
+- The text never suggests that “better cooperation could help protect the species.”  
+- This reflects a misunderstanding of the article’s purpose (scientific study of cognition and cooperation) and confuses it with common themes in other elephant-related texts.
+
+**Option D (Distractor):**  
+- Shifts the focus to “the history of elephant training” and “tricks,” which is not the article’s main line of development.  
+- Mahouts and training are mentioned only briefly as context for how the experiment was run, not as the central idea.  
+- The article never questions whether elephants “truly understand what they are doing”; instead, it argues that they do understand their need for a partner.  
+- A student choosing this would be focusing on a minor detail (trainers) rather than the central idea and its development through the experiments and expert commentary.

@@ -206,6 +206,14 @@ def RunGemini(
             end_time = time.time()
             elapsed = end_time - start_time
 
+            # FIXED: Check if metadata exists, then access attributes directly
+            if response.usage_metadata:
+                in_tokens = response.usage_metadata.prompt_token_count
+                out_tokens = response.usage_metadata.candidates_token_count
+            else:
+                in_tokens = 0
+                out_tokens = 0
+
             PrintToFileAndScreen(
                 "Gemini",
                 tier_code,
@@ -214,8 +222,8 @@ def RunGemini(
                 file_name,
                 passage_name,
                 elapsed,
-                (response.usage_metadata or {}).get("prompt_token_count", 0),
-                (response.usage_metadata or {}).get("candidates_token_count", 0),
+                in_tokens,
+                out_tokens,
             )
 
             if item_per_tier == 1:
@@ -237,6 +245,14 @@ def RunGemini(
                 end_time = time.time()
                 elapsed = end_time - start_time
 
+                # FIXED: Check if metadata exists, then access attributes directly
+                if response.usage_metadata:
+                    in_tokens = response.usage_metadata.prompt_token_count
+                    out_tokens = response.usage_metadata.candidates_token_count
+                else:
+                    in_tokens = 0
+                    out_tokens = 0
+
                 PrintToFileAndScreen(
                     "Gemini",
                     tier_code,
@@ -245,8 +261,8 @@ def RunGemini(
                     file_name,
                     passage_name,
                     elapsed,
-                    (response.usage_metadata or {}).get("prompt_token_count", 0),
-                    (response.usage_metadata or {}).get("candidates_token_count", 0),
+                    in_tokens,
+                    out_tokens,
                 )
 
                 time.sleep(1)
@@ -258,7 +274,6 @@ def RunGemini(
                 f.write(f"\n\n========== ERROR ==========\n\n")
                 f.write(f"An error occurred: {e}\n")
             continue
-
 
 # ---------------------------------------------------------------------------
 #  Claude runner

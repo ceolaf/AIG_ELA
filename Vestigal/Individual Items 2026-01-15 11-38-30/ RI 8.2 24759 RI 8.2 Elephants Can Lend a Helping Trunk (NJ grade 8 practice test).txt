@@ -1,0 +1,57 @@
+Standard:  RI 8.2
+ID: 24759
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 7b (GPT) #2 (temp=0.8). (11.75 secs). (4101 + 685 = 4786 total tokens)
+
+Item (RI.8.2 – central idea & its development)
+
+Which statement best explains how a central idea of the passage is developed through specific supporting ideas?
+
+A. The passage develops the idea that elephants are motivated mainly by food rewards by repeatedly showing that they only work when corn is available and by ending with examples of other animals that also work for treats.  
+
+B. The passage develops the idea that elephants understand when cooperation is possible and when it is not by describing different versions of the rope experiment and by including expert comments that connect these results to elephants’ behavior in the wild.*  
+
+C. The passage develops the idea that elephants are easily trained by describing how mahouts teach them the rope task at the conservation center and by showing that all 12 elephants quickly learned to pull together.  
+
+D. The passage develops the idea that elephants and birds think in similar ways by explaining that both elephants and rooks passed a dual-rope test and by suggesting that they share the same level of intelligence.  
+
+
+Answer Key: B*
+
+Rationales
+
+A.  
+Why a student might choose it: They focus on the bowls of corn and the idea of a “reward,” assuming food motivation is what the passage is mainly about.  
+Why it’s incorrect: The corn is simply a way to motivate participation in the experiment; the central idea concerns elephants’ social cognition and cooperative understanding. The passage does not “repeatedly” emphasize food, nor does it end by generalizing about animals working for treats.
+
+B. *Correct*  
+Why it’s correct:  
+- Central idea: Elephants understand when they need a partner and when cooperation is (or isn’t) possible—an aspect of higher social cognition.  
+- Development through the text:  
+  - The author describes multiple versions of the rope experiment: simultaneous release, delayed release (one elephant must wait), and the out-of-reach partner rope.  
+  - These variations show elephants waiting when a partner can help and giving up when a partner cannot act.  
+  - Expert comments then link these lab findings to wild behavior (e.g., elephants lifting a fallen companion) and to broader evidence of “impressive cognitive abilities.”  
+This option accurately captures both the central idea and how supporting ideas build and extend it.
+
+C.  
+Why a student might choose it: They notice the training details with mahouts and the fact that elephants learned to pull together.  
+Why it’s incorrect: Training is background needed to run the study, not the main focus. The passage does not claim that elephants are “easily trained” as its central point. The development it describes (teaching, quick learning) does not match the full sequence of experimental variations and expert interpretations that the author uses to support the real central idea about cooperation and cognition.
+
+D.  
+Why a student might choose it: They remember that rooks are mentioned as having passed a similar dual-rope test and assume the comparison makes birds and elephants the same.  
+Why it’s incorrect: The rook comparison is one piece of context in a broader discussion of species that can cooperate; it is not the central idea. The passage never claims elephants and birds have “the same level of intelligence” or that they “think in similar ways.” It uses rooks to show that complex cooperation appears in a few species, not to equate them.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:12:24 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get
+
+
+
+=============== NEW RUN (Claude) - 2026-01-15 11:21:03 ===============

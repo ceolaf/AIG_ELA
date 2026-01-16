@@ -1,0 +1,57 @@
+Standard:  RI 8.2
+ID: 56439
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 4b (Claude) #1 (temp=0.7). (26.43 secs). (3489 + 779 = 4268 total tokens)
+
+I'll create a multiple choice item aligned to RI.8.2 that focuses on determining a central idea and analyzing its development through supporting ideas.
+
+## Draft Item:
+
+**Which statement best describes how the central idea about elephants' cooperative intelligence develops throughout the text?**
+
+A. The text begins by stating that elephants can cooperate, then describes experiments that failed to prove this ability, and concludes with scientists remaining uncertain about elephant intelligence.
+
+B. The text introduces the claim that elephants understand when they need help, provides experimental evidence showing they can work together and wait for partners, and concludes by comparing their abilities favorably to other intelligent species.
+
+C. The text starts by explaining that only humans can truly cooperate, shows how elephants learned through training to mimic cooperation, and ends by proving that elephants merely copy behaviors without understanding.
+
+D. The text opens with descriptions of elephants in the wild, shifts to laboratory experiments that contradict field observations, and resolves the conflict by showing that captive elephants behave differently than wild ones.
+
+## Rationales:
+
+**Option A (Distractor):** A student might select this if they misread the experimental results or focused only on the mention of challenges without recognizing that the elephants successfully overcame them. This reverses the actual development of ideas in the text.
+
+***Option B (Key):*** This correctly traces how the central idea develops: 
+1. Opening claim about elephants' understanding of cooperation
+2. Supporting evidence from modified experiments showing elephants can pull ropes together and wait for partners
+3. Conclusion placing elephants among elite social cooperators with validation from experts
+
+**Option C (Distractor):** This might appeal to students who misunderstand the distinction between trained behavior and genuine understanding. The text actually demonstrates that elephants do understand the need for cooperation, not merely mimic it.
+
+**Option D (Distractor):** Students might choose this if they conflate the brief mention of wild elephant observations with the main experimental focus, or if they create a false conflict between laboratory and field observations that doesn't exist in the text.
+
+## LBIDAT Analysis:
+
+**Stem & Task:** ✓ - Appropriately targets RI.8.2 by requiring analysis of how a central idea develops through supporting ideas
+
+**The Key:** ✓ - Definitively correct and directly responsive to the question
+
+**Distractors:** ✓ - Each presents a plausible but incorrect trajectory of idea development; all are definitively incorrect
+
+**Stimulus:** ✓ - The passage is necessary to answer the question and appropriately complex for grade 8
+
+**Fairness:** ✓ - No sensitivity issues present
+
+## Final Version:
+
+**Which statement best describes how the central idea about elephants' cooperative intelligence develops throughout the text?**
+
+A. The text begins by stating that elephants can cooperate, then describes experiments that failed to prove this ability, and concludes with scientists remaining uncertain about elephant intelligence.
+
+*B. The text introduces the claim that elephants understand when they need help, provides experimental evidence showing they can work together and wait for partners, and concludes by comparing their abilities favorably to other intelligent species.
+
+C. The text starts by explaining that only humans can truly cooperate, shows how elephants learned through training to mimic cooperation, and ends by proving that elephants merely copy behaviors without understanding.
+
+D. The text opens with descriptions of elephants in the wild, shifts to laboratory experiments that contradict field observations, and resolves the conflict by showing that captive elephants behave differently than wild ones.

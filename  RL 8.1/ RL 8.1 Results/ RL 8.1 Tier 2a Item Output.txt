@@ -172,3 +172,99 @@ B. “You should probably leave before anyone else sees you,” the girl says, g
 C. “The girl takes his hand in her white-gloved one and pulls him down one of the passageways.”  
 
 D. “She helps Bailey squeeze through the bars, which are a bit tighter in this part of the fence.”
+
+
+=============== NEW RUN GPT - 2026-01-15 11:49:59 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 2a (GPT) #1 (temp=0.7). (9.56 secs). (945 + 580 = 1525 total tokens)
+
+1. Which sentence from the passage best supports the inference that Jim Bridger’s knowledge of the land was valuable to other people?
+
+A. “At age fourteen, he went to work as a blacksmith's apprentice.”  
+B. “In his travels, he learned a great deal about the terrain and wildlife of the area.”  
+*C. “Because of his knowledge and skills, he became a valued guide.”*  
+D. “When he retired, he went back to Missouri to live on a farm, where he died in 1881 at the age of seventy-seven.”
+
+---
+
+**Correct Answer: C***
+
+**Rationales:**
+
+- **Option A: “At age fourteen, he went to work as a blacksmith's apprentice.”**  
+  - This sentence tells an explicit fact about Bridger’s early job, but it does not show that his knowledge of the land was valuable to others. It does not connect his skills to helping other people.
+
+- **Option B: “In his travels, he learned a great deal about the terrain and wildlife of the area.”**  
+  - This sentence supports the idea that Bridger knew a lot about the land (explicit information), but it does not show that this knowledge was valuable *to other people*. It explains what he learned, not how others used or valued that knowledge.
+
+- **Option C: “Because of his knowledge and skills, he became a valued guide.”***  
+  - This sentence most strongly supports the inference that Bridger’s knowledge of the land was valuable to others. The phrase “Because of his knowledge and skills” links what he knew to the result “he became a valued guide,” clearly showing that other people appreciated and depended on his knowledge. This directly supports the inference that his knowledge was useful and important to others.
+
+- **Option D: “When he retired, he went back to Missouri to live on a farm, where he died in 1881 at the age of seventy-seven.”**  
+  - This provides explicit biographical information about the end of Bridger’s life, but it does not relate to his knowledge of the land or how other people valued it. It does not support the given inference.
+
+---
+
+**Final Version of the Item**
+
+1. Which sentence from the passage best supports the inference that Jim Bridger’s knowledge of the land was valuable to other people?
+
+A. “At age fourteen, he went to work as a blacksmith's apprentice.”  
+B. “In his travels, he learned a great deal about the terrain and wildlife of the area.”  
+*C. “Because of his knowledge and skills, he became a valued guide.”*  
+D. “When he retired, he went back to Missouri to live on a farm, where he died in 1881 at the age of seventy-seven.”
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 2a (GPT) #2 (temp=0.8). (7.92 secs). (1536 + 533 = 2069 total tokens)
+
+2. Which sentence from the passage best supports the inference that Jim Bridger’s discoveries continued to be important long after his lifetime?
+
+A. “For many years, people assumed Bridger was the first non-Native American to discover the Great Salt Lake.”  
+B. “Because the pass shortened trips by sixty-one miles, settlers moving west frequently used it.”  
+C. “He became famous for telling tall tales to the people passing through.”  
+*D. “In addition, the pass later became part of the Union Pacific Railroad.”*  
+
+---
+
+**Correct Answer: D***
+
+**Rationales:**
+
+- **Option A: “For many years, people assumed Bridger was the first non-Native American to discover the Great Salt Lake.”**  
+  - This shows that people once believed he made an important discovery, but it does not show that his discoveries remained important *long after* his lifetime. It focuses on what people “assumed,” not on lasting impact.
+
+- **Option B: “Because the pass shortened trips by sixty-one miles, settlers moving west frequently used it.”**  
+  - This sentence supports the idea that Bridger’s discovery of the pass was important to settlers at the time, but it does not clearly show that its importance continued into the future beyond that period.
+
+- **Option C: “He became famous for telling tall tales to the people passing through.”**  
+  - This explains his popularity as a storyteller while he was alive, not the lasting importance of his discoveries. It does not connect to any long-term impact after his life.
+
+- **Option D: “In addition, the pass later became part of the Union Pacific Railroad.”***  
+  - This sentence most strongly supports the inference that Bridger’s discoveries remained important long after his lifetime. The word “later” and the connection to the Union Pacific Railroad (part of the Transcontinental Railroad) show that his pass continued to be used and was significant in major developments that occurred well beyond his own guiding days.
+
+---
+
+**Final Version of the Item**
+
+2. Which sentence from the passage best supports the inference that Jim Bridger’s discoveries continued to be important long after his lifetime?
+
+A. “For many years, people assumed Bridger was the first non-Native American to discover the Great Salt Lake.”  
+B. “Because the pass shortened trips by sixty-one miles, settlers moving west frequently used it.”  
+C. “He became famous for telling tall tales to the people passing through.”  
+*D. “In addition, the pass later became part of the Union Pacific Railroad.”*
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:53:16 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get

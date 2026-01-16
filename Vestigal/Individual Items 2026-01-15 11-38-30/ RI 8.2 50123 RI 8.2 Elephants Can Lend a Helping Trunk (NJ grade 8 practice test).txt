@@ -1,0 +1,54 @@
+Standard:  RI 8.2
+ID: 50123
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 3a (GPT) #2 (temp=0.8). (12.72 secs). (1723 + 638 = 2361 total tokens)
+
+2. How does the author most effectively develop the central idea that elephants have advanced cooperative understanding?
+
+A. By beginning with expert opinions about elephant intelligence, then briefly mentioning an experiment without explaining its results.  
+B. By stating that elephants can recognize when they need help, then describing step-by-step experiments that test this ability, and finally using expert commentary and real-world examples to confirm the findings.*  
+C. By focusing mainly on how mahouts train elephants in Thailand and using the cooperation experiment only as background.  
+D. By arguing that elephants are more intelligent than all other animals and using the rope experiment to prove that they are superior.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option B (Correct):**  
+- The central idea is that elephants have sophisticated social cognition, including the ability to recognize when they need a partner’s help and to act on that understanding.  
+- In the first paragraph, the author clearly states this idea: elephants “know when they need a helping hand—or rather, trunk” and belong to an “elite club of social cooperators.”  
+- The next two paragraphs develop this idea by describing the rope-and-table experiments in detail: first, elephants learn to pull together; then, they learn to wait for a partner and to give up when the partner’s rope is out of reach. These step-by-step results support and clarify the central idea.  
+- The final paragraph brings in scientists’ comments and natural observations (like elephants lifting a fallen companion), which connect the experiment to broader evidence and confirm that these cooperative abilities are real and impressive.  
+- This answer correctly explains both what the central idea is and how it is developed through experiments and supporting ideas.
+
+**Option A (Distractor):**  
+- The article does include expert opinions, but they come mainly at the end, after the experiments are described, not at the beginning.  
+- The experiments are not “briefly mentioned”; they are described in detail, including how the setup works and how elephants behave in different conditions.  
+- This option reverses the actual structure and underplays the central role of the experimental evidence in developing the main idea.
+
+**Option C (Distractor):**  
+- Mahouts and the Thai Elephant Conservation Center are mentioned only to explain the setting and who worked with the elephants; they are not the main focus.  
+- The cooperation experiment is not background—it is the core of the article’s evidence for the central idea.  
+- A student choosing this might focus on the setting details instead of recognizing that the text’s main development centers on the experimental design and results.
+
+**Option D (Distractor):**  
+- The author does not claim that elephants are more intelligent than all other animals. Instead, elephants are said to “join an elite club” with chimpanzees, hyenas, rooks, and humans.  
+- The rope experiment is used to show that elephants understand when they need a partner, not to argue that they are superior overall.  
+- This option misstates both the central idea (cooperative understanding, not general superiority) and how the supporting experiment is used.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:07:23 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get
+
+
+
+=============== NEW RUN (Claude) - 2026-01-15 11:14:22 ===============

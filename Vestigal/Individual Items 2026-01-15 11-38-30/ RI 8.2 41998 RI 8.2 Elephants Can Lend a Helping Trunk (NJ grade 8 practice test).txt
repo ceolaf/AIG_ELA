@@ -1,0 +1,38 @@
+Standard:  RI 8.2
+ID: 41998
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 6b (GPT) #1 (temp=0.7). (9.64 secs). (3317 + 541 = 3858 total tokens)
+
+1. Which statement best explains how a central idea of the article develops across the passage?
+
+A. The article begins by arguing that elephants are more intelligent than all other animals and then shows how they use their intelligence to survive in the wild.  
+B.* The article introduces the idea that elephants have advanced social cooperation and then develops this idea by describing experiments and expert observations that show elephants understand when they need a partner’s help.  
+C. The article starts by explaining how mahouts train elephants and then proves that trained elephants can perform almost any task humans give them.  
+D. The article presents the idea that elephants are in danger in the wild and then explains how studying their cooperation might help protect them.
+
+**Rationales**
+
+- **Option A (Incorrect):**  
+  - Misstates the central idea: the article does not claim elephants are “more intelligent than all other animals.”  
+  - The text focuses on one specific kind of intelligence—social cooperation—not on overall intelligence or “survival in the wild.”  
+  - While wild behavior is mentioned, it is used to support the idea of cooperation, not to show general survival skills.
+
+- **Option B (Correct)*:**  
+  - Accurately identifies a central idea: elephants show advanced social cooperation and understand when they need a partner.  
+  - Reflects the structure of the article:  
+    - First paragraph: introduces the study’s conclusion and notes elephants join an “elite club of social cooperators.”  
+    - Middle paragraphs: describe the rope-pulling experiments that require partners and show elephants waiting for or giving up without a usable partner.  
+    - Final paragraph: brings in outside experts who connect these results to observations of elephants helping one another in nature.  
+  - Shows how the central idea is developed through experimental evidence and expert commentary.
+
+- **Option C (Incorrect):**  
+  - Treats mahout training as the central focus, but training is only briefly described to set up the experiment, not as the main idea.  
+  - The article does not claim elephants can perform “almost any task humans give them”; it focuses on a narrow cooperative task.  
+  - This option confuses a supporting detail (mahouts and training) with the central idea.
+
+- **Option D (Incorrect):**  
+  - Introduces a conservation theme (“elephants are in danger in the wild”) that does not appear in the passage.  
+  - The article does not discuss threats to elephants or how the research might help protect them.  
+  - This answer adds ideas beyond the text and does not match the way the central idea is actually developed.

@@ -1,0 +1,28 @@
+Standard:  RI 8.2
+ID: 61800
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 6a (Claude) #2 (temp=0.8). (19.02 secs). (1754 + 484 = 2238 total tokens)
+
+Based on the passage "Elephants Can Lend a Helping Trunk," here is another multiple choice item aligned to RI.8.2:
+
+**How does the text develop its central idea that elephants possess sophisticated cooperative intelligence through its supporting ideas?**
+
+A. The text establishes elephants' elite status among cooperative animals, then uses a single comprehensive experiment to prove this claim, with scientific quotes serving to interpret the experimental results.
+
+B. The text presents the rope-pulling experiment as its main support, then adds complexity by describing variations that rule out simple training effects, while expert commentary extends the findings beyond the laboratory setting.
+
+C. The text builds its case chronologically by first describing what elephants do in nature, then explaining how scientists recreated these behaviors in experiments, and finally comparing the results to other species.
+
+*D. The text introduces the claim about elephants' social cognition, then systematically demonstrates three levels of cooperative understanding through experimental variations, with each level revealing deeper cognitive abilities than the previous one.
+
+**Rationales:**
+
+**Option A:** This oversimplifies the text's structure by suggesting there's only "a single comprehensive experiment." The text actually describes multiple experimental variations (basic cooperation, delayed release, unreachable rope) that each reveal different aspects of elephant cognition. The progression of these variations is key to the text's development.
+
+**Option B:** While this option correctly identifies that variations rule out simple training effects, it misses the systematic progression of the experiments. The text doesn't just "add complexity" randomly but builds understanding through increasingly sophisticated tests of cognitive ability.
+
+**Option C:** This reverses the text's actual structure. The passage begins with the experimental findings and only later mentions natural observations as supporting evidence. The chronological development suggested here doesn't match how the text actually unfolds.
+
+**Option D (Correct):** This accurately captures the text's developmental structure. The three levels are: (1) basic cooperation - pulling together for reward, (2) temporal understanding - waiting for a partner to arrive, and (3) futility recognition - giving up when cooperation is impossible. Each experimental variation reveals progressively more sophisticated understanding, from simple coordination to understanding the necessity of partnership. This systematic building of evidence is how the central idea develops throughout the text.

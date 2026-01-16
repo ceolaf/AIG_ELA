@@ -1,163 +1,523 @@
 
 
 
-=============== NEW RUN GPT - 2026-01-15 11:02:50 ===============
+=============== NEW RUN GPT - 2026-01-15 12:05:44 ===============
 
 
 
 
 ================= NEW ITEM =================
 Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
-Tier 4a (GPT) #1 (temp=0.7). (17.19 secs). (1035 + 908 = 1943 total tokens)
+Tier 4a (GPT) #1 (temp=0.7). (9.66 secs). (1035 + 505 = 1540 total tokens)
 
-Item (RI.8.2 – Central Idea and Its Development)
+1. Which statement best explains a central idea of the passage and how it is developed over the course of the text?
 
-Which statement best explains a central idea of the article and how it is developed over the course of the text?
+A. The study proves that elephants are the most intelligent animals, and this idea is developed by comparing them to chimpanzees, hyenas, and rooks throughout the passage.  
+B. The study shows that elephants understand when they need a partner’s help, and this idea is developed through descriptions of the rope experiments and expert comments that connect the results to elephants’ behavior in the wild.*  
+C. The study reveals that mahouts are essential to training elephants, and this idea is developed by showing how trainers prepare the elephants and guide them through each step of the experiment.  
+D. The study suggests that elephants are easier to train than other animals, and this idea is developed by focusing on how quickly they learn to pull the rope for treats.
 
-A. The study proves that elephants are the most intelligent animals, and this idea is developed by comparing them to other species and showing that elephants outperform them in every task.  
+---
 
-*B. The study shows that elephants have advanced cooperative abilities, and this idea is developed by describing the rope-pulling experiments, explaining how the elephants adjusted their behavior, and connecting the results to other examples of elephant cooperation.*  
+Rationales:
 
-C. The article argues that traditional mahout training is the main reason elephants can cooperate, and this idea is developed by focusing on the trainers’ methods and how they teach elephants to follow complex commands.  
+A. This is incorrect because the passage does not claim that elephants are the most intelligent animals. The comparisons to other species show that elephants join an “elite club” of cooperators, not that they are the single most intelligent. The development of the passage centers on cooperation and understanding the need for help, not ranking overall intelligence.
 
-D. The article claims that experiments on animals are unreliable, and this idea is developed by emphasizing the flaws in the rope experiment and questioning whether the results can be trusted.  
+B. This is correct because it identifies a central idea and traces how it develops. The passage opens by stating that elephants “know when they need a helping hand—or rather, trunk” and that they understand they will fail without a partner. It then describes the rope experiments (simultaneous pulling, delayed release, and the out‑of‑reach rope) to show how elephants recognize when a partner is necessary. Finally, expert commentary links these results to observations of wild elephants cooperating, reinforcing and extending the central idea.
 
+C. This is incorrect because mahouts are mentioned only briefly as part of the setup: they help train elephants to pull the rope. The text does not develop the idea that mahouts are “essential” or make that role a central focus. The bulk of the passage explains what elephants do and what that reveals about their cognition, not the importance of trainers.
 
-Rationales
-
-A. The study proves that elephants are the most intelligent animals, and this idea is developed by comparing them to other species and showing that elephants outperform them in every task.  
-- Why a reader might choose it: The passage does say elephants have “impressive cognitive abilities” and compares them to chimpanzees and rooks.  
-- Why it is incorrect: The text never claims elephants are “the most intelligent animals” or that they “outperform them in every task.” The comparisons show elephants are part of an “elite club” of cooperators and that they learn some cooperative behaviors faster, but the article does not present a ranking of overall intelligence or claim consistent superiority. The development of the passage centers on cooperation, not a global claim about being the “most intelligent.”
-
-*B. The study shows that elephants have advanced cooperative abilities, and this idea is developed by describing the rope-pulling experiments, explaining how the elephants adjusted their behavior, and connecting the results to other examples of elephant cooperation.*  
-- Why it is correct: This matches the main focus and structure of the text.  
-  - Central idea: Elephants possess sophisticated cooperative and social-cognitive abilities (they “know when they need a helping hand—or rather, trunk” and understand they need a partner).  
-  - Development:  
-    • The article first introduces the idea by stating that elephants can recognize when they need help and placing them in an “elite club of social cooperators.”  
-    • It then describes the basic rope-pulling experiment and how elephants learned to pull together.  
-    • It raises the difficulty (delayed release and out-of-reach rope) to show elephants can wait for a partner and give up when a partner cannot help, indicating understanding of the need for cooperation.  
-    • Finally, it connects the lab findings to field observations (elephants lifting a fallen companion) and to other research on rooks and chimpanzees, reinforcing that elephants show “impressive cognitive abilities.”  
-  - This option accurately captures both the central idea and how supporting details and examples build it across the passage.
-
-C. The article argues that traditional mahout training is the main reason elephants can cooperate, and this idea is developed by focusing on the trainers’ methods and how they teach elephants to follow complex commands.  
-- Why a reader might choose it: Mahouts and training are mentioned, and students might overemphasize that detail.  
-- Why it is incorrect: Mahouts appear briefly as context for where the elephants came from and how they were first taught to pull the rope. The article does not argue that training is the “main reason” for cooperation, nor does it describe mahout methods in detail. Instead, the focus is on what the elephants’ behavior in the experiments reveals about their natural social cognition.
-
-D. The article claims that experiments on animals are unreliable, and this idea is developed by emphasizing the flaws in the rope experiment and questioning whether the results can be trusted.  
-- Why a reader might choose it: A student might misread the discussion of different species’ performances as criticism of methods.  
-- Why it is incorrect: The tone toward the experiments is consistently positive: they are called “clever experiments,” and the study is said to “add to the growing body of evidence” about elephant cognition. The article does not highlight flaws or unreliability; instead, it uses the experimental results as strong support for the central idea that elephants have advanced cooperative abilities.
+D. This is incorrect because, although the passage notes that elephants “learned to do this faster than the chimpanzees,” the central idea is not about ease of training. The experiments and expert quotes are used to show elephants’ understanding of cooperation and their ability to wait for a partner, not to argue that elephants are simply easier to train than other animals.
 
 
 ================= NEW ITEM =================
 Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
-Tier 4a (GPT) #2 (temp=0.8). (21.02 secs). (1954 + 943 = 2897 total tokens)
+Tier 4a (GPT) #2 (temp=0.8). (11.61 secs). (1551 + 447 = 1998 total tokens)
 
-Item (RI.8.2 – Central Idea, Supporting Ideas, and Summary)
+1. Which choice best states a central idea of the passage and accurately explains how the author develops it?
 
-Which statement best provides an objective summary of the article by identifying a central idea and how it is supported?
+A. A central idea is that elephants can be trained to perform complex tricks, which the author develops by describing how mahouts teach the elephants to pull the rope and respond to commands.  
 
-A. The article describes how elephants are trained by mahouts in Thailand, explaining in detail how trainers teach them to pull ropes and follow commands, and concludes that human instruction is the main reason elephants can complete complex tasks.  
+B. A central idea is that elephants possess advanced social cooperation skills, which the author develops by explaining a series of rope‑pulling experiments and then citing scientists who connect these results to elephants’ behavior in the wild.*  
 
-B. The article explains that elephants are part of an elite group of highly social animals, then shows through a series of rope-pulling experiments that they can recognize when they need a partner’s help, and supports this central idea with comparisons to other species and real-life examples of elephants cooperating in the wild.*  
+C. A central idea is that scientific experiments with animals have become more sophisticated over time, which the author develops by comparing the original 1930s chimpanzee study with the updated elephant version.  
 
-C. The article argues that chimpanzees are not as smart as once believed, using the results of the rope experiments to show that elephants learn faster than chimpanzees and suggesting that most earlier research on primates should be reconsidered.  
+D. A central idea is that many animals fail at cooperation tasks, which the author develops by focusing on how rooks and chimpanzees could not wait for partners in the rope‑pulling experiments.
 
-D. The article warns that keeping elephants in conservation centers can change their natural behavior, using the rope experiment to argue that captive elephants act differently from wild elephants and that researchers should stop testing them.  
+---
 
+Rationales:
 
-Rationales
+A. Incorrect. While training is mentioned, it is a supporting detail used to set up the experiment, not the main focus. The passage centers on what the elephants’ behavior reveals about their social cognition, not on teaching them “tricks” or following commands.
 
-A. The article describes how elephants are trained by mahouts in Thailand, explaining in detail how trainers teach them to pull ropes and follow commands, and concludes that human instruction is the main reason elephants can complete complex tasks.  
-- Why a reader might choose it: Mahouts and training are mentioned, and the elephants are indeed taught to pull the rope.  
-- Why it is incorrect: This option turns a minor detail into the central idea. The article does not focus on mahout training “in detail” or conclude that human instruction is the main reason for elephants’ abilities. Training is just a setup step; the central idea is about elephants’ own cooperative and cognitive skills revealed by the experiments.
+B. Correct. The passage opens by stating that elephants understand when they need a partner and that this is a sign of higher social cognition. It then develops this idea by detailing the rope‑pulling tasks (simultaneous pulling, delayed release, and the out‑of‑reach rope) and finally by quoting experts who relate these findings to wild elephants lifting fallen companions and to broader evidence of elephants’ cognitive abilities.
 
-*B. The article explains that elephants are part of an elite group of highly social animals, then shows through a series of rope-pulling experiments that they can recognize when they need a partner’s help, and supports this central idea with comparisons to other species and real-life examples of elephants cooperating in the wild.*  
-- Why it is correct:  
-  - Central idea: Elephants have advanced social and cooperative abilities, including understanding when they need a partner.  
-  - Development/support:  
-    • The introduction states that elephants know when they need “a helping hand—or rather, trunk” and places them in an “elite club of social cooperators.”  
-    • The article describes the rope-pulling experiments and how elephants learn to pull together.  
-    • It then increases the challenge (delayed release, unreachable rope) to show elephants can wait for a partner and give up when cooperation is impossible, suggesting real understanding.  
-    • Finally, it supports this idea with expert comments and observations from the wild (elephants lifting a fallen companion) and compares elephants’ performance to chimpanzees and rooks.  
-  - This option accurately captures both the central idea and the main supporting ideas in an objective way, without adding opinions or claims not in the text.
+C. Incorrect. The reference to the 1930s chimpanzee experiment is brief background, not a central idea. The author does not trace a history of animal experiments or show how methods have grown more sophisticated; instead, the focus is on what the elephant study reveals about cooperation.
 
-C. The article argues that chimpanzees are not as smart as once believed, using the results of the rope experiments to show that elephants learn faster than chimpanzees and suggesting that most earlier research on primates should be reconsidered.  
-- Why a reader might choose it: The passage notes that elephants learned to wait “faster than the chimpanzees,” which might mislead some readers into thinking chimp intelligence is being challenged.  
-- Why it is incorrect: The article never claims that chimpanzees are “not as smart as once believed” or that earlier primate research is flawed. The chimpanzee comparison is brief and serves to highlight elephants’ cooperative skill, not to overturn primate research. This option invents a central argument that is not in the text.
-
-D. The article warns that keeping elephants in conservation centers can change their natural behavior, using the rope experiment to argue that captive elephants act differently from wild elephants and that researchers should stop testing them.  
-- Why a reader might choose it: The Thai Elephant Conservation Center is mentioned, and some students may assume the article is about captivity issues.  
-- Why it is incorrect: The conservation center is only the setting for the experiments; the article does not argue that captivity changes behavior or that researchers should stop testing elephants. Instead, it connects captive experiments to wild observations in a positive way, saying the findings are “consistent with observations in nature” and that the study adds to evidence of elephants’ impressive cognition.
+D. Incorrect. The passage does mention that chimpanzees and rooks had difficulty waiting, but this is used to highlight how impressive the elephants’ performance is. The text does not mainly emphasize failure; it emphasizes elephants’ success and advanced cooperation skills.
 
 
-=============== NEW RUN (Gemini) - 2026-01-15 11:08:19 ===============
+=============== NEW RUN (Gemini) - 2026-01-15 12:13:13 ===============
 
 
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 4a (Gemini) #1 (temp=0.7). (25.08 secs). (1050 + 490 = 1540 total tokens)
+
+Here is a multiple-choice item aligned to Common Core State Standard RI.8.2, designed for Grade 8.
+
+**Standard:** RI.8.2: Determine a central idea of a text and analyze its development over the course of the text, including its relationship to supporting ideas; provide an objective summary of the text.
+
+**Passage:** Elephants Can Lend a Helping Trunk
+
+***
+
+**Item:**
+
+Which statement best analyzes how the author develops the central idea that elephants possess a high level of social cognition?
+
+A. The author contrasts the physical strength of Asian elephants with that of chimpanzees to show that elephants are better suited for heavy-lifting tasks.
+B. The author describes an experiment involving a rope and a sliding table to demonstrate that elephants can be trained to perform mechanical actions for food.
+C. The author highlights the elephants’ ability to inhibit pulling the rope until a partner arrives to prove they understand the necessity of cooperation.*
+D. The author lists various species that belong to an "elite club" of social cooperators to suggest that elephants are less intelligent than hyenas and rooks.
+
+***
+
+**Rationales:**
+
+*   **A is incorrect.** While the text mentions both elephants and chimpanzees, the central idea is not about physical strength or heavy lifting. The comparison is made regarding their cognitive abilities (patience and cooperation), not their physical suitability for tasks.
+*   **B is incorrect.** This option focuses on a supporting detail (the mechanics of the experiment) but misidentifies the central idea. The text is not arguing that elephants are simply "trainable" for mechanical actions; it argues that they possess "higher social cognition" and understand the *concept* of cooperation, which goes beyond simple rote training.
+*   **C is correct (*).** This option correctly identifies the central idea (elephants possess social cognition/understand cooperation) and analyzes how it is developed through specific supporting evidence. The author details the phase of the experiment where elephants had to wait for a partner (Paragraph 3), using this specific behavior to distinguish true understanding from simple conditioning.
+*   **D is incorrect.** The author mentions the "elite club" to elevate the status of elephant intelligence, not to suggest they are inferior to the other species listed. Furthermore, the text suggests elephants performed better than rooks regarding waiting, contradicting the idea that they are less intelligent.
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 4a (Gemini) #2 (temp=0.8). (38.16 secs). (1553 + 585 = 2138 total tokens)
+
+Here is a unique multiple-choice item aligned to Common Core State Standard RI.8.2, designed for Grade 8.
+
+**Standard:** RI.8.2: Determine a central idea of a text and analyze its development over the course of the text, including its relationship to supporting ideas; provide an objective summary of the text.
+
+**Passage:** Elephants Can Lend a Helping Trunk
+
+***
+
+**Item:**
+
+Which statement best analyzes how the author develops the central idea that elephants possess complex cognitive abilities?
+
+A. By contrasting the elephants' ability to wait for a partner with the behavior of rooks and chimpanzees, the author emphasizes the elephants' superior patience and understanding.*
+B. By detailing the steps mahouts use to train elephants, the author argues that cooperative behavior is a learned skill rather than a natural ability.
+C. By describing the physical setup of the sliding table and rope, the author illustrates that elephants rely on their trunks more than their social skills to solve problems.
+D. By listing the specific foods used as rewards, the author suggests that elephants are motivated primarily by hunger rather than a desire to help one another.
+
+***
+
+**Rationales:**
+
+*   **A is correct (*).** This option correctly analyzes the development of the text. The author establishes the central idea (elephants have high social cognition) by comparing their performance in the "delayed release" trial to other species. The text notes that elephants learned to wait "faster than the chimpanzees" and that while rooks could pass the test, "they failed to wait." This comparison is the primary method used to highlight the specific nature of the elephants' intelligence.
+*   **B is incorrect.** While the text mentions that mahouts helped train the elephants to pull the rope (Paragraph 2), the central idea is not that cooperation is *only* a learned skill. The text emphasizes that the *understanding* of the partner's role (demonstrated by waiting) is a sign of "higher social cognition" and compares it to wild behaviors, implying an innate capacity for cooperation, not just rote training.
+*   **C is incorrect.** This option focuses on a physical detail (the trunks/table) rather than the central idea of cognition. The author describes the setup to explain the experiment, not to argue that physical traits are more important than social skills. The text explicitly states that the experiment tests "cooperative skills," not physical attributes.
+*   **D is incorrect.** This option focuses on a supporting detail (corn rewards) but draws an incorrect conclusion about the central idea. While food was the incentive, the central idea focuses on the *method* the elephants used to get the food (cooperation and patience), not the hunger itself. The text argues that the behavior shows they understand "why the partner was needed," which goes beyond simple hunger motivation.
+
+
+=============== NEW RUN (Claude) - 2026-01-15 12:26:02 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 4a (Claude) #1 (temp=0.7). (21.45 secs). (1130 + 494 = 1624 total tokens)
+
+Based on the passage, here is a multiple choice item aligned to RI.8.2:
+
+**Which statement best describes how the central idea about elephants' cooperative abilities develops throughout the text?**
+
+A. The text begins by establishing elephants' need for help, then shows through experiments that they can work together, and concludes by comparing their abilities favorably to other intelligent species.
+
+*B. The text introduces elephants' rare ability to recognize when cooperation is needed, demonstrates this through increasingly complex experiments, and validates the findings by connecting them to observations of wild elephant behavior.
+
+C. The text starts with a claim about elephant intelligence, provides one main experiment as proof, and ends by listing other animals with similar abilities.
+
+D. The text opens with elephants' social skills, explains how researchers taught them new behaviors, and closes by showing that elephants are smarter than chimpanzees.
+
+**Rationales:**
+
+**Option A:** This distractor misrepresents the development by suggesting the text "begins by establishing elephants' need for help." The text actually begins by stating elephants understand when they need help (a cognitive ability), not that they need help. While partially correct about experiments and comparisons, it misses the key progression of how the experiments build in complexity.
+
+**Option B (Key):** This correctly traces the central idea's development: 
+- Opening establishes the rare cognitive ability (recognizing need for cooperation)
+- Middle section shows progression through increasingly complex experiments (basic rope-pulling → waiting for partners → understanding when partners can't help)
+- Conclusion validates findings through expert quotes connecting lab results to wild behavior
+This shows how the central idea is developed, expanded, and validated throughout.
+
+**Option C:** This oversimplifies the text's structure by suggesting only "one main experiment" when there are actually multiple experiments of increasing complexity. It also reduces the ending to merely "listing other animals," missing the important validation through expert commentary and wild elephant observations.
+
+**Option D:** This distractor mischaracterizes the central idea as being about "social skills" broadly rather than the specific cognitive ability to recognize when cooperation is needed. It also incorrectly suggests the text focuses on teaching new behaviors (the elephants were taught the mechanics, but the cooperation understanding emerged naturally) and oversimplifies the conclusion.
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 4a (Claude) #2 (temp=0.8). (18.80 secs). (1638 + 547 = 2185 total tokens)
+
+Based on the passage, here is another multiple choice item aligned to RI.8.2:
+
+**How does the text develop its central idea that elephants possess advanced social cognition through their understanding of cooperation?**
+
+A. The text first defines social cognition through expert quotes, then illustrates it with a single elephant experiment, and finally ranks elephants among other intelligent animals based on their performance.
+
+B. The text opens with the researchers' hypothesis about elephant intelligence, tests it through trial and error experiments, and proves elephants can be trained to work together for rewards.
+
+*C. The text establishes that recognizing the need for help is a rare cognitive ability, presents a series of experiments showing elephants understand the necessity of partners, and reinforces this through expert validation and examples from nature.
+
+D. The text introduces the concept of animal cooperation, demonstrates that elephants can learn faster than chimpanzees, and concludes that elephants should be studied more extensively in the wild.
+
+**Rationales:**
+
+**Option A:** This distractor reverses the text's actual structure. The text doesn't begin with expert quotes defining social cognition—it starts with the study's conclusion. Expert commentary comes at the end to validate the findings. It also incorrectly suggests there's only "a single elephant experiment" when multiple experiments of increasing complexity are described.
+
+**Option B:** This misrepresents the central idea as being about testing a "hypothesis about elephant intelligence" broadly, rather than specifically about their understanding of cooperation. It also incorrectly frames the experiments as "trial and error" and suggests the main point is that elephants "can be trained," missing the key insight that elephants naturally understand why cooperation is necessary.
+
+**Option C (Key):** This accurately captures the text's development:
+- Opening paragraph establishes the significance (rare ability showing "higher social cognition")
+- Middle sections detail progressive experiments (basic cooperation → waiting for partners → recognizing when cooperation is impossible)
+- Conclusion strengthens the central idea through expert validation (McComb, Clayton) and real-world examples (elephants helping fallen companions)
+This shows how supporting ideas (experimental evidence, expert opinion, field observations) build and reinforce the central claim.
+
+**Option D:** This distractor oversimplifies the central idea to just "animal cooperation" rather than the specific cognitive understanding of when cooperation is needed. While the text mentions elephants learning faster than chimpanzees, this is a supporting detail, not the main development. The conclusion about studying elephants more extensively is not present in the text.
+
+
+=============== NEW RUN GPT - 2026-01-15 12:34:52 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 4a (GPT) #1 (temp=0.7). (15.00 secs). (1118 + 1094 = 2212 total tokens)
+
+**Item (RI.8.2 – Central Idea & Development)**
+
+Which statement best explains a central idea of the passage and how it is developed over the course of the text?
+
+A. The passage shows that Jim Bridger’s early training as a blacksmith was the most important factor in his life, and it develops this idea by returning again and again to his work with iron and tools.  
+
+B. The passage presents Jim Bridger as an important western explorer and guide, and it develops this idea by tracing how his early expeditions, discoveries, and mountain skills led to his later roles as fort owner, guide, and namesake of western places.*  
+
+C. The passage argues that Jim Bridger’s reputation as a teller of tall tales was undeserved, and it develops this idea by showing how other people unfairly blamed him for lying about the places he visited.  
+
+D. The passage explains that Jim Bridger’s “discoveries” were mostly mistakes or misunderstandings, and it develops this idea by focusing on how he misjudged Yellowstone, the Great Salt Lake, and other western landmarks.  
+
+
+---
+
+### Answer Key
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**A. The passage shows that Jim Bridger’s early training as a blacksmith was the most important factor in his life, and it develops this idea by returning again and again to his work with iron and tools.**
+
+- This is incorrect because the blacksmith apprenticeship is mentioned only briefly at the beginning (one paragraph) to describe his early life.
+- The text does not “return again and again” to blacksmithing, nor does it suggest that this was the most important factor in his life.
+- Most of the passage focuses on exploration, trapping, guiding, Fort Bridger, Bridger’s Pass, and his reputation.
+
+**B. The passage presents Jim Bridger as an important western explorer and guide, and it develops this idea by tracing how his early expeditions, discoveries, and mountain skills led to his later roles as fort owner, guide, and namesake of western places.*  
+
+- This is correct. A major central idea is that Bridger was a significant “mountain man” who helped open and shape the American West.
+- The passage develops this idea chronologically:
+  - Early exploration and mapping of the Missouri River and first views of Yellowstone.
+  - His exploration of the Bear River leading to the Great Salt Lake.
+  - His success as a beaver trapper and part-owner of a trapping company.
+  - The creation of Fort Bridger and his role serving settlers on the Oregon Trail.
+  - His deep knowledge of the Rocky Mountains, leading to his work as a guide.
+  - His discovery of Bridger’s Pass, later used by settlers and the Transcontinental Railroad.
+  - The conclusion that he is remembered as a “skilled mountain man and storyteller,” with many places named after him.
+- This option accurately identifies a central idea and describes how supporting details across the whole passage build and extend that idea.
+
+**C. The passage argues that Jim Bridger’s reputation as a teller of tall tales was undeserved, and it develops this idea by showing how other people unfairly blamed him for lying about the places he visited.**
+
+- This is incorrect because the passage does not argue his reputation was undeserved.
+- Instead, it confirms that he told “funny, extravagant, and often unbelievable” stories that were “outrageous” and that locals “knew they weren’t true.”
+- The text does not show people unfairly blaming him; it presents his storytelling as intentional entertainment, not as a misunderstanding.
+
+**D. The passage explains that Jim Bridger’s “discoveries” were mostly mistakes or misunderstandings, and it develops this idea by focusing on how he misjudged Yellowstone, the Great Salt Lake, and other western landmarks.**
+
+- This is incorrect because the passage mentions only one notable mistake: thinking the Great Salt Lake was an inlet of the Pacific Ocean.
+- Yellowstone is not described as a mistake or misunderstanding; it is presented as an important “natural wonder” he was among the first to see.
+- The overall tone is respectful and admiring, emphasizing his skills and achievements, not portraying his discoveries as “mostly mistakes.”
+
+---
+
+**Final Version of the Item**
+
+Which statement best explains a central idea of the passage and how it is developed over the course of the text?
+
+A. The passage shows that Jim Bridger’s early training as a blacksmith was the most important factor in his life, and it develops this idea by returning again and again to his work with iron and tools.  
+
+B. The passage presents Jim Bridger as an important western explorer and guide, and it develops this idea by tracing how his early expeditions, discoveries, and mountain skills led to his later roles as fort owner, guide, and namesake of western places.*  
+
+C. The passage argues that Jim Bridger’s reputation as a teller of tall tales was undeserved, and it develops this idea by showing how other people unfairly blamed him for lying about the places he visited.  
+
+D. The passage explains that Jim Bridger’s “discoveries” were mostly mistakes or misunderstandings, and it develops this idea by focusing on how he misjudged Yellowstone, the Great Salt Lake, and other western landmarks.
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 4a (GPT) #2 (temp=0.8). (12.86 secs). (2223 + 846 = 3069 total tokens)
+
+**Item (RI.8.2 – Central Idea & Objective Summary)**
+
+Which of the following is the best objective summary of the passage?
+
+A. Jim Bridger began life as a blacksmith’s apprentice in Missouri, but he soon left that work behind. He became famous for making iron tools for travelers at Fort Bridger, where people mainly came to buy supplies and have their wagons repaired.  
+
+B. Jim Bridger grew up near St. Louis and became a blacksmith before joining western expeditions. He later settled at Fort Bridger, where he stopped exploring and focused on telling tall tales that exaggerated his few real achievements.  
+
+C. Jim Bridger rose from a farm boy and blacksmith’s apprentice to become a well-known frontiersman in the American West. Over his life, he explored new areas, trapped beavers, helped run a trading post and fort, guided settlers through the Rocky Mountains, discovered an important mountain pass, and became remembered both for his skills and his storytelling.*  
+
+D. Jim Bridger was one of several explorers in the West, but his main importance comes from his mistaken belief that the Great Salt Lake was part of the Pacific Ocean. The passage explains how this error overshadowed his other work and damaged his reputation.  
+
+
+---
+
+### Answer Key
+**Correct Answer: C***
+
+---
+
+### Rationales
+
+**A.**  
+- Incorrect. While Fort Bridger did offer supplies and wagon repairs, the passage does not say he became “famous for making iron tools” there.  
+- This summary ignores major central ideas: Bridger’s explorations, trapping, guiding, discovery of Bridger’s Pass, and his lasting recognition.
+
+**B.**  
+- Incorrect. The passage does not say he “stopped exploring” once at Fort Bridger. In fact, it explains he continued to travel in the Rockies and later worked twenty years as a guide.  
+- It also misrepresents his storytelling as his main late-life focus and calls his real achievements “few,” which the passage does not suggest.
+
+**C.**  
+- Correct. This option captures the central idea that Bridger was an influential frontiersman whose life developed from humble beginnings to significant roles in western exploration and settlement.  
+- It accurately includes key supporting ideas in order: early life and blacksmithing; exploration and trapping; Fort Bridger; guiding settlers; discovering Bridger’s Pass; and his remembered legacy as a skilled mountain man and storyteller.  
+- The tone is neutral and factual, making it an objective summary.
+
+**D.**  
+- Incorrect. The Great Salt Lake mistake is mentioned, but it is only one detail and is not presented as his “main importance” or as something that “damaged his reputation.”  
+- This option overemphasizes a minor point and leaves out major elements of his work as trapper, guide, fort owner, and pathfinder.
+
+---
+
+**Final Version of the Item**
+
+Which of the following is the best objective summary of the passage?
+
+A. Jim Bridger began life as a blacksmith’s apprentice in Missouri, but he soon left that work behind. He became famous for making iron tools for travelers at Fort Bridger, where people mainly came to buy supplies and have their wagons repaired.  
+
+B. Jim Bridger grew up near St. Louis and became a blacksmith before joining western expeditions. He later settled at Fort Bridger, where he stopped exploring and focused on telling tall tales that exaggerated his few real achievements.  
+
+C. Jim Bridger rose from a farm boy and blacksmith’s apprentice to become a well-known frontiersman in the American West. Over his life, he explored new areas, trapped beavers, helped run a trading post and fort, guided settlers through the Rocky Mountains, discovered an important mountain pass, and became remembered both for his skills and his storytelling.*  
+
+D. Jim Bridger was one of several explorers in the West, but his main importance comes from his mistaken belief that the Great Salt Lake was part of the Pacific Ocean. The passage explains how this error overshadowed his other work and damaged his reputation.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 12:43:03 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 4a (Gemini) #1 (temp=0.7). (30.08 secs). (1152 + 764 = 1916 total tokens)
+
+Here is a unique multiple-choice item written for 8th-grade students, aligned to CCSS.ELA-LITERACY.RI.8.2.
+
+**Item ID:** RI.8.2-Bridger-01
+**Standard:** RI.8.2 Determine a central idea of a text and analyze its development over the course of the text, including its relationship to supporting ideas...
+**Depth of Knowledge:** 2 (Skill/Concept)
+
+**Item Stem:**
+The text develops the central idea that Jim Bridger’s deep knowledge of the frontier made him essential to the westward expansion of the United States.
+
+Which selection of supporting ideas best analyzes how the author develops this central idea?
+
+**Answer Options:**
+
+A. By detailing his childhood in Virginia and his early apprenticeship as a blacksmith, the author shows that Bridger had humble beginnings before becoming famous.
+
+B. By describing the tall tales Bridger told about glass mountains and petrified birds, the author illustrates how Bridger entertained the settlers who visited his fort.
+
+C. By explaining the debate over who discovered the Great Salt Lake first, the author highlights that Bridger was often in competition with other European American trappers.
+
+*D. By outlining the establishment of Fort Bridger as a supply stop and the discovery of a shortcut through the Rockies, the author demonstrates how Bridger directly aided settlers and the railroad.
+
+**Rationales:**
+
+*   **Option A is incorrect.** While these are facts included in the text (paragraphs 1-2), they serve as background information. They do not analyze how the central idea of Bridger’s importance to *westward expansion* is developed. This option focuses on his origin story rather than his impact on the movement of people west.
+*   **Option B is incorrect.** This option correctly identifies supporting details found in the text (paragraphs 5-6). However, these details support a secondary idea regarding Bridger’s personality and storytelling abilities, rather than the central idea regarding his essential role in the physical expansion and settlement of the West.
+*   **Option C is incorrect.** This option focuses on a specific, minor detail regarding the Great Salt Lake (paragraph 3). This detail actually questions his primacy in discovery rather than supporting the central idea of him being "essential" to expansion. It is a minor supporting detail that does not capture the development of the main argument.
+*   **Option D is correct.** This option accurately analyzes the development of the central idea. The author supports the claim of Bridger's importance to expansion by connecting his skills to specific outcomes that helped the country grow: providing supplies to travelers on the Oregon Trail (paragraph 5) and finding a pass that shortened the journey for the Transcontinental Railroad (paragraph 8).
+
+***
+
+**Final Version:**
+
+**Question:**
+The text develops the central idea that Jim Bridger’s deep knowledge of the frontier made him essential to the westward expansion of the United States.
+
+Which selection of supporting ideas best analyzes how the author develops this central idea?
+
+A. By detailing his childhood in Virginia and his early apprenticeship as a blacksmith, the author shows that Bridger had humble beginnings before becoming famous.
+B. By describing the tall tales Bridger told about glass mountains and petrified birds, the author illustrates how Bridger entertained the settlers who visited his fort.
+C. By explaining the debate over who discovered the Great Salt Lake first, the author highlights that Bridger was often in competition with other European American trappers.
+*D. By outlining the establishment of Fort Bridger as a supply stop and the discovery of a shortcut through the Rockies, the author demonstrates how Bridger directly aided settlers and the railroad.
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 4a (Gemini) #2 (temp=0.8). (38.55 secs). (1929 + 748 = 2677 total tokens)
+
+Here is a second unique multiple-choice item for 8th-grade students, aligned to CCSS.ELA-LITERACY.RI.8.2.
+
+**Item ID:** RI.8.2-Bridger-02
+**Standard:** RI.8.2 Determine a central idea of a text and analyze its development over the course of the text, including its relationship to supporting ideas...
+**Depth of Knowledge:** 2 (Skill/Concept)
+
+**Item Stem:**
+A central idea of the text is that Jim Bridger used his deep knowledge of the wilderness to adapt to the changing needs of the American frontier.
+
+Which analysis best explains how the author develops this idea?
+
+**Answer Options:**
+
+A. By comparing Bridger’s early life in Virginia with his later retirement in Missouri to show that he never truly enjoyed living in the wilderness.
+
+B. By highlighting Bridger’s "tall tales" to demonstrate that his fame was based more on his imagination than on his actual skills as a woodsman.
+
+C. By focusing on the dispute over the discovery of the Great Salt Lake to show that Bridger’s contributions were often exaggerated by historians.
+
+*D. By detailing Bridger’s transition from trapping beavers to establishing a trading post and eventually finding a pass for the railroad.
+
+**Rationales:**
+
+*   **Option A is incorrect.** This option misinterprets the text. While the text mentions his birth in Virginia and death in Missouri, the development of the text focuses heavily on his active years in the mountains. The text provides no evidence that he did not enjoy the wilderness; in fact, it states he spent twenty years as a guide and many years hiking.
+*   **Option B is incorrect.** This option focuses on a specific supporting idea (his storytelling) but analyzes it incorrectly in relation to the central idea. The text states he is remembered for being *both* a skilled mountain man and a storyteller, not that the stories were more important than his skills. This ignores the sections regarding his work as a guide and explorer.
+*   **Option C is incorrect.** This option focuses on a minor supporting detail found in paragraph 3. While the text mentions the dispute regarding Etienne Provost, this is a specific historical detail and does not represent the development of the central idea across the text as a whole.
+*   **Option D is correct.** This option correctly analyzes the relationship between the central idea (adaptation to the changing frontier) and the supporting ideas arranged in the text. The author structures the text to show how Bridger’s initial skills in trapping (paragraph 4) led to the founding of Fort Bridger for settlers (paragraph 5) and eventually to his role as a guide for the railroad (paragraph 8).
+
+***
+
+**Final Version:**
+
+**Question:**
+A central idea of the text is that Jim Bridger used his deep knowledge of the wilderness to adapt to the changing needs of the American frontier.
+
+Which analysis best explains how the author develops this idea?
+
+A. By comparing Bridger’s early life in Virginia with his later retirement in Missouri to show that he never truly enjoyed living in the wilderness.
+B. By highlighting Bridger’s "tall tales" to demonstrate that his fame was based more on his imagination than on his actual skills as a woodsman.
+C. By focusing on the dispute over the discovery of the Great Salt Lake to show that Bridger’s contributions were often exaggerated by historians.
+*D. By detailing Bridger’s transition from trapping beavers to establishing a trading post and eventually finding a pass for the railroad.
+
+
+=============== NEW RUN (Claude) - 2026-01-15 12:55:52 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 4a (Claude) #1 (temp=0.7). (21.66 secs). (1218 + 576 = 1794 total tokens)
+
+## Multiple Choice Item for RI.8.2
+
+**Question:** Which statement best describes how the central idea of Jim Bridger's significance as a frontier pioneer develops throughout the passage?
+
+A. The passage begins by establishing Bridger as a skilled tradesman, then shifts to focus primarily on his reputation as an entertaining storyteller, ultimately concluding that his tall tales were his most lasting contribution to American culture.
+
+B. The passage initially presents Bridger as an adventurous young explorer, develops this idea by detailing his various discoveries and business ventures, then expands it further by showing how his accumulated knowledge made him an invaluable guide who helped shape westward expansion.
+
+C. The passage introduces Bridger as one of many frontier explorers, then narrows its focus to his discovery of the Great Salt Lake as his primary achievement, before broadening again to discuss the various geographical features named after him.
+
+D. The passage establishes Bridger's importance through his early apprenticeship, then demonstrates how his blacksmithing skills were essential to his success in beaver trapping, trading post operations, and ultimately his work repairing wagons for settlers.
+
+***B**
+
+### Rationales:
+
+**Option A (Incorrect):** While the passage does mention Bridger's blacksmith apprenticeship and his storytelling, it misrepresents the development of the central idea. The storytelling is presented as one aspect of his life, not the primary focus or his most lasting contribution. The passage actually emphasizes his role as an explorer and guide more than his tall tales.
+
+**Option B (Correct):** This accurately traces how the central idea develops. The passage begins with Bridger as a young explorer (Missouri River expedition), then shows his progression through various frontier achievements (discovering landscapes, successful trapping, establishing Fort Bridger), and culminates in explaining how his accumulated expertise made him a valued guide who discovered Bridger's Pass—a shortcut that significantly impacted westward migration and railroad development.
+
+**Option C (Incorrect):** This distorts the passage's structure and emphasis. While the Great Salt Lake discovery is mentioned, the passage actually notes uncertainty about whether Bridger was truly first to discover it. The central idea doesn't narrow to this single achievement but rather builds to show his broader impact on westward expansion.
+
+**Option D (Incorrect):** This misreads the relationship between the supporting details and the central idea. The blacksmithing apprenticeship is mentioned only briefly as background, and there's no textual evidence that these skills were connected to his later successes. The passage doesn't suggest he used blacksmithing skills for wagon repairs at Fort Bridger.
 
 ========== ERROR ==========
 
-An error occurred: Unknown field for UsageMetadata: get
+An error occurred while processing this tier (Claude): Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CX9bT2qCvJ9tRGsMxHbCa'}
 
 
 
-=============== NEW RUN (Claude) - 2026-01-15 11:15:48 ===============
+=============== NEW RUN (Claude) - 2026-01-15 18:38:59 ===============
 
 
-
-
-================= NEW ITEM =================
-Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
-Tier 4a (Claude) #1 (temp=0.7). (19.25 secs). (1130 + 543 = 1673 total tokens)
-
-Based on the passage and the requirements for RI.8.2, here's a multiple choice item:
-
-**Which statement best describes how the central idea about elephants' cooperative intelligence develops throughout the text?**
-
-A. The text begins by establishing elephants' ability to cooperate, then progressively reveals through increasingly complex experiments that elephants not only work together but understand *why* cooperation is necessary, culminating in comparisons that place them among the most socially intelligent species.
-
-B. The text initially focuses on the mechanical aspects of how elephants pull ropes together, then shifts entirely to comparing elephants with other animals, ultimately arguing that elephants are more intelligent than chimpanzees and rooks.
-
-C. The text starts with a broad claim about elephant intelligence, narrows to describe a single experiment about rope-pulling, then expands again to discuss various unrelated examples of elephant behavior in the wild.
-
-D. The text opens with the researchers' methods for training elephants, develops into a discussion of failed experiments, and concludes by questioning whether elephants truly understand cooperation or are simply following learned behaviors.
-
-**Answer: A***
-
-**Rationales:**
-
-**Option A (Correct):** This accurately traces how the central idea develops. The text begins with the conclusion that elephants understand when they need help (paragraph 1), then shows through progressively challenging experiments how elephants demonstrate this understanding—first by learning to pull together, then by waiting for partners, and finally by giving up when partners can't help (paragraphs 2-3). The text concludes by contextualizing these findings among other intelligent species (paragraph 4), showing that the central idea builds from simple cooperation to complex social cognition.
-
-**Option B:** While the text does compare elephants to other animals, this is not the primary development. The text doesn't shift "entirely" to comparisons, nor does it argue elephants are definitively more intelligent than all other species mentioned. This misrepresents the progression of ideas.
-
-**Option C:** This distractor mischaracterizes the development. The text doesn't narrow to a "single experiment"—it describes multiple experimental variations. The wild examples aren't "unrelated" but rather support the findings. The development is more cohesive than this option suggests.
-
-**Option D:** This contradicts the text's actual development. The text doesn't focus on "failed experiments" or end by questioning the elephants' understanding. Instead, it progressively builds evidence that elephants do understand cooperation, with expert validation in the final paragraph.
 
 
 ================= NEW ITEM =================
-Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
-Tier 4a (Claude) #2 (temp=0.8). (22.06 secs). (1687 + 547 = 2234 total tokens)
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 4a (Claude) #1 (temp=0.7). (20.68 secs). (1218 + 608 = 1826 total tokens)
 
-Based on the passage and the requirements for RI.8.2, here's another multiple choice item:
+## Multiple Choice Item
 
-**How does the text develop its central idea about elephants' social cognition through the relationship between experimental evidence and supporting details?**
+**Which statement best describes how the central idea of Jim Bridger's significance as a frontier pioneer develops throughout the passage?**
 
-A. The text presents a series of experiments that become progressively more complex, with each new test revealing a deeper level of elephant understanding, while expert commentary throughout validates and contextualizes these findings within the broader field of animal cognition research.
+A. The passage begins by establishing Bridger as a skilled craftsman, then shows how his blacksmithing skills helped him build Fort Bridger, which became the foundation of his lasting influence on westward expansion.
 
-B. The text establishes the experimental methodology in detail, then uses anecdotal observations from wild elephants as the primary evidence for cooperation, with scientific experiments serving only as preliminary support for these natural behaviors.
+B. The passage initially focuses on Bridger's role as an entertainer who told tall tales, then reveals how these stories were actually based on his genuine discoveries of natural wonders in the American West.
 
-C. The text introduces multiple unrelated experiments about elephant behavior, then attempts to connect them through expert opinions, though the supporting ideas ultimately contradict the initial claim about elephant intelligence.
+*C. The passage first presents Bridger as a young explorer making early discoveries, then develops this idea by showing how his accumulated knowledge and skills made him an invaluable guide who helped shape western migration routes.
 
-D. The text focuses primarily on comparing elephants to chimpanzees throughout, using the rope-pulling experiment as a single data point that proves elephants are superior, while dismissing evidence from other species as less relevant.
+D. The passage introduces Bridger as someone who made lucky discoveries by accident, then demonstrates how he capitalized on these accidents to become wealthy through the beaver pelt trade and his trading post.
 
-**Answer: A***
+### Rationales:
 
-**Rationales:**
+**Option A (Incorrect):** While the passage does mention Bridger's apprenticeship as a blacksmith, this detail is only briefly mentioned in the introduction and is not developed as a central idea throughout the text. The passage does not connect his blacksmithing skills to the building of Fort Bridger or suggest these skills were foundational to his influence.
 
-**Option A (Correct):** This accurately captures how the central idea develops through interconnected supporting ideas. The text moves from the basic rope-pulling test (teaching cooperation), to the delayed-release test (showing elephants understand waiting for help), to the unreachable-rope test (demonstrating they recognize when cooperation is impossible). Expert voices (Plotnik, McComb, Clayton) appear strategically throughout to interpret results and connect findings to both wild observations and comparative cognition research, strengthening the central claim about elephants' higher social cognition.
+**Option B (Incorrect):** This reverses the actual development in the passage. The tall tales are introduced in the middle of the passage (paragraphs 5-6) as something Bridger became famous for at Fort Bridger, not as the initial focus. The passage clearly states these stories were "funny, extravagant, and often unbelievable" and were told "to tease new arrivals," not that they were based on real discoveries.
 
-**Option B:** This reverses the actual relationship between experimental and observational evidence. The text primarily relies on controlled experiments as its main evidence, with wild observations serving as supplementary support (mentioned only briefly in paragraph 4), not the other way around.
+**Option C (Correct):** This accurately traces the development of the central idea. The passage begins with Bridger as "the youngest member" of an exploration group seeing Yellowstone and discovering the Great Salt Lake (paragraphs 2-3). It then shows his progression to becoming a skilled trapper (paragraph 4), establishing Fort Bridger (paragraph 5), and ultimately becoming "a valued guide" whose knowledge of the terrain led to discovering Bridger's Pass, which significantly impacted westward migration and railroad development (paragraphs 7-8).
 
-**Option C:** This misrepresents the text's coherence. The experiments aren't "unrelated"—they build upon each other systematically. The supporting ideas and expert opinions reinforce rather than contradict the central claim. The text maintains consistent support for elephant intelligence throughout.
+**Option D (Incorrect):** This misrepresents the passage's development. The text doesn't portray Bridger's discoveries as lucky accidents but as the result of deliberate exploration (he was chosen to explore the Bear River). Additionally, while the passage mentions his success in the beaver trade, it doesn't emphasize wealth as a central idea, and the final sections focus on his contributions as a guide rather than his business ventures.
 
-**Option D:** While comparisons to chimpanzees appear in the text, they aren't the primary focus. The text uses multiple experimental variations (not a "single data point") and includes meaningful comparisons to other species (hyenas, rooks, humans) without dismissing them. This option oversimplifies the text's nuanced presentation of comparative intelligence.
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 4a (Claude) #2 (temp=0.8). (19.71 secs). (1840 + 606 = 2446 total tokens)
+
+## Multiple Choice Item
+
+**How does the passage develop the central idea that Jim Bridger played a crucial role in opening the American West to settlement?**
+
+A. The passage first emphasizes Bridger's entertainment value through his storytelling at Fort Bridger, then shifts to show how his tales inspired countless settlers to brave the journey westward despite the challenges.
+
+B. The passage initially presents Bridger's conflicts with Native Americans over territory, then demonstrates how his diplomatic skills in resolving these conflicts made western travel safer for settlers.
+
+*C. The passage begins by establishing Bridger's early exploration experiences, then builds upon this foundation by detailing how his discoveries, business ventures, and geographic knowledge directly facilitated westward expansion through specific contributions like Bridger's Pass.
+
+D. The passage first highlights Bridger's role in the fur trade that depleted beaver populations, then explains how this forced him to find alternative careers that accidentally benefited western migration.
+
+### Rationales:
+
+**Option A (Incorrect):** While the passage does discuss Bridger's storytelling (paragraphs 5-6), it presents these tall tales as entertainment for travelers who had already decided to go west, not as inspiration for the journey. The passage states he told stories "to tease new arrivals from the east and to amuse the locals," not to encourage westward migration.
+
+**Option B (Incorrect):** The passage makes no mention of conflicts with Native Americans or Bridger serving as a diplomat. While the text notes he was "one of the first European American people" to see certain areas and mentions "non-Native American" discovery of the Great Salt Lake, it doesn't develop any ideas about Native American relations.
+
+**Option C (Correct):** This accurately captures the passage's development structure. The text begins with Bridger's early experiences (exploring the Missouri River at 18, seeing Yellowstone, discovering the Great Salt Lake in paragraphs 2-3). It then shows how these experiences led to his success as a trapper (paragraph 4), the establishment of Fort Bridger as a supply stop on the Oregon Trail (paragraph 5), his role as a guide (paragraph 7), and ultimately his discovery of Bridger's Pass, which shortened trips by 61 miles and became part of the Transcontinental Railroad (paragraph 8). Each element builds on the previous to show increasing impact on westward expansion.
+
+**Option D (Incorrect):** The passage doesn't mention beaver depletion or suggest Bridger was forced to change careers. It presents his transition from trapper to trading post owner to guide as a natural progression of success, not as responses to failure or environmental destruction. The passage also doesn't characterize his contributions to western migration as accidental but as deliberate uses of his accumulated knowledge and skills.

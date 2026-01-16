@@ -1,0 +1,70 @@
+Standard:  RI 8.2
+ID: 83594
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 3b (Claude) #1 (temp=0.7). (28.04 secs). (3406 + 819 = 4225 total tokens)
+
+I'll create a multiple choice item aligned to RI.8.2 that focuses on determining a central idea and analyzing its development throughout the text.
+
+## Draft Item:
+
+**Stem:**
+How does the author develop the central idea that elephants possess advanced social intelligence throughout the passage?
+
+**Answer Options:**
+
+A. By first explaining that elephants need help, then describing experiments that prove they can work together, and finally comparing their abilities to those of other intelligent animals*
+
+B. By beginning with a description of elephant training methods, then explaining how trainers teach elephants tricks, and concluding with examples of elephant performances
+
+C. By starting with observations of wild elephants, then describing laboratory experiments, and ending with criticism of previous research methods
+
+D. By introducing the rope-pulling experiment, then explaining why it failed with most animals, and finally showing how elephants were the only species to succeed
+
+**Rationales:**
+
+**Option A (Key):** This correctly traces how the central idea develops: The passage opens by establishing that elephants understand when they need help (paragraph 1), then provides detailed evidence through the rope-pulling experiments (paragraphs 2-3), and concludes by comparing elephants' performance to other species like chimpanzees and rooks, placing them in an "elite club" (paragraphs 1 and 4). This shows the progression from claim to evidence to broader context.
+
+**Option B (Distractor):** A student might select this if they focus on the mention of "mahouts" (trainers) in paragraph 2, but misunderstand the passage's purpose. The passage is not about training methods or performances but about scientific experiments revealing cognitive abilities.
+
+**Option C (Distractor):** This reverses the actual structure. The passage begins with experimental findings and only briefly mentions wild observations near the end (paragraph 4). A student might choose this if they confuse the sequence of information.
+
+**Option D (Distractor):** While the rope-pulling experiment is central, this option incorrectly states that elephants were the only successful species. The passage explicitly mentions that chimpanzees, hyenas, and rooks also demonstrate cooperation, though elephants performed better in some aspects.
+
+## LBIDAT Analysis:
+
+**Stem & Task:** ✓
+- The task appropriately targets RI.8.2 by asking students to trace how a central idea develops
+- Requires understanding the relationship between the central claim and supporting evidence
+- Grade-appropriate cognitive demand
+
+**The Key:** ✓
+- Directly responsive to the question
+- Definitively correct in identifying the progression of the central idea
+
+**Distractors:** ✓
+- Each distractor represents a plausible misreading or misunderstanding
+- All are definitively incorrect
+- Each stems from different misconceptions
+
+**Stimulus:** ✓
+- Passage is appropriate length and complexity for 8th grade
+- Required for successful response
+- No construction errors
+
+**Fairness:** ✓
+- No inappropriate sensitivity topics
+- Content is accessible to diverse student populations
+
+## Final Version:
+
+**How does the author develop the central idea that elephants possess advanced social intelligence throughout the passage?**
+
+A. By first explaining that elephants need help, then describing experiments that prove they can work together, and finally comparing their abilities to those of other intelligent animals*
+
+B. By beginning with a description of elephant training methods, then explaining how trainers teach elephants tricks, and concluding with examples of elephant performances
+
+C. By starting with observations of wild elephants, then describing laboratory experiments, and ending with criticism of previous research methods
+
+D. By introducing the rope-pulling experiment, then explaining why it failed with most animals, and finally showing how elephants were the only species to succeed

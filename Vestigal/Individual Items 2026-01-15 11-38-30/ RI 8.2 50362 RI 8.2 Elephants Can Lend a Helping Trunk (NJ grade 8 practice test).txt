@@ -1,0 +1,70 @@
+Standard:  RI 8.2
+ID: 50362
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 3b (Claude) #2 (temp=0.8). (23.67 secs). (4239 + 838 = 5077 total tokens)
+
+I'll create a different multiple choice item aligned to RI.8.2 that focuses on a different aspect of determining and analyzing a central idea's development.
+
+## Draft Item:
+
+**Stem:**
+Which statement best describes how the author develops the central idea that scientific experiments can reveal complex cognitive abilities in animals?
+
+**Answer Options:**
+
+A. The author first presents the conclusion from a new study, then explains the experimental design in detail, and finally validates the findings through expert opinions and natural observations*
+
+B. The author begins by criticizing old research methods, then introduces a completely new approach, and concludes by rejecting all previous findings about animal intelligence
+
+C. The author starts with examples of elephant behavior in the wild, then questions whether these behaviors show intelligence, and ends by proving that only trained animals demonstrate cooperation
+
+D. The author opens with a history of animal cognition research, then describes failed experiments with multiple species, and concludes that only elephants show true cooperation
+
+**Rationales:**
+
+**Option A (Key):** This accurately traces the development: The passage opens with the study's conclusion that elephants understand when they need help (paragraph 1), then provides detailed explanation of the rope-pulling experimental methodology and results (paragraphs 2-3), and concludes with validation from experts like Karen McComb and Nicola Clayton who connect the findings to natural observations and broader research (paragraph 4). This shows how scientific evidence builds to support the central idea.
+
+**Option B (Distractor):** Students might select this if they misinterpret the phrase "modified a classic experiment" in paragraph 2 as criticism. However, the passage doesn't criticize old methods but rather adapts them, and it doesn't reject previous findings—it builds on them.
+
+**Option C (Distractor):** This reverses the actual structure and misrepresents the conclusion. The passage starts with experimental findings, not wild observations, and it doesn't suggest that only trained animals show cooperation—it actually validates the experiments with wild observations.
+
+**Option D (Distractor):** While the passage mentions the 1930s experiments, it doesn't provide a comprehensive history, nor does it describe failed experiments. Students might choose this if they misunderstand the comparative statements about different species' abilities.
+
+## LBIDAT Analysis:
+
+**Stem & Task:** ✓
+- Appropriately aligned to RI.8.2 by requiring analysis of how a central idea develops
+- Focuses on the relationship between the main concept and supporting details
+- Grade-appropriate complexity
+
+**The Key:** ✓
+- Directly addresses the question
+- Definitively correct in tracking the passage's structure
+
+**Distractors:** ✓
+- Each represents a distinct misunderstanding of the text's organization
+- All are definitively incorrect
+- Based on plausible misreadings or misconceptions
+
+**Stimulus:** ✓
+- Passage provides necessary information for the task
+- Cannot be answered without careful reading
+- Appropriate for 8th grade level
+
+**Fairness:** ✓
+- No sensitive topics
+- Accessible to diverse populations
+
+## Final Version:
+
+**Which statement best describes how the author develops the central idea that scientific experiments can reveal complex cognitive abilities in animals?**
+
+A. The author first presents the conclusion from a new study, then explains the experimental design in detail, and finally validates the findings through expert opinions and natural observations*
+
+B. The author begins by criticizing old research methods, then introduces a completely new approach, and concludes by rejecting all previous findings about animal intelligence
+
+C. The author starts with examples of elephant behavior in the wild, then questions whether these behaviors show intelligence, and ends by proving that only trained animals demonstrate cooperation
+
+D. The author opens with a history of animal cognition research, then describes failed experiments with multiple species, and concludes that only elephants show true cooperation

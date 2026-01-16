@@ -1,0 +1,593 @@
+
+
+
+=============== NEW RUN GPT - 2026-01-15 19:14:42 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 4b (GPT) #1 (temp=0.7). (9.99 secs). (3667 + 686 = 4353 total tokens)
+
+1. Read this sentence from the passage.
+
+   “Every day has brought at least one similar scolding. It seems that the more I seek her approval, the farther it **recedes in the distance**.”
+
+   What is the most accurate meaning of the phrase “recedes in the distance” as it is used in this sentence?
+
+   A. Dr. Blackwell’s approval is slowly becoming less important to Diana over time.  
+   B. Dr. Blackwell’s approval is moving farther and farther out of Diana’s reach.*  
+   C. Dr. Blackwell’s approval is disappearing completely and will never return.  
+   D. Dr. Blackwell’s approval is hidden behind other concerns in the hospital.
+
+---
+
+**Correct Answer: B***
+
+### Rationales
+
+**A. Dr. Blackwell’s approval is slowly becoming less important to Diana over time.**  
+- This misreads the connotation. The phrase “recedes in the distance” suggests something Diana *wants* but cannot reach, not something becoming less important. The surrounding sentences show that Diana cares deeply about winning Dr. Blackwell’s approval (“the more I seek her approval”), so it is not becoming less important to her. This is a plausible but incorrect interpretation.
+
+**B. Dr. Blackwell’s approval is moving farther and farther out of Diana’s reach.*  
+- This correctly interprets the figurative language. Literally, something that “recedes in the distance” moves farther away as you move toward it. Figuratively, the author uses this image to show that the harder Diana tries to earn approval, the less likely she feels she is to receive it. This matches both the image and the emotional tone of frustration and discouragement in the paragraph.
+
+**C. Dr. Blackwell’s approval is disappearing completely and will never return.**  
+- “Recedes in the distance” suggests increasing distance, not total disappearance. The phrase implies difficulty in reaching a goal, not that the goal is gone forever. The passage also shows that Diana still hopes to gain Dr. Blackwell’s respect, so the idea of it “never” returning overstates the meaning.
+
+**D. Dr. Blackwell’s approval is hidden behind other concerns in the hospital.**  
+- Nothing in the phrase or context suggests that approval is “hidden” or blocked by other concerns. The metaphor focuses on distance, not obstacles in front of Diana. The problem is not that other concerns are in the way; it is that approval seems to move away as she tries to reach it. This misinterprets the figurative image.
+
+---
+
+**Final Version of Item**
+
+1. Read this sentence from the passage.
+
+   “Every day has brought at least one similar scolding. It seems that the more I seek her approval, the farther it **recedes in the distance**.”
+
+   What is the most accurate meaning of the phrase “recedes in the distance” as it is used in this sentence?
+
+   A. Dr. Blackwell’s approval is slowly becoming less important to Diana over time.  
+   B. Dr. Blackwell’s approval is moving farther and farther out of Diana’s reach.*  
+   C. Dr. Blackwell’s approval is disappearing completely and will never return.  
+   D. Dr. Blackwell’s approval is hidden behind other concerns in the hospital.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 4b (GPT) #2 (temp=0.8). (10.55 secs). (4364 + 570 = 4934 total tokens)
+
+1. Read this sentence from the passage.
+
+   “On my very first day, when I failed to adequately prepare a tray of instruments, she thought nothing of **reprimanding** me in front of all the other students, nurses, and patients.”
+
+   Based on how it is used in this sentence, what is the best meaning of the word **“reprimanding”**?
+
+   A. Quietly reminding Diana what she needed to do  
+   B. Publicly praising Diana for her hard work  
+   C. Harshly scolding Diana for doing something wrong*  
+   D. Calmly explaining the hospital’s rules to Diana
+
+---
+
+**Correct Answer: C***
+
+### Rationales
+
+**A. Quietly reminding Diana what she needed to do**  
+- A “reminder” is gentle and usually private. In the sentence, Dr. Blackwell corrects Diana “in front of all the other students, nurses, and patients,” which suggests a stronger, more negative action. This weakens the tone of the word and does not match the embarrassment Diana feels.
+
+**B. Publicly praising Diana for her hard work**  
+- This is the opposite of the context. Diana has “failed to adequately prepare a tray of instruments,” so Dr. Blackwell is reacting to a mistake, not praising her. The tone of the paragraph is negative and critical, not positive.
+
+**C. Harshly scolding Diana for doing something wrong*  
+- This fits both the denotation and connotation of “reprimanding” in context. A reprimand is a strong, formal scolding. The public nature of the correction (“in front of all the other students, nurses, and patients”) and Diana’s later description of “similar scolding” support this meaning and tone.
+
+**D. Calmly explaining the hospital’s rules to Diana**  
+- While explanations can follow a reprimand, the word “reprimanding” itself emphasizes blame and criticism, not calm explanation. The context of embarrassment and repeated “scolding” shows that this is more than just explaining rules.
+
+---
+
+**Final Version of Item**
+
+1. Read this sentence from the passage.
+
+   “On my very first day, when I failed to adequately prepare a tray of instruments, she thought nothing of **reprimanding** me in front of all the other students, nurses, and patients.”
+
+   Based on how it is used in this sentence, what is the best meaning of the word **“reprimanding”**?
+
+   A. Quietly reminding Diana what she needed to do  
+   B. Publicly praising Diana for her hard work  
+   C. Harshly scolding Diana for doing something wrong*  
+   D. Calmly explaining the hospital’s rules to Diana
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 19:22:47 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 4b (Gemini) #1 (temp=0.7). (55.55 secs). (4332 + 947 = 5279 total tokens)
+
+Here is a unique multiple-choice item aligned to CCSS.ELA-LITERACY.RL.8.4, designed to meet the LBIDAT criteria.
+
+**Item Draft**
+
+**Standard:** CCSS.ELA-LITERACY.RL.8.4  
+**Passage:** Dr. Blackwell’s New Assistant  
+**Grade:** 8
+
+**Stem:**
+Read the sentence from paragraph 5.
+
+“That would **extinguish** my hopes, for the Women’s Medical College that Dr. Blackwell has founded here at the New York Infirmary for Indigent Women and Children is the only institution of its kind.”
+
+How does the author’s use of the word *extinguish* impact the meaning of the sentence?
+
+A. It suggests that the narrator’s ambition was becoming dangerous and needed to be controlled.
+B. It implies that the narrator worried the medical college was in danger of closing down permanently.
+*C. It emphasizes the absolute finality of the loss the narrator faces if she fails at this specific clinic.
+D. It indicates that the narrator’s interest in becoming a doctor was slowly fading away due to the stress.
+
+**Rationales:**
+
+*   **Option A is incorrect.** This distractor appeals to the metaphorical association of "extinguish" with fire. A student might reason that fire is dangerous and must be put out (controlled). However, the text does not portray her ambition as negative or dangerous; it portrays it as a positive "hope" that she wants to keep alive.
+*   **Option B is incorrect.** This distractor is a misreading of the sentence structure. While "extinguish" can mean to put an end to something, the object of the verb is "my hopes," not the "Women's Medical College." The student might choose this if they associate "extinguish" with "closing" a business but fail to track the specific grammar of the sentence.
+*   **Option C is the correct answer.** The standard asks for the impact of specific word choices. "Extinguish" denotes putting out a fire or light completely. In this context, the author uses it metaphorically to describe the death of the narrator's dreams. The impact of choosing "extinguish" rather than "hurt" or "delay" creates a tone of high stakes and desperation. Because the text states this is the "only institution of its kind," being sent away would not just be a setback; it would completely snuff out her career possibilities like a candle flame.
+*   **Option D is incorrect.** This distractor contrasts the definition of "extinguish" with a different kind of loss. "Extinguish" implies a sudden, decisive action (being sent away). "Slowly fading" implies a gradual loss of interest. The context of the paragraph—the fear of being sent away immediately—contradicts the idea of a slow fade.
+
+***
+
+**LBIDAT Evaluation**
+
+**Stem & Task: ✓**
+The task explicitly requires the student to analyze the impact of a specific word choice within the context of the sentence and the broader text, which is the core of standard RL.8.4. It moves beyond simple definition to the *implication* of the word (finality/high stakes).
+
+**The Key: ✓**
+The key is definitively correct based on the textual evidence ("only institution of its kind") and the denotative/connotative meaning of "extinguish" (complete removal/putting out).
+
+**Distractors: ✓**
+*   **Distractor A:** Plausible based on the "fire" metaphor inherent in the word, representing a misconception of the metaphor's application.
+*   **Distractor B:** Plausible based on a misreading of the sentence syntax (what is being extinguished), a common error.
+*   **Distractor D:** Plausible as it deals with the loss of hope, but incorrect regarding the *manner* of the loss (sudden vs. gradual), testing the precision of the word choice analysis.
+All distractors are definitively incorrect but grounded in potential student errors regarding metaphor, syntax, or nuance.
+
+**Stimulus: ✓**
+The stimulus is a direct excerpt from the passage and is accurate. The item requires the stimulus to answer the question but also relies on the surrounding context mentioned in the excerpt (that the college is the "only one").
+
+**Fairness: ✓**
+The item raises no sensitivity issues. The metaphor of "extinguishing hopes" is a standard literary device and does not evoke inappropriate emotional distress or bias.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 4b (Gemini) #2 (temp=0.8). (48.03 secs). (5292 + 824 = 6116 total tokens)
+
+Here is a unique multiple-choice item aligned to CCSS.ELA-LITERACY.RL.8.4, designed to meet the LBIDAT criteria.
+
+**Item Draft**
+
+**Standard:** CCSS.ELA-LITERACY.RL.8.4  
+**Passage:** Dr. Blackwell’s New Assistant  
+**Grade:** 8
+
+**Stem:**
+Read the sentence from paragraph 7.
+
+“Female physicians are still more of a **curiosity** than anything.”
+
+How does the author’s use of the word *curiosity* impact the meaning of the sentence?
+
+A. It suggests that the public felt a strong desire to learn medical skills from the doctors.
+*B. It implies that the doctors were viewed as strange novelties rather than serious professionals.
+C. It indicates that the doctors were admired by the community for their unique and rare abilities.
+D. It conveys that the public found the doctors’ behavior to be mysterious and confusing.
+
+**Rationales:**
+
+*   **Option A is incorrect.** This distractor appeals to the most common definition of "curiosity" (the emotion of wanting to know or learn). A student might choose this if they fail to recognize that the word is being used as a noun to describe the *doctors* themselves, rather than the *feelings* of the patients.
+*   **Option B is the correct answer.** The standard requires analyzing word choice in context. Here, "a curiosity" refers to an unusual object or oddity (like an item in a museum). The context of the paragraph contrasts this word with "confidence in our abilities," suggesting that because they are viewed as "curiosities" or oddities, they are not yet respected as competent professionals.
+*   **Option C is incorrect.** This distractor correctly identifies that "a curiosity" implies something rare or unique, but it assigns a positive tone (admiration) to the word. A student might choose this if they ignore the surrounding text where the narrator mentions that patients "doubt" them and lack confidence.
+*   **Option D is incorrect.** This distractor connects "curiosity" to the idea of a "mystery." A student might choose this if they interpret the patients' lack of confidence as confusion about the doctors' behavior, rather than skepticism about their gender and ability.
+
+***
+
+**LBIDAT Evaluation**
+
+**Stem & Task: ✓**
+The task focuses on the impact of a specific word choice ("curiosity") on the meaning of the sentence. It requires the student to distinguish between the emotional definition of the word and its objectified definition (a novelty), and then apply that to the tone of the text. This aligns perfectly with the "advanced skill" description of RL.8.4.
+
+**The Key: ✓**
+The key is definitively correct. The text explicitly contrasts being a "curiosity" with being trusted or having patients be "confident in our abilities." Therefore, "curiosity" must carry the meaning of a novelty or oddity that lacks professional gravity.
+
+**Distractors: ✓**
+*   **Distractor A:** Plausible based on the primary definition of the word (polysemy error).
+*   **Distractor C:** Plausible based on a partial understanding of the word (rare/unique) but a failure to grasp the negative tone (connotation error).
+*   **Distractor D:** Plausible based on a related concept (mystery) but misses the specific nuance of "oddity" (definition precision error).
+All distractors are definitively incorrect based on the textual evidence of patient doubt.
+
+**Stimulus: ✓**
+The stimulus is a direct sentence from the text. It is short, accurate, and necessary to answer the question.
+
+**Fairness: ✓**
+The item discusses the historical view of female doctors as "curiosities," which is a historical fact relevant to the passage. It does not raise inappropriate sensitivity issues or bias.
+
+
+=============== NEW RUN (Claude) - 2026-01-15 19:37:28 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 4b (Claude) #1 (temp=0.7). (24.00 secs). (3971 + 715 = 4686 total tokens)
+
+Looking at this passage and the RL.8.4 standard requirements, I'll create a multiple choice item that focuses on how specific word choices impact meaning and tone, particularly examining connotative meanings beyond literal definitions.
+
+## Draft Item:
+
+**In paragraph 4, the narrator says Dr. Blackwell's approval "recedes in the distance." What does this phrase suggest about the narrator's relationship with Dr. Blackwell?**
+
+A. The narrator is physically moving away from Dr. Blackwell during their work together.
+
+B. Dr. Blackwell is considering relocating her medical practice to another city.
+
+*C. The harder the narrator tries to impress Dr. Blackwell, the more impossible it seems to earn her respect.
+
+D. The narrator's eyesight is failing from the stress of working at the hospital.
+
+### Rationales:
+
+**Option A (Distractor):** This represents a literal, physical interpretation of "recedes in the distance." A student selecting this misses the figurative nature of the language and fails to connect it to the emotional context of seeking approval.
+
+**Option B (Distractor):** This also takes "distance" literally but misapplies it to Dr. Blackwell's location rather than understanding it as a metaphor for the relationship between effort and achievement.
+
+**Option C (Key):** This correctly interprets the figurative language. "Recedes in the distance" creates an image of something moving further away as one approaches it—a paradox that perfectly captures the narrator's frustration. The phrase conveys both futility and increasing desperation, showing how the narrator's efforts seem counterproductive.
+
+**Option D (Distractor):** This misinterprets "distance" as relating to vision problems, missing both the figurative nature of the phrase and its connection to the emotional dynamic between the characters.
+
+## LBIDAT Evaluation:
+
+**Stem & Task:** ✓ - The task appropriately targets RL.8.4 by requiring students to analyze how a specific figurative phrase impacts meaning beyond its literal interpretation.
+
+**The Key:** ✓ - The key is definitively correct and directly responsive to the question about what the phrase suggests.
+
+**Distractors:** ✓ - Each distractor represents a plausible misunderstanding (literal interpretation, misapplication of context, or misattribution of the metaphor) and is definitively incorrect.
+
+**Stimulus:** ✓ - The passage provides necessary context for understanding the figurative language, and students must reference it to answer correctly.
+
+**Fairness:** ✓ - No sensitivity issues are raised by this item.
+
+## Final Version:
+
+**In paragraph 4, the narrator says Dr. Blackwell's approval "recedes in the distance." What does this phrase suggest about the narrator's relationship with Dr. Blackwell?**
+
+A. The narrator is physically moving away from Dr. Blackwell during their work together.
+
+B. Dr. Blackwell is considering relocating her medical practice to another city.
+
+*C. The harder the narrator tries to impress Dr. Blackwell, the more impossible it seems to earn her respect.
+
+D. The narrator's eyesight is failing from the stress of working at the hospital.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 4b (Claude) #2 (temp=0.8). (18.59 secs). (4700 + 731 = 5431 total tokens)
+
+Looking at the passage and RL.8.4 standard requirements, I'll create another multiple choice item that examines how word choice impacts tone and meaning, focusing on a different figurative expression.
+
+## Draft Item:
+
+**In paragraph 9, the narrator describes feeling "unjustly reprimanded, like a child caught sneaking sweets from a jar." How does this comparison shape the reader's understanding of the narrator's emotional state?**
+
+A. It shows the narrator believes Dr. Blackwell treats all medical students equally.
+
+B. It reveals the narrator was actually stealing supplies from the hospital.
+
+*C. It emphasizes that the narrator feels both unfairly criticized and diminished in status.
+
+D. It suggests the narrator thinks medical training should be more enjoyable.
+
+### Rationales:
+
+**Option A (Distractor):** This misinterprets the simile by focusing on equality of treatment rather than the emotional impact of being infantilized. A student selecting this misses how the comparison reveals the narrator's feelings of being belittled.
+
+**Option B (Distractor):** This takes the comparison literally, missing that "like" signals a simile. The student fails to recognize this as figurative language meant to convey emotional meaning rather than describe actual events.
+
+**Option C (Key):** This correctly interprets both layers of the simile. "Unjustly" conveys the narrator's sense of unfairness, while the comparison to a child caught misbehaving reveals feelings of being diminished and treated as immature despite being an adult professional. The specific image of "sneaking sweets" adds a layer of triviality that intensifies the humiliation.
+
+**Option D (Distractor):** This misinterprets "sweets" as suggesting training should be pleasant, missing how the simile actually functions to show the narrator's frustration at being treated like a naughty child rather than a competent adult.
+
+## LBIDAT Evaluation:
+
+**Stem & Task:** ✓ - The task appropriately targets RL.8.4 by requiring analysis of how a simile's specific imagery impacts meaning and reveals character emotions beyond literal interpretation.
+
+**The Key:** ✓ - The key is definitively correct and directly addresses how the comparison shapes understanding of emotional state.
+
+**Distractors:** ✓ - Each distractor represents a distinct misunderstanding (missing the emotional impact, literal interpretation, or focusing on the wrong element) and is definitively incorrect.
+
+**Stimulus:** ✓ - The passage context is essential for understanding why the narrator feels this way, requiring students to synthesize information from multiple paragraphs.
+
+**Fairness:** ✓ - No sensitivity issues are raised by this item.
+
+## Final Version:
+
+**In paragraph 9, the narrator describes feeling "unjustly reprimanded, like a child caught sneaking sweets from a jar." How does this comparison shape the reader's understanding of the narrator's emotional state?**
+
+A. It shows the narrator believes Dr. Blackwell treats all medical students equally.
+
+B. It reveals the narrator was actually stealing supplies from the hospital.
+
+*C. It emphasizes that the narrator feels both unfairly criticized and diminished in status.
+
+D. It suggests the narrator thinks medical training should be more enjoyable.
+
+
+=============== NEW RUN GPT - 2026-01-15 19:44:55 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 4b (GPT) #1 (temp=0.7). (8.82 secs). (3723 + 452 = 4175 total tokens)
+
+1. In paragraph 1, the town of Hanover is described as “anchored on a windy Nebraska tableland.” Based on this description, what is the most accurate meaning of the word “anchored” as it is used in the passage?
+
+A. Literally fastened to the ground with metal anchors, like a ship to the sea floor  
+B. *Struggling to stay in place against powerful forces that could move or scatter it*  
+C. Recently placed on the prairie, as if it had just arrived there overnight  
+D. Calm and unmoving, suggesting that nothing in the town ever changes  
+
+**Correct Answer: B***
+
+**Rationales**
+
+- **A. Literally fastened to the ground with metal anchors, like a ship to the sea floor**  
+  This takes “anchored” only in its most literal, nautical sense and ignores the context of a town on land. The passage uses “anchored” figuratively, not to describe actual metal anchors in the prairie.
+
+- **B. *Struggling to stay in place against powerful forces that could move or scatter it***  
+  This is correct. The town is “anchored” on a windy tableland and is “trying not to be blown away.” The figurative use of “anchored” suggests the town is barely holding its position against the wind, emphasizing its vulnerability and the harshness of the environment, which shapes the tone of uncertainty and instability.
+
+- **C. Recently placed on the prairie, as if it had just arrived there overnight**  
+  This confuses “anchored” with the later description that some houses look “as if they had been moved in overnight.” That idea applies to individual houses, not to the word “anchored” describing the whole town’s relationship to the land.
+
+- **D. Calm and unmoving, suggesting that nothing in the town ever changes**  
+  This misreads the tone. The surrounding details—“windy,” “trying not to be blown away,” “mist of fine snowflakes… curling and eddying”—create a sense of motion and threat, not calm. So “anchored” cannot reasonably mean peaceful stillness here.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 4b (GPT) #2 (temp=0.8). (6.29 secs). (4186 + 401 = 4587 total tokens)
+
+2. In paragraph 1, the narrator says the buildings were “huddled on the gray prairie, under a gray sky.” How does the word “huddled” most strongly affect the meaning and tone of this description?
+
+A. It suggests the buildings are neatly arranged in careful, even rows.  
+B. *It makes the buildings seem small, vulnerable, and pressed together for protection.*  
+C. It shows that the buildings are growing closer together over time.  
+D. It implies that the buildings are crowded and noisy, like a busy city street.  
+
+**Correct Answer: B***
+
+**Rationales**
+
+- **A. It suggests the buildings are neatly arranged in careful, even rows.**  
+  This contradicts the passage, which says the houses were “set about haphazard,” meaning not neatly or evenly. “Huddled” does not mean carefully arranged; it suggests clustering, not order.
+
+- **B. *It makes the buildings seem small, vulnerable, and pressed together for protection.*  
+  This is correct. “Huddled” is often used for people or animals crowding together for warmth or safety. Used figuratively for buildings, it gives the town a fragile, anxious feeling, as if the buildings are trying to protect themselves from the harsh wind and gray landscape. This deepens the bleak, uneasy tone.
+
+- **C. It shows that the buildings are growing closer together over time.**  
+  “Huddled” describes how they are positioned now, not a change happening over time. There is no indication in the text of movement or gradual closeness.
+
+- **D. It implies that the buildings are crowded and noisy, like a busy city street.**  
+  “Huddled” here does not suggest noise or busyness. The rest of the description—cold, wind, empty streets—emphasizes quiet and isolation, not city-like activity.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 19:52:15 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 4b (Gemini) #1 (temp=0.7). (64.11 secs). (4359 + 633 = 4992 total tokens)
+
+Here is a unique multiple-choice item aligned to Common Core State Standard RL.8.4, designed for 8th-grade students based on the passage from *O Pioneers!* by Willa Cather.
+
+***
+
+**Item Stem:**
+Read this sentence from the first paragraph.
+
+“One January day, thirty years ago, the little town of Hanover, anchored on a windy Nebraska tableland, was trying not to be blown away.”
+
+What does the author’s use of the word *anchored* suggest about the town?
+
+A. It is a permanent fixture that fits naturally into the landscape.
+B. It is engaged in a constant struggle to remain in place against the wind. *
+C. It is a busy port city located near a large body of water.
+D. It is weighed down by the heavy snow covering the rooftops.
+
+***
+
+**Rationales:**
+
+*   **A (Distractor):** This option appeals to the denotative meaning of "anchored" as being fixed or secure. However, it ignores the context of the sentence ("trying not to be blown away") and the subsequent description in the text stating the buildings had "no appearance of permanence."
+*   **B (Key):** The author uses "anchored" metaphorically. An anchor holds a ship against the current or wind. By describing the town as "anchored" on a "windy... tableland" while "trying not to be blown away," the author suggests the town is barely holding on against the violent forces of nature, emphasizing the harshness of the setting.
+*   **C (Distractor):** This option represents a literal interpretation of the word "anchored," associating it with ships and water. It fails to recognize the metaphorical usage of the word in the context of a prairie town.
+*   **D (Distractor):** This option interprets "anchored" as being weighed down or heavy. While snow is mentioned in the text ("mist of fine snowflakes"), the context of the sentence focuses on the wind ("blown away"), not the weight of the snow.
+
+***
+
+**LBIDAT Evaluation:**
+
+*   **Stem & Task (✓):** The task asks the student to interpret the connotation and implication of a specific word choice within the context of the text, which is directly aligned to RL.8.4.
+*   **The Key (✓):** Option B is definitively correct based on the textual evidence "trying not to be blown away" and the metaphor of the prairie as a sea (implied by "anchored").
+*   **Distractors (✓):** The distractors represent common types of errors: relying on denotation over context (A), literal interpretation of figurative language (C), and misattribution of cause/context (D). None are plausibly correct interpretations of the text.
+*   **Stimulus (✓):** The excerpt provided is sufficient to answer the question without outside knowledge.
+*   **Fairness (✓):** The item does not raise sensitive topics or bias.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 4b (Gemini) #2 (temp=0.8). (33.33 secs). (5005 + 651 = 5656 total tokens)
+
+Here is a unique multiple-choice item aligned to Common Core State Standard RL.8.4, designed for 8th-grade students based on the passage from *O Pioneers!* by Willa Cather.
+
+***
+
+**Item Stem:**
+Read this sentence from the first paragraph.
+
+“A mist of fine snowflakes was curling and eddying about the cluster of low drab buildings huddled on the gray prairie, under a gray sky.”
+
+What is the impact of the author’s use of the word *huddled* in this sentence?
+
+A. It creates a tone of secrecy, as if the town is hiding something from the outside world.
+B. It suggests the town is fragile and seemingly shrinking away from the cold. *
+C. It indicates that the town is growing quickly and the buildings are becoming overcrowded.
+D. It conveys a sense of confusion by describing the buildings as messy and disorganized.
+
+***
+
+**Rationales:**
+
+*   **A (Distractor):** This option relies on a secondary meaning of "huddle" (to gather to make a plan or share secrets). However, the context of the sentence focuses on the physical landscape and weather, not the social behavior of the inhabitants.
+*   **B (Key):** The author uses "huddled" figuratively to personify the buildings. Just as a person or animal would huddle to conserve heat and protect themselves from the elements, the buildings are described as pulling close together against the "mist of fine snowflakes" and "gray sky." This emphasizes the harshness of the environment and the vulnerability of the town.
+*   **C (Distractor):** This option interprets the closeness implied by "huddled" as a sign of population growth or lack of space. The text, however, describes a "little town" on a vast "tableland," suggesting isolation rather than overpopulation.
+*   **D (Distractor):** This option confuses the meaning of "huddled" with "haphazard," which appears later in the text. While the town is described as disorganized elsewhere, the specific word "huddled" in this sentence refers to the reaction to the cold/wind, not the architectural layout.
+
+***
+
+**LBIDAT Evaluation:**
+
+*   **Stem & Task (✓):** The item asks the student to analyze the impact of a specific word choice on the meaning and tone of the text, directly addressing RL.8.4.
+*   **The Key (✓):** Option B is definitively correct because it captures the personification intended by the author in the context of the harsh weather described in the sentence.
+*   **Distractors (✓):** The distractors are plausible misinterpretations: A relies on a different definition of the word inappropriate for the context; C relies on a literal interpretation of spatial proximity; D conflates the word with a different descriptor used nearby in the text.
+*   **Stimulus (✓):** The sentence provided in the stem, supported by the full passage, is sufficient for the student to determine the answer.
+*   **Fairness (✓):** The item is free from bias and sensitivity issues.
+
+
+=============== NEW RUN (Claude) - 2026-01-15 20:05:16 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 4b (Claude) #1 (temp=0.7). (27.84 secs). (4045 + 864 = 4909 total tokens)
+
+I'll create a multiple choice item aligned to RL.8.4 that focuses on the nuanced meaning and tone created by specific word choices in this passage.
+
+**Draft Item:**
+
+Read this sentence from the passage:
+
+*"She wore a man's long ulster (not as if it were an affliction, but as if it were very comfortable and belonged to her; carried it like a young soldier), and a round plush cap, tied down with a thick veil."*
+
+How does the phrase "carried it like a young soldier" impact the meaning and tone of Alexandra's characterization?
+
+A. It suggests that Alexandra is literally training for military service, which was unusual for women at that time.
+
+B. It implies that Alexandra is playing dress-up in her father's clothes to appear more mature than she really is.
+
+*C. It conveys that Alexandra bears herself with confidence and purpose despite wearing unconventional clothing for a woman.
+
+D. It indicates that Alexandra is angry and aggressive, ready to fight anyone who challenges her.
+
+**Rationales:**
+
+**Option A (Distractor):** A student might select this if they interpret "soldier" too literally without considering the figurative comparison. This represents a misunderstanding of simile as a literary device - the text uses "like" to make a comparison about bearing/attitude, not to suggest actual military involvement.
+
+**Option B (Distractor):** This choice might appeal to students who recognize the clothing is unusual but misinterpret the tone. They might focus on "man's long ulster" and assume she's pretending or playing, missing the narrator's emphasis that she wears it "as if it were very comfortable and belonged to her" - indicating ownership and authenticity rather than pretense.
+
+**Option C (Key):** This is correct because the simile "like a young soldier" combined with the parenthetical observation creates a tone of admiration for Alexandra's self-assured bearing. The comparison to a soldier suggests discipline, purpose, and confidence. The narrator explicitly states she doesn't wear the coat "as if it were an affliction" but rather as if it "belonged to her," establishing that her unconventional choice is worn with dignity and ownership, not shame or awkwardness.
+
+**Option D (Distractor):** Students might choose this if they associate "soldier" only with combat and aggression, missing the figurative meaning about bearing and posture. The context shows Alexandra as "serious" and "thoughtful," not aggressive. Her subsequent gentle interaction with Emil contradicts this interpretation.
+
+**LBIDAT Evaluation:**
+
+- **Stem & Task:** ✓ (Properly aligned to RL.8.4, focusing on figurative meaning and impact on tone)
+- **Key:** ✓ (Definitively correct and directly responsive)
+- **Distractors:** ✓ (Each represents a plausible misinterpretation of the figurative language)
+- **Stimulus:** ✓ (Requires analysis of the specific phrase in context)
+- **Fairness:** ✓ (No sensitivity issues)
+
+**Final Version:**
+
+Read this sentence from the passage:
+
+*"She wore a man's long ulster (not as if it were an affliction, but as if it were very comfortable and belonged to her; carried it like a young soldier), and a round plush cap, tied down with a thick veil."*
+
+How does the phrase "carried it like a young soldier" impact the meaning and tone of Alexandra's characterization?
+
+A. It suggests that Alexandra is literally training for military service, which was unusual for women at that time.
+
+B. It implies that Alexandra is playing dress-up in her father's clothes to appear more mature than she really is.
+
+*C. It conveys that Alexandra bears herself with confidence and purpose despite wearing unconventional clothing for a woman.
+
+D. It indicates that Alexandra is angry and aggressive, ready to fight anyone who challenges her.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 4b (Claude) #2 (temp=0.8). (21.52 secs). (4923 + 792 = 5715 total tokens)
+
+I'll create another multiple choice item aligned to RL.8.4 that examines different word choices and their impact on meaning and tone.
+
+**Draft Item:**
+
+Read this description of the town from the passage:
+
+*"One January day, thirty years ago, the little town of Hanover, anchored on a windy Nebraska tableland, was trying not to be blown away."*
+
+What does the author's use of the word "anchored" suggest about the town's relationship with its environment?
+
+A. The town has a thriving shipping industry despite being landlocked on the prairie.
+
+B. The town's buildings are literally chained to the ground to prevent wind damage.
+
+C. The town is permanently secure and will definitely survive for generations.
+
+*D. The town clings precariously to its location, barely maintaining its existence against hostile forces.
+
+**Rationales:**
+
+**Option A (Distractor):** Students might select this if they only know "anchored" in its most common nautical context and fail to recognize the metaphorical use. This represents a misunderstanding where students apply only the denotative meaning without considering how the word functions figuratively in this prairie setting.
+
+**Option B (Distractor):** This choice might appeal to students who recognize that "anchored" relates to securing something but interpret it too literally. They miss that this is figurative language describing the town's tenuous position, not an actual description of construction methods.
+
+**Option C (Distractor):** Students might choose this if they understand "anchored" to mean "secure" but miss the ironic tension in the phrase "trying not to be blown away." They focus on the security implied by "anchored" without recognizing how the surrounding context undermines that security, creating a tone of vulnerability rather than permanence.
+
+**Option D (Key):** This is correct because "anchored" creates a metaphor comparing the town to a ship that must be secured against forces trying to move it. Combined with "trying not to be blown away," this word choice creates dramatic irony - something "anchored" shouldn't need to "try" not to blow away. This tension reveals the town's fragile existence. The metaphor suggests the town is barely holding on, like a ship in a storm, emphasizing the harsh, hostile environment and the settlement's impermanence.
+
+**LBIDAT Evaluation:**
+
+- **Stem & Task:** ✓ (Properly aligned to RL.8.4, focusing on connotative meaning and tone)
+- **Key:** ✓ (Definitively correct and directly responsive)
+- **Distractors:** ✓ (Each represents a plausible misinterpretation based on different reading strategies)
+- **Stimulus:** ✓ (Requires analysis of the specific word in its textual context)
+- **Fairness:** ✓ (No sensitivity issues)
+
+**Final Version:**
+
+Read this description of the town from the passage:
+
+*"One January day, thirty years ago, the little town of Hanover, anchored on a windy Nebraska tableland, was trying not to be blown away."*
+
+What does the author's use of the word "anchored" suggest about the town's relationship with its environment?
+
+A. The town has a thriving shipping industry despite being landlocked on the prairie.
+
+B. The town's buildings are literally chained to the ground to prevent wind damage.
+
+C. The town is permanently secure and will definitely survive for generations.
+
+*D. The town clings precariously to its location, barely maintaining its existence against hostile forces.

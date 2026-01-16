@@ -1,0 +1,50 @@
+Standard:  RI 8.2
+ID: 91456
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 5b (Claude) #1 (temp=0.7). (28.11 secs). (3581 + 720 = 4301 total tokens)
+
+Looking at this passage about elephant cooperation, I need to create an item that tests students' ability to identify and analyze how a central idea develops through supporting ideas across the text.
+
+Let me first identify the central idea and trace its development:
+- **Central idea**: Elephants demonstrate advanced social cognition through their ability to understand when cooperation is necessary
+- **Development pattern**: The text moves from introducing this claim → explaining the experimental methodology → presenting increasingly complex evidence → connecting findings to broader scientific context
+
+Here's my item:
+
+---
+
+**Item:**
+
+How does the central idea about elephants' cooperative abilities develop throughout the passage?
+
+A. The passage begins by stating that elephants can cooperate, then describes a simple experiment, and concludes by showing that elephants perform these tasks faster than any other species tested.
+
+B. The passage introduces the concept of elephant cooperation as a sign of higher cognition, then presents experiments showing elephants understand when help is needed, and finally connects these findings to observations of elephant behavior in nature and comparisons with other species.
+
+C. The passage starts with examples of elephants helping each other in the wild, then describes laboratory experiments that failed to prove cooperation, and ends by explaining why more research is needed.
+
+D. The passage opens with a comparison between elephants and chimpanzees, then focuses entirely on the rope-pulling experiment, and concludes that elephants are more intelligent than all other animals.
+
+**Answer: B***
+
+**Rationales:**
+
+**A** - This distractor misrepresents the development by suggesting the passage concludes elephants are faster than "any other species tested." While the text mentions elephants learned faster than chimpanzees in one aspect, this oversimplifies and mischaracterizes how the central idea develops. The progression also omits key supporting elements like the connection to natural observations.
+
+**B*** - This correctly traces how the central idea develops: (1) Introduction establishes elephant cooperation as evidence of higher social cognition, (2) Body presents increasingly complex experimental evidence showing elephants understand the need for cooperation (waiting for partners, giving up when cooperation is impossible), (3) Conclusion reinforces findings through expert validation and connections to both natural observations and comparative studies with other species.
+
+**C** - This reverses the actual development pattern. The passage begins with the experimental findings as primary evidence, not wild examples. It also incorrectly states the experiments "failed to prove cooperation" when they actually demonstrated it successfully.
+
+**D** - This distractor misrepresents both the opening (which doesn't begin with a comparison) and the conclusion (which doesn't claim elephants are more intelligent than all other animals). It also incorrectly suggests the passage focuses "entirely" on one experiment, missing the broader development through multiple experiments and contextual connections.
+
+---
+
+**LBIDAT Analysis:**
+
+- **Stem & Task**: ✓ (Directly aligned to RI.8.2, asking about central idea development)
+- **The Key**: ✓ (Definitively correct, directly responsive)
+- **Distractors**: ✓ (Each represents a plausible misreading of the text's development)
+- **Stimulus**: ✓ (Appropriate length and complexity for 8th grade)
+- **Fairness**: ✓ (No sensitivity issues)

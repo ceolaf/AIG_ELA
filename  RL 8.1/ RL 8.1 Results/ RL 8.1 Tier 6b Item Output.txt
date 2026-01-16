@@ -70,3 +70,72 @@ D. “The circus feels strange in the daytime, too quiet.”
 - **Option C:** This shows the circus seems empty and deserted, which contributes to the daytime atmosphere but does not clearly state that Bailey cannot feel any magic.
 
 - **Option D:** This indicates that the circus feels “strange” and “too quiet” in the daytime, suggesting a different mood, but it is less direct than option B about Bailey’s inability to feel the magic.
+
+
+=============== NEW RUN GPT - 2026-01-15 11:52:32 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 6b (GPT) #1 (temp=0.7). (6.07 secs). (3423 + 380 = 3803 total tokens)
+
+Item (aligned to RL.8.1)
+
+Which sentence from the passage best supports the idea that Jim Bridger’s knowledge of the Rocky Mountains made him valuable to other people?
+
+A. “In his travels, he learned a great deal about the terrain and wildlife of the area.”  
+B. “Because of his knowledge and skills, he became a valued guide.” *  
+C. “People often hired him to lead them across the mountains.”  
+D. “In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains.”
+
+---
+
+Rationales
+
+A. “In his travels, he learned a great deal about the terrain and wildlife of the area.”  
+- This shows that Bridger gained knowledge, but it does not directly state that this knowledge made him valuable to others. It supports his learning, not specifically his value to other people.
+
+B. “Because of his knowledge and skills, he became a valued guide.” *  
+- This is the best evidence because it explicitly connects Bridger’s “knowledge and skills” to his being “a valued guide,” directly supporting the idea that his knowledge of the mountains made him valuable to others.
+
+C. “People often hired him to lead them across the mountains.”  
+- This shows that people used his services, but it does not clearly state that it was his knowledge that made him valuable. It implies usefulness but does not directly tie it to his knowledge in the way option B does.
+
+D. “In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains.”  
+- This shows an achievement that required knowledge, but it focuses on the discovery of a shortcut, not on his value to other people. It is related, but it does not most strongly support the idea that his knowledge made him valuable.
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 6b (GPT) #2 (temp=0.8). (4.55 secs). (3814 + 352 = 4166 total tokens)
+
+Item (aligned to RL.8.1)
+
+The passage states that Jim Bridger “became famous for telling tall tales.” Which sentence from the passage best supports this statement?
+
+A. “Often, the settlers stopped to buy supplies, get their wagons fixed, and hear Jim Bridger's stories.” *  
+B. “Bridger's stories were funny, extravagant, and often unbelievable.”  
+C. “These outrageous stories were told both to tease new arrivals from the east and to amuse the locals who knew they weren't true.”  
+D. “He became a valued guide.”
+
+---
+
+Rationales
+
+A. “Often, the settlers stopped to buy supplies, get their wagons fixed, and hear Jim Bridger's stories.” *  
+- This best supports his fame as a storyteller because it shows that many settlers specifically came to listen to his stories, indicating he was well-known and sought out for them.
+
+B. “Bridger's stories were funny, extravagant, and often unbelievable.”  
+- This describes the nature of his tall tales but does not show that he was “famous” for them. It explains what the stories were like, not how well known they made him.
+
+C. “These outrageous stories were told both to tease new arrivals from the east and to amuse the locals who knew they weren't true.”  
+- This shows why and to whom he told his stories, but it still does not directly support that he became “famous” for them.
+
+D. “He became a valued guide.”  
+- This refers to his reputation as a guide, not as a teller of tall tales, so it does not support the statement about his becoming famous for storytelling.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 12:00:13 ===============
+

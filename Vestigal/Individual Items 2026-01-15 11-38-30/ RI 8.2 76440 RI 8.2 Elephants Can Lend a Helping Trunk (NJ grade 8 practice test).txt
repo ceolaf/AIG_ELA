@@ -1,0 +1,54 @@
+Standard:  RI 8.2
+ID: 76440
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 2a (GPT) #2 (temp=0.8). (11.90 secs). (1361 + 539 = 1900 total tokens)
+
+2. Which sentence is the best objective summary of the passage?
+
+A. In Thailand, trainers taught elephants to pull ropes for bowls of corn, proving that elephants can easily learn tricks from humans.  
+B. Scientists ran several rope‑pulling experiments with elephants and chimpanzees and found that elephants are the smartest animals in the world.  
+*C. A study in Thailand showed that elephants understand when they need a partner’s help to get a reward, and other scientists note that this cooperative behavior matches what has been seen in wild elephants.*  
+D. Researchers discovered that elephants will always wait patiently for their partners, while rooks and chimpanzees usually refuse to cooperate in experiments.
+
+**Correct Answer: C***
+
+---
+
+### Rationales
+
+**Option A:**  
+- Not correct because it focuses on training and “tricks,” which is only a small part of the passage.  
+- The main purpose of the study was to explore elephants’ social cognition and understanding of cooperation, not just to show they can be trained.  
+- This summary leaves out key ideas about needing a partner, understanding when help is required, and comparisons to other animals.
+
+**Option B:**  
+- Incorrect because it is not objective and is factually inaccurate.  
+- The passage never claims elephants are “the smartest animals in the world.” It only says they “join an elite club of social cooperators” and compares their performance with chimpanzees and rooks in specific tasks.  
+- The summary also ignores the details about waiting for partners and giving up when a partner cannot help.
+
+**Option C (Correct):**  
+- This option captures the central idea: elephants show advanced social cognition by recognizing when they need a partner’s assistance to succeed.  
+- It accurately mentions the setting (a study in Thailand), the main task (getting a reward by cooperating), and the key conclusion (understanding the need for help).  
+- It also includes how scientists connect the lab findings to observations of wild elephants, which is a major supporting idea in the passage.  
+- The tone is neutral and factual, making it an objective summary.
+
+**Option D:**  
+- Not correct because it exaggerates and distorts the comparisons.  
+- The passage does say elephants could wait longer than chimpanzees and that rooks failed to wait, but it does not say chimps and rooks “usually refuse to cooperate.”  
+- Saying elephants “will always wait patiently” overstates the findings and is not supported by the text.  
+- This option focuses too narrowly on one detail and misrepresents the overall evidence, so it is not a good objective summary.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:06:24 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get
+
+
+
+=============== NEW RUN (Claude) - 2026-01-15 11:13:04 ===============

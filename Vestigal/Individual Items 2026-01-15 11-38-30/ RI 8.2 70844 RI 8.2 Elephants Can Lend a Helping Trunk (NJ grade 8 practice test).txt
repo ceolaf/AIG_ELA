@@ -1,0 +1,52 @@
+Standard:  RI 8.2
+ID: 70844
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 6b (Claude) #2 (temp=0.8). (23.32 secs). (4478 + 759 = 5237 total tokens)
+
+I'll create a different multiple choice item that examines a different aspect of how central and supporting ideas relate in this text.
+
+**Draft Item:**
+
+Which statement best describes how the supporting ideas about the rope experiment relate to the text's central idea about elephant cognition?
+
+A. The experimental procedures establish baseline elephant abilities, the results showing waiting behavior demonstrate understanding of cooperation, and the variations with delayed partners prove elephants recognize the necessity of collaborative effort.
+
+B. The rope experiment descriptions provide background information, the training methods explain elephant limitations, and the comparison data shows elephants perform worse than expected.
+
+C. The experimental setup introduces unnecessary complexity, the elephant responses reveal instinctive rather than cognitive behavior, and the scientist quotes minimize the significance of the findings.
+
+D. The initial rope training demonstrates individual problem-solving, the paired trials show competitive rather than cooperative behavior, and the delayed release tests prove elephants act independently.
+
+**Answer Key:** A*
+
+**Rationales:**
+
+**Option A (Key):** This correctly identifies how the supporting ideas build the central claim. The text uses the rope experiment systematically: first explaining the setup (paragraph 2), then showing how elephants learned to wait for partners (paragraph 3 - "They would stand there holding their end of the rope, just waiting"), and finally demonstrating their understanding through the variation where one rope was unreachable ("the other one would just give up"). Each supporting detail progressively strengthens the central idea that elephants possess higher social cognition.
+
+**Option B:** This mischaracterizes the relationship between ideas. The text doesn't present the experiments as showing limitations or worse-than-expected performance. Instead, it notes elephants "learned to do this faster than the chimpanzees."
+
+**Option C:** This contradicts the text's actual presentation. The experimental complexity is presented as necessary and appropriate, the responses are explicitly described as cognitive rather than instinctive ("a sign of higher social cognition"), and the scientist quotes emphasize rather than minimize the significance.
+
+**Option D:** This misrepresents the experimental findings. The text clearly describes cooperative, not competitive behavior, and the delayed release tests specifically prove elephants understand interdependence, not independence (they wait for their partners).
+
+**LBIDAT Analysis:**
+
+- **Stem & Task:** ✓ - Appropriately targets the relationship between central and supporting ideas
+- **Key:** ✓ - Definitively correct and directly responsive to the question
+- **Distractors:** ✓ - Each represents a plausible but incorrect interpretation of how the ideas relate
+- **Stimulus:** ✓ - Required for successful response; cannot be answered without careful reading
+- **Fairness:** ✓ - No sensitivity issues present
+
+**Final Version:**
+
+Which statement best describes how the supporting ideas about the rope experiment relate to the text's central idea about elephant cognition?
+
+A.* The experimental procedures establish baseline elephant abilities, the results showing waiting behavior demonstrate understanding of cooperation, and the variations with delayed partners prove elephants recognize the necessity of collaborative effort.
+
+B. The rope experiment descriptions provide background information, the training methods explain elephant limitations, and the comparison data shows elephants perform worse than expected.
+
+C. The experimental setup introduces unnecessary complexity, the elephant responses reveal instinctive rather than cognitive behavior, and the scientist quotes minimize the significance of the findings.
+
+D. The initial rope training demonstrates individual problem-solving, the paired trials show competitive rather than cooperative behavior, and the delayed release tests prove elephants act independently.

@@ -1,0 +1,56 @@
+Standard:  RI 8.2
+ID: 63579
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 4b (GPT) #1 (temp=0.7). (16.00 secs). (3187 + 809 = 3996 total tokens)
+
+Stem and item are written for an 8th-grade informational text standard (RI.8.2). One multiple-choice item with four options, one keyed correct (marked with *), and rationales follow.
+
+---
+
+Item (RI.8.2 – central idea, its development, and supporting ideas)
+
+1. Which statement best explains a central idea of the passage and how it is developed over the course of the text?
+
+A. The passage argues that elephants are the most intelligent animals because they can solve rope-pulling puzzles more quickly than chimpanzees, and it develops this idea by comparing elephants with other species.  
+
+B. The passage explains that elephants can cooperate in complex ways, and it develops this idea by describing experiments that test their cooperation and by connecting the results to similar behaviors seen in the wild.*  
+
+C. The passage shows that elephant trainers (mahouts) are important for scientific research, and it develops this idea by focusing on how the mahouts prepared the elephants and guided them through the tasks.  
+
+D. The passage warns that elephants may become too dependent on human-designed tasks, and it develops this idea by criticizing the experiments and suggesting they do not match real-life situations.
+
+---
+
+Rationales
+
+A.  
+Reasoning path: A student choosing this might notice the comparison to chimpanzees and the mention that elephants “learned to do this faster than the chimpanzees.”  
+Why it’s incorrect:  
+- It misstates the central idea: the passage does not claim elephants are “the most intelligent animals”; it says they join “an elite club of social cooperators.”  
+- The comparison to chimpanzees is one supporting detail, not the main focus of the text.  
+- The development of the passage centers on cooperation and social cognition, not on ranking overall intelligence.
+
+B. * (Keyed correct)  
+Reasoning path:  
+- Identifies the central idea: elephants can cooperate in sophisticated ways that show higher social cognition. This is introduced in paragraph 1 (“Elephants know when they need a helping hand—or rather, trunk… a sign of higher social cognition”).  
+- Tracks development:  
+  - Paragraph 2 describes the basic cooperative rope experiment and how elephants learned to pull together for a shared reward.  
+  - Paragraph 3 explains more advanced versions of the experiment (delayed release, unreachable rope) that show elephants understand when a partner is needed and when cooperation is impossible.  
+  - Paragraph 4 adds expert commentary and examples from the wild (lifting a fallen companion) that connect the lab findings to natural elephant behavior and to other species.  
+Why it’s correct: It accurately states a central idea and correctly explains how the author develops that idea through experiments and real-world observations.
+
+C.  
+Reasoning path: A student choosing this might focus on the mention of mahouts and think the trainers are central to the research.  
+Why it’s incorrect:  
+- The role of mahouts is a minor supporting detail that explains how the elephants were trained, not the focus of the article.  
+- The passage does not “focus” on how mahouts guided the tasks; most of the text explains the design of the experiments, the elephants’ behavior, and scientists’ interpretations.  
+- It misidentifies a supporting detail as the central idea and misrepresents how the text is developed.
+
+D.  
+Reasoning path: A student choosing this might assume any scientific experiment on animals is being criticized or might misread the experts’ comments as warnings.  
+Why it’s incorrect:  
+- The passage is not a warning and does not claim elephants become “too dependent on human-designed tasks.”  
+- The scientists quoted describe the experiments as “clever” and say the study “adds to the growing body of evidence” of elephants’ impressive abilities; there is no criticism of the experiments’ realism.  
+- This option invents a central idea and a critical tone that are not supported by the text.

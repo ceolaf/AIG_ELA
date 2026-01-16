@@ -1,0 +1,57 @@
+Standard:  RI 8.2
+ID: 44608
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+
+Looking at this passage about elephant cooperation and the RI.8.2 standard requirements, I'll develop a multiple choice item that examines how a central idea develops through its relationship to supporting ideas.
+
+## Draft Item:
+
+**Which statement best describes how the central idea about elephants' cooperative intelligence develops throughout the text and its relationship to supporting ideas?**
+
+A. The text begins by establishing elephants' ability to cooperate, then uses experimental evidence to demonstrate this ability, and concludes by comparing elephants favorably to other intelligent species, showing they surpass even chimpanzees in some cooperative tasks.
+
+*B. The text introduces the claim that elephants understand when cooperation is necessary, develops this through describing increasingly complex experiments that test different aspects of cooperation, and reinforces it with expert validation and natural observations that confirm the experimental findings.
+
+C. The text starts with a broad statement about elephant intelligence, narrows to focus exclusively on one experiment's methodology, then expands again to discuss how elephants use cooperation in their natural habitat to help fallen companions.
+
+D. The text presents the finding that elephants can cooperate, explains the historical background of cooperation studies dating to the 1930s, then systematically compares elephants to each species mentioned (chimpanzees, hyenas, rooks, and humans) to rank their abilities.
+
+## Rationales:
+
+**Option A (Distractor):** A student might select this if they notice the comparison to chimpanzees but miss how the development is structured around proving understanding rather than just ability. While the text does compare elephants to chimpanzees, this isn't how the central idea develops—it's a supporting detail. The development is about proving understanding of cooperation, not establishing superiority.
+
+**Option B (Key):** This correctly identifies the central idea (elephants understand when cooperation is necessary—not just that they can cooperate) and accurately traces its development: introduction of the claim, systematic experimental evidence of increasing complexity (basic cooperation → waiting for partners → recognizing when cooperation is impossible), and validation through expert commentary and natural observations. The supporting ideas (experiments, expert quotes, field observations) all work to prove this understanding.
+
+**Option C (Distractor):** This mischaracterizes the text's structure. The text doesn't narrow to focus "exclusively" on one experiment—it describes multiple experimental variations. Also, the natural observations are brief supporting evidence at the end, not an equal expansion of focus. Students might choose this if they notice the experiment descriptions take up most of the text but misunderstand the purposeful progression.
+
+**Option D (Distractor):** While the text mentions these species, it doesn't systematically compare elephants to each one or attempt to rank them. The 1930s reference is about the experimental design's origin, not a historical background of cooperation studies. Students might select this if they focus on the list of species in the first paragraph without understanding these are mentioned only to establish context.
+
+## Final Version:
+
+**Which statement best describes how the central idea about elephants' cooperative intelligence develops throughout the text and its relationship to supporting ideas?**
+
+A. The text begins by establishing elephants' ability to cooperate, then uses experimental evidence to demonstrate this ability, and concludes by comparing elephants favorably to other intelligent species, showing they surpass even chimpanzees in some cooperative tasks.
+
+*B. The text introduces the claim that elephants understand when cooperation is necessary, develops this through describing increasingly complex experiments that test different aspects of cooperation, and reinforces it with expert validation and natural observations that confirm the experimental findings.
+
+C. The text starts with a broad statement about elephant intelligence, narrows to focus exclusively on one experiment's methodology, then expands again to discuss how elephants use cooperation in their natural habitat to help fallen companions.
+
+D. The text presents the finding that elephants can cooperate, explains the historical background of cooperation studies dating to the 1930s, then systematically compares elephants to each species mentioned (chimpanzees, hyenas, rooks, and humans) to rank their abilities.
+
+================== Passage Text =================
+
+Elephants Can Lend a Helping Trunk
+by Virginia Morell 
+
+
+Elephants know when they need a helping hand—or rather, trunk. That’s the conclusion of a new study that tested the cooperative skills of Asian elephants (Elephas maximus) in Thailand and showed that the pachyderms understand that they will fail at a task without a partner’s assistance. The ability to recognize that you sometimes need a little help from your friends is a sign of higher social cognition, psychologists say, and is rarely found in other species. Elephants now join an elite club of social cooperators: chimpanzees, hyenas, rooks, and humans.
+
+To test the elephants’ cooperation skills, a team of scientists modified a classic experiment first administered to chimpanzees in the 1930s, which requires two animals work together to earn a treat. If they don’t cooperate, neither gets the reward. For the elephants, the researchers used a sliding table with a single rope threaded around it. Two bowls of corn were attached to the table, but the elephants could reach them only by pulling two ends of the rope simultaneously. Working with mahout—Asian elephant trainers—trained elephants at the Thai Elephant Conservation Center in Lampang, the researchers first taught individual animals to pull the rope with their trunks. The 12 elephants were then divided into six pairs, and each pair was released to walk to their waiting ropes. If one animal pulled the rope before the other, the rope would slip out, leaving the table—and treats—in place. “That taught them to pull together,” says Joshua Plotnik, a postdoc in experimental psychology at the University of Cambridge in the United Kingdom and the lead author of the study, which appears online this week in the Proceedings of the National Academy of Sciences.
+
+To find out if the elephants understood that they needed one another’s assistance, the researchers upped the challenge by releasing the elephants at different times. Thus, one elephant would arrive at the table before the other and would have to wait for a partner to show up before pulling the rope. “They learned to do this faster than the chimpanzees,” says Plotnik. “They would stand there holding their end of the rope, just waiting.” In another experiment, the partner’s rope was placed out of reach. “When the partner couldn’t do anything, the other one would just give up,” Plotnik says. That shows the elephants understood why the partner was needed, he adds.
+
+“These are clever experiments,” says Karen McComb, a behavioral ecologist at the University of Sussex in the United Kingdom who studies social cognition in wild elephants. The findings are consistent with observations in nature, she says. For instance, in East Africa biologists have seen elephants work together to lift a fallen companion with their tusks. “It’s particularly striking that the elephants were able to inhibit pulling” longer than chimpanzees do, comparative psychologist Nicola Clayton of the University of Cambridge in the United Kingdom. She and her team showed that rooks, too, could pass a similar dual-rope exam, although they failed to wait. The study “adds to the growing body of evidence that elephants show some impressive cognitive abilities.”
+
+“Elephants Can Lend a Helping Trunk” by Virginia Morell, from Science, March
+2011 issue. Copyright © 2011 by American Association for the Advancement of
+Science. Reprinted by permission of AAAS.

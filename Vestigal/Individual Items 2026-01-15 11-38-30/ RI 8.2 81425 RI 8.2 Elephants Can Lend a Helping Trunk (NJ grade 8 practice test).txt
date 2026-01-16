@@ -1,0 +1,65 @@
+Standard:  RI 8.2
+ID: 81425
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 5a (GPT) #1 (temp=0.7). (15.34 secs). (1125 + 985 = 2110 total tokens)
+
+**Item (RI.8.2 – Central Idea & Its Development)**  
+
+Which statement best explains a central idea of the passage and how it is developed over the course of the text?
+
+A. The passage’s central idea is that elephants can be easily trained, which is developed by describing how mahouts teach them to pull ropes and follow instructions during the experiments.  
+
+B. The passage’s central idea is that elephants show advanced cooperative understanding, which is developed by explaining a series of rope‑pulling experiments and then connecting the results to other animal studies and observations in the wild.*  
+
+C. The passage’s central idea is that chimpanzees are less patient than elephants, which is developed by comparing how quickly each species learned to wait for a partner before pulling the rope.  
+
+D. The passage’s central idea is that scientists are always modifying old experiments, which is developed by showing how a classic chimpanzee test was changed for elephants and then suggesting that similar changes could be made for other animals.  
+
+
+---
+
+### Answer Key  
+**Correct Answer: B***  
+
+---
+
+### Rationales  
+
+**A. The passage’s central idea is that elephants can be easily trained, which is developed by describing how mahouts teach them to pull ropes and follow instructions during the experiments.**  
+- This option focuses on a supporting detail, not the central idea.  
+- The text mentions training (mahouts teaching elephants to pull ropes) only to set up the main experiments, not as the main point of the article.  
+- It does not account for how the idea develops later through waiting behavior, failed trials, and comparisons to other species.  
+
+**B. The passage’s central idea is that elephants show advanced cooperative understanding, which is developed by explaining a series of rope‑pulling experiments and then connecting the results to other animal studies and observations in the wild.*  
+- This captures the primary idea: elephants possess high-level social cognition and understand when they need a partner’s help.  
+- The idea develops as the author:  
+  - Introduces the claim that elephants can recognize when they need help.  
+  - Describes step-by-step experiments (simultaneous pulling, delayed release, out-of-reach rope) showing elephants’ understanding of cooperation.  
+  - Then reinforces this idea with expert commentary and real-world examples (lifting a fallen elephant, comparisons to chimpanzees and rooks).  
+- It correctly explains both the central idea and how supporting ideas and evidence across the passage build and extend that idea.  
+
+**C. The passage’s central idea is that chimpanzees are less patient than elephants, which is developed by comparing how quickly each species learned to wait for a partner before pulling the rope.**  
+- This takes one comparison detail and incorrectly promotes it to the central idea.  
+- The mention that elephants “learned to do this faster than the chimpanzees” is used to support the claim about elephants’ cognition, not to make chimpanzees the focus.  
+- The development described is too narrow and does not include the other experiments, expert quotes, or field observations that support the broader idea about elephants.  
+
+**D. The passage’s central idea is that scientists are always modifying old experiments, which is developed by showing how a classic chimpanzee test was changed for elephants and then suggesting that similar changes could be made for other animals.**  
+- The modification of a classic experiment is a structural detail about research methods, not the main focus of the article.  
+- The text does show that scientists adapted a chimpanzee test for elephants, but it does not emphasize “always modifying” experiments or extend this idea to “other animals” as a main line of development.  
+- This option misidentifies a background explanation as the central idea and ignores how the passage returns repeatedly to what the results reveal about elephants’ cooperative intelligence.  
+
+---
+
+**Final Version of the Item**
+
+Which statement best explains a central idea of the passage and how it is developed over the course of the text?
+
+A. The passage’s central idea is that elephants can be easily trained, which is developed by describing how mahouts teach them to pull ropes and follow instructions during the experiments.  
+
+B. The passage’s central idea is that elephants show advanced cooperative understanding, which is developed by explaining a series of rope‑pulling experiments and then connecting the results to other animal studies and observations in the wild.*  
+
+C. The passage’s central idea is that chimpanzees are less patient than elephants, which is developed by comparing how quickly each species learned to wait for a partner before pulling the rope.  
+
+D. The passage’s central idea is that scientists are always modifying old experiments, which is developed by showing how a classic chimpanzee test was changed for elephants and then suggesting that similar changes could be made for other animals.

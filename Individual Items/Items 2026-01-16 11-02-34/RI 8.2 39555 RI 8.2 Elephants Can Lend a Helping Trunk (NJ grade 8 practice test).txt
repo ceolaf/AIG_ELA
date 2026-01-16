@@ -1,0 +1,77 @@
+Standard:  RI 8.2
+ID: 39555
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+
+Here is a second, unique multiple-choice item aligned to RI.8.2, designed to meet the LBIDAT criteria.
+
+**Item Stem:**
+The text develops the central idea that elephants have the cognitive ability to cooperate to solve problems. Which statement best explains how the reference to elephants in East Africa in paragraph 4 contributes to this development?
+
+**Answer Options:**
+
+A. It challenges the central idea by suggesting that the elephants in the study were only cooperating because they were trained by mahouts.
+B. It reinforces the central idea by illustrating that the study's results align with the behavior of elephants in their natural habitat.*
+C. It refines the central idea by clarifying that elephants use their tusks to cooperate in the wild rather than their trunks.
+D. It narrows the central idea by focusing on how cooperation differs between elephants and other species like chimpanzees.
+
+**Rationales:**
+
+*   **Option A:** This distractor is incorrect because the text explicitly states in paragraph 4 that the findings of the study "are consistent with observations in nature." Therefore, the East Africa example supports, rather than challenges, the validity of the study's conclusions about elephant cognition. A student selecting this option may think that because the study elephants were trained (Para 2), the natural behavior must be a contrasting point.
+*   **Option B (Key):** This option is correct. The central idea focuses on the "cooperative skills" and "social cognition" of elephants. Paragraph 4 connects the specific laboratory results (pulling ropes) to real-world applications (lifting fallen companions in East Africa), thereby validating that the cognition observed in the study is a genuine trait of the species, not just a laboratory trick.
+*   **Option C:** This distractor is incorrect. While paragraph 4 does mention that wild elephants use their tusks, this detail describes the *method* of the action, not the development of the central idea regarding *cognition*. The distinction between tusks and trunks is a surface-level detail, not a refinement of the central concept of cooperation. A student selecting this option is focusing on concrete details rather than the abstract development of the argument.
+*   **Option D:** This distractor is incorrect. While paragraph 4 does mention chimpanzees, the specific reference to elephants in East Africa serves to compare elephants to elephants (lab vs. wild), not elephants to chimpanzees. The comparison to other species is a separate supporting point. A student selecting this option may be conflating the different supporting details found within the same paragraph.
+
+***
+
+**LBIDAT Evaluation of the Item**
+
+**Stem & Task: ✓ (No Apparent Critical Issues)**
+*   *Alignment:* The item asks the student to determine the relationship between a supporting idea (wild behavior) and the central idea (cognitive ability). This aligns with the "relationship to supporting ideas" component of RI.8.2.
+*   *Cognitive Level:* It requires synthesizing information from the end of the text and relating it back to the main argument established in the beginning, which is appropriate for Grade 8.
+
+**The Key: ✓ (No Apparent Critical Issues)**
+*   *Responsiveness:* The key accurately describes the rhetorical function of the example in paragraph 4 (validation/reinforcement).
+*   *Definitiveness:* The text supports this with the phrase "consistent with observations in nature," making the key definitively correct.
+
+**Distractors: ✓ (No Apparent Critical Issues)**
+*   *Plausibility:* The distractors represent logical fallacies or misreadings:
+    *   (A) Assumes an adversarial relationship between lab and wild data.
+    *   (C) Focuses on minor physical details rather than the main concept.
+    *   (D) Confuses two different comparisons made in the same paragraph.
+*   *Definitively Incorrect:* The text provides evidence that contradicts A and D, and C is a mischaracterization of the "central idea."
+
+**Stimulus: ✓ (No Apparent Critical Issues)**
+*   *Suitability:* The passage provides a clear structural link between the experimental data and the anecdotal evidence, allowing for this specific analysis.
+
+**Fairness: ✓ (No Apparent Critical Issues)**
+*   *Sensitivity:* The content is neutral and free of bias or sensitive topics.
+
+***
+
+**Final Item Version**
+
+**Item:**
+The text develops the central idea that elephants have the cognitive ability to cooperate to solve problems. Which statement best explains how the reference to elephants in East Africa in paragraph 4 contributes to this development?
+
+A. It challenges the central idea by suggesting that the elephants in the study were only cooperating because they were trained by mahouts.
+B. It reinforces the central idea by illustrating that the study's results align with the behavior of elephants in their natural habitat.*
+C. It refines the central idea by clarifying that elephants use their tusks to cooperate in the wild rather than their trunks.
+D. It narrows the central idea by focusing on how cooperation differs between elephants and other species like chimpanzees.
+
+================== Passage Text =================
+
+Elephants Can Lend a Helping Trunk
+by Virginia Morell 
+
+
+Elephants know when they need a helping hand—or rather, trunk. That’s the conclusion of a new study that tested the cooperative skills of Asian elephants (Elephas maximus) in Thailand and showed that the pachyderms understand that they will fail at a task without a partner’s assistance. The ability to recognize that you sometimes need a little help from your friends is a sign of higher social cognition, psychologists say, and is rarely found in other species. Elephants now join an elite club of social cooperators: chimpanzees, hyenas, rooks, and humans.
+
+To test the elephants’ cooperation skills, a team of scientists modified a classic experiment first administered to chimpanzees in the 1930s, which requires two animals work together to earn a treat. If they don’t cooperate, neither gets the reward. For the elephants, the researchers used a sliding table with a single rope threaded around it. Two bowls of corn were attached to the table, but the elephants could reach them only by pulling two ends of the rope simultaneously. Working with mahout—Asian elephant trainers—trained elephants at the Thai Elephant Conservation Center in Lampang, the researchers first taught individual animals to pull the rope with their trunks. The 12 elephants were then divided into six pairs, and each pair was released to walk to their waiting ropes. If one animal pulled the rope before the other, the rope would slip out, leaving the table—and treats—in place. “That taught them to pull together,” says Joshua Plotnik, a postdoc in experimental psychology at the University of Cambridge in the United Kingdom and the lead author of the study, which appears online this week in the Proceedings of the National Academy of Sciences.
+
+To find out if the elephants understood that they needed one another’s assistance, the researchers upped the challenge by releasing the elephants at different times. Thus, one elephant would arrive at the table before the other and would have to wait for a partner to show up before pulling the rope. “They learned to do this faster than the chimpanzees,” says Plotnik. “They would stand there holding their end of the rope, just waiting.” In another experiment, the partner’s rope was placed out of reach. “When the partner couldn’t do anything, the other one would just give up,” Plotnik says. That shows the elephants understood why the partner was needed, he adds.
+
+“These are clever experiments,” says Karen McComb, a behavioral ecologist at the University of Sussex in the United Kingdom who studies social cognition in wild elephants. The findings are consistent with observations in nature, she says. For instance, in East Africa biologists have seen elephants work together to lift a fallen companion with their tusks. “It’s particularly striking that the elephants were able to inhibit pulling” longer than chimpanzees do, comparative psychologist Nicola Clayton of the University of Cambridge in the United Kingdom. She and her team showed that rooks, too, could pass a similar dual-rope exam, although they failed to wait. The study “adds to the growing body of evidence that elephants show some impressive cognitive abilities.”
+
+“Elephants Can Lend a Helping Trunk” by Virginia Morell, from Science, March
+2011 issue. Copyright © 2011 by American Association for the Advancement of
+Science. Reprinted by permission of AAAS.

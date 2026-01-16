@@ -82,3 +82,128 @@ D. “Bailey wonders which way he should go, and what might count as proof for h
 - **Option C:** This shows that Bailey wants to go inside and emphasizes his curiosity, which works against the idea of nervous uncertainty rather than supporting it.  
 
 - **Option D:** This indicates that Bailey is thinking about directions and what will count as proof, but it does not clearly show that he feels nervous or unsure about entering; it focuses more on planning than on his emotions.
+
+
+=============== NEW RUN GPT - 2026-01-15 11:51:48 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 5b (GPT) #1 (temp=0.7). (12.07 secs). (3346 + 633 = 3979 total tokens)
+
+1. Which sentence from the passage best supports the idea that Jim Bridger’s discoveries continued to be important long after his lifetime?
+
+A. “When Bridger was eighteen years old, he was the youngest member of a group that explored and mapped the Missouri River.”  
+
+B. “Because of his knowledge and skills, he became a valued guide.”  
+
+C. “In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains.” *  
+
+D. “Today, there are many places in the American West named in honor of Jim Bridger.”  
+
+
+**Correct Answer: C**
+
+---
+
+### Rationales
+
+**Option C (Key):**  
+“In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains.”  
+
+- The idea in the question is that Bridger’s *discoveries* continued to matter long after he lived.  
+- This sentence introduces a specific discovery—“a short cut through the mountains”—that the passage later explains had lasting importance: it “shortened trips by sixty-one miles” and “later became part of the Union Pacific Railroad,” which was part of the first railroad crossing the entire country.  
+- Because this discovery later became part of a major railroad line, this sentence most strongly supports the idea that what Bridger discovered remained important well beyond his own time.  
+
+---
+
+**Option A (Distractor):**  
+“When Bridger was eighteen years old, he was the youngest member of a group that explored and mapped the Missouri River.”  
+
+- This shows that Bridger participated in exploration, but it does not show that the results of that exploration remained important long after his lifetime.  
+- The focus here is on his age and role in the group, not on long-lasting impact.  
+- A student might choose this if they focus on “explored and mapped” as important, but the sentence does not explicitly or implicitly connect that work to long-term significance.
+
+---
+
+**Option B (Distractor):**  
+“Because of his knowledge and skills, he became a valued guide.”  
+
+- This sentence shows that Bridger was respected and useful during his life.  
+- It does not mention any discovery, nor does it indicate that anything he did remained important after his death.  
+- A student might be misled by the word “valued,” but that value is clearly in the present time of his guiding work, not in the long-term impact of his discoveries.
+
+---
+
+**Option D (Distractor):**  
+“Today, there are many places in the American West named in honor of Jim Bridger.”  
+
+- This sentence shows that Bridger is remembered and honored in the present.  
+- However, it does not mention any specific *discovery* or explain how his discoveries themselves continued to be important; it only shows that people still recognize him.  
+- A student might pick this because of the words “Today” and “in honor of,” which relate to the present, but the question is about the ongoing importance of his *discoveries*, not just his reputation.
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 5b (GPT) #2 (temp=0.8). (13.08 secs). (3990 + 517 = 4507 total tokens)
+
+**Item**
+
+The passage gives the idea that Jim Bridger’s knowledge of the western lands made him very useful to other people. Which sentence from the passage best supports this idea?
+
+A. “Yellowstone was the first in a long line of landscapes that Bridger was to encounter before others.”  
+
+B. “Using the skills he learned while exploring the Missouri, Bridger became very good at trapping beavers for their furs, also called ‘pelts.’”  
+
+C. “Because of his knowledge and skills, he became a valued guide.” *  
+
+D. “Bridger spent twenty years working as a guide.”  
+
+
+**Correct Answer: C**
+
+---
+
+### Rationales
+
+**Option C (Key):**  
+“Because of his knowledge and skills, he became a valued guide.”  
+
+- The idea given in the question is that Bridger’s knowledge of the western lands made him useful to others.  
+- This sentence directly connects his “knowledge and skills” to becoming “a valued guide,” which clearly shows that what he knew made him important and useful to the people who hired him.  
+- It most strongly and explicitly supports the stated idea.
+
+---
+
+**Option A (Distractor):**  
+“Yellowstone was the first in a long line of landscapes that Bridger was to encounter before others.”  
+
+- This shows Bridger saw many places before other European Americans, but it does not say that this knowledge made him useful to other people.  
+- A student might focus on his being “first” and assume usefulness, but the sentence itself does not connect that to helping others.
+
+---
+
+**Option B (Distractor):**  
+“Using the skills he learned while exploring the Missouri, Bridger became very good at trapping beavers for their furs, also called ‘pelts.’”  
+
+- This shows he used his skills to become good at trapping, which helped his own success, not necessarily his usefulness to others.  
+- A student might be drawn to “skills,” but the sentence links those skills to trapping beavers, not to guiding or helping people travel.
+
+---
+
+**Option D (Distractor):**  
+“Bridger spent twenty years working as a guide.”  
+
+- This shows that he worked as a guide for a long time, but it does not explain *why* he was useful or valued.  
+- A student might think the length of time implies usefulness, but the sentence does not directly connect his knowledge to his value to others, the way option C does.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:58:27 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get

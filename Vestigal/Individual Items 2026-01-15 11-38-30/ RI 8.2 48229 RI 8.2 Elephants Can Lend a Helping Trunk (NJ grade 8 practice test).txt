@@ -1,0 +1,28 @@
+Standard:  RI 8.2
+ID: 48229
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 2a (Claude) #2 (temp=0.8). (18.41 secs). (1391 + 500 = 1891 total tokens)
+
+## Multiple Choice Item
+
+**Which of the following best summarizes the passage?**
+
+A. Scientists in Thailand trained twelve Asian elephants to pull ropes for food rewards, discovering that elephants learn these tasks more quickly than chimpanzees and can wait patiently for extended periods when necessary.
+
+B. *Researchers demonstrated that elephants possess advanced cooperative abilities by showing they understand when a partner's help is needed, will wait for assistance, and will give up when cooperation is impossible, placing them among the few species with higher social cognition.
+
+C. A team of scientists studied elephant behavior at the Thai Elephant Conservation Center, where they observed elephants helping fallen companions and working together to solve problems that individual elephants could not complete alone.
+
+D. Experiments with Asian elephants revealed that these animals can be trained to perform complex tasks involving ropes and sliding tables, leading scientists to conclude that elephants have impressive cognitive abilities similar to those of rooks and hyenas.
+
+### Rationales for Each Answer Option:
+
+**Option A (Incorrect):** While this option includes accurate details from the passage (twelve elephants, learning faster than chimpanzees, waiting), it fails to capture the main significance of these findings - that they demonstrate elephants' understanding of cooperation. A student selecting this option is listing facts without synthesizing the central meaning of the research.
+
+**Option B (Correct):** This option provides a comprehensive summary that captures both the experimental evidence (understanding when help is needed, waiting for partners, giving up when cooperation is impossible) and the broader significance (higher social cognition, joining an elite group of species). It accurately represents the progression of ideas in the passage from specific experiments to broader conclusions.
+
+**Option C (Incorrect):** This option conflates the experimental setting with observations from nature. While the passage mentions elephants helping fallen companions, this was an observation from East Africa used to support the findings, not part of the Thai experiments. Students choosing this have confused supporting evidence with the main experimental findings.
+
+**Option D (Incorrect):** This option is too vague and misses the key point about cooperation and social cognition. It mentions "complex tasks" and "impressive cognitive abilities" without specifying that the crucial ability being tested was understanding the need for cooperation. Additionally, it incorrectly suggests the experiments were about training rather than testing natural cooperative abilities.

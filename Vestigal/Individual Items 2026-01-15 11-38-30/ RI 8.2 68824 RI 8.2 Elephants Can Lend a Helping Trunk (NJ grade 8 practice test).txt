@@ -1,0 +1,49 @@
+Standard:  RI 8.2
+ID: 68824
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 7b (GPT) #1 (temp=0.7). (13.61 secs). (3385 + 705 = 4090 total tokens)
+
+Item (RI.8.2 – central idea & its development)
+
+The passage describes several experiments and observations involving elephants. Which statement best identifies a central idea of the passage and explains how the author develops it?
+
+A. Elephants are difficult animals to study, and the author develops this idea by describing how trainers had to teach them to pull ropes and cooperate in the experiments.  
+
+B. Elephants show advanced social cooperation, and the author develops this idea by explaining experiments that test their need for partners and by citing experts who compare their abilities to other species.*  
+
+C. Elephants are better learners than chimpanzees, and the author develops this idea by focusing on how quickly elephants mastered the rope-pulling task and by showing that they never failed the experiment.  
+
+D. Elephants depend on humans for help, and the author develops this idea by describing the role of mahouts and by explaining how people designed experiments that allowed elephants to get food rewards.  
+
+
+Answer Key: B*
+
+Rationales
+
+A.  
+Reasoning leading here: A student notices details about training and the research setup (mahouts teaching elephants to pull ropes) and mistakes these for the main point.  
+Why it’s incorrect: The passage does not claim elephants are “difficult” to study; the training details are supporting context for the real focus—elephants’ cooperative abilities. This option confuses background information with a central idea and mischaracterizes the development (the text does not repeatedly show difficulty).
+
+B. *Correct*  
+Reasoning leading here:  
+- Identifies a central idea: elephants have advanced social cooperation and social cognition (e.g., “Elephants know when they need a helping hand,” “sign of higher social cognition,” “elite club of social cooperators”).  
+- Accurately describes development:  
+  - The author explains controlled experiments (rope-and-table task, delayed release, partner’s rope out of reach) showing elephants understand when they need a partner and when cooperation is impossible.  
+  - The author then brings in expert commentary and comparisons to other species (chimpanzees, rooks, hyenas, humans) to reinforce and extend that idea.  
+This option correctly captures both the main idea and how supporting ideas and evidence build it over the passage.
+
+C.  
+Reasoning leading here: A student focuses on the comparison that elephants “learned to do this faster than the chimpanzees” and overextends it into a claimed central idea.  
+Why it’s incorrect:  
+- The passage does not argue broadly that elephants are “better learners” than chimpanzees or that they “never failed.”  
+- The chimpanzee comparison is a supporting detail used to highlight elephants’ cooperative inhibition and understanding, not the main focus.  
+- The description of development is inaccurate; the article does more than focus on speed and does report situations where elephants “would just give up.”
+
+D.  
+Reasoning leading here: A student notices the presence of humans (mahouts, researchers) and assumes the passage is about elephants’ dependence on people.  
+Why it’s incorrect:  
+- Human involvement is logistical support for the study, not the central concept.  
+- The text emphasizes elephants helping each other and understanding cooperation with partners, not relying on humans in daily life.  
+- The development described (role of mahouts, experiment design) does not match how the author actually builds the main idea about elephants’ social cognition and cooperation.

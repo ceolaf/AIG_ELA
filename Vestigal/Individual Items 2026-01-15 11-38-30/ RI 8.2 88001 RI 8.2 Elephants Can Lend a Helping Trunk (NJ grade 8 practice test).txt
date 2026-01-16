@@ -1,0 +1,44 @@
+Standard:  RI 8.2
+ID: 88001
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 7a (Claude) #1 (temp=0.7). (21.91 secs). (1346 + 706 = 2052 total tokens)
+
+Based on the passage "Elephants Can Lend a Helping Trunk," I'll create a multiple choice item aligned to RI.8.2.
+
+**Item:**
+
+Which statement best describes how the central idea about elephants' cooperative intelligence develops throughout the passage?
+
+A. The passage initially presents elephants as having unique physical abilities with their trunks, then shifts to focus on how these physical traits enable them to manipulate objects in ways other animals cannot.
+
+B. The passage begins by establishing that elephants can recognize when cooperation is needed, then develops this idea through increasingly complex experimental evidence, and concludes by comparing their abilities favorably to other intelligent species.
+
+C. The passage starts with observations of elephants in nature helping fallen companions, then moves to laboratory experiments that attempt to recreate these natural behaviors in controlled settings.
+
+D. The passage first describes the historical experiments with chimpanzees from the 1930s, then shows how modern scientists have adapted these experiments to reveal that elephants have inferior cooperative abilities.
+
+**Answer Key:** B*
+
+**Rationales:**
+
+**Option A (Incorrect):** This distractor misidentifies the central idea as being about physical abilities rather than cognitive/cooperative abilities. While trunks are mentioned, they are merely the tool elephants use in the experiments, not the focus of the passage's central idea about social cognition and cooperation.
+
+**Option B (Correct):** This correctly identifies how the central idea develops. The passage opens with the conclusion that elephants understand when they need help (paragraph 1), then presents the basic rope-pulling experiment (paragraph 2), followed by more challenging variations that demonstrate deeper understanding (paragraph 3), and concludes with expert validation comparing elephants favorably to other species known for cooperation (paragraph 4).
+
+**Option C (Incorrect):** This reverses the actual structure of the passage. The passage begins with experimental evidence and only briefly mentions natural observations near the end as supporting evidence, not as the starting point.
+
+**Option D (Incorrect):** This mischaracterizes both the development and the findings. While the 1930s experiments are mentioned, they serve as background for the methodology, not the starting point of the passage. More importantly, this option incorrectly states that elephants have "inferior" abilities when the passage actually indicates elephants performed better than chimpanzees in some aspects ("They learned to do this faster than the chimpanzees").
+
+**Final Version:**
+
+Which statement best describes how the central idea about elephants' cooperative intelligence develops throughout the passage?
+
+A. The passage initially presents elephants as having unique physical abilities with their trunks, then shifts to focus on how these physical traits enable them to manipulate objects in ways other animals cannot.
+
+*B. The passage begins by establishing that elephants can recognize when cooperation is needed, then develops this idea through increasingly complex experimental evidence, and concludes by comparing their abilities favorably to other intelligent species.
+
+C. The passage starts with observations of elephants in nature helping fallen companions, then moves to laboratory experiments that attempt to recreate these natural behaviors in controlled settings.
+
+D. The passage first describes the historical experiments with chimpanzees from the 1930s, then shows how modern scientists have adapted these experiments to reveal that elephants have inferior cooperative abilities.

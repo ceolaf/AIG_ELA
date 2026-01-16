@@ -1,0 +1,53 @@
+Standard:  RI 8.2
+ID: 83251
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 6a (GPT) #2 (temp=0.8). (7.85 secs). (1744 + 536 = 2280 total tokens)
+
+2. Which statement best explains how a central idea of the article is developed through specific supporting ideas?
+
+A. The article’s central idea is that animal experiments are unreliable, and this is developed by showing that the elephants often failed the tasks and by questioning the value of comparing different species.  
+B. The article’s central idea is that elephants are easy to train, and this is developed by describing how mahouts teach elephants to pull ropes and how quickly the elephants learn simple tricks.  
+C.* The article’s central idea is that elephants have advanced cooperative understanding, and this is developed by showing how they succeed in rope-pulling experiments, adjust their behavior when partners arrive late or cannot help, and by connecting these results to observations of cooperation in the wild.  
+D. The article’s central idea is that elephants belong in an “elite club” of animals, and this is developed by listing other intelligent species and explaining their different habitats and lifestyles.
+
+---
+
+Rationales:
+
+**A.**  
+- Incorrect central idea: the article does not argue that animal experiments are unreliable.  
+- The experiments are presented as meaningful and successful, not as failures.  
+- The comparisons among species are used to strengthen, not weaken, the study’s conclusions.
+
+**B.**  
+- Misidentifies a supporting detail as central.  
+- Training by mahouts is mentioned briefly only to explain how elephants learned the rope-pulling action.  
+- The main focus is not on “easy to train” or “simple tricks,” but on what the elephants’ behavior reveals about their social cognition.
+
+**C.* (Correct)**  
+- Accurately states a central idea: elephants show advanced cooperative understanding.  
+- Correctly traces how the article develops this idea:  
+  - Describes the rope-pulling setup and elephants’ success when they must pull together.  
+  - Shows elephants waiting for late partners and giving up when partners cannot reach the rope, suggesting they grasp the need for a helper.  
+  - Connects lab findings to field observations of elephants cooperating to help fallen companions.  
+- This option correctly links the central idea to the sequence of supporting ideas.
+
+**D.**  
+- Partially based on a phrase in the text (“elite club of social cooperators”) but distorts the central idea.  
+- The focus of the article is not on “belonging to a club” or on habitats and lifestyles of other species.  
+- Other animals (chimpanzees, hyenas, rooks, humans) are mentioned mainly to support the claim about elephants’ high-level cooperation, not as the main topic.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:10:48 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get
+
+
+
+=============== NEW RUN (Claude) - 2026-01-15 11:18:51 ===============

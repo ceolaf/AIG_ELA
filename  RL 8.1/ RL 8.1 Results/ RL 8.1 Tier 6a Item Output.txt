@@ -88,3 +88,95 @@ D. “Bailey wonders which way he should go, and what might count as proof for h
 
 - **D. “Bailey wonders which way he should go, and what might count as proof for his dare.”*  
   This sentence best supports the idea that Bailey is uneasy: he is unsure of which direction to take and is worried about what will “count as proof.” His uncertainty about both his path and his goal reflects his discomfort and lack of confidence about being inside the circus during the daytime.
+
+
+=============== NEW RUN GPT - 2026-01-15 11:52:13 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 6a (GPT) #1 (temp=0.7). (8.28 secs). (1271 + 575 = 1846 total tokens)
+
+1. Which sentence from the passage best supports the idea that Jim Bridger’s knowledge of the western land made him useful to other people?
+
+A. “When Bridger was eighteen years old, he was the youngest member of a group that explored and mapped the Missouri River.”  
+B. “Using the skills he learned while exploring the Missouri, Bridger became very good at trapping beavers for their furs, also called ‘pelts.’”  
+*C. “Because of his knowledge and skills, he became a valued guide.”*  
+D. “In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains.”
+
+---
+
+Rationales:
+
+A. “When Bridger was eighteen years old, he was the youngest member of a group that explored and mapped the Missouri River.”  
+- This shows that Bridger explored and mapped land, but it does not state that his knowledge made him useful to other people. It supports his early experience, not the idea that others valued and used his knowledge.
+
+B. “Using the skills he learned while exploring the Missouri, Bridger became very good at trapping beavers for their furs, also called ‘pelts.’”  
+- This sentence supports the idea that Bridger’s knowledge helped him trap beavers successfully, but it focuses on his own trapping success, not on his usefulness to other people.
+
+*C. “Because of his knowledge and skills, he became a valued guide.”*  
+- This directly states that Bridger’s knowledge and skills made him “valued,” meaning useful and important to others who hired him as a guide. It is the strongest and most explicit textual evidence for the idea that his knowledge of the land made him useful to people.
+
+D. “In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains.”  
+- This shows something important Bridger did, but it does not directly state that this made him useful to others. Readers can infer that the shortcut helped people, but the sentence does not explicitly connect his knowledge to being useful in the way option C does.
+
+---
+
+Final item version:
+
+1. Which sentence from the passage best supports the idea that Jim Bridger’s knowledge of the western land made him useful to other people?
+
+A. “When Bridger was eighteen years old, he was the youngest member of a group that explored and mapped the Missouri River.”  
+B. “Using the skills he learned while exploring the Missouri, Bridger became very good at trapping beavers for their furs, also called ‘pelts.’”  
+*C. “Because of his knowledge and skills, he became a valued guide.”*  
+D. “In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains.”
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 6a (GPT) #2 (temp=0.8). (9.75 secs). (1857 + 527 = 2384 total tokens)
+
+2. Which sentence from the passage best supports the idea that Jim Bridger’s stories were not meant to be believed as true?
+
+A. “He became famous for telling tall tales to the people passing through.”  
+B. “Bridger's stories were funny, extravagant, and often unbelievable.”  
+C. “He would tell stories of glass mountains, ‘petrified’ birds singing ‘petrified’ songs, and talk about days when Pike's Peak was just a hole in the ground.”  
+*D. “These outrageous stories were told both to tease new arrivals from the east and to amuse the locals who knew they weren't true.”*
+
+---
+
+Rationales:
+
+A. “He became famous for telling tall tales to the people passing through.”  
+- This shows that Bridger told exaggerated stories, but it does not clearly state that the stories were not meant to be believed; it only says he was famous for “tall tales.”
+
+B. “Bridger's stories were funny, extravagant, and often unbelievable.”  
+- This suggests the stories were exaggerated and hard to believe, but it does not directly say that people understood they were not true or that he did not intend them to be taken as fact.
+
+C. “He would tell stories of glass mountains, ‘petrified’ birds singing ‘petrified’ songs, and talk about days when Pike's Peak was just a hole in the ground.”  
+- This gives examples of impossible stories, but it still does not explicitly state Bridger’s or the listeners’ understanding that the stories were not true.
+
+*D. “These outrageous stories were told both to tease new arrivals from the east and to amuse the locals who knew they weren't true.”*  
+- This directly states that the locals “knew they weren't true,” clearly supporting the idea that the stories were not meant to be believed as true.
+
+---
+
+Final item version:
+
+2. Which sentence from the passage best supports the idea that Jim Bridger’s stories were not meant to be believed as true?
+
+A. “He became famous for telling tall tales to the people passing through.”  
+B. “Bridger's stories were funny, extravagant, and often unbelievable.”  
+C. “He would tell stories of glass mountains, ‘petrified’ birds singing ‘petrified’ songs, and talk about days when Pike's Peak was just a hole in the ground.”  
+*D. “These outrageous stories were told both to tease new arrivals from the east and to amuse the locals who knew they weren't true.”*
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:59:41 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get

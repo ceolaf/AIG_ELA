@@ -96,3 +96,72 @@ D. “Bailey turns right at the end of the passage, and finds himself in a row o
 
 - **D. “Bailey turns right at the end of the passage, and finds himself in a row of tents, each with a door and a sign advertising its contents.”**  
   - This only describes Bailey’s movement and what he sees. It gives no information about his feelings, so it does not support the idea that he is nervous.
+
+
+=============== NEW RUN GPT - 2026-01-15 11:52:57 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 7b (GPT) #1 (temp=0.7). (6.93 secs). (3489 + 426 = 3915 total tokens)
+
+Item (RL.8.1)
+
+Which sentence from the passage best supports the idea that Jim Bridger’s knowledge of the western land made him valuable to other people?
+
+A. “Yellowstone was the first in a long line of landscapes that Bridger was to encounter before others.”  
+
+B. “Using the skills he learned while exploring the Missouri, Bridger became very good at trapping beavers for their furs, also called ‘pelts.’”  
+
+C. “In his travels, he learned a great deal about the terrain and wildlife of the area.”  
+
+D. *“Because of his knowledge and skills, he became a valued guide.”*
+
+
+Rationales
+
+A. “Yellowstone was the first in a long line of landscapes that Bridger was to encounter before others.”  
+- This shows that Bridger saw many places before other people, but it does not say that his knowledge made him valuable to others. It focuses on being early to explore, not on being “valued” by people for that knowledge.
+
+B. “Using the skills he learned while exploring the Missouri, Bridger became very good at trapping beavers for their furs, also called ‘pelts.’”  
+- This sentence is about his trapping skills and success, not about other people valuing his knowledge of the land. It does not support the idea that his knowledge made him valuable to others.
+
+C. “In his travels, he learned a great deal about the terrain and wildlife of the area.”  
+- This shows that he gained knowledge of the land and animals, but it does not clearly connect that knowledge to other people finding him valuable. It is evidence of learning, not of being “valued” by others.
+
+D. *“Because of his knowledge and skills, he became a valued guide.”*  
+- This directly states that his knowledge and skills caused him to become “a valued guide,” clearly showing that his knowledge of the land made him valuable to other people. It is the strongest and most explicit support for the idea in the question.
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 7b (GPT) #2 (temp=0.8). (6.32 secs). (3926 + 404 = 4330 total tokens)
+
+Item (RL.8.1)
+
+The passage states that many places in the American West are named after Jim Bridger. Which sentence from the passage best supports the idea that he had a lasting impact on western travel and exploration?
+
+A. “When Bridger was eighteen years old, he was the youngest member of a group that explored and mapped the Missouri River.”  
+
+B. *“In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains.”*  
+
+C. “Bridger spent twenty years working as a guide.”  
+
+D. “He learned how to make horseshoes and other products out of iron.”  
+
+
+Rationales
+
+A. “When Bridger was eighteen years old, he was the youngest member of a group that explored and mapped the Missouri River.”  
+- This shows he took part in exploration, but it does not show that his actions had a long-lasting effect on western travel or routes. It focuses on his age and role, not on lasting impact.
+
+B. *“In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains.”*  
+- This directly supports the idea of a lasting impact on western travel and exploration because discovering a shortcut through the mountains changed how people traveled west and later became part of a major railroad route, influencing travel long after Bridger’s lifetime.
+
+C. “Bridger spent twenty years working as a guide.”  
+- This shows he guided people for a long time, but it does not clearly indicate that his work changed or shaped western travel in a lasting way. It describes duration of work, not long-term influence.
+
+D. “He learned how to make horseshoes and other products out of iron.”  
+- This detail is about his early training as a blacksmith and has no connection to his later influence on western travel or exploration. It does not support the idea of a lasting impact on the West.

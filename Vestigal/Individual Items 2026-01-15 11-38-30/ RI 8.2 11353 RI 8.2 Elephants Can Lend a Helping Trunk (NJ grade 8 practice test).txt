@@ -1,0 +1,49 @@
+Standard:  RI 8.2
+ID: 11353
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 7a (GPT) #2 (temp=0.8). (12.91 secs). (1872 + 548 = 2420 total tokens)
+
+Item (RI.8.2 – central idea and its development)
+
+Which statement best describes a central idea of the passage and how the author develops it?
+
+A. The passage shows that elephants can be easily controlled by humans by describing how mahouts train them and how they perform on command throughout the experiments.  
+
+B. The passage argues that elephants are among the smartest animals by stating that they belong to an “elite club” and then providing detailed IQ comparisons with chimpanzees, hyenas, and rooks.  
+
+C. The passage explains that elephants demonstrate sophisticated understanding of cooperation by presenting experimental evidence that they know when a partner is needed and by reinforcing this with expert comments and real‑world examples.*  
+
+D. The passage suggests that waiting is the most important skill in social animals by focusing on how long elephants, chimpanzees, and rooks can delay pulling the rope.  
+
+
+Key: C*
+
+---
+
+Rationales
+
+A. Incorrect. This treats a limited supporting detail as the central idea. Mahouts and training are mentioned only to explain how elephants learned the basic rope‑pulling action so the cooperation test could occur. The passage does not claim elephants are “easily controlled” or develop that idea; instead, it centers on what elephants understand about needing a partner.
+
+B. Incorrect. This misstates both the central idea and the development. The “elite club” phrase is used briefly to situate elephants among other cooperative species, not to argue broadly that they are “among the smartest animals.” The article does not provide “detailed IQ comparisons”; it focuses on one type of cooperative task and related observations, so the described development does not match the passage.
+
+C. Correct. A central idea is that elephants show a sophisticated understanding of cooperation and when help is necessary.  
+- The introduction claims elephants know when they need “a helping trunk” and links this to higher social cognition.  
+- The middle of the passage describes experiments where elephants must pull ropes together, wait for a partner, and give up when a partner cannot reach the rope—evidence that they understand the need for cooperation.  
+- The final paragraph includes expert commentary and a wild example (elephants lifting a fallen companion) that support and extend this idea. This option accurately captures both the idea and its development.
+
+D. Incorrect. This over‑narrows and mischaracterizes the focus. While the ability to wait before pulling the rope is one notable behavior, the passage treats it as one piece of evidence within a larger discussion of cooperation and social cognition. The text does not claim that “waiting is the most important skill” in social animals, nor does it organize itself around that idea.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:11:53 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get
+
+
+
+=============== NEW RUN (Claude) - 2026-01-15 11:20:19 ===============

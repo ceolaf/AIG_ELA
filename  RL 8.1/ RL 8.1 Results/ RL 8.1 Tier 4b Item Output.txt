@@ -107,3 +107,95 @@ D. “Bailey wonders which way he should go, and what might count as proof for h
 - **Option D:** “Bailey wonders which way he should go, and what might count as proof for his dare.”  
   - *Why a student might pick it:* It shows Bailey is uncertain, which can seem similar to nervousness.  
   - *Why it’s wrong:* This moment is about planning and confusion over how to complete the dare, not about feeling socially or emotionally out of place after being caught.
+
+
+=============== NEW RUN GPT - 2026-01-15 11:51:18 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 4b (GPT) #1 (temp=0.7). (8.51 secs). (3268 + 597 = 3865 total tokens)
+
+1. Which sentence from the passage best supports the inference that Jim Bridger’s knowledge of the western landforms had an important impact on travel across the United States?
+
+A. “When Bridger was eighteen years old, he was the youngest member of a group that explored and mapped the Missouri River.”  
+B. “In his travels, he learned a great deal about the terrain and wildlife of the area.”  
+C. “In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains.” *  
+D. “Today, there are many places in the American West named in honor of Jim Bridger.”
+
+---
+
+Rationales:
+
+A. “When Bridger was eighteen years old, he was the youngest member of a group that explored and mapped the Missouri River.”  
+- This shows Bridger was involved in exploration, but it does not directly connect his knowledge to an important impact on travel across the United States. It is about his early experience, not its larger effect on national travel.  
+
+B. “In his travels, he learned a great deal about the terrain and wildlife of the area.”  
+- This supports the idea that Bridger knew the land well, but it only states that he “learned a great deal.” It does not show that this knowledge significantly changed or improved travel across the country; it’s background information, not evidence of impact.  
+
+C. “In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains.” *  
+- This is the best evidence. The passage later explains that this shortcut “shortened trips by sixty-one miles” and became part of the Transcontinental Railroad, which crossed America from coast to coast. Finding a shortcut that was later used by settlers and by a major railroad directly shows that his knowledge of landforms had an important impact on travel across the United States.  
+
+D. “Today, there are many places in the American West named in honor of Jim Bridger.”  
+- This sentence shows that Bridger is honored and remembered, but it does not explain *why* or how his knowledge affected national travel. It supports his fame, not the specific inference about his impact on travel.  
+
+---
+
+Final Item Version (for clarity)
+
+1. Which sentence from the passage best supports the inference that Jim Bridger’s knowledge of the western landforms had an important impact on travel across the United States?
+
+A. “When Bridger was eighteen years old, he was the youngest member of a group that explored and mapped the Missouri River.”  
+B. “In his travels, he learned a great deal about the terrain and wildlife of the area.”  
+C. “In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains.” *  
+D. “Today, there are many places in the American West named in honor of Jim Bridger.”
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 4b (GPT) #2 (temp=0.8). (7.71 secs). (3876 + 548 = 4424 total tokens)
+
+2. Which sentence from the passage best supports the inference that Jim Bridger’s discoveries continued to influence transportation long after his time as a guide?
+
+A. “Yellowstone was the first in a long line of landscapes that Bridger was to encounter before others.”  
+B. “In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains.”  
+C. “Because the pass shortened trips by sixty-one miles, settlers moving west frequently used it.”  
+D. “In addition, the pass later became part of the Union Pacific Railroad.” *  
+
+---
+
+Rationales:
+
+A. “Yellowstone was the first in a long line of landscapes that Bridger was to encounter before others.”  
+- This shows that Bridger explored new places early, but it does not indicate any lasting influence on transportation systems or later generations. It supports his role as an explorer, not the long-term impact of his discoveries.
+
+B. “In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains.”  
+- This shows he discovered a shortcut, which is important, but it doesn’t by itself show that his discovery continued to influence transportation long after his guiding days. It could describe a benefit only in his own time.
+
+C. “Because the pass shortened trips by sixty-one miles, settlers moving west frequently used it.”  
+- This supports the idea that his discovery helped settlers during the westward movement, but it still focuses on the period when settlers were traveling by wagon. It does not clearly show an influence that extended far into the future.
+
+D. “In addition, the pass later became part of the Union Pacific Railroad.” *  
+- This is the strongest evidence. The word “later” shows that after Bridger’s own time as a guide, his pass was still important enough to be used in a major railroad line. Since the Union Pacific was part of the first railroad to cross the country, this sentence directly supports the inference that his discovery continued to shape transportation long after he stopped guiding.  
+
+---
+
+Final Item Version
+
+2. Which sentence from the passage best supports the inference that Jim Bridger’s discoveries continued to influence transportation long after his time as a guide?
+
+A. “Yellowstone was the first in a long line of landscapes that Bridger was to encounter before others.”  
+B. “In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains.”  
+C. “Because the pass shortened trips by sixty-one miles, settlers moving west frequently used it.”  
+D. “In addition, the pass later became part of the Union Pacific Railroad.” *
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:57:00 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get

@@ -1,0 +1,626 @@
+
+
+
+=============== NEW RUN GPT - 2026-01-15 19:13:37 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 2b (GPT) #1 (temp=0.7). (7.06 secs). (3468 + 406 = 3874 total tokens)
+
+1. Read this sentence from the passage.
+
+> “It seems that the more I seek her approval, the farther it **recedes** in the distance.”
+
+Based on how the word “recedes” is used in this sentence, what does it most nearly mean?
+
+A. becomes less important to the narrator  
+B. *moves farther away from the narrator’s reach*  
+C. changes into something different over time  
+D. disappears suddenly and completely  
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**A. becomes less important to the narrator**
+
+- This choice focuses on the narrator’s feelings about approval, but the sentence shows she still wants Dr. Blackwell’s approval very much.  
+- The phrase “the more I seek her approval” suggests it is still very important to her, so “becomes less important” does not fit the context.
+
+**B. *moves farther away from the narrator’s reach***  
+
+- “Recedes” literally means to move back or farther away.  
+- In the sentence, “the more I seek her approval, the farther it recedes in the distance,” approval is compared to something that keeps moving away as she tries to reach it.  
+- This captures both the figurative meaning (harder to get) and the image suggested by “in the distance,” so this is the best interpretation.
+
+**C. changes into something different over time**
+
+- Nothing in the sentence suggests that Dr. Blackwell’s approval is changing into something else.  
+- The focus is on how difficult it is for the narrator to obtain it, not on the approval itself changing form or nature.
+
+**D. disappears suddenly and completely**
+
+- “Recedes” suggests a gradual moving away, not a sudden disappearance.  
+- The phrase “the farther it recedes in the distance” implies that approval is still there, just harder to reach, so this overstates the meaning and does not match the tone of the sentence.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 2b (GPT) #2 (temp=0.8). (7.23 secs). (3885 + 420 = 4305 total tokens)
+
+2. Read this sentence from the passage.
+
+> “If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly **disabused** of that notion.”
+
+As it is used in this sentence, what does the word “disabused” most nearly mean?
+
+A. *corrected and made to give up a mistaken idea*  
+B. comforted and made to feel more secure  
+C. encouraged to keep believing something  
+D. confused by receiving too little information  
+
+**Correct Answer: A***
+
+---
+
+### Rationales
+
+**A. *corrected and made to give up a mistaken idea***  
+
+- “Disabused of that notion” is a common phrase meaning someone has been shown that their belief was wrong.  
+- In context, the narrator hoped Dr. Blackwell would be “a motherly figure,” but then describes how Dr. Blackwell scolds her publicly and is not gentle.  
+- This shows the narrator’s original idea was mistaken, and she was forced to let go of it, matching the meaning “corrected and made to give up a mistaken idea.”
+
+**B. comforted and made to feel more secure**
+
+- This is the opposite of what happens.  
+- Being “reprimanded” in front of others and scolded daily would not make the narrator feel comforted or secure, so this does not fit the context or tone.
+
+**C. encouraged to keep believing something**
+
+- The narrator’s belief that Dr. Blackwell would be “motherly” is not encouraged; it is challenged and undone by Dr. Blackwell’s strict behavior.  
+- “Disabused” means the belief is taken away, not reinforced.
+
+**D. confused by receiving too little information**
+
+- The narrator is not confused; she clearly understands that Dr. Blackwell is not a motherly figure.  
+- The passage gives evidence that Dr. Blackwell’s behavior makes this idea very clear, not confusing, so this meaning does not work in context.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 19:17:35 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 2b (Gemini) #1 (temp=0.7). (46.47 secs). (4130 + 715 = 4845 total tokens)
+
+Here is a unique multiple-choice item aligned to Common Core State Standard RL.8.4 based on the passage "Dr. Blackwell’s New Assistant."
+
+**Item ID:** RL.8.4-Blackwell-Vocab
+**Grade:** 8
+**Standard:** RL.8.4 - Determine the meaning of words and phrases as they are used in a text...
+**Passage:** Dr. Blackwell’s New Assistant
+
+**Item Stem:**
+
+Read the sentence from paragraph 4.
+
+“If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly **disabused** of that notion.”
+
+What is the meaning of the word **disabused** as it is used in the sentence?
+
+A. Freed from a mistaken belief*
+B. Blamed for a careless error
+C. Discouraged by a lack of success
+D. Confused by an unexpected outcome
+
+**Rationales:**
+
+*   **A. Freed from a mistaken belief (*):** This is the correct answer. To "disabuse" someone of a notion means to persuade them that an idea is mistaken. The context clues in the paragraph contrast the narrator’s "hope" (the notion) with the reality of Dr. Blackwell’s strict behavior, indicating the narrator was made to see that her idea was wrong.
+*   **B. Blamed for a careless error:** This is a distractor based on the surrounding context. In the same paragraph, the narrator mentions being reprimanded for failing to prepare a tray of instruments. A student might select this if they associate the negative experience of the paragraph with the target word, or confuse "disabused" with "abused" or "accused."
+*   **C. Discouraged by a lack of success:** This is a distractor based on the narrator’s feelings. The narrator expresses feeling like she can "do nothing right" and that approval "recedes in the distance." A student might choose this if they focus on the emotional tone of the paragraph rather than the specific definition of the word regarding the "notion."
+*   **D. Confused by an unexpected outcome:** This is a distractor based on potential morphological confusion. Students may associate the prefix "dis-" with disorder or confusion, or misinterpret the narrator's shock at Dr. Blackwell's demeanor as a state of confusion rather than clarity regarding the truth.
+
+***
+
+**LBIDAT Evaluation**
+
+| Dimension | Rating | Notes |
+| :--- | :--- | :--- |
+| **Stem & Task** | **✓** | The task clearly asks for the meaning of a word based on context, directly aligning with RL.8.4. The vocabulary selected is appropriate for 8th grade. |
+| **The Key** | **✓** | The key is definitively correct based on the dictionary definition and the context provided in the text. |
+| **Distractors** | **✓** | The distractors are plausible interpretations of the context (blame, discouragement, confusion) but are definitively incorrect definitions of the target word. They do not overlap. |
+| **Stimulus** | **✓** | The stimulus text is provided and the specific sentence is cited correctly. The item requires the text to answer. |
+| **Fairness** | **✓** | There are no sensitivity issues or bias concerns in the item or the specific context used. |
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 2b (Gemini) #2 (temp=0.8). (38.26 secs). (4858 + 863 = 5721 total tokens)
+
+Here is a second unique multiple-choice item aligned to Common Core State Standard RL.8.4 based on the passage "Dr. Blackwell’s New Assistant."
+
+**Item ID:** RL.8.4-Blackwell-Figurative
+**Grade:** 8
+**Standard:** RL.8.4 - Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone...
+**Passage:** Dr. Blackwell’s New Assistant
+
+**Item Stem:**
+
+Read the sentence from paragraph 5.
+
+“That would **extinguish** my hopes, for the Women’s Medical College that Dr. Blackwell has founded here at the New York Infirmary for Indigent Women and Children is the only institution of its kind.”
+
+What is the impact of the word **extinguish** on the meaning of the sentence?
+
+A. It suggests that the narrator’s enthusiasm for medicine is gradually fading due to exhaustion.
+B. It emphasizes that losing her position would completely end the narrator’s dream of becoming a doctor.*
+C. It implies that the narrator is worried the medical college will be forced to close down.
+D. It indicates that the narrator is ready to accept a different role in the medical field if necessary.
+
+**Rationales:**
+
+*   **A. It suggests that the narrator’s enthusiasm for medicine is gradually fading due to exhaustion:** This is a distractor based on a misunderstanding of the word's nuance. While "hopes" can be linked to enthusiasm, "extinguish" implies a definitive and immediate action (like putting out a fire), whereas "fading" suggests a slow decline. Students might choose this if they focus on the narrator's struggles described in the surrounding text.
+*   **B. It emphasizes that losing her position would completely end the narrator’s dream of becoming a doctor (*):** This is the correct answer. The author uses the metaphor of a fire being put out ("extinguish") to show the finality of the consequence. Since the text states this is the "only institution of its kind," being sent away would result in the total destruction of her opportunity.
+*   **C. It implies that the narrator is worried the medical college will be forced to close down:** This is a distractor based on a misreading of the sentence structure. The sentence mentions the college is the "only institution of its kind," which explains *why* the stakes are high for the narrator, but the word "extinguish" refers to the narrator's personal hopes, not the existence of the school itself.
+*   **D. It indicates that the narrator is ready to accept a different role in the medical field if necessary:** This is a distractor based on an alternative interpretation of the situation. Students might think "extinguish my hopes" means giving up on one specific path to take another. However, earlier in the text (paragraph 3), the narrator explicitly states she is "no longer satisfied" with nursing, supporting the idea that "extinguishing" her hope refers to the end of her specific ambition, not a willingness to change roles.
+
+***
+
+**LBIDAT Evaluation**
+
+| Dimension | Rating | Notes |
+| :--- | :--- | :--- |
+| **Stem & Task** | **✓** | The task asks students to analyze the impact of a specific word choice (metaphor), which is central to RL.8.4. |
+| **The Key** | **✓** | The key correctly identifies the figurative meaning (finality/total loss) necessitated by the context. |
+| **Distractors** | **✓** | Distractors represent common errors: confusing nuance (fading vs. extinguishing), misreading the object of the verb (school vs. hopes), or misinterpreting the character's motivation. |
+| **Stimulus** | **✓** | The relevant sentence is provided, and the item relies on understanding the specific context of that sentence within the passage. |
+| **Fairness** | **✓** | The item contains no sensitive topics or bias. |
+
+
+=============== NEW RUN (Claude) - 2026-01-15 19:34:45 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 2b (Claude) #1 (temp=0.7). (22.92 secs). (3765 + 651 = 4416 total tokens)
+
+Looking at this passage and the RL.8.4 standard, I'll create a multiple choice item focused on analyzing word choice and its impact on meaning and tone.
+
+## Multiple Choice Item:
+
+In paragraph 4, the narrator states, "If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly disabused of that notion." 
+
+What does the word "disabused" most likely mean in this context, and how does this word choice impact the tone of the passage?
+
+A. Confused about something; it creates a tone of uncertainty about Dr. Blackwell's character
+
+B. *Freed from a false belief; it creates a tone of harsh reality about the professional relationship
+
+C. Taught a new skill; it creates a tone of gratitude for Dr. Blackwell's instruction  
+
+D. Disappointed by someone; it creates a tone of sadness about losing a mentor
+
+### Rationales:
+
+**Option A (Confused about something):** Students might select this if they focus on the narrator's general state of uncertainty in her new position. However, "disabused" doesn't mean confused—it means to be corrected or freed from a mistaken belief. The context shows the narrator had a clear expectation that was definitively corrected, not that she became confused.
+
+**Option B (Correct Answer):** This is correct because "disabused" means to be freed from or corrected of a false belief or misconception. The narrator expected Dr. Blackwell to be motherly but was quickly shown this expectation was wrong when Dr. Blackwell reprimanded her publicly. The word choice creates a tone of harsh reality—the professional relationship is strict and demanding, not warm and nurturing as hoped.
+
+**Option C (Taught a new skill):** Students might choose this because Dr. Blackwell is teaching the narrator, and "disabused" contains elements that might suggest instruction. However, the context is about correcting a false expectation about Dr. Blackwell's personality, not about learning medical skills.
+
+**Option D (Disappointed by someone):** This is a tempting distractor because the narrator does feel disappointed. However, "disabused" is more specific than just disappointment—it means being corrected of a false belief. Additionally, while there is disappointment, the tone created is more about facing harsh reality than sadness.
+
+### LBIDAT Evaluation:
+
+- **Stem & Task:** ✓ (Appropriately aligned to RL.8.4, requires determining word meaning and analyzing impact on tone)
+- **The Key:** ✓ (Definitively correct and directly responsive)
+- **Distractors:** ✓ (Each represents a plausible misconception about the word or its tonal impact)
+- **Stimulus:** ✓ (Passage is necessary to answer; context is essential)
+- **Fairness:** ✓ (No inappropriate sensitivity issues)
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 2b (Claude) #2 (temp=0.8). (19.35 secs). (4430 + 641 = 5071 total tokens)
+
+Looking at the passage and RL.8.4 standard, I'll create another multiple choice item focused on figurative language and its impact on meaning and tone.
+
+## Multiple Choice Item:
+
+In paragraph 4, the narrator says, "It seems that the more I seek her approval, the farther it recedes in the distance."
+
+How does this figurative language impact the reader's understanding of the narrator's relationship with Dr. Blackwell?
+
+A. It compares approval to a race, showing that the narrator must work faster to succeed
+
+B. It suggests approval is like a physical object moving away, emphasizing the narrator's growing frustration and hopelessness
+
+C. *It presents approval as something that moves away when pursued, conveying the futility of trying too hard to impress
+
+D. It describes approval as a journey, indicating the narrator must travel far to earn respect
+
+### Rationales:
+
+**Option A (Compares approval to a race):** Students might select this because "farther" and "distance" could suggest movement or racing. However, the metaphor isn't about speed or competition—it's about something becoming more unreachable the more it's pursued. The emphasis is on the paradoxical nature of the situation, not on working faster.
+
+**Option B (Physical object moving away/frustration):** This is partially correct in identifying the figurative nature of approval moving away, but it misses the key relationship—that the approval moves away specifically *because* she seeks it. While frustration is present, "hopelessness" overstates the tone; the narrator remains determined despite the difficulty.
+
+**Option C (Correct Answer):** This correctly identifies the paradoxical relationship in the figurative language—the harder the narrator tries to gain approval, the more elusive it becomes. This conveys the futility of trying too hard and suggests that the narrator's excessive self-consciousness and eagerness to please are actually working against her, which is proven true when she finally succeeds by forgetting about Dr. Blackwell entirely.
+
+**Option D (Approval as a journey):** Students might choose this because "farther" and "distance" are travel-related terms. However, the metaphor isn't about the narrator needing to travel or go on a journey. The movement described is approval moving away from her, not her traveling toward something.
+
+### LBIDAT Evaluation:
+
+- **Stem & Task:** ✓ (Appropriately aligned to RL.8.4, requires analyzing figurative language and its impact)
+- **The Key:** ✓ (Definitively correct and directly responsive to the question)
+- **Distractors:** ✓ (Each represents a plausible misinterpretation of the figurative language)
+- **Stimulus:** ✓ (Passage context is essential to understand the relationship dynamics)
+- **Fairness:** ✓ (No inappropriate sensitivity issues)
+
+
+=============== NEW RUN GPT - 2026-01-15 19:43:45 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 2b (GPT) #1 (temp=0.7). (7.48 secs). (3524 + 462 = 3986 total tokens)
+
+1. In the sentence “the little town of Hanover, anchored on a windy Nebraska tableland, was trying not to be blown away,” what is the effect of the word “anchored” on the meaning and tone of the description?
+
+A. It suggests the town is safely attached and secure against the wind.  
+B. It implies the town is heavy and ugly, weighing down the open prairie.  
+C. It compares the town to a ship struggling to stay in place in a violent storm.*  
+D. It shows that the town is literally chained to the ground by metal anchors.
+
+**Correct Answer: C***
+
+**Rationales:**
+
+- **A. It suggests the town is safely attached and secure against the wind.**  
+  This misreads the figurative use. While “anchored” can mean secure, the rest of the sentence (“trying not to be blown away”) creates a tone of struggle and vulnerability, not safety. This choice ignores the full context and tone.
+
+- **B. It implies the town is heavy and ugly, weighing down the open prairie.**  
+  “Anchored” does not have a negative connotation of ugliness or burden here. This distractor confuses physical heaviness with the figurative image Cather creates and adds connotations (“ugly,” “weighing down”) that are not supported by the text.
+
+- **C. It compares the town to a ship struggling to stay in place in a violent storm.*  
+  This correctly interprets “anchored” as a metaphor. The town is figuratively like a ship with an anchor dropped, on a “windy” “tableland,” and is “trying not to be blown away.” The word choice creates an image of a small, fragile place clinging to the land, shaping a tone of tension and precariousness.
+
+- **D. It shows that the town is literally chained to the ground by metal anchors.**  
+  This takes the word “anchored” literally instead of figuratively. There are no actual anchors in the passage; it is an image used to describe how the town seems in the wind. This answer fails to recognize the figurative meaning required by RL.8.4.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 2b (GPT) #2 (temp=0.8). (6.96 secs). (3997 + 455 = 4452 total tokens)
+
+2. In the description, Cather writes that the buildings were “huddled on the gray prairie, under a gray sky.” What is the impact of the word “huddled” on the meaning and tone of this scene?
+
+A. It makes the buildings seem crowded together for protection, emphasizing how small and vulnerable the town is.*  
+B. It shows that the buildings are carefully arranged in neat, even rows.  
+C. It suggests that the buildings are tall and proud, standing confidently in the wind.  
+D. It means the buildings are abandoned and falling down into piles of rubble.
+
+**Correct Answer: A***
+
+**Rationales:**
+
+- **A. It makes the buildings seem crowded together for protection, emphasizing how small and vulnerable the town is.*  
+  “Huddled” is often used for people or animals pressing close together for warmth or safety. Applied to buildings, it gives a figurative image of the town as fragile and exposed on the prairie, which matches the cold, windy setting and the gray tone. This captures both the connotation and the tone created by the word choice.
+
+- **B. It shows that the buildings are carefully arranged in neat, even rows.**  
+  This is contradicted by the passage, which says the houses were “set about haphazard” and the buildings “straggled” along the road. “Huddled” does not imply neatness or order, so this misinterprets the word and the text.
+
+- **C. It suggests that the buildings are tall and proud, standing confidently in the wind.**  
+  “Huddled” has a connotation of shrinking in, not standing proud. The tone of the scene is bleak and harsh, not confident. This answer reverses the emotional impact of the word.
+
+- **D. It means the buildings are abandoned and falling down into piles of rubble.**  
+  While “huddled” can suggest closeness, it does not mean ruined or abandoned. The text does not describe the buildings as destroyed, only temporary and wind-battered. This choice adds a meaning not supported by the passage and ignores the figurative sense of the word.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 19:48:04 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 2b (Gemini) #1 (temp=0.7). (39.19 secs). (4157 + 1412 = 5569 total tokens)
+
+Here is a unique multiple-choice item developed for 8th Grade, aligned to CCSS.ELA-LITERACY.RL.8.4, based on the provided passage from *O Pioneers!*.
+
+### Item Draft
+
+**Standard:** CCSS.ELA-LITERACY.RL.8.4
+Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone, including analogies or allusions to other texts.
+
+**Passage:** Excerpt from *O Pioneers!*
+
+**Item:**
+Read the sentence from the first paragraph.
+
+“A mist of fine snowflakes was curling and eddying about the cluster of low drab buildings huddled on the gray prairie, under a gray sky.”
+
+What is the impact of the author’s use of the word *huddled* in the sentence?
+
+A. It suggests that the town is a crowded and busy center of activity.
+B. It highlights the lack of planning in the construction of the town.
+C. It emphasizes the town’s vulnerability to the harsh environment. *
+D. It implies that the buildings are trying to remain hidden from view.
+
+**Rationales:**
+
+*   **A. It suggests that the town is a crowded and busy center of activity.**
+    *   *Rationale:* This distractor appeals to the literal definition of "huddle," which often refers to a sports team or a crowd gathering closely together to strategize or talk. A student might choose this if they apply the literal definition without considering the context of the passage, which describes the town as quiet with "nobody abroad in the streets."
+*   **B. It highlights the lack of planning in the construction of the town.**
+    *   *Rationale:* This distractor is plausible because the text immediately following this sentence describes the houses as "set about haphazard" and "straying off." A student might choose this if they conflate the meaning of *huddled* with the description of the town's layout found in the subsequent sentences. However, *huddled* specifically refers to the posture of the buildings, not their organization.
+*   **C. It emphasizes the town’s vulnerability to the harsh environment. (*)**
+    *   *Rationale:* This is the correct answer. The author uses personification to describe the inanimate buildings as "huddled." In the context of the "mist of fine snowflakes," the "windy Nebraska tableland," and the "gray sky," the word evokes the image of living things gathering together for warmth and protection. It creates a tone of bleakness and highlights how exposed and small the town feels against the vast, cold prairie.
+*   **D. It implies that the buildings are trying to remain hidden from view.**
+    *   *Rationale:* This distractor appeals to a misinterpretation of the personification. A student might interpret the act of "huddling" or being "low" and "drab" as an attempt to camouflage or hide, rather than an attempt to withstand the wind and cold. This is an incorrect inference regarding the motivation attributed to the personified buildings.
+
+***
+
+### LBIDAT Evaluation of the Item
+
+Below is an analysis of how this item performs against the LBIDAT criteria provided.
+
+**Stem & Task: ✓ (No Apparent Critical Issues)**
+The task asks the student to analyze the impact of specific word choice (*huddled*) on meaning and tone. This is a direct hit on the core of Standard RL.8.4. The task requires the student to engage with the text; they cannot answer it based on the definition of the word alone, as they must distinguish between the literal meaning (crowding) and the figurative usage (protection/vulnerability) in this specific context.
+
+**The Key: ✓ (No Apparent Critical Issues)**
+The key (Option C) is definitively correct. The context of the paragraph is overwhelmingly focused on the weather (wind, snow, grayness) and the town's struggle against it ("trying not to be blown away"). Therefore, "vulnerability to the harsh environment" is the only interpretation supported by the surrounding text.
+
+**Distractors: ✓ (No Apparent Critical Issues)**
+*   **Direct Response:** All distractors complete the sentence stem grammatically and logically.
+*   **Plausibility:**
+    *   Option A relies on the literal definition of the target word (Common Core Shift: focus on words *as used in the text*).
+    *   Option B relies on textual evidence found in the immediate vicinity ("haphazard"), checking for precision in reading.
+    *   Option C is the Key.
+    *   Option D relies on a misconception of the figurative language used (personification).
+*   **Definitively Incorrect:**
+    *   A is incorrect because the text explicitly states the town is quiet/empty.
+    *   B is incorrect because while the town *is* unplanned, the word "huddled" does not convey that meaning; "haphazard" does.
+    *   D is incorrect because there is no textual evidence suggesting secrecy or hiding; the buildings are "drab," not camouflaged.
+
+**Stimulus: ✓ (No Apparent Critical Issues)**
+The stimulus is a classic literary text appropriate for 8th grade. The item requires the stimulus to answer the question (context clues are required to eliminate the literal definition of "huddle"). There are no errors in the excerpt provided.
+
+**Fairness: ✓ (No Apparent Critical Issues)**
+The passage describes a cold day and a crying child, but these are standard literary themes of conflict and setting. There are no sensitivity topics (violence, bias, controversial subjects) that would prevent a fairness committee from approving this item. The description of the "little Swede boy" is a historical characterization typical of Cather's work and is not presented in a derogatory manner.
+
+***
+
+### Final Item Version
+
+**Item #01**
+
+**Passage:** Excerpt from *O Pioneers!*
+**Standard:** RL.8.4
+
+**Read the sentence from the first paragraph.**
+
+**“A mist of fine snowflakes was curling and eddying about the cluster of low drab buildings huddled on the gray prairie, under a gray sky.”**
+
+**What is the impact of the author’s use of the word *huddled* in the sentence?**
+
+**A. It suggests that the town is a crowded and busy center of activity.**
+**B. It highlights the lack of planning in the construction of the town.**
+**C. It emphasizes the town’s vulnerability to the harsh environment. \***
+**D. It implies that the buildings are trying to remain hidden from view.**
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 2b (Gemini) #2 (temp=0.8). (27.31 secs). (5582 + 1333 = 6915 total tokens)
+
+Here is a unique multiple-choice item developed for 8th Grade, aligned to CCSS.ELA-LITERACY.RL.8.4, based on the provided passage from *O Pioneers!*.
+
+### Item Draft
+
+**Standard:** CCSS.ELA-LITERACY.RL.8.4
+Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone, including analogies or allusions to other texts.
+
+**Passage:** Excerpt from *O Pioneers!*
+
+**Item:**
+Read the sentence from the third paragraph.
+
+“She wore a man’s long ulster (not as if it were an affliction, but as if it were very comfortable and belonged to her; carried it like a young soldier), and a round plush cap, tied down with a thick veil.”
+
+What is the effect of the author's comparison of the sister to a “young soldier”?
+
+A. It implies that she feels burdened by the weight of the heavy coat.
+B. It suggests that she is attempting to disguise her true identity.
+C. It characterizes her as commanding and self-assured. *
+D. It indicates that she has an aggressive and combative personality.
+
+**Rationales:**
+
+*   **A. It implies that she feels burdened by the weight of the heavy coat.**
+    *   *Rationale:* This distractor appeals to students who focus on the description of the "man's long ulster" (a heavy coat) without reading the parenthetical text. It is definitively incorrect because the text explicitly states she wore it "not as if it were an affliction" (a burden) but as if it were "very comfortable."
+*   **B. It suggests that she is attempting to disguise her true identity.**
+    *   *Rationale:* This distractor appeals to a misconception regarding a female character wearing men's clothing ("man's long ulster"). A student might infer she is hiding or disguising herself. However, the text states the coat looked as if it "belonged to her," suggesting ownership and confidence rather than concealment.
+*   **C. It characterizes her as commanding and self-assured. (*)**
+    *   *Rationale:* This is the correct answer. The simile "carried it like a young soldier" is used to describe her posture and demeanor. Combined with the context clues "resolutely" and "as if she knew exactly where she was going," the comparison highlights her strength, confidence, and ability to command her environment, much like a disciplined soldier.
+*   **D. It indicates that she has an aggressive and combative personality.**
+    *   *Rationale:* This distractor appeals to a negative connotation of the word "soldier" (fighting/war). A student might choose this if they associate soldiers primarily with violence. However, the surrounding text describes her face as "serious" and "thoughtful" rather than angry or violent, making this interpretation incorrect in context.
+
+***
+
+### LBIDAT Evaluation of the Item
+
+Below is an analysis of how this item performs against the LBIDAT criteria.
+
+**Stem & Task: ✓ (No Apparent Critical Issues)**
+The task asks the student to analyze the impact of a specific analogy (simile) on the characterization of a figure in the text. This aligns directly with the "analogies or allusions" aspect of Standard RL.8.4. The task requires the student to synthesize the figurative language with the specific context clues provided in the sentence (the parenthetical explanation).
+
+**The Key: ✓ (No Apparent Critical Issues)**
+The key (Option C) is definitively correct. The text provides explicit support for this interpretation. The phrase "walked rapidly and resolutely" precedes the sentence, and the parenthetical note clarifies that the coat is worn with comfort and ownership. "Young soldier" in this context conveys discipline and strength (posture), which aligns with "self-assured."
+
+**Distractors: ✓ (No Apparent Critical Issues)**
+*   **Direct Response:** All distractors answer the question regarding the "effect" of the comparison.
+*   **Plausibility:**
+    *   Option A is a plausible misreading if the student ignores the "not" in "not as if it were an affliction."
+    *   Option B is a plausible inference based on the "man's coat" element, often a trope in literature for disguise.
+    *   Option D is a plausible association with the word "soldier" if the tone is ignored.
+*   **Definitively Incorrect:**
+    *   A is ruled out by the text "not as if it were an affliction."
+    *   B is ruled out by the text "belonged to her."
+    *   D is ruled out by the description of her "thoughtful" face and "deep blue eyes... fixed intently."
+
+**Stimulus: ✓ (No Apparent Critical Issues)**
+The stimulus is appropriate. The item requires close reading of the specific sentence structure (specifically the parenthetical aside) to arrive at the correct answer.
+
+**Fairness: ✓ (No Apparent Critical Issues)**
+There are no sensitivity issues. The reference to a "soldier" is used metaphorically for posture and confidence, not violence. The gender dynamics (girl wearing a man's coat) are handled in a literary context emphasizing strength, which is generally viewed positively in fairness reviews.
+
+***
+
+### Final Item Version
+
+**Item #02**
+
+**Passage:** Excerpt from *O Pioneers!*
+**Standard:** RL.8.4
+
+**Read the sentence from the third paragraph.**
+
+**“She wore a man’s long ulster (not as if it were an affliction, but as if it were very comfortable and belonged to her; carried it like a young soldier), and a round plush cap, tied down with a thick veil.”**
+
+**What is the effect of the author's comparison of the sister to a “young soldier”?**
+
+**A. It implies that she feels burdened by the weight of the heavy coat.**
+**B. It suggests that she is attempting to disguise her true identity.**
+**C. It characterizes her as commanding and self-assured. \***
+**D. It indicates that she has an aggressive and combative personality.**
+
+
+=============== NEW RUN (Claude) - 2026-01-15 20:02:40 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 2b (Claude) #1 (temp=0.7). (23.41 secs). (3839 + 773 = 4612 total tokens)
+
+I'll create a multiple choice item aligned to RL.8.4 that focuses on determining word meanings and analyzing the impact of word choices on meaning and tone.
+
+## Draft Item:
+
+**Read this sentence from the passage:**
+
+*"The dwelling-houses were set about haphazard on the tough prairie sod; some of them looked as if they had been moved in overnight, and others as if they were straying off by themselves, headed straight for the open plain."*
+
+How does the author's use of the word "straying" impact the meaning and tone of this description?
+
+A. It suggests the houses are lost and confused, creating a tone of sympathy for the struggling settlers.
+
+B. It implies the houses are wandering with purpose, establishing a tone of determination and progress.
+
+*C. It personifies the houses as wayward animals, emphasizing the lack of control and permanence in the settlement.
+
+D. It indicates the houses are being deliberately moved, conveying a tone of organized expansion.
+
+## Rationales:
+
+**Option A:** Students might select this if they focus only on the negative connotation of "straying" without considering the full context. While "straying" can suggest being lost, the passage doesn't create sympathy but rather emphasizes the chaotic, impermanent nature of the settlement.
+
+**Option B:** This misinterprets "straying" as purposeful movement. Students might choose this if they confuse wandering with intentional progress, missing that "straying" implies aimless movement.
+
+**Option C (Key):** This is correct because "straying" typically describes animals wandering away from where they should be. By applying this word to houses, Cather personifies them as creatures moving without direction or control, which reinforces the passage's overall tone about the settlement's impermanence and the settlers' lack of control over their harsh environment.
+
+**Option D:** Students might select this if they interpret "straying" as deliberate movement, perhaps confusing it with "moving" or "relocating." This misses the connotation of aimlessness that "straying" carries.
+
+## LBIDAT Evaluation:
+
+- **Stem & Task:** ✓ (Appropriately aligned to RL.8.4, asks about word choice impact on meaning and tone)
+- **The Key:** ✓ (Definitively correct and directly responsive)
+- **Distractors:** ✓ (Each represents a plausible misinterpretation based on partial understanding)
+- **Stimulus:** ✓ (Requires analysis of the passage excerpt provided)
+- **Fairness:** ✓ (No sensitivity issues)
+
+## Final Version:
+
+**Read this sentence from the passage:**
+
+*"The dwelling-houses were set about haphazard on the tough prairie sod; some of them looked as if they had been moved in overnight, and others as if they were straying off by themselves, headed straight for the open plain."*
+
+How does the author's use of the word "straying" impact the meaning and tone of this description?
+
+A. It suggests the houses are lost and confused, creating a tone of sympathy for the struggling settlers.
+
+B. It implies the houses are wandering with purpose, establishing a tone of determination and progress.
+
+*C. It personifies the houses as wayward animals, emphasizing the lack of control and permanence in the settlement.
+
+D. It indicates the houses are being deliberately moved, conveying a tone of organized expansion.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 2b (Claude) #2 (temp=0.8). (18.73 secs). (4626 + 731 = 5357 total tokens)
+
+I'll create another multiple choice item aligned to RL.8.4, focusing on a different aspect of word meaning and tone analysis.
+
+## Draft Item:
+
+**Read this description of Alexandra from the passage:**
+
+*"She wore a man's long ulster (not as if it were an affliction, but as if it were very comfortable and belonged to her; carried it like a young soldier)"*
+
+What does the phrase "carried it like a young soldier" suggest about Alexandra's character and the author's tone toward her?
+
+A. It reveals Alexandra's military background and creates a tone of respect for her service.
+
+B. It shows Alexandra is playing dress-up, establishing a tone of amusement about her childish behavior.
+
+C. It indicates Alexandra is uncomfortable in men's clothing, creating a sympathetic tone about societal restrictions.
+
+*D. It emphasizes Alexandra's confidence and strength, establishing a tone of admiration for her self-assurance.
+
+## Rationales:
+
+**Option A:** Students might select this if they interpret the comparison too literally, thinking Alexandra actually has military experience. This misses that it's a simile describing how she carries herself.
+
+**Option B:** This misinterprets the comparison as suggesting immaturity or pretense. Students might choose this if they focus on "young" without considering the full context of "soldier" and the positive description that precedes it.
+
+**Option C:** Students might select this if they misread the parenthetical statement, which explicitly says she does NOT wear it "as if it were an affliction." This represents the opposite of what the text states.
+
+**Option D (Key):** This is correct because the soldier comparison, combined with the description that she wears the coat comfortably as if it "belonged to her," suggests confidence, purpose, and strength. The author's tone is clearly admiring, as shown by the positive framing of her wearing men's clothing without shame or discomfort.
+
+## LBIDAT Evaluation:
+
+- **Stem & Task:** ✓ (Appropriately aligned to RL.8.4, analyzes figurative language and its impact on meaning and tone)
+- **The Key:** ✓ (Definitively correct and directly responsive)
+- **Distractors:** ✓ (Each represents a plausible misinterpretation of the figurative language)
+- **Stimulus:** ✓ (Requires careful analysis of the specific passage excerpt)
+- **Fairness:** ✓ (No sensitivity issues)
+
+## Final Version:
+
+**Read this description of Alexandra from the passage:**
+
+*"She wore a man's long ulster (not as if it were an affliction, but as if it were very comfortable and belonged to her; carried it like a young soldier)"*
+
+What does the phrase "carried it like a young soldier" suggest about Alexandra's character and the author's tone toward her?
+
+A. It reveals Alexandra's military background and creates a tone of respect for her service.
+
+B. It shows Alexandra is playing dress-up, establishing a tone of amusement about her childish behavior.
+
+C. It indicates Alexandra is uncomfortable in men's clothing, creating a sympathetic tone about societal restrictions.
+
+*D. It emphasizes Alexandra's confidence and strength, establishing a tone of admiration for her self-assurance.

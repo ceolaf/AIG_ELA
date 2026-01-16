@@ -1,0 +1,31 @@
+Standard:  RI 8.2
+ID: 24150
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 5a (Claude) #1 (temp=0.7). (19.27 secs). (1222 + 485 = 1707 total tokens)
+
+Based on the passage about elephant cooperation, here's a multiple choice item aligned to RI.8.2:
+
+**How does the central idea that elephants possess advanced cooperative abilities develop throughout the text?**
+
+A. The text first presents elephants' cooperation as a hypothesis, then describes experiments that test this ability, and finally confirms the finding by comparing elephants' performance to that of other intelligent species.
+
+*B. The text initially establishes that cooperation requires higher social cognition, then demonstrates through experiments that elephants understand when they need help, and concludes by validating these findings through expert opinions and natural observations.
+
+C. The text begins by describing the experimental setup in detail, then shows how elephants failed initial attempts at cooperation, and ultimately reveals how training helped them succeed at the task.
+
+D. The text opens with a broad claim about animal intelligence, then narrows to focus exclusively on the rope-pulling experiment, and ends by suggesting elephants are superior to all other animals in cooperation.
+
+**Rationales:**
+
+**Option A:** A student might select this if they recognize the general flow from introduction to experiments to comparisons, but this mischaracterizes the opening as presenting a "hypothesis" rather than a conclusion already reached. The text opens with the definitive statement that elephants "know when they need a helping hand."
+
+**Option B (Correct):** This accurately traces how the central idea develops: 
+1. The opening paragraph establishes that recognizing the need for help is a sign of "higher social cognition"
+2. The middle sections detail experiments showing elephants understand cooperation (waiting for partners, giving up when partners can't help)
+3. The conclusion provides validation through expert commentary and examples from nature (elephants helping fallen companions)
+
+**Option C:** This distractor appeals to students who focus too heavily on the experimental procedure details but misread the results. The text never suggests elephants failed initially; rather, they learned "faster than chimpanzees."
+
+**Option D:** Students might choose this if they notice the comparison to other animals but misunderstand the scope and conclusion. The text doesn't claim elephants are superior to all other animals, but rather that they join an "elite club" alongside chimpanzees, hyenas, rooks, and humans.

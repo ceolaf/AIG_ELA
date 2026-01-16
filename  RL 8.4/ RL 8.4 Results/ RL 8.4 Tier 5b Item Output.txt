@@ -1,0 +1,635 @@
+
+
+
+=============== NEW RUN GPT - 2026-01-15 19:15:15 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 5b (GPT) #1 (temp=0.7). (7.80 secs). (3757 + 511 = 4268 total tokens)
+
+1. Read this sentence from the passage.
+
+   > “It seems that the more I seek her approval, the **farther it recedes in the distance**.”
+
+   In this sentence, what is the effect of the phrase “farther it recedes in the distance” on the tone of the passage?
+
+   A. It suggests that Dr. Blackwell is physically moving away from the narrator.  
+   B. It shows that the narrator feels Dr. Blackwell’s approval is becoming less and less attainable.*  
+   C. It hints that the narrator is planning to leave the clinic soon.  
+   D. It indicates that the narrator does not care about Dr. Blackwell’s opinion.
+
+---
+
+### Rationales
+
+**Correct Answer: B. It shows that the narrator feels Dr. Blackwell’s approval is becoming less and less attainable.***
+
+- The phrase “farther it recedes in the distance” is figurative, not literal. Approval cannot literally move away, so the author uses this image to show that, in the narrator’s mind, Dr. Blackwell’s approval feels like something she can’t quite reach.  
+- This word choice creates a discouraged, frustrated tone: the harder she tries, the more unreachable approval seems.
+
+**A. It suggests that Dr. Blackwell is physically moving away from the narrator.**
+
+- This takes the phrase literally instead of figuratively.  
+- Nothing in the paragraph describes Dr. Blackwell walking away; the “receding” refers to approval, not to Dr. Blackwell’s body.  
+- Choosing this reflects a misunderstanding of how figurative language works in this sentence.
+
+**C. It hints that the narrator is planning to leave the clinic soon.**
+
+- The sentence focuses on the narrator’s feelings about approval, not on any decision to leave.  
+- Earlier and later in the passage, she wants to stay and “gain the doctor’s respect,” not leave.  
+- This option misreads the emotional effect of the phrase as a plan for action.
+
+**D. It indicates that the narrator does not care about Dr. Blackwell’s opinion.**
+
+- This is the opposite of what the text says: “the more I seek her approval” shows she cares deeply.  
+- If she didn’t care, she wouldn’t feel that approval “recedes” or be upset by the scoldings.  
+- This distractor ignores both the literal words (“seek her approval”) and their connotation.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 5b (GPT) #2 (temp=0.8). (7.30 secs). (4279 + 518 = 4797 total tokens)
+
+2. Read this sentence from the passage.
+
+   > “If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly **disabused** of that notion.”
+
+   As it is used in this sentence, what does the word **“disabused”** most strongly suggest about the narrator’s experience with Dr. Blackwell?
+
+   A. The narrator was gently reminded to respect Dr. Blackwell’s authority.  
+   B. The narrator was forced to abandon her mistaken hope about Dr. Blackwell.*  
+   C. The narrator was encouraged to keep believing Dr. Blackwell would be kind.  
+   D. The narrator was confused about whether Dr. Blackwell was strict or caring.
+
+---
+
+### Rationales
+
+**Correct Answer: B. The narrator was forced to abandon her mistaken hope about Dr. Blackwell.***
+
+- “Disabused” means to be freed from a false or mistaken belief.  
+- The “notion” was that Dr. Blackwell might be a “motherly figure”; the narrator’s experience—public reprimands and strictness—shows that idea was wrong.  
+- The word “quickly” and the context of being scolded support the idea that her hope was firmly corrected, not gently adjusted or encouraged.
+
+**A. The narrator was gently reminded to respect Dr. Blackwell’s authority.**
+
+- “Disabused” does not suggest something gentle; it implies a firm correction of a wrong belief.  
+- The context (“she thought nothing of reprimanding me in front of all the other students”) shows a sharp, public correction, not a mild reminder.  
+- This option underplays the strength and connotation of “disabused.”
+
+**C. The narrator was encouraged to keep believing Dr. Blackwell would be kind.**
+
+- This is the opposite of what happens.  
+- Being “disabused” means losing a belief, not being encouraged to keep it.  
+- The surrounding details (reprimands, “no motherly figure”) show her hope is taken away, not supported.
+
+**D. The narrator was confused about whether Dr. Blackwell was strict or caring.**
+
+- “Disabused” indicates clarity, not confusion—the narrator now clearly sees that her “motherly” idea was wrong.  
+- The sentence does not show uncertainty; it shows a firm realization that her earlier notion was mistaken.  
+- This misreads the impact of the word on the narrator’s understanding.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 19:26:01 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 5b (Gemini) #1 (temp=0.7). (58.76 secs). (4420 + 894 = 5314 total tokens)
+
+**Item ID:** RL.8.4_IdleConversation
+
+**Standard:** CCSS.ELA-LITERACY.RL.8.4: Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone...
+
+**Passage:** Dr. Blackwell’s New Assistant
+
+**Item Stem:**
+Read the sentence from paragraph 9.
+
+“‘This is a hospital, not a place for **idle** conversation.’”
+
+What does the word **idle** suggest about Dr. Blackwell’s attitude toward Diana’s behavior?
+
+**Answer Options:**
+
+A. She thinks Diana is avoiding her work to talk about personal matters.
+B. She considers the comfort Diana provides to the patient to be unnecessary.*
+C. She worries that Diana is disturbing other patients with the noise.
+D. She believes Diana is behaving in a lazy manner by moving too slowly.
+
+**Rationales:**
+
+*   **A.** This distractor is plausible if the student interprets “idle conversation” as “gossip.” However, the context establishes that Diana is speaking “soothingly” to calm a nervous patient, not discussing personal matters.
+*   **B. Correct.** The author contrasts Diana’s intent (soothing a frightened patient) with Dr. Blackwell’s descriptor (“idle”). In this context, “idle” implies that the conversation has no value or purpose. This word choice reveals that Dr. Blackwell views emotional comfort as a waste of time in a medical setting, prioritizing clinical efficiency over bedside manner.
+*   **C.** This distractor is plausible if the student focuses on the command “Less chatter” and assumes the issue is the volume or disturbance. However, the use of the specific adjective “idle” critiques the *value* of the conversation, not just the noise level.
+*   **D.** This distractor is plausible because the denotative meaning of “idle” is often associated with laziness or inaction. However, Diana is actively helping a patient onto a bed while talking, so the charge of “idle” refers to the words she is using, not her physical work ethic.
+
+***
+
+**LBIDAT Evaluation:**
+
+**Stem & Task:** **✓**
+The stem directs the student to a specific sentence and asks them to analyze the implications of a specific word choice within that context. This aligns directly with the "advanced skill" of recognizing how an author's use of a word shapes meaning and tone, as required by RL.8.4. The task requires reading beyond the denotative meaning of "idle" (lazy) to understand its connotative application to "comforting words" in this specific text.
+
+**The Key:** **✓**
+Option B is definitively correct based on the text. The passage sets up a contrast between the narrator's empathetic approach ("spoke soothingly") and Dr. Blackwell's pragmatic, perhaps harsh, correction. Labeling the comfort as "idle" (useless/vain) signals that Blackwell does not value that aspect of care.
+
+**Distractors:** **✓**
+*   Distractor A relies on a common association (idle talk = gossip) that contradicts the specific context (soothing talk).
+*   Distractor C relies on a surface-level reading of the situation (chatter = noise) rather than the deeper meaning of the word choice.
+*   Distractor D relies on the literal/denotative definition of the word "idle" (lazy) which does not fit the context of the action described.
+All distractors are plausible to a student who has not mastered the standard but are definitively incorrect based on a careful reading of the text.
+
+**Stimulus:** **✓**
+The stimulus provided ("Dr. Blackwell’s New Assistant") is appropriate for 8th grade and contains sufficient literary nuance (the contrast between the narrator's internal monologue and the external dialogue) to support the item. The text is error-free and clearly labeled.
+
+**Fairness:** **✓**
+The item and passage do not raise inappropriate sensitivity topics. The context of a historical medical setting and the challenges of early female doctors is educational and appropriate. The reprimand described is a common workplace/educational dynamic and does not trigger emotional distress that would impede testing.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 5b (Gemini) #2 (temp=0.8). (49.74 secs). (5327 + 796 = 6123 total tokens)
+
+**Item ID:** RL.8.4_Curiosity
+
+**Standard:** CCSS.ELA-LITERACY.RL.8.4: Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone...
+
+**Passage:** Dr. Blackwell’s New Assistant
+
+**Item Stem:**
+Read the sentence from paragraph 7.
+
+“Female physicians are still more of a **curiosity** than anything.”
+
+Based on the context of the paragraph, what does the word **curiosity** suggest about female physicians?
+
+**Answer Options:**
+A. They are eager to learn as much as possible about medicine.
+B. They are viewed by the public as strange novelties rather than experts.*
+C. They are difficult to locate because there are very few of them.
+D. They are considered intrusive because they ask personal questions.
+
+**Rationales:**
+
+*   **A.** This distractor is plausible because it uses the most common definition of the word "curiosity" (a strong desire to know or learn something). A student might select this if they apply the definition to the doctors' internal state rather than analyzing how the word is used to describe their external status.
+*   **B. Correct.** In this context, "curiosity" is used as a noun meaning "an unusual or interesting object or fact." The surrounding text contrasts the patients' lack of "confidence in our abilities" with the idea of the doctors being a "curiosity." This indicates that the public sees them as oddities to be looked at, rather than trusted professionals.
+*   **C.** This distractor is plausible because the text establishes that female doctors are rare (Dr. Blackwell was the "first"). However, the word "curiosity" in this sentence explains the patients' hesitation and doubt, not the scarcity of the doctors.
+*   **D.** This distractor is plausible because it draws on a negative connotation of the word "curious" (being nosy). However, the text describes the patients as being unsure of the doctors' *abilities*, not offended by their questions.
+
+***
+
+**LBIDAT Evaluation:**
+
+**Stem & Task:** **✓**
+The item directs the student to a specific sentence and requires them to determine the meaning of a word as it is used in that specific context. This aligns with the standard's focus on recognizing meanings that differ from the most literal or common understanding (i.e., "curiosity" as a status/object vs. "curiosity" as a trait).
+
+**The Key:** **✓**
+Option B is definitively correct. The paragraph discusses the patients' "relief" but also their lack of "confidence." Describing the physicians as a "curiosity" explains why patients might doubt them—they are seen as experimental or strange rather than established.
+
+**Distractors:** **✓**
+*   Distractor A appeals to the primary definition of the word, testing if the student checks the context.
+*   Distractor C appeals to the historical context of scarcity mentioned elsewhere in the text, testing if the student understands the specific word choice.
+*   Distractor D appeals to a related usage of the word "curious," testing if the student can distinguish between different connotations.
+All distractors are definitively incorrect based on the sentence's context.
+
+**Stimulus:** **✓**
+The passage supports the item well. Paragraph 7 provides specific context clues ("curiosity," "doubt us," "confidence") that allow the student to derive the correct meaning without outside knowledge.
+
+**Fairness:** **✓**
+The item is fair and free of inappropriate sensitivity issues. While it discusses gender discrimination historically, it does so in an academic, text-based manner appropriate for the grade level.
+
+
+=============== NEW RUN (Claude) - 2026-01-15 19:38:52 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 5b (Claude) #1 (temp=0.7). (28.74 secs). (4063 + 757 = 4820 total tokens)
+
+Looking at this passage and the standard RL.8.4, I need to create an item that focuses on how specific word choices impact meaning and tone, particularly examining connotative meanings beyond just literal definitions.
+
+Let me identify a strong example from the text where word choice carries significant connotative weight. In paragraph 4, the phrase "the farther it recedes in the distance" is particularly rich with connotative meaning that goes beyond its literal sense.
+
+Here's my multiple choice item:
+
+---
+
+**Item:**
+
+Read this sentence from paragraph 4:
+
+"It seems that the more I seek her approval, the farther it recedes in the distance."
+
+The author's choice of the phrase "recedes in the distance" suggests that Dr. Blackwell's approval feels—
+
+A. physically far away from where Diana works
+B. *increasingly unattainable despite Diana's efforts
+C. less important than it was at first
+D. hidden behind Dr. Blackwell's harsh exterior
+
+**Rationales:**
+
+**Option A (Distractor):** This response interprets "recedes in the distance" in its most literal, denotative sense—as if approval were a physical object that is spatially distant. Students selecting this option are reading only the surface meaning and missing the figurative language that creates the metaphor of approval as something that moves away.
+
+**Option B (Key):** This is correct because "recedes" carries the connotation of something continuously moving away or becoming more distant over time. Combined with "the more I seek," this creates a sense of futility—that Diana's efforts are paradoxically making her goal harder to reach. The word choice emphasizes the frustrating dynamic where trying harder seems to make success less likely.
+
+**Option C (Distractor):** Students might select this if they confuse "receding" (moving away) with "diminishing in importance." While something distant might seem less important, the context shows Diana desperately wants Dr. Blackwell's approval—it's becoming harder to get, not less valued.
+
+**Option D (Distractor):** This option acknowledges the figurative nature of the language but misinterprets the specific connotation. "Hidden behind" suggests the approval exists but is concealed, while "recedes in the distance" suggests it's actively moving away, becoming more unattainable with each attempt.
+
+---
+
+**LBIDAT Evaluation:**
+
+- **Stem & Task:** ✓ - The task directly targets the standard by asking students to analyze how a specific phrase's connotative meaning shapes understanding beyond literal interpretation.
+
+- **The Key:** ✓ - The key is definitively correct and directly responsive to how the connotative meaning of "recedes in the distance" functions in context.
+
+- **Distractors:** ✓ - Each distractor represents a plausible misunderstanding: literal interpretation (A), confusion of similar concepts (C), and partial understanding of figurative language (D).
+
+- **Stimulus:** ✓ - The passage provides necessary context, and students must understand Diana's relationship with Dr. Blackwell to correctly interpret the connotative meaning.
+
+- **Fairness:** ✓ - The item contains no inappropriate sensitivity issues.
+
+This item successfully assesses students' ability to recognize how the author's word choice creates meaning beyond literal interpretation, specifically how "recedes in the distance" metaphorically captures the frustrating dynamic of Diana's pursuit of approval.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 5b (Claude) #2 (temp=0.8). (20.87 secs). (4834 + 742 = 5576 total tokens)
+
+Looking at this passage for another strong example of connotative meaning that shapes tone and meaning, I'll focus on paragraph 9 where Diana describes feeling "unjustly reprimanded, like a child caught sneaking sweets from a jar."
+
+---
+
+**Item:**
+
+Read this sentence from paragraph 9:
+
+"Once again, I felt unjustly reprimanded, like a child caught sneaking sweets from a jar."
+
+The comparison to "a child caught sneaking sweets from a jar" emphasizes Diana's feeling of being—
+
+A. hungry for knowledge and learning
+B. guilty about making a mistake  
+C. *unfairly treated as immature and mischievous
+D. secretive about her true intentions
+
+**Rationales:**
+
+**Option A (Distractor):** Students might select this if they focus too literally on "sweets" and connect it metaphorically to Diana's desire for knowledge. However, this misses the key connotative meaning of the comparison, which is about how she feels treated, not what she desires.
+
+**Option B (Distractor):** This option misreads the emotional tone. A child caught sneaking sweets would feel guilty, but Diana explicitly states she felt "unjustly" reprimanded—she doesn't believe she did anything wrong. The comparison is about how she's being treated, not about actual guilt.
+
+**Option C (Key):** This is correct because the simile carries specific connotations about being treated as childish and naughty when she was actually trying to help. The word "unjustly" combined with the image of a misbehaving child creates a tone of frustration at being diminished and misunderstood. The comparison suggests Dr. Blackwell treats her professional efforts as if they were childish mischief.
+
+**Option D (Distractor):** Students might focus on the "sneaking" aspect of the comparison and assume Diana is hiding something. However, the context shows Diana was openly helping a patient, not being secretive. This misses that the comparison describes how she feels treated, not her actual behavior.
+
+---
+
+**LBIDAT Evaluation:**
+
+- **Stem & Task:** ✓ - The task directly addresses the standard by requiring students to analyze how a figurative comparison creates connotative meaning that shapes our understanding of Diana's emotional state and relationship with Dr. Blackwell.
+
+- **The Key:** ✓ - The key is definitively correct and captures how the connotative meaning of the comparison reveals Diana's frustration at being infantilized.
+
+- **Distractors:** ✓ - Each distractor represents a plausible misunderstanding: over-literal interpretation of "sweets" (A), missing the word "unjustly" (B), and focusing on the wrong element of the comparison (D).
+
+- **Stimulus:** ✓ - The passage context is essential to understanding why Diana feels this way, and students must synthesize information about her professional aspirations with this moment of criticism.
+
+- **Fairness:** ✓ - No inappropriate sensitivity issues are present.
+
+This item successfully assesses students' ability to recognize how the author's choice of a specific simile creates layers of meaning about Diana's professional frustration and the power dynamic with Dr. Blackwell, going beyond the literal meaning to understand the emotional and relational implications.
+
+
+=============== NEW RUN GPT - 2026-01-15 19:45:32 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 5b (GPT) #1 (temp=0.7). (19.03 secs). (3813 + 520 = 4333 total tokens)
+
+1. In paragraph 1, the town of Hanover is described as being “anchored on a windy Nebraska tableland” and “trying not to be blown away.” What is the effect of the word “anchored” in this description?
+
+A. It suggests the town is safely protected from the wind, like a ship tied securely in a harbor.  
+B. It emphasizes how small and fragile the town seems, as if it could be swept away despite trying to hold on.*  
+C. It shows that the town is heavy and permanent, firmly fixed to the land.  
+D. It explains that the town is physically chained to the prairie so it cannot move.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option B (Key):**  
+- The literal meaning of “anchored” is securely fastened, like a ship held in place.  
+- However, the passage immediately says the town “was trying not to be blown away,” which creates tension with that literal meaning.  
+- In this context, “anchored” is figurative: it makes the town seem like a small object clinging to the land while powerful winds threaten to push it away.  
+- This choice recognizes the connotative effect: the word highlights the town’s vulnerability and struggle, shaping a tone of precariousness rather than safety.
+
+**Option A (Distractor):**  
+- This choice focuses only on the basic, denotative meaning of “anchored” (secure, safe), ignoring how the next phrase (“trying not to be blown away”) undercuts that sense of safety.  
+- A reader who does not attend to the full sentence and tone might think “anchored” here simply means protected, but that misses the subtle contrast Cather creates.
+
+**Option C (Distractor):**  
+- This claims the town is “heavy and permanent,” but the passage later states, “None of them had any appearance of permanence,” directly contradicting this idea.  
+- It misreads the figurative use of “anchored” by treating it as proof of lasting stability, instead of noticing that the rest of the description makes the town seem temporary and exposed.
+
+**Option D (Distractor):**  
+- This takes “anchored” in an overly literal, unrealistic way (“physically chained to the prairie”).  
+- The text uses “anchored” metaphorically, not to describe actual chains or devices.  
+- A reader choosing this has misunderstood the figurative nature of the word in this context.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 5b (GPT) #2 (temp=0.8). (7.09 secs). (4344 + 411 = 4755 total tokens)
+
+1. In paragraph 1, the buildings are described as “huddled on the gray prairie, under a gray sky.” How does the word “huddled” most affect the meaning and tone of this description?
+
+A. It suggests the buildings are neatly organized in careful rows.  
+B. It makes the buildings seem frightened and crowded together for protection.*  
+C. It shows that the buildings are tall and powerful against the wind.  
+D. It means the buildings are being moved quickly across the prairie.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option B (Key):**  
+- Literally, “huddled” means pressed closely together, but it is often used of people or animals gathering for warmth or safety.  
+- Applied to buildings, “huddled” is figurative: it personifies them, making them seem like living things clustering together against the harsh weather.  
+- This adds a tone of vulnerability and bleakness to the scene, fitting with the “gray prairie” and “gray sky.”  
+- This option captures both the figurative meaning and its impact on tone.
+
+**Option A (Distractor):**  
+- “Huddled” does not imply neatness or careful arrangement; it suggests closeness and crowding, often in a disorganized way.  
+- A student choosing this is focusing only on the idea of being together, not the connotations of fear, cold, or protection.
+
+**Option C (Distractor):**  
+- “Tall and powerful” is the opposite of what “huddled” suggests.  
+- The word highlights weakness and the need for protection, not strength or dominance over the wind.
+
+**Option D (Distractor):**  
+- “Huddled” does not mean “being moved quickly”; it refers to how things are grouped, not their motion.  
+- This misinterprets the word by confusing it with movement-related terms rather than focusing on its figurative use here.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 19:55:25 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 5b (Gemini) #1 (temp=0.7). (31.33 secs). (4447 + 1079 = 5526 total tokens)
+
+Here is a multiple-choice item aligned to Common Core State Standard RL.8.4, designed to meet the LBIDAT criteria for high-quality assessment items.
+
+### Item Draft
+
+**Standard:** RL.8.4 – Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone.
+
+**Passage:** *O Pioneers!* (Excerpt)
+
+**Item:**
+
+Read the sentence from paragraph 1.
+
+“A mist of fine snowflakes was curling and eddying about the cluster of low drab buildings huddled on the gray prairie, under a gray sky.”
+
+What is the effect of the author’s use of the word **huddled** in this description?
+
+A. It suggests that the buildings are crowded together because there is little space on the plains.
+B. It emphasizes that the town seems vulnerable and is seeking protection from the elements.*
+C. It implies that the town was built quickly and in a disorganized, messy pattern.
+D. It creates a sense of warmth and friendliness among the people living in the town.
+
+**Rationales:**
+
+*   **A. Incorrect.** This distractor appeals to the literal denotation of "huddled" (crowded close together). However, it is incorrect because the passage establishes the setting as a vast "tableland" and "open plain," contradicting the idea that there is a lack of space.
+*   **B. Correct.** The author uses the word "huddled" figuratively to personify the buildings. In the context of the "mist of fine snowflakes," "drab buildings," and "gray sky," the word conveys the connotation of shrinking away from the cold or seeking safety, emphasizing the town's smallness and vulnerability against the powerful forces of nature.
+*   **C. Incorrect.** This distractor is plausible because the very next sentence in the text describes the houses as "haphazard" and "straying." However, in the specific sentence cited, "huddled" describes the reaction to the weather (snow/gray sky) rather than the architectural layout or planning of the town.
+*   **D. Incorrect.** This distractor appeals to a common positive connotation of "huddling" (like a sports team or a hug). However, it ignores the context of the specific text, which establishes a bleak, "drab," and "gray" tone rather than one of comfort or social warmth.
+
+***
+
+### LBIDAT Evaluation
+
+**Stem & Task: ✓ (No Apparent Critical Issues)**
+The task aligns directly with RL.8.4 by asking the student to analyze the impact of specific word choice (*huddled*) on meaning and tone. It requires the "skillful reader" nuance described in the prompt—moving beyond the denotative meaning of "crowded" to the connotative meaning of "vulnerable/protecting" within the specific atmospheric context of the passage. It does not rely on outside knowledge.
+
+**The Key: ✓ (No Apparent Critical Issues)**
+The key is definitively correct based on the text. The imagery of "gray prairie," "gray sky," and "snowflakes" supports the interpretation of the buildings "seeking protection" or appearing "vulnerable." It directly answers the question regarding the *effect* of the word.
+
+**Distractors: ✓ (No Apparent Critical Issues)**
+*   **Distractor A** is a plausible misapplication of the literal definition (denotation) of the word, ignored context.
+*   **Distractor C** is a plausible error based on reading adjacent text ("haphazard") rather than the specific targeted sentence, testing the student's ability to focus on the specific word's function.
+*   **Distractor D** is a plausible error based on an alternative connotation of the word that does not fit this specific context (tone mismatch).
+*   None of the distractors are "trick" questions; they represent specific types of reading errors (literalness, context confusion, tone deafness).
+
+**Stimulus: ✓ (No Apparent Critical Issues)**
+The stimulus is a high-quality literary excerpt that supports deep analysis. The specific sentence cited is accurate to the text.
+
+**Fairness: ✓ (No Apparent Critical Issues)**
+The item focuses on atmospheric description. There are no sensitive topics, religious references, or emotionally distressing content in the item or the specific sentence analyzed that would bias the test against specific subgroups.
+
+***
+
+### Final Item
+
+**Read the sentence from paragraph 1.**
+
+**“A mist of fine snowflakes was curling and eddying about the cluster of low drab buildings huddled on the gray prairie, under a gray sky.”**
+
+**What is the effect of the author’s use of the word *huddled* in this description?**
+
+A. It suggests that the buildings are crowded together because there is little space on the plains.
+B. It emphasizes that the town seems vulnerable and is seeking protection from the elements.*
+C. It implies that the town was built quickly and in a disorganized, messy pattern.
+D. It creates a sense of warmth and friendliness among the people living in the town.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 5b (Gemini) #2 (temp=0.8). (43.04 secs). (5539 + 1063 = 6602 total tokens)
+
+Here is a unique multiple-choice item aligned to Common Core State Standard RL.8.4, distinct from the previous item, and designed to score well on the LBIDAT criteria.
+
+### Item Draft
+
+**Standard:** RL.8.4 – Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone.
+
+**Passage:** *O Pioneers!* (Excerpt)
+
+**Item:**
+
+Read the sentence from paragraph 1.
+
+“The dwelling-houses were set about haphazard on the tough prairie sod; some of them looked as if they had been moved in overnight, and others as if they were **straying** off by themselves, headed straight for the open plain.”
+
+How does the author’s use of the word **straying** affect the description of the town?
+
+A. It highlights the rapid growth of the town as it expands onto the prairie.
+B. It emphasizes the lack of planning and the isolation of the buildings.*
+C. It suggests that the houses are temporary structures meant to be moved.
+D. It creates a whimsical tone by comparing the houses to playful animals.
+
+**Rationales:**
+
+*   **A. Incorrect.** This distractor appeals to the phrase "headed straight for the open plain," which a student might interpret as a sign of progress or expansion. However, "straying" carries a connotation of wandering aimlessly or getting lost, rather than purposeful growth, contradicting the idea of successful expansion.
+*   **B. Correct.** The word "straying" figuratively suggests wandering away from a group or path. In the context of the word "haphazard" and the "cluster" of buildings, this personification underscores the disorganization of the town and implies that the buildings feel disconnected from one another, reinforcing the bleak and unsettled nature of the setting.
+*   **C. Incorrect.** This distractor confuses the figurative language with a literal detail. While the sentence mentions houses looking as if they were "moved in," the word "straying" describes their static arrangement relative to one another, not their physical portability.
+*   **D. Incorrect.** This distractor correctly identifies the metaphorical link between "straying" and animals but misidentifies the tone. The passage describes a "gray," "drab," and "howling" environment; suggesting the tone is "whimsical" or "playful" is a clear misreading of the text's mood.
+
+***
+
+### LBIDAT Evaluation
+
+**Stem & Task: ✓ (No Apparent Critical Issues)**
+The stem focuses on the impact of a specific word choice ("straying") on the meaning of the description. It requires the student to analyze the figurative use of a word usually applied to animals or people, applied here to architecture, to understand the author's depiction of the setting. This aligns perfectly with the "advanced skill" of recognizing words in "unusual contexts" as defined in the prompt.
+
+**The Key: ✓ (No Apparent Critical Issues)**
+The key is definitively correct. The text explicitly describes the layout as "haphazard" (disorganized). The metaphor of houses "straying off by themselves" supports the interpretation of isolation and lack of planning.
+
+**Distractors: ✓ (No Apparent Critical Issues)**
+*   **Distractor A** is plausible if the student focuses on the directionality ("headed straight for") but misses the nuance of the target word ("straying").
+*   **Distractor C** is plausible if the student conflates the "moved in overnight" description with the "straying" description, failing to distinguish the specific effect of the target word.
+*   **Distractor D** checks for understanding of tone; it is plausible only if the student recognizes the personification but fails to connect it to the surrounding "drab" context.
+
+**Stimulus: ✓ (No Apparent Critical Issues)**
+The stimulus is appropriate, and the sentence is cited accurately. The item requires the stimulus to answer; one cannot define the effect of "straying" on *this* town without reading the specific description.
+
+**Fairness: ✓ (No Apparent Critical Issues)**
+The item focuses on architectural description and setting. It contains no sensitive topics or bias.
+
+***
+
+### Final Item
+
+**Read the sentence from paragraph 1.**
+
+**“The dwelling-houses were set about haphazard on the tough prairie sod; some of them looked as if they had been moved in overnight, and others as if they were straying off by themselves, headed straight for the open plain.”**
+
+**How does the author’s use of the word *straying* affect the description of the town?**
+
+A. It highlights the rapid growth of the town as it expands onto the prairie.
+B. It emphasizes the lack of planning and the isolation of the buildings.*
+C. It suggests that the houses are temporary structures meant to be moved.
+D. It creates a whimsical tone by comparing the houses to playful animals.
+
+
+=============== NEW RUN (Claude) - 2026-01-15 20:06:42 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 5b (Claude) #1 (temp=0.7). (22.77 secs). (4137 + 695 = 4832 total tokens)
+
+I'll create a multiple choice item aligned to RL.8.4 that focuses on the connotative meaning and impact of specific word choices in this passage.
+
+**Draft Item:**
+
+Read this description of Alexandra from the passage:
+
+"She wore a man's long ulster (not as if it were an affliction, but as if it were very comfortable and belonged to her; carried it like a young soldier), and a round plush cap, tied down with a thick veil."
+
+In this context, the phrase "carried it like a young soldier" suggests that Alexandra—
+
+A. had military training in her background
+B. *possessed confidence and strength beyond typical expectations for women of her time
+C. was uncomfortable wearing men's clothing in public
+D. preferred practical clothing over fashionable dress
+
+**Rationales:**
+
+**Option A (distractor):** Students selecting this option are taking the comparison too literally, focusing on the denotative meaning of "soldier" rather than understanding the figurative comparison being made about her bearing and attitude.
+
+**Option B (key):** This is correct because the simile "like a young soldier" works together with the parenthetical note "(not as if it were an affliction, but as if it were very comfortable and belonged to her)" to convey Alexandra's confidence, strength, and comfort with defying gender norms. The military comparison emphasizes her resolute, purposeful manner rather than any actual military connection.
+
+**Option C (distractor):** This directly contradicts the text which explicitly states she wore it "not as if it were an affliction, but as if it were very comfortable." Students choosing this missed the connotative meaning of the soldier comparison and the explicit context clues.
+
+**Option D (distractor):** While Alexandra is wearing practical clothing (a man's ulster), this option misses the deeper connotative meaning of the soldier comparison, which is about her confident bearing and strength of character, not merely her clothing preferences.
+
+**LBIDAT Evaluation:**
+
+- **Stem & Task:** ✓ - The task appropriately asks students to determine connotative meaning of a figurative phrase as used in context
+- **The Key:** ✓ - The key is definitively correct and directly responsive to the question
+- **Distractors:** ✓ - Each distractor represents a plausible misunderstanding of the figurative language
+- **Stimulus:** ✓ - The quoted text is necessary to answer the question and appropriately brief
+- **Fairness:** ✓ - No inappropriate sensitivity issues
+
+**Final Version:**
+
+Read this description of Alexandra from the passage:
+
+"She wore a man's long ulster (not as if it were an affliction, but as if it were very comfortable and belonged to her; carried it like a young soldier), and a round plush cap, tied down with a thick veil."
+
+In this context, the phrase "carried it like a young soldier" suggests that Alexandra—
+
+A. had military training in her background
+B. *possessed confidence and strength beyond typical expectations for women of her time
+C. was uncomfortable wearing men's clothing in public
+D. preferred practical clothing over fashionable dress
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 5b (Claude) #2 (temp=0.8). (16.55 secs). (4846 + 635 = 5481 total tokens)
+
+I'll create another multiple choice item aligned to RL.8.4, focusing on a different example of connotative meaning and word choice impact from the passage.
+
+**Draft Item:**
+
+The narrator describes the town's buildings as "huddled on the gray prairie" and notes that "some of them looked as if they had been moved in overnight, and others as if they were straying off by themselves, headed straight for the open plain."
+
+The word "straying" in this context suggests that the buildings appear—
+
+A. carefully planned and organized by the townspeople
+B. damaged by the harsh winter weather
+C. *vulnerable and lacking any sense of belonging or permanence
+D. recently constructed with modern materials
+
+**Rationales:**
+
+**Option A (distractor):** Students selecting this option have missed the connotative meaning entirely. "Straying" implies the opposite of careful planning—it suggests randomness and lack of control.
+
+**Option B (distractor):** While the passage mentions harsh weather, "straying" doesn't connote damage but rather suggests wandering or drifting. Students choosing this are making an inference not supported by the specific word choice.
+
+**Option C (key):** This is correct because "straying" typically describes animals wandering away from where they belong. Applied to buildings, this personification creates a sense of impermanence and vulnerability, as if the buildings themselves are lost or don't belong on this harsh prairie. This works with other context clues like "no appearance of permanence" and "huddled."
+
+**Option D (distractor):** This misses the connotative meaning of "straying" entirely. The passage actually suggests the opposite—these are rough, impermanent structures, not modern constructions.
+
+**LBIDAT Evaluation:**
+
+- **Stem & Task:** ✓ - The task appropriately targets understanding of figurative language and connotative meaning in context
+- **The Key:** ✓ - The key is definitively correct and directly addresses the connotative meaning of "straying"
+- **Distractors:** ✓ - Each distractor represents a plausible misreading or misunderstanding
+- **Stimulus:** ✓ - The quoted text provides necessary context for understanding the word's connotative meaning
+- **Fairness:** ✓ - No inappropriate sensitivity issues
+
+**Final Version:**
+
+The narrator describes the town's buildings as "huddled on the gray prairie" and notes that "some of them looked as if they had been moved in overnight, and others as if they were straying off by themselves, headed straight for the open plain."
+
+The word "straying" in this context suggests that the buildings appear—
+
+A. carefully planned and organized by the townspeople
+B. damaged by the harsh winter weather
+C. *vulnerable and lacking any sense of belonging or permanence
+D. recently constructed with modern materials

@@ -88,3 +88,78 @@ D. “The circus feels strange in the daytime, too quiet.”
 
 - **D. “The circus feels strange in the daytime, too quiet.”**  
   This shows that the circus feels “strange” and quiet, but it does not clearly express Bailey’s surprise that it lacks the magic he expected. Option A more strongly and explicitly connects his expectations of magic with his realization that it feels ordinary.
+
+
+=============== NEW RUN GPT - 2026-01-15 11:52:42 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 7a (GPT) #1 (temp=0.7). (6.51 secs). (1337 + 459 = 1796 total tokens)
+
+Item (RL.8.1)
+
+The passage states that Jim Bridger “became a valued guide.” Which sentence from the passage best supports this statement?
+
+A. “As a part of the expedition, he was one of the first European American people to see the natural wonders of what is now Yellowstone National Park.”  
+
+B. “Using the skills he learned while exploring the Missouri, Bridger became very good at trapping beavers for their furs, also called ‘pelts.’”  
+
+*C. “In his travels, he learned a great deal about the terrain and wildlife of the area.”*  
+
+D. “Because the pass shortened trips by sixty-one miles, settlers moving west frequently used it.”  
+
+
+Answer Key: C*
+
+
+Rationales
+
+A. “As a part of the expedition, he was one of the first European American people to see the natural wonders of what is now Yellowstone National Park.”  
+- This shows Bridger was an early explorer and saw Yellowstone before many others, but it does not explain why he was a “valued guide.” Being early to see a place is not the same as having knowledge that makes others value his guidance.
+
+B. “Using the skills he learned while exploring the Missouri, Bridger became very good at trapping beavers for their furs, also called ‘pelts.’”  
+- This sentence describes his skill as a trapper, not as a guide. It focuses on his success in getting beaver pelts, which is a different ability from leading people safely through the mountains.
+
+*C. “In his travels, he learned a great deal about the terrain and wildlife of the area.”*  
+- This is the best support for the idea that he became “a valued guide.” Knowing the terrain and wildlife would make him especially useful and trustworthy to people who needed someone to lead them across unfamiliar and possibly dangerous land.
+
+D. “Because the pass shortened trips by sixty-one miles, settlers moving west frequently used it.”  
+- This shows that Bridger’s pass was helpful to settlers, but it focuses on the usefulness of the route, not on why Bridger himself was “valued” as a guide. It does not explain his personal knowledge or skills.
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 7a (GPT) #2 (temp=0.8). (8.04 secs). (1807 + 406 = 2213 total tokens)
+
+Item (RL.8.1)
+
+The passage explains that Jim Bridger “became famous for telling tall tales to the people passing through.” Which sentence from the passage best supports this statement?
+
+A. “James Felix ‘Jim’ Bridger's life story is as interesting as the tall tales he used to tell.”  
+
+B. “Many people passed the fort as they traveled west on the Oregon Trail.”  
+
+*C. “He became famous for telling tall tales to the people passing through.”*  
+
+D. “These outrageous stories were told both to tease new arrivals from the east and to amuse the locals who knew they weren't true.”  
+
+
+Answer Key: C*
+
+
+Rationales
+
+A. “James Felix ‘Jim’ Bridger's life story is as interesting as the tall tales he used to tell.”  
+- This compares his real life to his tall tales, but it does not state that he became famous for those tales. It describes their quality, not their effect on his reputation.
+
+B. “Many people passed the fort as they traveled west on the Oregon Trail.”  
+- This explains that many travelers came by Fort Bridger, but it says nothing about Bridger’s fame or his tall tales. It is about the number of visitors, not why he was well-known.
+
+*C. “He became famous for telling tall tales to the people passing through.”*  
+- This directly states that Bridger “became famous” and clearly links his fame to “telling tall tales.” It is the strongest and most explicit support for the idea in the question.
+
+D. “These outrageous stories were told both to tease new arrivals from the east and to amuse the locals who knew they weren't true.”  
+- This explains the purpose and audience of his stories (to tease and amuse), but it does not say that those stories made him famous. It supports that he told tales, but not that he “became famous” for them as clearly as option C.

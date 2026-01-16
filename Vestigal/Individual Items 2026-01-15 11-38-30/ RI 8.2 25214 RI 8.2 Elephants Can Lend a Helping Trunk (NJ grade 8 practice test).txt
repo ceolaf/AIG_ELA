@@ -1,0 +1,30 @@
+Standard:  RI 8.2
+ID: 25214
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 4a (Claude) #2 (temp=0.8). (22.06 secs). (1687 + 547 = 2234 total tokens)
+
+Based on the passage and the requirements for RI.8.2, here's another multiple choice item:
+
+**How does the text develop its central idea about elephants' social cognition through the relationship between experimental evidence and supporting details?**
+
+A. The text presents a series of experiments that become progressively more complex, with each new test revealing a deeper level of elephant understanding, while expert commentary throughout validates and contextualizes these findings within the broader field of animal cognition research.
+
+B. The text establishes the experimental methodology in detail, then uses anecdotal observations from wild elephants as the primary evidence for cooperation, with scientific experiments serving only as preliminary support for these natural behaviors.
+
+C. The text introduces multiple unrelated experiments about elephant behavior, then attempts to connect them through expert opinions, though the supporting ideas ultimately contradict the initial claim about elephant intelligence.
+
+D. The text focuses primarily on comparing elephants to chimpanzees throughout, using the rope-pulling experiment as a single data point that proves elephants are superior, while dismissing evidence from other species as less relevant.
+
+**Answer: A***
+
+**Rationales:**
+
+**Option A (Correct):** This accurately captures how the central idea develops through interconnected supporting ideas. The text moves from the basic rope-pulling test (teaching cooperation), to the delayed-release test (showing elephants understand waiting for help), to the unreachable-rope test (demonstrating they recognize when cooperation is impossible). Expert voices (Plotnik, McComb, Clayton) appear strategically throughout to interpret results and connect findings to both wild observations and comparative cognition research, strengthening the central claim about elephants' higher social cognition.
+
+**Option B:** This reverses the actual relationship between experimental and observational evidence. The text primarily relies on controlled experiments as its main evidence, with wild observations serving as supplementary support (mentioned only briefly in paragraph 4), not the other way around.
+
+**Option C:** This misrepresents the text's coherence. The experiments aren't "unrelated"—they build upon each other systematically. The supporting ideas and expert opinions reinforce rather than contradict the central claim. The text maintains consistent support for elephant intelligence throughout.
+
+**Option D:** While comparisons to chimpanzees appear in the text, they aren't the primary focus. The text uses multiple experimental variations (not a "single data point") and includes meaningful comparisons to other species (hyenas, rooks, humans) without dismissing them. This option oversimplifies the text's nuanced presentation of comparative intelligence.

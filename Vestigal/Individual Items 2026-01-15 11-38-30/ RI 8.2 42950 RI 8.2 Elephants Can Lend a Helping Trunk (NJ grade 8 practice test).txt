@@ -1,0 +1,28 @@
+Standard:  RI 8.2
+ID: 42950
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 2a (Claude) #1 (temp=0.7). (15.72 secs). (949 + 428 = 1377 total tokens)
+
+## Multiple Choice Item
+
+**Which statement best represents the central idea of the passage?**
+
+A. Elephants have been trained by mahouts in Thailand to perform complex tasks using ropes and tables to earn food rewards.
+
+B. *Elephants demonstrate advanced social cognition by understanding when they need cooperation from others to succeed at tasks.
+
+C. Scientists have discovered that elephants are more intelligent than chimpanzees when solving problems involving food rewards.
+
+D. Researchers use rope-pulling experiments to study how different animal species learn to work with human trainers.
+
+### Rationales for Each Answer Option:
+
+**Option A (Incorrect):** While the passage does mention mahouts training elephants and the rope-and-table experiment, this is a supporting detail about the methodology, not the central idea. A student selecting this option is focusing too narrowly on the experimental setup rather than the broader significance of what the experiments revealed about elephant cognition.
+
+**Option B (Correct):** This captures the main point of the passage - that elephants possess higher social cognition as evidenced by their ability to recognize when cooperation is necessary. The passage explicitly states this is "a sign of higher social cognition" and places elephants in an "elite club of social cooperators." The entire article builds toward demonstrating this cognitive ability through various experimental results.
+
+**Option C (Incorrect):** Although the passage mentions that elephants "learned to do this faster than the chimpanzees," this is a supporting detail, not the central idea. The passage is not primarily about comparing elephants to chimpanzees but about establishing elephants' cooperative abilities. A student choosing this might be overemphasizing one comparative detail.
+
+**Option D (Incorrect):** This option misrepresents the focus of the passage by suggesting it's about animal-human trainer relationships. The experiments actually test elephant-to-elephant cooperation, not how animals work with humans. Students selecting this have misunderstood the nature of the research being described.

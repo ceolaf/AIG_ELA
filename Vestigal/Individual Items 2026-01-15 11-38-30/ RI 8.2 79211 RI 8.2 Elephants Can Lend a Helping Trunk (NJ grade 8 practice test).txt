@@ -1,0 +1,31 @@
+Standard:  RI 8.2
+ID: 79211
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 3a (Claude) #1 (temp=0.7). (16.55 secs). (1047 + 488 = 1535 total tokens)
+
+**Multiple Choice Item:**
+
+How does the central idea that elephants possess advanced cooperative abilities develop throughout the passage?
+
+A. The passage begins by stating elephants can cooperate, then shows they perform better than chimpanzees, and concludes by questioning whether this ability exists in nature.
+
+B. The passage introduces the concept of elephant cooperation, demonstrates it through increasingly complex experiments, and validates it by connecting the findings to natural elephant behaviors.*
+
+C. The passage starts with a general claim about elephant intelligence, narrows to focus only on rope-pulling abilities, and ends by comparing elephants unfavorably to other species.
+
+D. The passage opens with elephant cooperation as a theory, proves elephants can pull ropes, but ultimately shows they cannot truly understand the need for partners.
+
+**Rationales:**
+
+**Option A (Incorrect):** While the passage does mention elephants performing better than chimpanzees in certain aspects, it doesn't conclude by questioning whether the ability exists in nature. Instead, it confirms the findings are "consistent with observations in nature" and provides examples of wild elephants cooperating.
+
+**Option B (Correct):** This accurately traces how the central idea develops. The passage:
+- Opens by introducing the concept that elephants understand cooperation (paragraph 1)
+- Develops this through progressively challenging experiments: first basic rope-pulling together, then waiting for partners, then recognizing when partners cannot help (paragraphs 2-3)
+- Validates and reinforces the findings by connecting them to real-world observations of elephant cooperation in the wild (paragraph 4)
+
+**Option C (Incorrect):** The passage doesn't narrow to focus "only" on rope-pulling - the experiments are a means to demonstrate broader cooperative abilities. Additionally, the passage doesn't end by comparing elephants unfavorably; it actually highlights that elephants performed better than chimpanzees in waiting and joins them with an "elite club of social cooperators."
+
+**Option D (Incorrect):** The passage doesn't present cooperation as merely a theory, nor does it show elephants cannot understand the need for partners. The third paragraph explicitly states that when one elephant's partner couldn't help, "the other one would just give up," which "shows the elephants understood why the partner was needed."

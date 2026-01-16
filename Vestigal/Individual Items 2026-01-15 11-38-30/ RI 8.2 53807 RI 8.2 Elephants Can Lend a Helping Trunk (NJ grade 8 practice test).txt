@@ -1,0 +1,46 @@
+Standard:  RI 8.2
+ID: 53807
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 7b (Claude) #2 (temp=0.8). (27.76 secs). (4642 + 955 = 5597 total tokens)
+
+## Multiple Choice Item for RI.8.2
+
+**Read the passage "Elephants Can Lend a Helping Trunk." Which statement best analyzes how the central idea develops through its relationship to supporting ideas in the text?**
+
+A. The central idea that elephants demonstrate higher social cognition begins as a scientific claim, expands through experimental evidence showing their ability to wait for partners and abandon futile tasks, and culminates with validation from field observations and expert commentary that places elephants' abilities in a broader scientific context.
+
+B. The central idea that animal cooperation can be scientifically measured starts with a historical experiment from the 1930s, develops through modern adaptations for different species, and concludes by ranking elephants' performance against other animals to establish a hierarchy of intelligence.
+
+C. The central idea that elephants surpass expectations emerges through surprising experimental results, grows stronger as researchers express amazement at the speed of learning, and reaches its peak when elephants demonstrate patience that exceeds that of primates.
+
+D. The central idea that Thai elephants can be studied in captivity is established through the research setting, reinforced by descriptions of how mahouts assist in experiments, and supported by comparisons to observations of wild African elephants in nature.
+
+**Answer Key: A***
+
+## Rationales for Each Answer Option
+
+**Option A (Correct Answer):**
+This option correctly identifies how the central idea about elephants' higher social cognition develops throughout the text. The passage begins with the conclusion that elephants understand when they need help (the scientific claim), then systematically presents experimental evidence: first the basic rope-pulling cooperation, then the waiting experiment showing impulse control and understanding, then the abandoned rope experiment showing recognition of futility. The text concludes with expert validation (McComb and Clayton) and field observations that contextualize these findings within broader scientific understanding. Each supporting idea builds upon and strengthens the central claim about social cognition.
+
+**Option B (Distractor - Mistaking methodology for central idea):**
+While the text does reference the 1930s chimpanzee experiment and mentions multiple species, the central idea is not about measuring cooperation across species. This option mistakes the experimental framework and methodology for the main point. The text uses the comparative framework to highlight elephants' specific abilities, not to establish a general principle about measuring cooperation.
+
+**Option C (Distractor - Mischaracterizing the development through selective focus):**
+This option overemphasizes the element of surprise and comparison to primates, which are supporting details rather than the central organizing principle. While the text notes elephants learned faster than chimps in one aspect, this is a single supporting point, not how the central idea develops. The development is through progressively complex demonstrations of understanding, not through expressions of amazement.
+
+**Option D (Distractor - Confusing setting with central idea):**
+This option mistakes the research context (captive Thai elephants) for the central idea. The setting and the mahouts' role are merely logistical details that enable the research. The comparison to wild African elephants is used to validate findings, not to make a point about captive versus wild studies. The central idea concerns cognitive abilities, not research locations or methods.
+
+## Final Version of Item
+
+**Read the passage "Elephants Can Lend a Helping Trunk." Which statement best analyzes how the central idea develops through its relationship to supporting ideas in the text?**
+
+A.* The central idea that elephants demonstrate higher social cognition begins as a scientific claim, expands through experimental evidence showing their ability to wait for partners and abandon futile tasks, and culminates with validation from field observations and expert commentary that places elephants' abilities in a broader scientific context.
+
+B. The central idea that animal cooperation can be scientifically measured starts with a historical experiment from the 1930s, develops through modern adaptations for different species, and concludes by ranking elephants' performance against other animals to establish a hierarchy of intelligence.
+
+C. The central idea that elephants surpass expectations emerges through surprising experimental results, grows stronger as researchers express amazement at the speed of learning, and reaches its peak when elephants demonstrate patience that exceeds that of primates.
+
+D. The central idea that Thai elephants can be studied in captivity is established through the research setting, reinforced by descriptions of how mahouts assist in experiments, and supported by comparisons to observations of wild African elephants in nature.

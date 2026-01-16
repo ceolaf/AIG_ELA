@@ -1,0 +1,40 @@
+Standard:  RI 8.2
+ID: 82744
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+
+1. Which statement best explains a central idea of the passage and how it is developed over the course of the text?
+
+A. The study proves that elephants are the most intelligent animals, and this idea is developed by comparing them to chimpanzees, hyenas, and rooks throughout the passage.  
+B. The study shows that elephants understand when they need a partner’s help, and this idea is developed through descriptions of the rope experiments and expert comments that connect the results to elephants’ behavior in the wild.*  
+C. The study reveals that mahouts are essential to training elephants, and this idea is developed by showing how trainers prepare the elephants and guide them through each step of the experiment.  
+D. The study suggests that elephants are easier to train than other animals, and this idea is developed by focusing on how quickly they learn to pull the rope for treats.
+
+---
+
+Rationales:
+
+A. This is incorrect because the passage does not claim that elephants are the most intelligent animals. The comparisons to other species show that elephants join an “elite club” of cooperators, not that they are the single most intelligent. The development of the passage centers on cooperation and understanding the need for help, not ranking overall intelligence.
+
+B. This is correct because it identifies a central idea and traces how it develops. The passage opens by stating that elephants “know when they need a helping hand—or rather, trunk” and that they understand they will fail without a partner. It then describes the rope experiments (simultaneous pulling, delayed release, and the out‑of‑reach rope) to show how elephants recognize when a partner is necessary. Finally, expert commentary links these results to observations of wild elephants cooperating, reinforcing and extending the central idea.
+
+C. This is incorrect because mahouts are mentioned only briefly as part of the setup: they help train elephants to pull the rope. The text does not develop the idea that mahouts are “essential” or make that role a central focus. The bulk of the passage explains what elephants do and what that reveals about their cognition, not the importance of trainers.
+
+D. This is incorrect because, although the passage notes that elephants “learned to do this faster than the chimpanzees,” the central idea is not about ease of training. The experiments and expert quotes are used to show elephants’ understanding of cooperation and their ability to wait for a partner, not to argue that elephants are simply easier to train than other animals.
+
+================== Passage Text =================
+
+Elephants Can Lend a Helping Trunk
+by Virginia Morell 
+
+
+Elephants know when they need a helping hand—or rather, trunk. That’s the conclusion of a new study that tested the cooperative skills of Asian elephants (Elephas maximus) in Thailand and showed that the pachyderms understand that they will fail at a task without a partner’s assistance. The ability to recognize that you sometimes need a little help from your friends is a sign of higher social cognition, psychologists say, and is rarely found in other species. Elephants now join an elite club of social cooperators: chimpanzees, hyenas, rooks, and humans.
+
+To test the elephants’ cooperation skills, a team of scientists modified a classic experiment first administered to chimpanzees in the 1930s, which requires two animals work together to earn a treat. If they don’t cooperate, neither gets the reward. For the elephants, the researchers used a sliding table with a single rope threaded around it. Two bowls of corn were attached to the table, but the elephants could reach them only by pulling two ends of the rope simultaneously. Working with mahout—Asian elephant trainers—trained elephants at the Thai Elephant Conservation Center in Lampang, the researchers first taught individual animals to pull the rope with their trunks. The 12 elephants were then divided into six pairs, and each pair was released to walk to their waiting ropes. If one animal pulled the rope before the other, the rope would slip out, leaving the table—and treats—in place. “That taught them to pull together,” says Joshua Plotnik, a postdoc in experimental psychology at the University of Cambridge in the United Kingdom and the lead author of the study, which appears online this week in the Proceedings of the National Academy of Sciences.
+
+To find out if the elephants understood that they needed one another’s assistance, the researchers upped the challenge by releasing the elephants at different times. Thus, one elephant would arrive at the table before the other and would have to wait for a partner to show up before pulling the rope. “They learned to do this faster than the chimpanzees,” says Plotnik. “They would stand there holding their end of the rope, just waiting.” In another experiment, the partner’s rope was placed out of reach. “When the partner couldn’t do anything, the other one would just give up,” Plotnik says. That shows the elephants understood why the partner was needed, he adds.
+
+“These are clever experiments,” says Karen McComb, a behavioral ecologist at the University of Sussex in the United Kingdom who studies social cognition in wild elephants. The findings are consistent with observations in nature, she says. For instance, in East Africa biologists have seen elephants work together to lift a fallen companion with their tusks. “It’s particularly striking that the elephants were able to inhibit pulling” longer than chimpanzees do, comparative psychologist Nicola Clayton of the University of Cambridge in the United Kingdom. She and her team showed that rooks, too, could pass a similar dual-rope exam, although they failed to wait. The study “adds to the growing body of evidence that elephants show some impressive cognitive abilities.”
+
+“Elephants Can Lend a Helping Trunk” by Virginia Morell, from Science, March
+2011 issue. Copyright © 2011 by American Association for the Advancement of
+Science. Reprinted by permission of AAAS.

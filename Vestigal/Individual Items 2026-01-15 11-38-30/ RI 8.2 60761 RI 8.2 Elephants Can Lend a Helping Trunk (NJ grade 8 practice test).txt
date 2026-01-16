@@ -1,0 +1,66 @@
+Standard:  RI 8.2
+ID: 60761
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 4b (GPT) #2 (temp=0.8). (12.91 secs). (4007 + 674 = 4681 total tokens)
+
+Item (RI.8.2 – central idea, its development, and objective summary)
+
+1. Which option provides the most objective summary of the passage by focusing on its central idea and the main supporting points?
+
+A. The passage describes how elephant trainers in Thailand taught elephants to pull ropes for bowls of corn, showing that with enough practice, captive elephants can learn almost any trick humans design for them.  
+
+B. The passage reports on experiments showing that elephants understand when they need a partner’s help to get a reward, and it explains how their performance in these tasks, along with observations from the wild and comparisons to other species, supports the idea that elephants have advanced social cognition.*  
+
+C. The passage argues that elephants are kinder than other animals because they help each other in both experiments and in nature, proving that they are the most cooperative species on the planet.  
+
+D. The passage tells how scientists copied an old chimpanzee experiment with elephants, but because the elephants sometimes failed to get the corn, the researchers decided that elephants are not as intelligent as chimpanzees after all.
+
+---
+
+Rationales
+
+A.  
+Reasoning path: A student might focus on the training details (mahouts, learning to pull ropes, bowls of corn).  
+Why it’s incorrect:  
+- It shifts the central idea to “trainers taught tricks,” which is only background context.  
+- It ignores the key conclusion about elephants understanding when cooperation is necessary.  
+- It adds an unsupported claim that elephants “can learn almost any trick humans design.”
+
+B. * (Keyed correct)  
+Reasoning path:  
+- Central idea: Elephants show advanced social cognition by recognizing when they need a partner to succeed at a task.  
+- Main supports included:  
+  - Description of the cooperative rope experiment and its variations (delayed release, unreachable rope).  
+  - Elephants’ behavior (waiting, giving up when a partner can’t help) as evidence of understanding.  
+  - Expert commentary and comparisons to other cooperating species (chimpanzees, hyenas, rooks, humans).  
+  - Connection to wild behavior (helping lift a fallen elephant).  
+Why it’s correct: It is objective (no opinion words like “best” or “kinder”), clearly states the central idea, and accurately includes the major supporting points.
+
+C.  
+Reasoning path: A student might overgeneralize from examples of elephants helping each other.  
+Why it’s incorrect:  
+- It introduces value judgments (“kinder,” “most cooperative”) that the passage does not make.  
+- The passage focuses on cognition (understanding cooperation), not on moral qualities or ranking species.  
+- It misrepresents the author’s purpose and tone, making the summary subjective rather than objective.
+
+D.  
+Reasoning path: A student might latch onto the comparison with chimpanzees and misunderstand the outcome of the study.  
+Why it’s incorrect:  
+- The passage actually notes that elephants “learned to do this faster than the chimpanzees,” not that they are less intelligent.  
+- It falsely claims that the researchers concluded elephants are “not as intelligent,” which is the opposite of the text’s message.  
+- It distorts both the central idea and the overall findings of the study.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:08:45 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get
+
+
+
+=============== NEW RUN (Claude) - 2026-01-15 11:16:30 ===============

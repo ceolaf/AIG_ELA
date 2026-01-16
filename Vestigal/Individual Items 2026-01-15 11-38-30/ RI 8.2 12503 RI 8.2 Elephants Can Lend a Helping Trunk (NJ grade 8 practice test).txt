@@ -1,0 +1,40 @@
+Standard:  RI 8.2
+ID: 12503
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 2b (GPT) #2 (temp=0.8). (6.71 secs). (3403 + 380 = 3783 total tokens)
+
+2. How does the author develop the central idea that elephants show advanced cooperative abilities?
+
+A. By explaining how mahouts train elephants for performances in tourist centers  
+B. By describing a series of rope‑pulling experiments and showing how elephants adjusted their behavior*  
+C. By listing all the different animals that have passed the dual‑rope test  
+D. By comparing the physical strength of elephants to that of other large animals
+
+**Rationales**
+
+- **A. By explaining how mahouts train elephants for performances in tourist centers**  
+  Incorrect. Mahouts are mentioned only briefly to show how elephants were prepared for the experiment. The passage does not focus on tourist performances, and this detail does not structure the development of the central idea.
+
+- **B. By describing a series of rope‑pulling experiments and showing how elephants adjusted their behavior*  
+  Correct. The author introduces the idea that elephants understand when they need help, then describes experiments: first, pulling together; next, waiting for a partner; finally, giving up when a partner cannot reach the rope. These steps show elephants changing their behavior in ways that support the central idea of advanced cooperation.
+
+- **C. By listing all the different animals that have passed the dual‑rope test**  
+  Incorrect. Other animals (chimpanzees, hyenas, rooks, humans) are mentioned briefly to place elephants in an “elite club” and to compare waiting behavior, but the passage is not organized as a list. These comparisons support, rather than structure, the central idea’s development.
+
+- **D. By comparing the physical strength of elephants to that of other large animals**  
+  Incorrect. The passage never compares physical strength. It focuses on social cognition and cooperation, not on size or power, so this does not describe how the central idea is developed.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:06:48 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get
+
+
+
+=============== NEW RUN (Claude) - 2026-01-15 11:13:38 ===============

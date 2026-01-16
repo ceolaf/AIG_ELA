@@ -1,0 +1,67 @@
+Standard:  RI 8.2
+ID: 15875
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+
+1. Which statement best explains how a central idea of the passage develops over the course of the text?
+
+A. Jim Bridger’s habit of telling tall tales becomes the main focus of the passage, beginning with his early life and ending with the stories he shared at Fort Bridger.  
+B. The passage develops the idea that Jim Bridger’s skills as an explorer and guide helped open the American West, showing how his experiences led to important routes and lasting recognition.*  
+C. The passage develops the idea that Jim Bridger was often mistaken or wrong, beginning with his confusion about the Great Salt Lake and ending with questions about his discoveries.  
+D. The passage develops the idea that Jim Bridger’s main goal was to get rich, following his rise from apprentice to business owner and then to famous storyteller.
+
+---
+
+Rationales:
+
+**A. Jim Bridger’s habit of telling tall tales becomes the main focus of the passage, beginning with his early life and ending with the stories he shared at Fort Bridger.**  
+- This is incorrect because tall tales are only one supporting idea.  
+- His storytelling is discussed mainly in the middle of the passage (Fort Bridger and the description of his “funny, extravagant, and often unbelievable” stories).  
+- The passage begins with his background and continues to emphasize his exploration, guiding, and contributions to western expansion, not just his tales.  
+- Therefore, this option misidentifies a supporting idea as the central idea and misrepresents what dominates the text overall.
+
+**B. The passage develops the idea that Jim Bridger’s skills as an explorer and guide helped open the American West, showing how his experiences led to important routes and lasting recognition.*  
+- This is correct because it captures a central idea and traces how it develops.  
+- Early paragraphs show Bridger joining an expedition on the Missouri River and being among the first European Americans to see Yellowstone, introducing him as an explorer.  
+- The text then shows him exploring the Bear River and reaching the Great Salt Lake, improving his knowledge of western geography.  
+- Later paragraphs explain how he used these skills to trap beavers, help establish Fort Bridger, guide settlers through the Rocky Mountains, and discover Bridger’s Pass, a shortcut that later became part of the Transcontinental Railroad.  
+- The conclusion (“Jim Bridger is remembered for being a skilled mountain man and storyteller” and places named in his honor) shows his lasting recognition, tying back to the idea that his exploration and guiding significantly helped open the West.
+
+**C. The passage develops the idea that Jim Bridger was often mistaken or wrong, beginning with his confusion about the Great Salt Lake and ending with questions about his discoveries.**  
+- This is incorrect because it focuses on a minor detail rather than a central idea.  
+- The text briefly notes that Bridger mistook the Great Salt Lake for an inlet of the Pacific and that some think another trapper may have seen it first.  
+- These moments show that historical credit is uncertain, but they are small parts of one paragraph, not a thread developed throughout the passage.  
+- The rest of the passage emphasizes his skills, achievements, and reputation, not his errors.  
+- Thus, this option exaggerates a limited supporting detail into a supposed main idea.
+
+**D. The passage develops the idea that Jim Bridger’s main goal was to get rich, following his rise from apprentice to business owner and then to famous storyteller.**  
+- This is incorrect because the passage does not present wealth as a driving motive or central idea.  
+- It mentions that Bridger became part owner of a beaver-trapping company and that beaver pelts were popular, but it does not argue that getting rich was his main goal.  
+- His work as a guide, his exploration of new routes, and his storytelling are presented as skills, contributions, and traits, not as strategies to gain wealth.  
+- Therefore, this option misinterprets the relationship among details and imposes a motive that the text does not develop.
+
+================== Passage Text =================
+
+This passage explains the life and importance of an outgoing and talented nineteenth-century frontiersman.
+
+James "Jim" Bridger
+1804-1881 
+
+James Felix "Jim" Bridger's life story is as interesting as the tall tales he used to tell. Bridger was born in Virginia in 1804. Later, his family moved to a farm near St. Louis, Missouri. At age fourteen, he went to work as a blacksmith's apprentice. He learned how to make horseshoes and other products out of iron. 
+
+When Bridger was eighteen years old, he was the youngest member of a group that explored and mapped the Missouri River. As a part of the expedition, he was one of the first European American people to see the natural wonders of what is now Yellowstone National Park.
+
+Yellowstone was the first in a long line of landscapes that Bridger was to encounter before others. While spending the winter of 1824-25 in what is now Cove, Utah, members of the team Bridger was with argued about which direction they thought the Bear River went. The team chose Bridger to explore the river. He ended up at the Great Salt Lake, which he mistook for an inlet of the Pacific Ocean because of the lake's saltiness. For many years, people assumed Bridger was the first non-Native American to discover the Great Salt Lake. However, some now think that Etienne Provost, a French-Canadian trapper, may have seen it first.
+
+Using the skills he learned while exploring the Missouri, Bridger became very good at trapping beavers for their furs, also called "pelts." By 1830, Bridger became part owner of a company that specialized in beaver trapping. Beaver pelts were very popular for hats and clothing at the time.
+
+Bridger's success at trapping-as well as the growing number of people moving to the western part of America-led to the building of a trading post and fort near the Green River in Wyoming. It became known as Fort Bridger. Many people passed the fort as they traveled west on the Oregon Trail. Often, the settlers stopped to buy supplies, get their wagons fixed, and hear Jim Bridger's stories. He became famous for telling tall tales to the people passing through.
+
+Bridger's stories were funny, extravagant, and often unbelievable. He would tell stories of glass mountains, "petrified" birds singing "petrified" songs, and talk about days when Pike's Peak was just a hole in the ground. These outrageous stories were told both to tease new arrivals from the east and to amuse the locals who knew they weren't true.
+
+The Rocky Mountains were largely unexplored and Bridger spent many years hiking them and trapping animals. In his travels, he learned a great deal about the terrain and wildlife of the area. Because of his knowledge and skills, he became a valued guide. People often hired him to lead them across the mountains.
+
+In 1850, Bridger found a short cut through the mountains of Wyoming through the Rocky Mountains. This path became known as Bridger's Pass. Because the pass shortened trips by sixty-one miles, settlers moving west frequently used it. In addition, the pass later became part of the Union Pacific Railroad. The Union Pacific was part of the Transcontinental Railroad, the first railroad to cross America from coast to coast.
+
+Bridger spent twenty years working as a guide. When he retired, he went back to Missouri to live on a farm, where he died in 1881 at the age of seventy-seven. Jim Bridger is remembered for being a skilled mountain man and storyteller. Today, there are many places in the American West named in honor of Jim Bridger.
+
+"James 'Jim' Bridger" written for the Utah State Office of Education.

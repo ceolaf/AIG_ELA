@@ -1,0 +1,66 @@
+Standard:  RI 8.2
+ID: 90506
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+
+Here is a unique multiple-choice item designed for 8th Grade students, aligned to CCSS.ELA-LITERACY.RI.8.2, and self-evaluated against the LBIDAT criteria.
+
+**Item Stem:**
+Which statement provides the best objective summary of the passage?
+
+**Answer Options:**
+A. Scientists modified a classic experiment by creating a sliding table with corn that required two elephants to pull opposite ends of a rope simultaneously.
+B. A new study reveals that elephants have advanced social cognition, as demonstrated by an experiment where they realized they needed a partner's help to pull a rope for a reward.*
+C. Observations of wild elephants helping fallen companions have confirmed that elephants are among the few species that show signs of higher social cognition.
+D. Elephants were placed in pairs to compete against chimpanzees in a rope-pulling contest, proving that elephants are faster learners than other species.
+
+**Rationales:**
+
+*   **Option A:** This is incorrect. While this statement accurately describes the methodology found in paragraph 2, it is too narrow to serve as a summary of the whole text. It omits the results of the study and the central idea regarding the elephants' understanding of cooperation.
+*   **Option B:** This is the correct answer (*). It captures the central idea (elephants possess advanced social cognition), the main topic (the new study), and the key supporting evidence (the experiment proving they understood the need for a partner). It objectively synthesizes information from the introduction, the body paragraphs, and the conclusion.
+*   **Option C:** This is incorrect. This statement focuses on the supporting evidence mentioned in the introduction and paragraph 4 (wild observations). While this information supports the central idea, it ignores the primary focus of the text, which is the specific rope-pulling experiment conducted in Thailand.
+*   **Option D:** This is incorrect. This distractor is based on a misinterpretation of the text. While the text compares elephants to chimpanzees (Paragraphs 1, 2, and 3), the animals did not compete against one another in a "contest." This option introduces inaccurate information.
+
+***
+
+**LBIDAT Self-Evaluation**
+
+*   **Stem & Task: (✓)** The task is directly aligned to the second half of RI.8.2 ("provide an objective summary of the text"). It asks students to distinguish between the main argument/central idea and supporting details or inaccuracies.
+*   **The Key: (✓)** The key is definitively correct. It includes the "who" (elephants/researchers), "what" (study on social cognition), and "how" (rope experiment/partner realization) necessary for a complete summary.
+*   **Distractors: (✓)**
+    *   **Distractor A** is a "Scope" error (too narrow). It appeals to students who focus on the concrete details of the procedure rather than the abstract results.
+    *   **Distractor C** is a "Focus" error. It appeals to students who focus on the "real world" context rather than the specific text provided.
+    *   **Distractor D** is an "Interpretation" error. It appeals to students who see the names of two animals and assume a competitive relationship, a common misconception in comparative texts.
+*   **Stimulus: (✓)** The stimulus supports the item well; the text has a clear hierarchy of ideas (Main Idea -> Experiment -> Corroborating Evidence) that allows for a summary task.
+*   **Fairness: (✓)** The summary task is neutral and objective. There are no sensitivity concerns.
+
+***
+
+**Final Item Version**
+
+**Standard:** RI.8.2  
+**Passage:** Elephants Can Lend a Helping Trunk
+
+**Which statement provides the best objective summary of the passage?**
+
+A. Scientists modified a classic experiment by creating a sliding table with corn that required two elephants to pull opposite ends of a rope simultaneously.
+B. A new study reveals that elephants have advanced social cognition, as demonstrated by an experiment where they realized they needed a partner's help to pull a rope for a reward.*
+C. Observations of wild elephants helping fallen companions have confirmed that elephants are among the few species that show signs of higher social cognition.
+D. Elephants were placed in pairs to compete against chimpanzees in a rope-pulling contest, proving that elephants are faster learners than other species.
+
+================== Passage Text =================
+
+Elephants Can Lend a Helping Trunk
+by Virginia Morell 
+
+
+Elephants know when they need a helping hand—or rather, trunk. That’s the conclusion of a new study that tested the cooperative skills of Asian elephants (Elephas maximus) in Thailand and showed that the pachyderms understand that they will fail at a task without a partner’s assistance. The ability to recognize that you sometimes need a little help from your friends is a sign of higher social cognition, psychologists say, and is rarely found in other species. Elephants now join an elite club of social cooperators: chimpanzees, hyenas, rooks, and humans.
+
+To test the elephants’ cooperation skills, a team of scientists modified a classic experiment first administered to chimpanzees in the 1930s, which requires two animals work together to earn a treat. If they don’t cooperate, neither gets the reward. For the elephants, the researchers used a sliding table with a single rope threaded around it. Two bowls of corn were attached to the table, but the elephants could reach them only by pulling two ends of the rope simultaneously. Working with mahout—Asian elephant trainers—trained elephants at the Thai Elephant Conservation Center in Lampang, the researchers first taught individual animals to pull the rope with their trunks. The 12 elephants were then divided into six pairs, and each pair was released to walk to their waiting ropes. If one animal pulled the rope before the other, the rope would slip out, leaving the table—and treats—in place. “That taught them to pull together,” says Joshua Plotnik, a postdoc in experimental psychology at the University of Cambridge in the United Kingdom and the lead author of the study, which appears online this week in the Proceedings of the National Academy of Sciences.
+
+To find out if the elephants understood that they needed one another’s assistance, the researchers upped the challenge by releasing the elephants at different times. Thus, one elephant would arrive at the table before the other and would have to wait for a partner to show up before pulling the rope. “They learned to do this faster than the chimpanzees,” says Plotnik. “They would stand there holding their end of the rope, just waiting.” In another experiment, the partner’s rope was placed out of reach. “When the partner couldn’t do anything, the other one would just give up,” Plotnik says. That shows the elephants understood why the partner was needed, he adds.
+
+“These are clever experiments,” says Karen McComb, a behavioral ecologist at the University of Sussex in the United Kingdom who studies social cognition in wild elephants. The findings are consistent with observations in nature, she says. For instance, in East Africa biologists have seen elephants work together to lift a fallen companion with their tusks. “It’s particularly striking that the elephants were able to inhibit pulling” longer than chimpanzees do, comparative psychologist Nicola Clayton of the University of Cambridge in the United Kingdom. She and her team showed that rooks, too, could pass a similar dual-rope exam, although they failed to wait. The study “adds to the growing body of evidence that elephants show some impressive cognitive abilities.”
+
+“Elephants Can Lend a Helping Trunk” by Virginia Morell, from Science, March
+2011 issue. Copyright © 2011 by American Association for the Advancement of
+Science. Reprinted by permission of AAAS.

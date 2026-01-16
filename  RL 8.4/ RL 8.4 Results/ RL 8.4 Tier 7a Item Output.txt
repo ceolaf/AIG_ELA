@@ -1,0 +1,492 @@
+
+
+
+=============== NEW RUN GPT - 2026-01-15 19:16:00 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 7a (GPT) #1 (temp=0.7). (6.34 secs). (1795 + 502 = 2297 total tokens)
+
+1. Read this sentence from the passage.
+
+   “Every day has brought at least one similar scolding. **It seems that the more I seek her approval, the farther it recedes in the distance.**”
+
+   What is the effect of the phrase “the farther it recedes in the distance” on the meaning and tone of this sentence?
+
+   A. It suggests that Dr. Blackwell is physically moving away from the narrator, creating a tone of fear and danger.  
+   *B. It compares Dr. Blackwell’s approval to something that keeps moving out of reach, creating a tone of frustration and discouragement.*  
+   C. It shows that the narrator is no longer interested in Dr. Blackwell’s approval, creating a tone of independence and relief.  
+   D. It indicates that Dr. Blackwell’s approval has completely disappeared, creating a tone of final hopelessness.
+
+   **Correct Answer: B***
+
+   **Rationales:**
+
+   - **A. It suggests that Dr. Blackwell is physically moving away from the narrator, creating a tone of fear and danger.**  
+     This misreads the figurative language as literal. “Recedes in the distance” does not describe Dr. Blackwell’s physical movement or create danger; it describes how her *approval* feels less attainable.
+
+   - **B. It compares Dr. Blackwell’s approval to something that keeps moving out of reach, creating a tone of frustration and discouragement.***  
+     This correctly interprets the phrase as figurative. The approval is personified as something that “recedes,” implying it keeps slipping away no matter how hard the narrator tries. This deepens the tone of frustration and discouragement about her efforts under Dr. Blackwell’s strict supervision.
+
+   - **C. It shows that the narrator is no longer interested in Dr. Blackwell’s approval, creating a tone of independence and relief.**  
+     This contradicts the passage. The narrator clearly *does* care about earning approval (“the more I seek her approval”), so the tone is not relief or independence but emotional struggle.
+
+   - **D. It indicates that Dr. Blackwell’s approval has completely disappeared, creating a tone of final hopelessness.**  
+     “Recedes in the distance” suggests becoming more distant, not completely gone. The narrator still hopes to gain approval, so the tone is discouraged rather than totally hopeless.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 7a (GPT) #2 (temp=0.8). (6.09 secs). (2308 + 494 = 2802 total tokens)
+
+2. Read this sentence from the passage.
+
+   “**If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly disabused of that notion.**”
+
+   How does the author’s word choice in the phrase “motherly figure” most affect the meaning and tone of this sentence?
+
+   A. It shows that the narrator believes Dr. Blackwell is too old-fashioned, creating a tone of annoyance.  
+   B. It suggests that the narrator expected Dr. Blackwell to be gentle and comforting, which makes the tone more disappointed when that expectation is not met.*  
+   C. It proves that the narrator thinks of Dr. Blackwell as weak, creating a mocking tone.  
+   D. It indicates that the narrator wants Dr. Blackwell to replace her real mother, creating a desperate tone.
+
+   **Correct Answer: B***
+
+   **Rationales:**
+
+   - **A. It shows that the narrator believes Dr. Blackwell is too old-fashioned, creating a tone of annoyance.**  
+     “Motherly figure” does not refer to being old-fashioned; it suggests warmth and care. The narrator is not annoyed that Dr. Blackwell is old-fashioned, but surprised she is not as gentle as expected.
+
+   - **B. It suggests that the narrator expected Dr. Blackwell to be gentle and comforting, which makes the tone more disappointed when that expectation is not met.***  
+     This correctly interprets the connotative meaning of “motherly figure” as nurturing and kind. The phrase “quickly disabused of that notion” shows that this hope was removed, creating a tone of disappointment and emotional letdown when Dr. Blackwell instead scolds her.
+
+   - **C. It proves that the narrator thinks of Dr. Blackwell as weak, creating a mocking tone.**  
+     “Motherly” here does not imply weakness, and the narrator never mocks Dr. Blackwell. She admires her and simply misjudged what her personality would be like.
+
+   - **D. It indicates that the narrator wants Dr. Blackwell to replace her real mother, creating a desperate tone.**  
+     The passage does not say or imply that the narrator wants a replacement for her actual mother. The phrase instead reflects a hope for emotional support and kindness in a mentor, not desperation for a new parent.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 19:31:03 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 7a (Gemini) #1 (temp=0.7). (42.76 secs). (1816 + 503 = 2319 total tokens)
+
+Here is a multiple-choice item aligned to CCSS RL.8.4 based on the passage "Dr. Blackwell’s New Assistant."
+
+**Item Stem:**
+Read the sentence from paragraph 7.
+
+“Female physicians are still more of a **curiosity** than anything.”
+
+What does the author’s use of the word **curiosity** suggest about female physicians at that time?
+
+**Answer Options:**
+
+A. It implies that female doctors were known for being inquisitive and eager to learn new medical techniques.
+B. It suggests that female doctors were viewed by the public as strange novelties rather than serious professionals. *
+C. It indicates that female doctors were highly respected because they were so rare and unique.
+D. It reveals that patients were asking the doctors many questions to determine if they were qualified.
+
+**Rationales:**
+
+*   **Option A:** This distractor appeals to students who rely on the most common, literal definition of the word "curiosity" (a strong desire to know or learn something) and apply it to the doctors as a personality trait. However, the text uses the word as a noun to describe how the doctors are *perceived* by others, not to describe their own eagerness to learn.
+*   **Option B (Correct):** This option correctly analyzes the impact of the word in this specific context. Here, "a curiosity" refers to an unusual or interesting object or fact—an oddity. The tone suggests that while the public found female doctors interesting to look at or talk about, they did not yet view them as legitimate medical authorities. This interpretation aligns with the surrounding text which notes that patients might not be "confident in our abilities."
+*   **Option C:** This distractor appeals to students who recognize that "curiosity" implies something rare or unique, but they misinterpret the tone as positive. They mistake the idea of being a "spectacle" for being "prized" or "respected." The context of the passage, particularly Diana's struggle for respect, contradicts this positive interpretation.
+*   **Option D:** This distractor appeals to students who focus on the literal action associated with curiosity (asking questions) but project it onto the patients. While the text mentions patients might doubt the doctors, the word "curiosity" in this sentence refers to the social status of the doctors ("they are a curiosity"), not the actions of the patients ("the patients showed curiosity").
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 7a (Gemini) #2 (temp=0.8). (45.99 secs). (2332 + 456 = 2788 total tokens)
+
+**Item Stem:**
+
+Read the sentence from paragraph 2.
+
+“The idea of a woman doctor still required some adjustment, even though I **harbored** the hope of becoming one myself someday.”
+
+What does the author’s use of the word **harbored** suggest about the narrator’s ambition?
+
+**Answer Options:**
+
+A. It implies that she felt her ambition was shameful and should be kept completely secret.
+B. It suggests that she protected her ambition because she knew it faced outside opposition. *
+C. It indicates that she was using her ambition as a way to escape from her parents’ home.
+D. It reveals that she had held onto her ambition for a long time without making any progress.
+
+**Rationales:**
+
+*   **Option A:** This distractor appeals to students who associate the word "harboring" with negative contexts, such as "harboring a fugitive" or "harboring a grudge." They may incorrectly infer that the narrator felt guilty or viewed her hope as a crime, rather than viewing it as something precious to be protected.
+*   **Option B (Correct):** This option correctly interprets the connotative weight of the word "harbored." Literally, a harbor protects ships from rough waters. Figuratively, the narrator held this hope internally, guarding it against the "rough waters" of societal doubt and parental disapproval mentioned in the surrounding text. It conveys a tone of careful determination.
+*   **Option C:** This distractor appeals to students who connect the word "harbored" to its literal association with ships and travel. They might project the idea of "leaving port" or escaping onto the text, assuming the word implies she wanted to sail away or flee her current situation, which is not supported by the specific word choice in this context.
+*   **Option D:** This distractor appeals to students who interpret "harbored" simply as "keeping" or "holding," but add an incorrect inference about stagnation. They might assume that because she was "harboring" the hope (keeping it inside), she was not acting on it. However, the text shows she was actively saving money and working toward the goal.
+
+
+=============== NEW RUN (Claude) - 2026-01-15 19:40:58 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 7a (Claude) #1 (temp=0.7). (23.19 secs). (1920 + 708 = 2628 total tokens)
+
+Looking at this passage, I need to find a word or phrase that carries connotative meaning beyond its literal definition and impacts the tone of the text. Let me examine paragraph 4 for a strong example.
+
+In paragraph 4, the narrator says: "If I was hoping to find a motherly figure in Dr. Blackwell, I was quickly **disabused** of that notion."
+
+This is an excellent example because "disabused" carries specific connotations that shape both meaning and tone in this context.
+
+**Multiple Choice Item:**
+
+In paragraph 4, the narrator states that she "was quickly disabused of that notion" regarding Dr. Blackwell. How does the author's use of the word "disabused" impact the meaning and tone of this statement?
+
+A. It suggests that the narrator was gently corrected about her expectations through kind guidance.
+
+B. It implies that the narrator's misconception was harshly stripped away through an unpleasant reality.
+
+C. It indicates that the narrator gradually changed her mind about Dr. Blackwell over time.
+
+D. It shows that the narrator was confused about Dr. Blackwell's role at the clinic.
+
+**Answer Key:** B*
+
+**Rationales:**
+
+**Option A (Incorrect):** This distractor fails to recognize the harsh connotations of "disabused." While the denotative meaning involves correction of a false belief, students selecting this miss that "disabused" carries a connotation of abrupt, forceful correction rather than gentle guidance. The context (immediate reprimand on the first day) reinforces the harshness.
+
+**Option B (Correct):** This correctly identifies both the connotative meaning and tonal impact. "Disabused" suggests not just being corrected, but having an illusion forcefully removed. The word choice creates a tone of harsh awakening and disappointment, which aligns with the narrator's experience of being publicly reprimanded instead of finding maternal support.
+
+**Option C (Incorrect):** This represents a misunderstanding of the word's temporal implications. "Disabused" suggests a sudden realization, not a gradual process. The word "quickly" in the sentence reinforces this immediacy, making this interpretation incompatible with the text.
+
+**Option D (Incorrect):** This is a non-passage-based response that projects meaning not present in the text. The narrator wasn't confused about Dr. Blackwell's professional role; she had false expectations about her personal demeanor. This distractor represents a surface-level misreading.
+
+**Final Version:**
+
+In paragraph 4, the narrator states that she "was quickly disabused of that notion" regarding Dr. Blackwell. How does the author's use of the word "disabused" impact the meaning and tone of this statement?
+
+A. It suggests that the narrator was gently corrected about her expectations through kind guidance.
+
+B*. It implies that the narrator's misconception was harshly stripped away through an unpleasant reality.
+
+C. It indicates that the narrator gradually changed her mind about Dr. Blackwell over time.
+
+D. It shows that the narrator was confused about Dr. Blackwell's role at the clinic.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Dr. Blackwell’s New Assistant (MN grade 8 2018).txt
+Tier 7a (Claude) #2 (temp=0.8). (21.29 secs). (2642 + 702 = 3344 total tokens)
+
+Looking at this passage for another word or phrase with significant connotative meaning, I'll examine paragraph 4 where the narrator describes her hopes as potentially being "extinguished."
+
+In paragraph 5, the narrator states: "That would **extinguish** my hopes, for the Women's Medical College that Dr. Blackwell has founded here at the New York Infirmary for Indigent Women and Children is the only institution of its kind."
+
+This word choice carries powerful connotations beyond simply "ending" her hopes.
+
+**Multiple Choice Item:**
+
+In paragraph 5, the narrator says that being sent away "would extinguish my hopes." How does the author's choice of the word "extinguish" affect the meaning and tone of this statement?
+
+A. It conveys that her hopes would be snuffed out like a flame, suggesting the complete and irreversible death of her dreams.
+
+B. It indicates that her hopes would be temporarily paused until she could find another opportunity.
+
+C. It suggests that her hopes would slowly fade away over a long period of time.
+
+D. It shows that her hopes were unrealistic and needed to be put out for her own good.
+
+**Answer Key:** A*
+
+**Rationales:**
+
+**Option A (Correct):** This correctly identifies the fire metaphor inherent in "extinguish" and its connotative impact. The word choice creates a tone of finality and devastation - hopes are not just ended but violently snuffed out like a living flame being killed. This emphasizes both the narrator's passion (fire/light imagery) and the completeness of the potential loss, especially given that this is the "only institution of its kind."
+
+**Option B (Incorrect):** This distractor fails to recognize the finality connoted by "extinguish." Students selecting this miss that when something is extinguished (like a fire), it doesn't pause - it dies completely. The word carries no implication of resumption or temporary cessation.
+
+**Option C (Incorrect):** This mischaracterizes the temporal nature of "extinguish." The word suggests an abrupt, decisive action rather than a gradual process. A fire is extinguished suddenly, not slowly, and the author chose this word precisely to convey that immediate, complete loss.
+
+**Option D (Incorrect):** This projects a judgment not present in the text. The narrator never suggests her hopes are unrealistic or that losing them would be beneficial. This distractor represents imposing an external interpretation rather than analyzing the actual connotative impact of the word choice.
+
+**Final Version:**
+
+In paragraph 5, the narrator says that being sent away "would extinguish my hopes." How does the author's choice of the word "extinguish" affect the meaning and tone of this statement?
+
+A*. It conveys that her hopes would be snuffed out like a flame, suggesting the complete and irreversible death of her dreams.
+
+B. It indicates that her hopes would be temporarily paused until she could find another opportunity.
+
+C. It suggests that her hopes would slowly fade away over a long period of time.
+
+D. It shows that her hopes were unrealistic and needed to be put out for her own good.
+
+
+=============== NEW RUN GPT - 2026-01-15 19:46:34 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 7a (GPT) #1 (temp=0.7). (8.79 secs). (1851 + 551 = 2402 total tokens)
+
+1. Read the sentence from the passage.
+
+   “His sister was a tall, strong girl, and she walked **rapidly and resolutely, as if she knew exactly where she was going and what she was going to do next.**”
+
+   In this sentence, what is the most accurate meaning of the word **“resolutely”** as it is used, and how does this word choice affect the tone of Alexandra’s entrance?
+
+   A. It means she is walking angrily, which makes her entrance feel tense and unfriendly.  
+   *B. It means she is walking with firm purpose, which makes her entrance feel confident and determined.*  
+   C. It means she is walking politely, which makes her entrance feel gentle and respectful.  
+   D. It means she is walking slowly and carefully, which makes her entrance feel cautious and nervous.  
+
+---
+
+**Correct Answer: B***
+
+**Rationales**
+
+- **A. It means she is walking angrily, which makes her entrance feel tense and unfriendly.**  
+  This misreads the connotation of “resolutely.” While someone determined might sometimes also be angry, nothing in the surrounding description suggests anger: Alexandra wipes Emil’s face, helps him, and speaks firmly but not harshly. “Resolutely” here emphasizes purpose, not hostility, so this option mischaracterizes both meaning and tone.
+
+- **★ B. It means she is walking with firm purpose, which makes her entrance feel confident and determined.**  
+  This matches both the context and connotation. The phrase “as if she knew exactly where she was going and what she was going to do next” directly supports the idea of firm purpose. “Resolutely” here deepens the tone by presenting Alexandra as strong, confident, and decisive, especially in contrast to Emil’s helpless crying and the harsh, unstable setting.
+
+- **C. It means she is walking politely, which makes her entrance feel gentle and respectful.**  
+  “Politely” is a generic positive description that does not fit the context. The text focuses on her strength and certainty, not on manners or courtesy. This answer ignores how “resolutely” adds a sense of determination rather than gentleness to the tone.
+
+- **D. It means she is walking slowly and carefully, which makes her entrance feel cautious and nervous.**  
+  This conflicts with the passage. Alexandra “walked rapidly and resolutely,” so “slowly” is the opposite of what the text states. “Resolutely” also suggests confidence, not nervousness. This response misinterprets both the literal description and the connotative impact on tone.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 7a (GPT) #2 (temp=0.8). (6.97 secs). (2413 + 486 = 2899 total tokens)
+
+2. Read this sentence from the passage:
+
+   “He was a little country boy, and this village was to him a very **strange and perplexing** place, where people wore fine clothes and had hard hearts.”
+
+   How does the author’s use of the words **“strange and perplexing”** affect the reader’s understanding of the boy’s feelings about the town?
+
+   A. It shows that he is curious and excited to explore a new place.  
+   *B. It shows that he feels confused and overwhelmed, making the town seem unfriendly and intimidating.*  
+   C. It shows that he is bored by how ordinary and predictable the town seems.  
+   D. It shows that he is angry at the town and blames it for his problems.  
+
+---
+
+**Correct Answer: B***
+
+**Rationales**
+
+- **A. It shows that he is curious and excited to explore a new place.**  
+  “Strange and perplexing” does not carry a positive, adventurous tone here. The boy is crying, afraid to ask for help, and thinks people have “hard hearts.” These details show distress, not excited curiosity, so this answer misreads the connotation.
+
+- **★ B. It shows that he feels confused and overwhelmed, making the town seem unfriendly and intimidating.**  
+  “Perplexing” means confusing, and paired with “strange,” it suggests that the boy does not understand the town and feels out of place. Combined with “hard hearts” and his fear of people laughing at him, these word choices create a tone of intimidation and emotional discomfort, not just unfamiliarity.
+
+- **C. It shows that he is bored by how ordinary and predictable the town seems.**  
+  This directly contradicts the words “strange and perplexing,” which emphasize unfamiliarity and confusion, not boredom or predictability. This answer ignores the passage-based meaning and tone created by the author’s word choice.
+
+- **D. It shows that he is angry at the town and blames it for his problems.**  
+  While the boy feels unhappy and shy, the text does not say he is angry or blaming the town. “Strange and perplexing” suggests confusion and unease, not anger. This option projects an emotion not supported by the specific wording in the passage.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 19:59:19 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 7a (Gemini) #1 (temp=0.7). (25.17 secs). (1843 + 625 = 2468 total tokens)
+
+**Item ID:** RL.8.4-OPioneers-Huddled
+**Grade:** 8
+**Standard:** RL.8.4
+
+**Question:**
+Read this sentence from paragraph 1.
+
+“A mist of fine snowflakes was curling and eddying about the cluster of low drab buildings **huddled** on the gray prairie, under a gray sky.”
+
+How does the author’s use of the word *huddled* impact the meaning of the sentence?
+
+A. It suggests that the buildings are physically shaking because of the strong wind.
+B. It gives the buildings a human-like quality of seeking shelter to emphasize the harshness of the setting.*
+C. It creates a feeling of intimacy and comfort to contrast with the cold weather outside.
+D. It explains that the buildings are placed in a tight group to maximize the limited space on the prairie.
+
+**Rationales:**
+
+*   **A. It suggests that the buildings are physically shaking because of the strong wind.**
+    *   *Rationale:* This distractor appeals to students who may confuse the word "huddled" with "shuddering" or "shivering," or who project the description of the "howling wind" later in the paragraph onto this specific word. While the wind is blowing, "huddled" refers to a position or posture of gathering together, not the action of shaking.
+
+*   **B. It gives the buildings a human-like quality of seeking shelter to emphasize the harshness of the setting.**
+    *   *Rationale (Correct):* This is the correct answer. The student must recognize that inanimate objects (buildings) cannot literally huddle. By applying this word to the buildings, the author uses personification to suggest that the town is vulnerable and trying to protect itself from the bleak, "gray" elements, much like people or animals would crowd together for warmth. This contributes to the desolate and struggling tone of the passage.
+
+*   **C. It creates a feeling of intimacy and comfort to contrast with the cold weather outside.**
+    *   *Rationale:* This distractor appeals to students who recognize the connotation of "huddled" as gathering close but misinterpret the tone. They might associate huddling with a "football huddle" or a family hugging, assuming a positive, warm connotation. However, the context ("drab buildings," "gray prairie," "gray sky") does not support a tone of comfort or intimacy; rather, it supports a tone of survival and bleakness.
+
+*   **D. It explains that the buildings are placed in a tight group to maximize the limited space on the prairie.**
+    *   *Rationale:* This distractor appeals to students who rely on the literal or denotative meaning of the word without considering the literary context. While "huddled" does literally mean crowded together, the text emphasizes the vastness of the "open plain," suggesting space is not limited. This option ignores the figurative impact of the word choice in favor of a dry, architectural description.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 7a (Gemini) #2 (temp=0.8). (36.87 secs). (2481 + 545 = 3026 total tokens)
+
+**Item ID:** RL.8.4-OPioneers-Anchored
+**Grade:** 8
+**Standard:** RL.8.4
+
+**Question:**
+Read this sentence from paragraph 1.
+
+“One January day, thirty years ago, the little town of Hanover, **anchored** on a windy Nebraska tableland, was trying not to be blown away.”
+
+How does the author’s use of the word *anchored* impact the meaning of the sentence?
+
+A. It implies that the town is firmly established and conveys a sense of safety and permanence.
+B. It reveals that the town is geographically situated near a body of water suitable for shipping.
+C. It creates a comparison to a ship in a storm to emphasize the town's struggle against the wind.*
+D. It explains that the buildings were constructed with heavy weights to prevent structural damage.
+
+**Rationales:**
+
+*   **A. It implies that the town is firmly established and conveys a sense of safety and permanence.**
+    *   *Rationale:* This distractor appeals to students who focus on the standard definition of "anchor" as something that provides stability. However, they fail to recognize the context of the sentence ("trying not to be blown away") and the rest of the paragraph ("None of them had any appearance of permanence"), which contradicts the idea of safety or permanence.
+
+*   **B. It reveals that the town is geographically situated near a body of water suitable for shipping.**
+    *   *Rationale:* This distractor appeals to students who rely on the literal denotation of "anchor" (associated with boats and water) without paying attention to the specific context of the "Nebraska tableland" and "prairie," which are landlocked features.
+
+*   **C. It creates a comparison to a ship in a storm to emphasize the town's struggle against the wind.**
+    *   *Rationale (Correct):* This is the correct answer. The author uses the word "anchored" figuratively. By combining "anchored" with "trying not to be blown away," the author creates an analogy between the town on the windy prairie and a ship trying to hold its position in a storm. This emphasizes the harshness of the environment and the precariousness of the town.
+
+*   **D. It explains that the buildings were constructed with heavy weights to prevent structural damage.**
+    *   *Rationale:* This distractor appeals to students who interpret the text literally as a technical or architectural description. They miss the figurative nuance of the word choice and project a physical explanation (heavy weights) that is not supported by the text.
+
+
+=============== NEW RUN (Claude) - 2026-01-15 20:08:46 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 7a (Claude) #1 (temp=0.7). (22.95 secs). (1994 + 660 = 2654 total tokens)
+
+Looking at this passage, I need to find a word or phrase that carries connotative or figurative meaning beyond its literal definition, and whose specific usage impacts the meaning and tone of the text.
+
+The word "anchored" in the first sentence is perfect for this standard. While literally meaning secured by an anchor, Cather uses it figuratively here to describe how the town clings to its position on the prairie, creating a sense of precariousness and impermanence that pervades the entire passage.
+
+Here's my item:
+
+---
+
+**Item:**
+
+Read this sentence from the passage:
+
+"One January day, thirty years ago, the little town of Hanover, anchored on a windy Nebraska tableland, was trying not to be blown away."
+
+In this context, what does the word "anchored" suggest about the town of Hanover?
+
+A. The town has deep historical roots that connect it firmly to Nebraska's past.
+
+B. The town barely holds its position against the hostile forces of nature.* 
+
+C. The town serves as a central meeting place for surrounding communities.
+
+D. The town was originally established as a port along a major waterway.
+
+**Rationales:**
+
+**Option A (Distractor):** This represents a misunderstanding of the connotation. While "anchored" can suggest permanence and rootedness, the student is not recognizing that the context ("trying not to be blown away") creates an ironic tension that suggests the opposite—the town's grip is tenuous despite being "anchored."
+
+**Option B (Correct Answer):** This correctly identifies how Cather uses "anchored" to create a paradox—something anchored should be secure, but this town is "trying not to be blown away." The word choice emphasizes the town's vulnerable position against the harsh prairie environment, establishing the tone of impermanence that continues throughout the passage.
+
+**Option C (Distractor):** This is a generic, non-passage-based interpretation of "anchor" as a central point or hub. The student is projecting a meaning that isn't supported by the text's context about the town's struggle against nature.
+
+**Option D (Distractor):** This represents a mistake based on the literal/denotative meaning of "anchored" related to ships and water. The student fails to recognize the figurative use of the word in describing a landlocked prairie town.
+
+---
+
+**Final Version:**
+
+Read this sentence from the passage:
+
+"One January day, thirty years ago, the little town of Hanover, anchored on a windy Nebraska tableland, was trying not to be blown away."
+
+In this context, what does the word "anchored" suggest about the town of Hanover?
+
+A. The town has deep historical roots that connect it firmly to Nebraska's past.
+
+B. The town barely holds its position against the hostile forces of nature.*
+
+C. The town serves as a central meeting place for surrounding communities.
+
+D. The town was originally established as a port along a major waterway.
+
+
+================= NEW ITEM =================
+Passage: RL 8.4 Oh Pioneers (TN grade 8 Released 2023).txt
+Tier 7a (Claude) #2 (temp=0.8). (17.65 secs). (2668 + 610 = 3278 total tokens)
+
+Looking for another word or phrase with connotative meaning that impacts tone, I'll focus on "straggled" describing the buildings along the main street. This word choice carries implications beyond its literal meaning and shapes how we perceive the town.
+
+---
+
+**Item:**
+
+Read this sentence from the passage:
+
+"On either side of this road straggled two uneven rows of wooden buildings; the general merchandise stores, the two banks, the drug store, the feed store, the saloon, the post-office."
+
+How does the word "straggled" contribute to the author's portrayal of the town?
+
+A. It emphasizes the disorganized and scattered nature of the town's development.*
+
+B. It highlights the competitive struggle between local business owners.
+
+C. It shows that the buildings were constructed at different time periods.
+
+D. It indicates that the townspeople are slowly abandoning their businesses.
+
+**Rationales:**
+
+**Option A (Correct Answer):** This correctly identifies how "straggled" connotes disorder and lack of planning. Rather than simply saying the buildings "stood" or "lined" the road, Cather's choice of "straggled" reinforces the haphazard, impermanent quality of the town established throughout the passage, contributing to the tone of a settlement that hasn't quite taken root.
+
+**Option B (Distractor):** This misinterprets "straggled" by focusing on "struggle" as conflict between people. The student is projecting a meaning about competition that isn't present in the text or implied by this word choice.
+
+**Option C (Distractor):** While this could be a logical inference about why buildings might be uneven, it misses the connotative impact of "straggled." The student is making a literal interpretation about construction timing rather than recognizing how the word choice shapes the tone of disorganization.
+
+**Option D (Distractor):** This represents a misreading that confuses "straggled" with "straggling away" or leaving. The student has gotten the connotation wrong by associating the word with departure rather than disorderly arrangement.
+
+---
+
+**Final Version:**
+
+Read this sentence from the passage:
+
+"On either side of this road straggled two uneven rows of wooden buildings; the general merchandise stores, the two banks, the drug store, the feed store, the saloon, the post-office."
+
+How does the word "straggled" contribute to the author's portrayal of the town?
+
+A. It emphasizes the disorganized and scattered nature of the town's development.*
+
+B. It highlights the competitive struggle between local business owners.
+
+C. It shows that the buildings were constructed at different time periods.
+
+D. It indicates that the townspeople are slowly abandoning their businesses.

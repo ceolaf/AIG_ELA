@@ -94,3 +94,79 @@ C. “He wonders which way he should go, and what might count as proof for his d
 
 D. “Bailey stands there for a long while before he walks back across the field.”  
 - This suggests Bailey is thinking or reflecting, but it does not specifically concern describing the circus to other people. It is too vague to be strong evidence for the given inference.
+
+
+=============== NEW RUN GPT - 2026-01-15 11:50:47 ===============
+
+
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 3b (GPT) #1 (temp=0.7). (8.52 secs). (3171 + 528 = 3699 total tokens)
+
+1. The passage suggests that Jim Bridger’s tall tales were meant to entertain people rather than to be believed as true accounts. Which sentence from the passage best supports this inference?
+
+A. “Often, the settlers stopped to buy supplies, get their wagons fixed, and hear Jim Bridger's stories.”  
+B. “He became famous for telling tall tales to the people passing through.”  
+C. “These outrageous stories were told both to tease new arrivals from the east and to amuse the locals who knew they weren't true.” *  
+D. “In his travels, he learned a great deal about the terrain and wildlife of the area.”
+
+---
+
+Rationales:
+
+**Option A:** “Often, the settlers stopped to buy supplies, get their wagons fixed, and hear Jim Bridger's stories.”  
+- Why a student might pick it: It mentions people hearing his stories, which could suggest entertainment.  
+- Why it is incorrect: This sentence does not clearly show that the stories were not meant to be believed; it only shows that people listened to them. It does not directly support the idea that the tales were for entertainment rather than truth.
+
+**Option B:** “He became famous for telling tall tales to the people passing through.”  
+- Why a student might pick it: It mentions “tall tales,” which are usually exaggerated or untrue, and that he was famous for them.  
+- Why it is incorrect: While this sentence hints that the stories were exaggerated, it does not explicitly state that they were meant to entertain rather than be believed. It is weaker evidence than the key because it doesn’t explain the purpose of the tales.
+
+**Option C (Key):** “These outrageous stories were told both to tease new arrivals from the east and to amuse the locals who knew they weren't true.” *  
+- Why it is correct: This sentence directly states that the stories were told to “tease” and “amuse” and that the locals “knew they weren't true.” It most strongly supports the inference that the tales were for entertainment, not to be accepted as true accounts.
+
+**Option D:** “In his travels, he learned a great deal about the terrain and wildlife of the area.”  
+- Why a student might pick it: A hasty reader might confuse his real knowledge with his storytelling.  
+- Why it is incorrect: This sentence is about Bridger’s knowledge of the land and animals, not about his tall tales or whether they were meant to be believed. It does not support the inference about the purpose of his stories.
+
+
+================= NEW ITEM =================
+Passage: RI 8.2 James "Jim" Bridger (Utah grade 8 practice).txt
+Tier 3b (GPT) #2 (temp=0.8). (8.08 secs). (3710 + 495 = 4205 total tokens)
+
+2. The passage implies that Jim Bridger played an important role in helping settlers travel safely through the Rocky Mountains. Which sentence from the passage provides the strongest support for this inference?
+
+A. “In his travels, he learned a great deal about the terrain and wildlife of the area.”  
+B. “Because of his knowledge and skills, he became a valued guide.” *  
+C. “Beaver pelts were very popular for hats and clothing at the time.”  
+D. “He ended up at the Great Salt Lake, which he mistook for an inlet of the Pacific Ocean because of the lake's saltiness.”
+
+---
+
+Rationales:
+
+**Option A:** “In his travels, he learned a great deal about the terrain and wildlife of the area.”  
+- Why a student might pick it: It connects to his knowledge of the land, which seems related to guiding settlers.  
+- Why it is incorrect: This shows that he gained knowledge, but it does not directly state that he used that knowledge to help settlers travel safely. It is background information, not the strongest evidence for his role in helping others.
+
+**Option B (Key):** “Because of his knowledge and skills, he became a valued guide.” *  
+- Why it is correct: This sentence explicitly explains that his knowledge and skills led him to become a “valued guide,” clearly showing that others relied on him for travel through the mountains. It most directly supports the inference that he played an important role in helping settlers travel safely.
+
+**Option C:** “Beaver pelts were very popular for hats and clothing at the time.”  
+- Why a student might pick it: A distracted reader might remember Bridger’s success and think it shows his importance.  
+- Why it is incorrect: This sentence is about fashion and trade, not about guiding settlers or travel safety. It does not support the inference about his role in helping people cross the Rockies.
+
+**Option D:** “He ended up at the Great Salt Lake, which he mistook for an inlet of the Pacific Ocean because of the lake's saltiness.”  
+- Why a student might pick it: It describes an exploration accomplishment and might seem related to travel.  
+- Why it is incorrect: This shows a mistake Bridger made while exploring; it does not show him helping settlers or functioning as a guide. It does not support the inference about his importance to travelers.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:55:18 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get

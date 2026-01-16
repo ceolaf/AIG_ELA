@@ -1,0 +1,47 @@
+Standard:  RI 8.2
+ID: 81970
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+
+Based on the passage "Elephants Can Lend a Helping Trunk," here is another multiple choice item aligned to RI.8.2:
+
+**How does the text develop its central idea that elephants possess advanced social cognition through their understanding of cooperation?**
+
+A. The text first defines social cognition through examples of failed cooperation in most species, then demonstrates how elephants overcome these typical failures through their unique trunk-based communication system.
+
+*B. The text establishes elephants' cooperative understanding through a series of progressively challenging experiments, then reinforces this central idea by connecting the laboratory findings to expert commentary and observations of natural elephant behavior.
+
+C. The text initially focuses on the mechanical aspects of how elephants use their trunks to pull ropes, then shifts to exploring the emotional bonds between elephant pairs that enable their successful cooperation.
+
+D. The text presents the rope-pulling experiment as the primary evidence, then weakens this central claim by revealing that rooks achieved similar results, suggesting cooperation is more common than initially stated.
+
+**Rationales:**
+
+**Option A (Incorrect):** The text does not define social cognition through examples of failure in other species. It actually mentions several species that successfully demonstrate cooperation. Additionally, trunk-based communication is never discussed as a factor in their cooperative success.
+
+**Option B (Correct):** This accurately captures the text's structure and development:
+- Establishes the central claim about elephants' cooperative understanding in paragraph 1
+- Develops through three experimental phases (basic rope-pulling, staggered release, unreachable rope) in paragraphs 2-3
+- Supporting ideas from experts (McComb and Clayton) validate and extend the findings in paragraph 4
+- Natural observations (elephants helping fallen companions) reinforce the laboratory findings
+
+**Option C (Incorrect):** The text never discusses emotional bonds between elephant pairs. The focus remains on cognitive understanding of task requirements and partner necessity, not on the mechanical use of trunks or emotional relationships.
+
+**Option D (Incorrect):** While the text mentions that rooks passed a similar test, this information strengthens rather than weakens the central idea by placing elephants within a broader scientific context. The rooks' inability to wait (unlike elephants) actually highlights elephants' superior performance in one aspect of cooperation.
+
+================== Passage Text =================
+
+Elephants Can Lend a Helping Trunk
+by Virginia Morell 
+
+
+Elephants know when they need a helping hand—or rather, trunk. That’s the conclusion of a new study that tested the cooperative skills of Asian elephants (Elephas maximus) in Thailand and showed that the pachyderms understand that they will fail at a task without a partner’s assistance. The ability to recognize that you sometimes need a little help from your friends is a sign of higher social cognition, psychologists say, and is rarely found in other species. Elephants now join an elite club of social cooperators: chimpanzees, hyenas, rooks, and humans.
+
+To test the elephants’ cooperation skills, a team of scientists modified a classic experiment first administered to chimpanzees in the 1930s, which requires two animals work together to earn a treat. If they don’t cooperate, neither gets the reward. For the elephants, the researchers used a sliding table with a single rope threaded around it. Two bowls of corn were attached to the table, but the elephants could reach them only by pulling two ends of the rope simultaneously. Working with mahout—Asian elephant trainers—trained elephants at the Thai Elephant Conservation Center in Lampang, the researchers first taught individual animals to pull the rope with their trunks. The 12 elephants were then divided into six pairs, and each pair was released to walk to their waiting ropes. If one animal pulled the rope before the other, the rope would slip out, leaving the table—and treats—in place. “That taught them to pull together,” says Joshua Plotnik, a postdoc in experimental psychology at the University of Cambridge in the United Kingdom and the lead author of the study, which appears online this week in the Proceedings of the National Academy of Sciences.
+
+To find out if the elephants understood that they needed one another’s assistance, the researchers upped the challenge by releasing the elephants at different times. Thus, one elephant would arrive at the table before the other and would have to wait for a partner to show up before pulling the rope. “They learned to do this faster than the chimpanzees,” says Plotnik. “They would stand there holding their end of the rope, just waiting.” In another experiment, the partner’s rope was placed out of reach. “When the partner couldn’t do anything, the other one would just give up,” Plotnik says. That shows the elephants understood why the partner was needed, he adds.
+
+“These are clever experiments,” says Karen McComb, a behavioral ecologist at the University of Sussex in the United Kingdom who studies social cognition in wild elephants. The findings are consistent with observations in nature, she says. For instance, in East Africa biologists have seen elephants work together to lift a fallen companion with their tusks. “It’s particularly striking that the elephants were able to inhibit pulling” longer than chimpanzees do, comparative psychologist Nicola Clayton of the University of Cambridge in the United Kingdom. She and her team showed that rooks, too, could pass a similar dual-rope exam, although they failed to wait. The study “adds to the growing body of evidence that elephants show some impressive cognitive abilities.”
+
+“Elephants Can Lend a Helping Trunk” by Virginia Morell, from Science, March
+2011 issue. Copyright © 2011 by American Association for the Advancement of
+Science. Reprinted by permission of AAAS.

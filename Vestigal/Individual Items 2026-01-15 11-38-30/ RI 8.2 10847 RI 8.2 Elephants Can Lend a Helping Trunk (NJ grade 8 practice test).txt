@@ -1,0 +1,75 @@
+Standard:  RI 8.2
+ID: 10847
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 5a (GPT) #2 (temp=0.8). (14.13 secs). (2121 + 776 = 2897 total tokens)
+
+**Item (RI.8.2 – Central Idea & Its Development)**  
+
+Which choice best describes how a central idea of the passage is developed throughout the text?
+
+A. The central idea that elephants are physically strong is developed by describing how they pull heavy tables, use their tusks to lift companions, and are compared to other powerful animals.  
+
+B. The central idea that elephants have impressive social and cognitive abilities is developed by first presenting a claim about their cooperation, then describing controlled experiments that test their understanding of when help is needed, and finally adding expert opinions and field observations that confirm the experimental results.*  
+
+C. The central idea that scientific experiments are difficult to run with large animals is developed by explaining the need for mahouts, the challenges of timing the elephants’ arrivals, and the failures that occurred when the rope slipped away.  
+
+D. The central idea that different animal species learn at different speeds is developed by comparing elephants, chimpanzees, hyenas, and rooks and ranking them according to how quickly they master cooperative tasks.  
+
+
+---
+
+### Answer Key  
+**Correct Answer: B***  
+
+---
+
+### Rationales  
+
+**A.**  
+- Misidentifies the central idea: physical strength is mentioned only briefly (lifting a fallen elephant, pulling a table) and serves to illustrate cooperation, not strength as such.  
+- The passage does not compare elephants to “other powerful animals,” so the described development does not match the text.  
+
+**B.***  
+- Correctly identifies the central idea: elephants possess advanced social cognition and cooperative understanding.  
+- Accurately traces development:  
+  - Opening paragraph states the claim that elephants recognize when they need help and places them in an “elite club” of cooperators.  
+  - Middle paragraphs describe step-by-step experiments (simultaneous pulling, delayed partner, out-of-reach rope) that test whether elephants understand the need for a partner.  
+  - Final paragraph adds expert commentary and a real-world example (lifting a fallen elephant), reinforcing and extending the central idea beyond the lab.  
+
+**C.**  
+- Focuses on logistical details of research as if they were central, but the passage uses those details only to set up the cooperation experiments.  
+- The text does not emphasize that experiments are “difficult to run” as a main point; instead, it emphasizes what the experiments reveal about elephant cognition.  
+
+**D.**  
+- Overstates and distorts a minor comparison.  
+- The passage briefly notes that elephants learned to wait faster than chimpanzees and that rooks also passed a similar test, but it does not provide rankings or discuss hyenas’ learning speed at all.  
+- Learning speed is used as evidence for elephants’ cognition, not as the central idea of the text.  
+
+---
+
+**Final Version of the Item**
+
+Which choice best describes how a central idea of the passage is developed throughout the text?
+
+A. The central idea that elephants are physically strong is developed by describing how they pull heavy tables, use their tusks to lift companions, and are compared to other powerful animals.  
+
+B. The central idea that elephants have impressive social and cognitive abilities is developed by first presenting a claim about their cooperation, then describing controlled experiments that test their understanding of when help is needed, and finally adding expert opinions and field observations that confirm the experimental results.*  
+
+C. The central idea that scientific experiments are difficult to run with large animals is developed by explaining the need for mahouts, the challenges of timing the elephants’ arrivals, and the failures that occurred when the rope slipped away.  
+
+D. The central idea that different animal species learn at different speeds is developed by comparing elephants, chimpanzees, hyenas, and rooks and ranking them according to how quickly they master cooperative tasks.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:09:32 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get
+
+
+
+=============== NEW RUN (Claude) - 2026-01-15 11:17:18 ===============

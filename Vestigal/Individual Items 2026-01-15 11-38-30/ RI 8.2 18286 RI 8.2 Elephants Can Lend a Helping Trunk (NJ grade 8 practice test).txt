@@ -1,0 +1,57 @@
+Standard:  RI 8.2
+ID: 18286
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 4b (Claude) #2 (temp=0.8). (21.99 secs). (4282 + 811 = 5093 total tokens)
+
+I'll create a different multiple choice item aligned to RI.8.2 that focuses on a different aspect of central idea development and its relationship to supporting ideas.
+
+## Draft Item:
+
+**How does the author develop the central idea that elephants possess higher social cognition through the presentation of supporting evidence?**
+
+A. The author first presents the rope-pulling experiment as the only evidence, then abandons this approach to focus entirely on anecdotal observations from elephant trainers about their animals' intelligence.
+
+B. The author establishes elephants' cognitive abilities through a single successful experiment, then weakens this claim by showing that rooks performed better than elephants on the same tasks.
+
+*C. The author builds the case progressively by describing initial rope-pulling experiments, then presenting variations that test deeper understanding, and finally reinforcing the findings with expert validation and comparisons to other species.
+
+D. The author develops the idea chronologically by first describing historical 1930s research with elephants, then showing how modern experiments disproved those early findings, concluding with current uncertainty about elephant cognition.
+
+## Rationales:
+
+**Option A (Distractor):** Students might select this if they notice the mention of mahouts (trainers) and incorrectly assume the text shifts to rely on anecdotal evidence, missing that the trainers simply helped conduct controlled experiments.
+
+**Option B (Distractor):** This might appeal to students who misread the comparison with rooks. The text actually notes that rooks "failed to wait" while elephants succeeded, but students might focus on the mention of rooks passing "a similar dual-rope exam" without noting the elephants' superior performance.
+
+***Option C (Key):*** This correctly identifies the progression of supporting ideas:
+1. Basic rope-pulling experiment establishes cooperation ability
+2. Variations (delayed release, unreachable rope) demonstrate understanding of partnership necessity  
+3. Expert quotes and comparisons validate and contextualize the findings
+
+**Option D (Distractor):** Students might choose this if they confuse the mention of 1930s chimpanzee experiments with elephant research, or if they misunderstand the temporal relationship between different studies mentioned in the text.
+
+## LBIDAT Analysis:
+
+**Stem & Task:** ✓ - Directly addresses RI.8.2 by examining how supporting evidence develops a central idea about social cognition
+
+**The Key:** ✓ - Definitively correct and comprehensively captures the text's structure
+
+**Distractors:** ✓ - Each represents a plausible misreading of how ideas develop in the text; all are definitively incorrect
+
+**Stimulus:** ✓ - The passage is essential for answering and contains the necessary complexity
+
+**Fairness:** ✓ - No inappropriate sensitivity issues
+
+## Final Version:
+
+**How does the author develop the central idea that elephants possess higher social cognition through the presentation of supporting evidence?**
+
+A. The author first presents the rope-pulling experiment as the only evidence, then abandons this approach to focus entirely on anecdotal observations from elephant trainers about their animals' intelligence.
+
+B. The author establishes elephants' cognitive abilities through a single successful experiment, then weakens this claim by showing that rooks performed better than elephants on the same tasks.
+
+*C. The author builds the case progressively by describing initial rope-pulling experiments, then presenting variations that test deeper understanding, and finally reinforcing the findings with expert validation and comparisons to other species.
+
+D. The author develops the idea chronologically by first describing historical 1930s research with elephants, then showing how modern experiments disproved those early findings, concluding with current uncertainty about elephant cognition.

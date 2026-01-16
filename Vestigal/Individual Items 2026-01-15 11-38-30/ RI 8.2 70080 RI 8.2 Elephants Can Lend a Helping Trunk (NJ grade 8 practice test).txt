@@ -1,0 +1,41 @@
+Standard:  RI 8.2
+ID: 70080
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 6a (GPT) #1 (temp=0.7). (9.60 secs). (1165 + 568 = 1733 total tokens)
+
+1. Which statement best expresses a central idea of the article and explains how it is developed throughout the text?
+
+A. The study proves that elephants are better than chimpanzees at every kind of problem-solving task, and this idea is developed by comparing elephants to chimpanzees in many different experiments.  
+B.* Elephants show advanced social cooperation and understanding that they sometimes need help, and this idea is developed through descriptions of controlled experiments and comparisons to other intelligent animals.  
+C. Mahouts play the most important role in elephant research, and this idea is developed by explaining how mahouts train elephants and prepare them for scientific studies.  
+D. Wild elephants behave very differently from captive elephants, and this idea is developed by contrasting observations of wild elephants with the behavior of elephants in the study.
+
+---
+
+Rationales:
+
+**A.**  
+- Misstates the article’s main idea and its development.  
+- The text does not claim elephants are better than chimpanzees “at every kind of problem-solving task”; it only notes they learned one cooperative task faster and waited longer.  
+- Comparisons to chimpanzees appear, but they are limited and not the main structure used to develop the central idea.
+
+**B.* (Correct)**  
+- Accurately identifies a central idea: elephants possess sophisticated social cognition, including recognizing when they need a partner’s help.  
+- This idea is developed by:  
+  - Explaining the cooperative rope-pulling experiment and how it was modified for elephants.  
+  - Showing how elephants waited for partners and gave up when a partner could not help, indicating understanding of cooperation.  
+  - Comparing elephants’ performance to chimpanzees and rooks and placing elephants in an “elite club of social cooperators.”  
+  - Including expert commentary that the findings match observations of elephants helping one another in the wild.  
+- This option correctly describes both the central idea and how supporting details build it over the course of the text.
+
+**C.**  
+- Focuses on mahouts, who are mentioned only briefly as trainers helping prepare the elephants.  
+- The article does not develop the idea that mahouts are “the most important role” in research; their role is supporting, not central.  
+- There is no extended explanation of training methods or a through-line about mahouts, so this does not match how the text is structured.
+
+**D.**  
+- Suggests a central idea about differences between wild and captive elephants that the article does not develop.  
+- Wild elephant behavior is mentioned only briefly as supporting evidence (elephants lifting a fallen companion) to reinforce the central idea about cooperation.  
+- The text does not systematically contrast wild and captive elephants, so this does not accurately represent the main idea or its development.

@@ -1,0 +1,40 @@
+Standard:  RI 8.2
+ID: 33595
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 2a (GPT) #1 (temp=0.7). (9.01 secs). (868 + 482 = 1350 total tokens)
+
+1. Which statement best expresses a central idea of the passage?
+
+A. Elephants can be trained by humans to perform complex tricks for rewards.  
+*B. Elephants show advanced social cognition by understanding when they need a partner’s help to succeed at a task.*  
+C. Elephants are more intelligent than all other animals, including chimpanzees and rooks.  
+D. Elephants in captivity behave very differently from elephants in the wild.
+
+**Correct Answer: B***
+
+**Rationales:**
+
+**Option A:**  
+- This is partially related to the passage (mahouts help train elephants to pull the rope), but training is not the main focus.  
+- The article emphasizes what the experiments reveal about elephants’ *natural* cooperative thinking, not about teaching tricks.  
+- A student choosing this may be focusing too narrowly on the training details rather than the broader purpose of the study.
+
+**Option B (Correct):**  
+- The passage repeatedly highlights that elephants:  
+  - “know when they need a helping hand—or rather, trunk,”  
+  - understand they “will fail at a task without a partner’s assistance,”  
+  - wait for their partners and give up when a partner cannot help.  
+- These points support the central idea that elephants have advanced social cognition and understand when cooperation is necessary.  
+- The description of experiments, comparisons to chimpanzees and rooks, and comments from scientists all develop this idea across the text.
+
+**Option C:**  
+- The passage never claims elephants are more intelligent than *all* other animals.  
+- It says elephants “join an elite club” of cooperators and compares them to chimpanzees, hyenas, rooks, and humans, noting some similarities and differences (e.g., waiting longer than chimps, rooks not waiting).  
+- This option overgeneralizes and misrepresents the author’s more balanced comparison.
+
+**Option D:**  
+- The passage briefly mentions wild elephants (e.g., lifting a fallen companion) to support the study’s findings, but it does not argue that captive and wild elephants behave “very differently.”  
+- Instead, it shows that behavior in the lab is consistent with behavior observed in nature.  
+- A student choosing this may be confusing a supporting example (wild observations) with the central idea of the text.

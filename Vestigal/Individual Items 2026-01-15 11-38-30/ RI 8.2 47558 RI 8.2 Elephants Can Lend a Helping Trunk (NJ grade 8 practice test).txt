@@ -1,0 +1,54 @@
+Standard:  RI 8.2
+ID: 47558
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 3b (GPT) #2 (temp=0.8). (10.67 secs). (3689 + 564 = 4253 total tokens)
+
+2. How does the author most effectively show that elephants understand when cooperation is necessary?
+
+A. By stating that elephants are part of an “elite club” of social cooperators and leaving the claim unsupported.  
+B. By first describing the basic rope-pulling task and then adding more complex versions of the experiment, along with expert commentary, to show elephants recognize when a partner is needed.*  
+C. By focusing mainly on how mahouts train elephants to pull ropes and then briefly mentioning wild behavior at the end.  
+D. By listing several different animal species and comparing their habitats to that of elephants.
+
+**Correct Answer: B***
+
+---
+
+### Rationales
+
+**Option B (Key):**  
+- The author begins with the basic cooperative rope-pulling task, showing elephants must pull together to get corn.  
+- The study is then made more complex: elephants are released at different times, so one must wait for the other; later, one partner’s rope is placed out of reach, and the other elephant “just give[s] up.”  
+- These escalating experimental conditions show elephants adjust their behavior based on whether cooperation is actually possible, which supports the idea that they understand when a partner is needed.  
+- The final paragraph adds expert commentary and naturalistic examples (like elephants lifting a fallen companion), further reinforcing this idea.  
+- This option accurately traces how the central idea (elephants’ understanding of cooperation) is developed through increasingly challenging tasks and outside expert support.
+
+**Option A (Distractor):**  
+- The “elite club” phrase appears early, but it is a claim, not the main method of development.  
+- The article does not “leave the claim unsupported”; most of the passage is devoted to explaining experiments and expert reactions.  
+- This option ignores the key role of the experiments and misrepresents how the idea is developed.
+
+**Option C (Distractor):**  
+- Mahout training is mentioned only briefly to explain how elephants learned the basic pulling action.  
+- The focus of the article is not on training techniques, but on how elephants behave in different cooperative conditions once they know how to pull the rope.  
+- Wild behavior is not “briefly mentioned at the end” as an afterthought; instead, it is used as additional evidence alongside the experiments, not as the main focus.
+
+**Option D (Distractor):**  
+- The passage does list other species (chimpanzees, hyenas, rooks, humans), but it does not compare their habitats, and habitat is irrelevant to the central idea.  
+- The comparisons are about performance on cooperative tasks and waiting behavior, not where they live.  
+- This choice misidentifies both the supporting ideas and the way the central idea is developed.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:07:45 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get
+
+
+
+=============== NEW RUN (Claude) - 2026-01-15 11:14:57 ===============

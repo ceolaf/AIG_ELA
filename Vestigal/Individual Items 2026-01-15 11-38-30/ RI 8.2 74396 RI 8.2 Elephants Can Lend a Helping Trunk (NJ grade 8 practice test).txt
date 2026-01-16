@@ -1,0 +1,50 @@
+Standard:  RI 8.2
+ID: 74396
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 5b (Claude) #2 (temp=0.8). (25.40 secs). (4315 + 733 = 5048 total tokens)
+
+Looking at this passage again, I'll create a different item that examines how the central idea develops through its relationship with supporting ideas.
+
+Let me identify a different aspect of development to focus on:
+- **Central idea**: Scientific experiments reveal elephants possess sophisticated understanding of cooperation
+- **Development pattern**: The text builds evidence progressively from basic cooperation → understanding timing/patience → recognizing futility → validation through expert commentary and natural observations
+
+Here's my second item:
+
+---
+
+**Item:**
+
+Which statement best describes how supporting ideas in the passage work together to develop the central idea that elephants demonstrate advanced cooperative intelligence?
+
+A. The passage first establishes that elephants belong to an "elite club" of cooperators, then uses a single rope-pulling experiment to prove this claim, with scientists confirming that elephants outperform all other animals in cooperation tasks.
+
+B. The passage presents a series of increasingly complex experimental challenges that reveal different aspects of elephant cooperation, from basic coordination to patience to understanding futility, with expert commentary and natural observations reinforcing these laboratory findings.
+
+C. The passage describes how Thai trainers taught elephants to pull ropes, explains why elephants need to work in pairs, and concludes with examples of how elephants use these trained behaviors in their natural habitat.
+
+D. The passage compares elephant cooperation to human cooperation throughout, using the rope experiment to show similarities, then explaining how elephants' trunk strength gives them an advantage over other species in cooperative tasks.
+
+**Answer: B***
+
+**Rationales:**
+
+**A** - This distractor oversimplifies the development by suggesting only "a single rope-pulling experiment" was used, when actually multiple variations tested different aspects of cooperation. It also incorrectly claims scientists confirmed elephants "outperform all other animals," which overstates the conclusions drawn in the passage.
+
+**B*** - This correctly captures how supporting ideas build upon each other: (1) basic rope-pulling establishes elephants can coordinate, (2) delayed release experiments show they understand waiting for partners, (3) unreachable rope experiments demonstrate they recognize when cooperation is impossible, (4) expert commentary and natural observations validate and extend the laboratory findings. Each supporting idea adds a new dimension to understanding elephant cooperative intelligence.
+
+**C** - This misrepresents the passage's development by focusing on trainer instruction rather than what the experiments revealed about elephant cognition. It also incorrectly suggests the passage concludes with examples of trained behaviors in natural habitats, when actually the natural examples (like helping fallen companions) are independent of training.
+
+**D** - This distractor invents a development pattern not present in the text. The passage doesn't compare elephant and human cooperation "throughout," nor does it suggest trunk strength provides an advantage. This represents a fundamental misreading of how the ideas actually develop in the passage.
+
+---
+
+**LBIDAT Analysis:**
+
+- **Stem & Task**: ✓ (Directly addresses RI.8.2 by asking about relationships between central and supporting ideas)
+- **The Key**: ✓ (Definitively correct and directly responsive to the question)
+- **Distractors**: ✓ (Each represents a plausible but incorrect understanding of idea development)
+- **Stimulus**: ✓ (Requires careful reading of the full passage to answer correctly)
+- **Fairness**: ✓ (No sensitivity concerns)

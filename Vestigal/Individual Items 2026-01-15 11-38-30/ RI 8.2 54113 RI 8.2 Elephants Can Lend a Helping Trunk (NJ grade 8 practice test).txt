@@ -1,0 +1,54 @@
+Standard:  RI 8.2
+ID: 54113
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test)
+
+Passage: RI 8.2 Elephants Can Lend a Helping Trunk (NJ grade 8 practice test).txt
+Tier 6b (GPT) #2 (temp=0.8). (7.52 secs). (3869 + 522 = 4391 total tokens)
+
+2. Which choice best states a central idea of the article and explains how the author develops it?
+
+A. Elephants can be easily trained by humans, and the author develops this idea by describing how mahouts teach elephants to pull ropes for food rewards.  
+
+B. Elephants are among the few animals that show advanced cooperative understanding, and the author develops this idea by presenting experimental results and expert commentary that compare elephants to other species.*  
+
+C. Elephants are powerful animals that can move heavy objects, and the author develops this idea by describing how they pull tables of corn and lift fallen companions in the wild.  
+
+D. Elephants are more patient than chimpanzees, and the author develops this idea by focusing on how long elephants can wait before pulling the rope in the experiment.  
+
+
+**Rationales**
+
+- **Option A (Incorrect):**  
+  - Misidentifies the central idea: training by humans is a setup detail, not the main focus.  
+  - The passage mentions mahouts and training only to explain how elephants learned the rope task before cooperation was tested.  
+  - It ignores the larger claim about elephants’ understanding of when they need a partner.
+
+- **Option B (Correct)*:**  
+  - Accurately captures a central idea: elephants show advanced cooperative understanding and join an “elite club” of social cooperators.  
+  - Matches how the idea is developed:  
+    - The introduction states elephants recognize when they need a partner and places them with chimpanzees, hyenas, rooks, and humans.  
+    - Middle paragraphs describe the rope experiments showing elephants wait for partners and give up when a partner cannot help.  
+    - The final paragraph adds expert comments and comparisons (to chimpanzees and rooks) that support and extend the claim.  
+
+- **Option C (Incorrect):**  
+  - Focuses on physical strength (“move heavy objects”) rather than cognitive cooperation.  
+  - The corn table and lifting a fallen companion are used to illustrate cooperation and understanding, not raw power.  
+  - This option confuses examples of cooperative behavior with a different, unsupported central idea.
+
+- **Option D (Incorrect):**  
+  - Over-narrows the central idea to patience alone.  
+  - While the text notes that elephants can “inhibit pulling” longer than chimpanzees, this is presented as one piece of evidence for their cooperative understanding, not the main point.  
+  - It ignores the broader claim about social cognition and needing a partner’s help.
+
+
+=============== NEW RUN (Gemini) - 2026-01-15 11:11:17 ===============
+
+
+
+========== ERROR ==========
+
+An error occurred: Unknown field for UsageMetadata: get
+
+
+
+=============== NEW RUN (Claude) - 2026-01-15 11:19:30 ===============
